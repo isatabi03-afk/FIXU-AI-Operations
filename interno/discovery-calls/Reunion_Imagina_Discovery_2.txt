@@ -1,0 +1,217 @@
+Impromptu Google Meet Meeting - January 26
+VIEW RECORDING - 28 mins (No highlights): https://fathom.video/share/XHzvQYSvXBFxGMu-q1o9WN_qygnSRe3j
+
+---
+
+0:00 - Erik Gamarra Monge
+  Hola, Â¿cÃ³mo estÃ¡s? Â¿QuÃ© tal? Â¿Se me ve bien?
+
+0:03 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Se me escucha bien?
+
+0:05 - Erik Gamarra Monge
+  Creo que sÃ­, sÃ­, sÃ­, yo sÃ­ te escucho bien. Perfecto, Â¿quÃ© tal? Â¿CÃ³mo estÃ¡s?
+
+0:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿CÃ³mo ha estado el inicio de semana?
+
+0:12 - Erik Gamarra Monge
+  Bien, bien, felizmente todo bastante bien.
+
+0:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  QuÃ© bueno, me alegro, Erik, me alegro que las ventas tambiÃ©n estÃ¡n yendo bien. SÃ­, sÃ­, enero es un buen mes.
+
+0:23 - Erik Gamarra Monge
+  Estamos bien. QuÃ© bueno, quÃ© bueno, Erik.
+
+0:24 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Erik, te comparto mi pantalla, te comento brevemente para hacer la reuniÃ³n sÃºper, sÃºper prÃ¡ctica. El objetivo de esta REU es mostrarte la estrategia preliminar que hemos diseÃ±ado para ustedes.  Es cuestiÃ³n de validar unos cuantos puntos, hacer unas cuantas preguntas mÃ¡s para que quede 100% claro quÃ© es especÃ­ficamente lo que tÃº necesitas, quÃ© es lo que estÃ¡s buscando y si es que al final de esta REU sigues sintiendo que hace mÃ¡s lo que estÃ¡s buscando con lo que nosotros necesitamos.  Â¿QuÃ© te parece si coordinamos una tercera reuniÃ³n de repente con alguien mÃ¡s del equipo comercial o solo contigo para mostrarles el plan de implementaciÃ³n y me digan quÃ© opinan?
+
+1:00 - Erik Gamarra Monge
+  Ya, empecemos por ver esto, veamos quÃ© tal. Dale, perfecto.
+
+1:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mira, brevemente, parte de la informaciÃ³n que hemos podido recopilar de la Ãºltima reuniÃ³n que tuvimos es que nos estamos enfocando en tres pilares operativos importantes de cara a un desarrollo premium.  Primero, asegurar la marca premium. Esto entendemos que es algo prioritario para ustedes. A medida que el lead se acerca a la visita y a la sala, la automatizaciÃ³n visible debe reducirse al mÃ­nimo.  Y esto es muy importante ya que de todo ese funnel comercial entendemos que cada vez que nos acercamos a esa etapa de conversiÃ³n que ocurre en la sala de venta, no se tiene que percibir nada genÃ©rico, nada automatizable, ningÃºn bot que vaya a romper la imagen de la marca como tal.  AsÃ­ que por ese lado lo tenemos 100% contemplado. Estabilidad sin contratar, esto es clave, hacer mÃ¡s con menos sin tener que invertir mÃ¡s en marketing o sin tener que invertir mÃ¡s en planilla.  Y la inversiÃ³n de marketing tendrÃ­a el mayor retorno cuando se... Tenga un sistema que empiece a aprovechar cada oportunidad de venta.  Y finalmente, la trazabilidad y la continuidad. Â¿OK? RÃ¡pidamente, este es un resumen del pipeline que nos mostraste tÃº en la Ãºltima reuniÃ³n, teniendo a interesados, teniendo contactados, teniendo la cita agendada, el visitado y la separaciÃ³n.  Una consulta, Erik, Â¿hay alguna observaciÃ³n con respecto al nombre de las etiquetas de los estados de un estado que te manejas diferente?
+
+2:30 - Erik Gamarra Monge
+  EstÃ¡ todo bien.
+
+2:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  OK, perfecto. RÃ¡pidamente, Erik, como una radiografÃ­a operativa que pudimos sacar en base a los nÃºmeros que tambiÃ©n nos mostraste, que nos ayudÃ³ muchÃ­simo, entendemos que aproximadamente ustedes estÃ¡n manejando 6.000 leads al mes, Â¿verdad?  Igual querÃ­a validar esas cifras porque no me habÃ­a quedado 100% claro en la Ãºltima reuniÃ³n.
+
+2:50 - Erik Gamarra Monge
+  SÃ­, y vamos, y creyendo, vamos a llamarlo. Ok, perfecto.
+
+2:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  TambiÃ©n tenemos vapeado las 27.000 tareas que manejan. Entre interesados, contactados, cita agendada, visitados y separaciÃ³n. TodavÃ­a no me quiero adelantar, pero definitivamente algo que es evidente es que los cuellos de botella estÃ¡n acÃ¡.  Y eso es lo que queremos atacar. Â¿CuÃ¡l es la lectura clave de esto? Es que la mayor parte de la carga operativa se concentra antes de la visita.  Si es que mal no recuerdo, no si lo puse mÃ¡s abajo, pero era un 75% de todas las tareas.  El cuello del sistema definitivamente estÃ¡ en el front de la contactabilidad. Es ahÃ­. Â¿CÃ³mo se distribuye esto por equipo?  Entendemos que de todas las tareas automatizadas tienen 3,500 aproximadamente. Son 4 personas dentro de contactabilidad con 12,439 tareas. Yo creo que aquÃ­ hay algo crÃ­tico que sÃ­ o sÃ­ se tiene que solucionar.  Luego tenemos equipo de ventas de 20 personas con 11,000 tareas. Â¿CuÃ¡l es el promedio? 130 tareas por dÃ­a por persona para contactabilidad y 29 tareas por dÃ­a por vendedor para ventas.  Â¿Estos nÃºmeros estÃ¡n alineados con lo que estÃ¡s viviendo, Eric? SÃ­, correcto.
+
+4:01 - Erik Gamarra Monge
+  Total.
+
+4:03 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, como conclusiÃ³n operativa, el foco preliminar estÃ¡ primero en identificar de estas 130 tareas cuÃ¡les pueden ser delegadas a las automatizaciones o inteligencia artificial con el fin de reducir esa carga manual que claramente, como te mencionÃ©, es importante para poder priorizar a los leads de mayor conversiÃ³n, perdÃ³n, mayor intenciÃ³n.  Y algo que es importante, Erik, es que de estas 130 tareas, lo Ãºltimo que se tiene que hacer es automatizar 129.  Nada que ver. Se tiene que automatizar lo mÃ¡s importante de cara a que el equipo de contactabilidad pueda tener mÃ¡s tiempo para darle mÃ¡s valor a otras tareas mÃ¡s importantes, que simplemente sea contactar mÃ¡s, vender mÃ¡s.  Y lo mismo para ventas, pero enfocado en los cierres. Â¿CuÃ¡l es la proyecciÃ³n que hemos sacado en base a estos nÃºmeros?  Primero, tambiÃ©n sabemos, segÃºn lo que conversamos, es que el 7% aproximadamente de los leads llegan a la visita y de...  Ese 7% es el 35% de las citas que se llegan a concretar. Â¿CuÃ¡l es la hipÃ³tesis de ese trabajo?  Es que, y creo que es evidente, por asÃ­ decirlo de una u otra manera, es que reduciendo la fricciÃ³n y los tiempos en el tramo de interesado y contactado, que es donde estÃ¡ el mayor cuido de botella, se puede incrementar significativamente el nÃºmero de leads que van a avanzar con intenciÃ³n real a esa visita.  Y vuelvo rÃ¡pidamente acÃ¡. AquÃ­ no hay ningÃºn problema en la separaciÃ³n y la visita. Al contrario, lo que tÃº mÃ¡s me mencionabas y de hecho que yo destaco bastante, es que es el terreno del vendedor.  Es literalmente su cancha, es donde se envuelve y donde sabemos que no va a fallar el gol. Pero para eso, los pases que tengamos que darle de acÃ¡ tienen que ser, perdÃ³n por la expresiÃ³n coloquial, finos.  Y es justamente eso que se tiene que automatizar. Ok, volviendo a la proyecciÃ³n, lo que te mostraba era lo siguiente.  Esto aquÃ­ se centrarÃ­a en tareas, tiempos y capacidad operativa, no en cierres comerciales. No buscamos tocar lo que ya...  Â¿QuÃ© el asesor lo que ya hace el humano? Porque asÃ­ como en cualquier negocio no se puede reemplazar a cualquier humano, mÃ¡s aÃºn imagina que entendemos que la marca es prioritaria.  Â¿Ok? Ahora, Erik, antes de finalizar con esta revo, porque es sÃºper, sÃºper breve, me gustarÃ­a hacerte unas preguntas mÃ¡s, pero antes quisiera saber si es que de repente tienes alguna observaciÃ³n, algÃºn feedback con respecto a lo que te he mostrado, de repente algo que tenga que contemplar que no te haya mostrado aquÃ­ o todo estÃ¡ claro.
+
+6:26 - Erik Gamarra Monge
+  EstÃ¡ sÃºper claro, sÃ­. En ese es el resultado que te pedimos la teorÃ­a. Total, perfecto.
+
+6:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, Erik, para esta primera implementaciÃ³n, en el caso de optaran por empezar con el proyecto, Â¿tendrÃ­a mÃ¡s sentido iniciar cubriendo todos los proyectos activos bajo la misma lÃ³gica o comenzar con un alcance mÃ¡s controlado y luego escalar con diferentes proyectos?  Es la segunda opciÃ³n.
+
+6:49 - Erik Gamarra Monge
+  Alcance controlado y a partir de cÃ³mo usted protegÃ­a la experiencia se puede expandir. Ok, perfecto.
+
+6:57 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Erik, la mayor parte de conversaciones que se inician... Â¿Es porque el lead escribe directamente por WhatsApp o porque el equipo inicia la conversaciÃ³n a partir de formularios o registros?
+
+7:08 - Erik Gamarra Monge
+  La segunda, es porque el equipo inicia la conversaciÃ³n a partir de registros o formularios.
+
+7:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, Â¿tendrÃ¡s la proporciÃ³n tal vez?
+
+7:16 - Erik Gamarra Monge
+  90% el lead se inscribe y nosotros lo llamamos, 10% Ã©l nos escribe, porque no tenemos ninguna campaÃ±a de que nos escriba.  Ok. Es una limitante, no tenemos cÃ³mo responderlo de forma asÃ­.
+
+7:29 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Perfecto, todo lo redirigen a la landing page, entiendo.
+
+7:32 - Erik Gamarra Monge
+  Ok, estÃ¡ bien.
+
+7:34 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De cara al CRM que ustedes manejan, Erik, que es el HubSpot, Â¿en esta primera etapa ustedes esperarÃ­an que esta soluciÃ³n solo lea la informaciÃ³n del CRM o que tambiÃ©n actualice estados, que se ejecuten tareas especÃ­ficas del SLA, que entiendo que es sÃºper importante, se hace creaciÃ³n, cierre, reasignaciÃ³n?  Â¿QuÃ© es lo que esperarÃ­as en la primera etapa de esta implementaciÃ³n?
+
+7:55 - Erik Gamarra Monge
+  En la primera etapa, creo que esperarÃ­a que ataque interesados a plenamente. Que es esta primera etapa, Â¿no es cierto?  Y sÃ­, sÃ­, sÃ­, necesito que mueva deals, que mueva negocios. Ok, perfecto.
+
+8:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De cara a las tareas delegables en contactabilidad, dentro del tramo, justo el que mencionabas, Â¿no? De interesado a contactado, que es el principal cuello de botella, Â¿quÃ© tipo de tareas consideras mÃ¡s repetitivas o de menor valor humano?  Y que hoy en dÃ­a estÃ¡n generando esa carga al equipo.
+
+8:27 - Erik Gamarra Monge
+  Interesados es el intento de contacto, evidentemente. Esto, cero valor humano hasta que se logre el contacto, Â¿no cierto? Que es lo que muy bien hace vuestro bot, porque lo vi con cumbres, que es insistir, insistir, insistir.  No sÃ© a nivel de costos quÃ© tan controlado estÃ©. EntenderÃ­a que estÃ¡ muy bien controlado porque la insistencia fue en la ventana de los primeros 24 horas.  Total. Entonces, eso me parece genial. AhÃ­ hay un montÃ³n de esfuerzo que se puede disolver, que hoy hacen personas y que podrÃ­a hacerse.  Ese es uno. Y luego, en contactado, ya es una cuestiÃ³n mÃ¡s que de perfilamiento, porque, insisto, yo no quiero tanto perfilamiento.  Lo que yo quiero es agendamiento y cita agresiva. Quiero que las... Me pondrÃ© a perfilar cuando mis salas estÃ©n rebasadas de capacity.  En ese momento me voy a perfilar. Pero hoy tengo un montÃ³n de capacidad operativa inactiva en salas de ventas que quiero empezar a retar.  Entonces, ahÃ­ es mÃ¡s bien, a partir de un poco de perfilamiento, tres o cuatro preguntas de fuera, insistir en que se concrete la cita.  Claro, entiendo.
+
+9:39 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, perfecto. Erik, una consulta. De cara a entender bien los lÃ­mites de la automatizaciÃ³n por marca, y esto es importantÃ­simo.  Â¿Existe algÃºn tipo de mensaje, etapas o alguna interacciÃ³n que se consideren no automatizables bajo ningÃºn escenario, incluso dentro de un piloto?  Â¿QuÃ© es lo que no debemos tocar sÃ­ o sÃ­? Posiblemente sea evidente... Pero creo que es importante dejarlo claro.  SÃ­.
+
+10:03 - Erik Gamarra Monge
+  Hoy lo que habrÃ­a que ver, para mÃ­, la etapa de interesado, de lograr contacto es toda automatizable. La etapa de contactado, existe un grupo de clientes que no van a querer ir a la sala, que necesitan profundidad.  Que dicen, no quiero ir, lo que quiero es tener un poco mÃ¡s de informaciÃ³n. Entonces, cuando se presenta esta barrera de la informaciÃ³n, sÃ­ creo que todavÃ­a es una persona a que tiene que acercarse.  MÃ¡s que por la estructura, que perfectamente podrÃ­a ser una idea. Total. Es la protecciÃ³n por nuestro modelo de venta, que tiene que ver mÃ¡s con objetivas que objetivas.  Toca hablar con el cliente, ver quÃ© lo emociona, quÃ© lo mueve, quÃ© lo toca. Y eso sÃ­ necesita profundidad, que hoy todavÃ­a tendrÃ­a que pasar mucho tiempo como para que la idea se setee lo suficiente como para entender eso.  SÃ­, total.
+
+10:59 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Toda es cuestiÃ³n. Pero bueno, la IA, y eso es importante lo que mencionas, Â¿no? Es importante saber que la IA no hace magia.  La IA bien usada, sÃ­. AsÃ­ que perfecto por ese lado. Desde una mirada operativa, Erik, Â¿quÃ© indicador les permitirÃ­a o te permitirÃ­a decir esta implementaciÃ³n fue exitosa?  Ya nos lo mencionaste, pero si soy redundante con eso es porque en base a estos insights es que construimos un plan de implementaciÃ³n alineado a lo que necesitan.  Correcto.
+
+11:26 - Erik Gamarra Monge
+  El gran, el gran indicador serÃ­a Show Rate, que es yo, la IA ha gestionado 100 clientes y normalmente tenÃ­a de esos 100 clientes, 7 yendo a sala.  Hoy tengo 15. Ese para mÃ­ es el ROI. Perfecto. SÃ­, totalmente.
+
+11:47 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Totalmente. De hecho, eso es lo primero que nosotros aseguramos, visitas calificadas, creo que es lo mÃ¡s importante. Y esto siempre lo menciono porque no puedes vender un departamento por WhatsApp.  No es como un e-commerce o un negocio de retail, pero el WhatsApp te sirve para poder... Llevar el paso previo, asÃ­ que totalmente de acuerdo.  Erik, Â¿cuÃ¡ntas personas hoy en dÃ­a operan en HubSpot activamente de cara a las configuraciones, al cambio de tareas? Entiendo que son solo son estas cuatro de contactabilidad o de repente hay mÃ¡s personas que operan en este servicio.
+
+12:15 - Erik Gamarra Monge
+  equipo de ventas lo gestiona. Todo el equipo de total, o los que operan tareas, que es lo que tÃº me preguntas, son 21 mÃ¡s 4, 26 personas.  Ok, entiendo.
+
+12:28 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Y existe algÃºn owner o algÃºn encargado del CRM como tal o un equipo responsable de la operaciÃ³n o cada quien tiene su funciÃ³n dentro del CRM?
+
+12:38 - Erik Gamarra Monge
+  Cada quien tiene su funciÃ³n y el key user serÃ­a yo. Ok, perfecto.
+
+12:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De cara al uso actual del SLA dentro de HubSpot, que entiendo que estÃ¡ sÃºper ordenado y la trazabilidad no es un problema, hoy se ejecuta principalmente vÃ­a tareas automÃ¡ticas, workflows, una combinaciÃ³n de ambos.  Â¿CÃ³mo se da esta...?
+
+13:00 - Erik Gamarra Monge
+  Estas tareas. Â¿Me das un minuto solo? Solo un minuto, contesto una llamada y te diste. SÃ­, no te preocupes.  Gracias. Jateo, perdÃ³name. No te preocupes. SÃ­, no te preocupes, Erik.
+
+15:22 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Te preguntaba que en el SLA que hoy se ejecuta principalmente en HubSpot, entiendo, hoy lo estÃ¡n manejando con workflows, con tareas automÃ¡ticas, Â¿cÃ³mo estÃ¡n gestionando estas tareas dentro del mismo HubSpot?  Â¿QuÃ© tan flexible hoy es el SLA frente a cambios, por ejemplo?
+
+15:43 - Erik Gamarra Monge
+  Si te refieres a, o sea, yo he construido el SLA completo en HubSpot, o sea, es una estructura de tareas, efectivamente, son workflows, que le asignan tareas a los propietarios y que tienen dos frentes.  Uno es que se asegure, que se gestione. Y el otro es limpieza del pipeline. DespuÃ©s de X tiempo, se quita el negocio.  Si se gestionÃ³ y no se tuvo Ã©xito, se saca ese cliente de la mirada del asesor. Y luego tenemos la otra que es, no se gestionÃ³ simplemente, se etiqueta como mala gestiÃ³n y tambiÃ©n se lo retira.  Ok, perfecto.
+
+16:20 - Santiago Isaias Zavaleta Ayala (Ulima)
+  TÃº has sido bÃ¡sicamente el que ha construido toda la base dentro del SLA, o sea, del SLA dentro de HubSpot.
+
+16:27 - Erik Gamarra Monge
+  SÃ­, la definiciÃ³n y la implementaciÃ³n tÃ©cnica la hice. Ok, genial.
+
+16:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Una consulta, Â¿cada proyecto vive como un pipeline independiente o se comparte pipelines con segmentaciÃ³n por proyecto?
+
+16:41 - Erik Gamarra Monge
+  Se comparte pipelines y el proyecto es una propiedad de negocio, se llama proyecto de interÃ©s. Ok, perfecto.
+
+16:48 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Existe alguna diferencia real del tratamiento por proyecto o el SLA es base para el mismo para todos? No sÃ© si me dejÃ© entender.  La misma pregunta con el pipeline.
+
+17:01 - Erik Gamarra Monge
+  SÃ­ existe una diferenciaciÃ³n, incluso en la asignaciÃ³n.
+
+17:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, ok, perfecto. Y es justo eso que me acabas de mencionar, no lo iba a preguntar, pero ahora que lo dices es tambiÃ©n importante.  La lÃ³gica de asignaciÃ³n del prospecto es por proyecto, es decir, de estos 20 asesores, 5 son del proyecto A, estos otros 5 para el proyecto B, Â¿asÃ­?
+
+17:23 - Erik Gamarra Monge
+  Â¿O hay algunos que se comparten con proyectos? No, no, no, es por proyecto. Generamos equipos, cada equipo es un proyecto y yo en el workflow le digo, cuando un negocio llega con proyectos de interÃ©s Family 2, lo atiende el equipo Family 2 y ese y normalmente lo sumo a Contact Center, que es otro equipo, o el equipo Contact Center.  Perfecto, me queda clarÃ­simo.
+
+17:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Hoy estÃ¡n trabajando con el, acÃ¡ me pongo tal vez un poco mÃ¡s tÃ©cnico, con el Meta Business Manager y la API oficial de WhatsApp, Â¿manejan todo con respecto a Meta?
+
+17:54 - Erik Gamarra Monge
+  SÃ­, usamos API, hoy, Â¿cÃ³mo gestionamos API? Como tengo, te voy a mostrar un workflow para que veas un poco lo que hacemos en WhatsApp, para que tengas una mirada y por quÃ© si busco un partner con cierta capacidad tÃ©cnica.  A ver. Esto, por ejemplo, es un workflow de Hasbro. Entonces, esto es un workflow para gestionar invitaciÃ³n a un evento que yo tengo el dÃ­a viernes.  Entonces, Â¿quÃ© hago? Selecciono una lista. la medida de lo posible, estoy empezando reciÃ©n con esta parte de la gestiÃ³n de los eventos.  Selecciono una lista de negocios con X caracterÃ­sticas que yo considero relevantes. En este caso estoy escogiendo los que hayan tenido la Ãºltima actividad entre X y S dÃ­as.  Que hayan tenido una cita, es decir, hayan logrado ponerle fecha y hora al campo cita, a la propiedad cita.  Esa lista la inscribo en este workflow, que es hago la lista y acÃ¡ se pone... Gracias. Gracias. Gracias. Gracias.  Oye, esto es una lista, hice, por acÃ¡ hay una opciÃ³n que es inscribir en Workflow. Ok. Digo en este Workflow, que es el que te voy a mostrar ahora.  Los que hace este Workflow, primero lo rota, otra vez, porque son negocios muertos, entonces rota entre el equipo asignado a la sala, luego, ranifica, y yo tengo un partner, que son mis amigos indios, que resuelven un poco mis leos de WhatsApp, y envÃ­a un mensaje de API, que este es un mensaje de API, Â¿por quÃ©?  Porque el telÃ©fono de Fiorella es Business y API al mismo tiempo. Total. Entonces, y esta integraciÃ³n me permite enviar un mensaje condicionado a respuesta.  Total. El asesor no pierde su nÃºmero, sigue viendo WhatsApp como toda la vida. Entonces, Â¿quÃ© hago acÃ¡? Desde el telÃ©fono de Fiorella va a salir un mensaje que sea un template de API y solo si el cliente contesta, el workflow va a seguir.  Â¿QuÃ© es? Contesta, crÃ©ale una tarea llamada de invitaciÃ³n para el evento. Esto es lo que normalmente hago con WhatsApp, pero evidentemente son templates sencillitos.  No hay nada, este es mi template, no hay guÃ­a, es un template con imÃ¡genes. Mis amigos estÃ¡n trabajando en que para la prÃ³xima semana me han prometido variables de Hasbro.  Claro. No, hombre, X, Y, hoy todavÃ­a es un mensaje genÃ©rico porque han resuelto hace un mes recÃ©n lo del problema de API.  Este, es mÃ¡s o menos asÃ­ que gestiono. Â¿CuÃ¡l es la particularidad? Es que este cliente, una vez que llegue el mensaje, los negocios tienen sincronizaciÃ³n, no sÃ© si puedo mostrar tu negocio de hace poco, sincronizan todos los mensajes de WhatsApp.  Total.
+
+20:58 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Voy a tenerlo tambiÃ©n. PodrÃ­a decirle que ponga una marca o incluso podrÃ­a decirle que cree un negocio.
+
+21:03 - Erik Gamarra Monge
+  Por ahora no quiero saturarlo tanto, pero estÃ¡ muy integrado. Entonces, eso es. Y acÃ¡ tengo un botÃ³n que esto, por ejemplo, no es nativo de Hasbro.  Esto es EasyBuy con un botÃ³n que me permite escribir desde aquÃ­ en WhatsApp. Eso es. Tengo mucho control. Yo, encantado, me quedarÃ­a con EasyBuy, pero no tiene mÃ­a.  Entonces, todo estÃ¡ atado a Workflows y sÃ­ se me ve medio precario cuando empiezo a enviar ese mensaje y nadie contesta.  Claro, total, total.
+
+21:37 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Erik, una consulta. Ahora que has mencionado y que he visto un poco mÃ¡s, me parece interesante. Pero de cara a la implementaciÃ³n de un asistente de IA para este primer contacto, Â¿no?  Este traslape de interesado a contactado, que es donde estÃ¡ el mayor cuello de botella. Â¿TÃº esperarÃ­as que la conversaciÃ³n se haga bajo un nÃºmero centralizado antes de que el asesor tenga que mandarse este mensaje?  Â¿Por quÃ© te comento esto?
+
+22:10 - Erik Gamarra Monge
+  DiscÃºlpeme que te corte.
+
+22:11 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Esto es un insight sÃºper importante porque con los clientes que hemos trabajado lo manejaban de la siguiente manera, Â¿no?  SÃ© que al final es muy distinto, pero hay un tema de filtro importante y es que cada vez que llenaban un formulario, me imagino que pasa lo mismo, automÃ¡ticamente se dispara el mensaje desde el nÃºmero del asesor.  Pero Â¿quÃ© es lo que pasa? AhÃ­ no estÃ¡ el filtro inteligente para detectar intenciÃ³n o no y poder maximizar esas oportunidades de venta.  Por eso te preguntaba, Â¿cÃ³mo tenÃ­as planteado llevar esta casuÃ­stica?
+
+22:42 - Erik Gamarra Monge
+  En el ideal, la verdad, Santiago, en el ideal es que yo pueda elegir entre un nÃºmero central o el nÃºmero del asesor.  Â¿CuÃ¡ndo elijo, por ejemplo? Si es un cliente, yo puedo hacer el filtro que tuviste de negocios, es decir, todos los negocios que han tenido una visita.  Una visita ya tiene un contacto. Real con un asesor. A mÃ­ me interesa que este cliente sea gestionado por quien lo atendiÃ³, Â¿no es cierto?  Pero tambiÃ©n podrÃ­a tener clientes que nunca han sido visitas, que nunca siquiera han visto a una persona. Entonces podrÃ­a elegir hablarles como compaÃ±Ã­a donde me puedo ver un poco mÃ¡s corporativo.  Entonces. Ok. Pero yo sÃ© que las limitaciones de API hacen, oye, si tÃº quieres. Es un seÃ±al. Lo han resuelto asÃ­, no sÃ© cÃ³mo, pero lo han resuelto.  Pero lo habitual es, centralices con un nÃºmero y yo luego te reboto a tu asesor. Total. lo que he encontrado en el mercado de aquÃ­, de LatinoamÃ©rica.  Total.
+
+23:36 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Y tÃº crees que eso te servirÃ­a a ti con un buen sistema de inteligencia artificial implementado antes de hacer esa delegaciÃ³n con el nÃºmero de asesor?
+
+23:43 - Erik Gamarra Monge
+  No es el ideal, pero sÃ­, sÃ­ me sirve. Depende del precio, porque si hago eso, necesito sostener EasyBuy todavÃ­a.
+
+23:51 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Por supuesto. No, por supuesto, por supuesto. Es que yo creo que el EasyBuy es clave porque te permite mucha flexibilidad con los nÃºmeros de los asesores.  O sea, definitivamente.
+
+24:00 - Erik Gamarra Monge
+  Es algo crucial.
+
+24:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, perfecto, Erik. Ya la Ãºltima pregunta para no quitarte mucho mÃ¡s tiempo. Te mencionaba, cuando hoy un lead entra por WhatsApp, esta conversaciÃ³n, o mejor dicho, para la primera implementaciÃ³n en WhatsApp, si tuvieras que elegir el nÃºmero centralizado o que la I opere sobre los nÃºmeros asesores de cara a este piloto, Â¿cuÃ¡l crees que tÃº serÃ­a este camino Ã³ptimo?  Para yo poder saber quÃ© es lo que tÃº estÃ¡s necesitando especÃ­ficamente ya de cara mÃ¡s al nÃºmero de WhatsApp y poder presentÃ¡rtelo en la tercera reuniÃ³n.  Porque imagÃ­nate que te digo, Erik, podemos hacer X, o Z, pero tenemos que hacerlo de un nÃºmero centralizado y no tenemos que hacerlo asÃ­.  me dices, no. No, no es problema.
+
+24:38 - Erik Gamarra Monge
+  Si es el nÃºmero centralizado, es un nuevo punto de inicio. Lo que quisiera es contactabilidad y que a partir de contactabilidad sea capaz de crear negocios contactados.  Total, es el mismo HubSpot.
+
+24:52 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­.
+
+24:53 - Erik Gamarra Monge
+  Y si puede avanzar a completar citas, genial. Esto lo voy a acotar y lo voy a hacer solo en mi segmento de entrada, Â¿no es cierto?  En mi segmento de entrada. Ese es uno de los usos. El otro uso es justo lo que estoy haciendo, Â¿no?  Base de datos frÃ­as y ya no como un flujo que yo active y filtre. Si un cliente, eso se hace con workflow, y ahÃ­ es la parte que hay que ver quÃ© tan integrado estÃ¡.  Si un cliente estÃ¡ visitoso, bueno, estÃ¡ inactivo 45 dÃ­as, se activa un protocolo de nutriciÃ³n de leads, donde yo le envÃ­o un mensajito, si me contesta, creo un negocio, si no me contesta, le envÃ­o otro la siguiente semana.  Y asÃ­, yo estoy dispuesto a invertir mucha plata en eso, porque ya invertÃ­ la plata en lo que transforme, no es tanto inversiÃ³n.  O sea, a mÃ­ me cuesta 5 dÃ³lares de lead, de arranque, estoy hablando genÃ©rico. Si yo pago 4 o 50 y recupero ese lead y estÃ¡ por...  Es residual esa recuperaciÃ³n. Yo estoy dispuesto a pagar 4.50 por blitz.
+
+26:06 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total. Y ahorrando 50 cÃ©ntimos todavÃ­a, siempre y cuando sea residual. SÃ­, perfecto. Me queda clarÃ­simo, Erik. Con esto ya nos queda mucho mÃ¡s claro el panorama.  Ya en la siguiente reuniÃ³n les vamos a mostrar ese flujo completo, cÃ³mo se automatiza, cÃ³mo se integra con el CRM, cÃ³mo esto va a reducir la carga de contactabilidad, que nuevamente creo que soy un poquito repetitivo con esto, pero creo que es el principal cuello de botella para aumentar el ingreso de visitas calificadas, Â¿ok?  No va a ser una demo ni algo conceptual, va a ser un plan de implementaciÃ³n con roadmap para que puedan decidir con total claridad si esto es lo que necesitan y vemos cÃ³mo avanzamos.  Â¿QuÃ© te parece? BuenÃ­simo.
+
+26:45 - Erik Gamarra Monge
+  SÃ­, me gusta. Ok, perfecto, Erik. No te quito mÃ¡s tiempo.
+
+26:49 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Que tengas una excelente tarda. Ya te estoy comunicando. Bueno, estamos escribiÃ©ndonos para ver la cita. De hecho, casi me voy sin agendar.  Â¿QuÃ© dÃ­a estÃ¡s libre esta semana, Erik? Â¿Te acomoda miÃ©rcoles, tal vez? La se me va a complicar un poco.
+
+27:01 - Erik Gamarra Monge
+  DÃ©jame, dame. SÃ­, no te preocupes. Si quiero implementarlo pronto, porque estoy empezando a rebalsarme de carga operativa para el equipo.  El dÃ­a miÃ©rcoles a las 5 de la tarde, porfa. Ok, misma hora entonces. SÃ­, porfa.
+
+27:24 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, perfecto, Erik, no te preocupes. Entonces nos vemos el miÃ©rcoles a las 5 p.m. Listo, muchas gracias.
+
+27:30 - Erik Gamarra Monge
+  Nos vemos, cuÃ­date. Que tengas un dÃ­a.

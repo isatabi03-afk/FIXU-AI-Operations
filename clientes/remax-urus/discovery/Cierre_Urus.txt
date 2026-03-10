@@ -1,0 +1,228 @@
+Impromptu Zoom Meeting - October 31
+VIEW RECORDING - 39 mins (No highlights): https://fathom.video/share/tBPpVdctSVy9iVNBQ9WwHh1Tk6oMvdYc
+
+---
+
+0:00 - Santiago Zavaleta
+  This meeting is being recorded. So, my wife, Thank you. Thank Thank Thank you.
+
+0:54 - Anthuane Champac- RE/MAX URUS
+  Thank need wait a Leili for a minute. Thank you.
+
+1:00 - Santiago Zavaleta
+  SÃ­, no te preocupes. Me avisan. Gracias por
+
+3:28 - REMAX URUS
+  For For information, visit www.fathom.org. Bien, empezamos entonces. Vi que habÃ­as pedido autorizaciÃ³n para grabar.
+
+4:05 - Santiago Zavaleta
+  SÃ­, metÃ­ ahÃ­ a mi... Bueno, de hecho, grabar no, ahÃ­ metÃ­ a mi Fathom, que es una idea que bÃ¡sicamente transcribe toda la reuniÃ³n.  Pero todo estÃ¡ grabado, no te preocupes. TÃº, si quieres, despuÃ©s te los envÃ­o, tanto esa reuniÃ³n como la anterior, para que los puedas tener a la mano.
+
+4:25 - REMAX URUS
+  Ya estÃ¡ todo, creo.
+
+4:27 - Santiago Zavaleta
+  Perfecto. Voy a compartirles pantalla y les muestro, bÃ¡sicamente, equipo, esta propuesta de implementaciÃ³n, que estoy seguro que les va a llamar muchÃ­simo la atenciÃ³n.  Â¿Y quÃ© tal estÃ¡ el cierre de mes? Ah, estÃ¡ bonita la gorrita esa. Â¿Es de URUS o es de RE-MAX general?
+
+4:46 - REMAX URUS
+  No, es de RE-MAX en general.
+
+4:48 - Santiago Zavaleta
+  QuÃ© chÃ©vere.
+
+4:49 - REMAX URUS
+  SÃ­, hace poco la comprÃ©.
+  SCREEN SHARING: Isaias started screen sharing - WATCH: https://fathom.video/share/tBPpVdctSVy9iVNBQ9WwHh1Tk6oMvdYc?timestamp=293.098883
+
+4:53 - Santiago Zavaleta
+  Ok, les comparto entonces la pantalla aquÃ­. Entonces, equipo, el objetivo de... Esta llamada es bÃ¡sicamente mostrarles cuÃ¡l serÃ­a la implementaciÃ³n mÃ¡s Ã³ptima de cara a estas reuniones que hemos tenido, primero con Gonzalo, luego la segunda reuniÃ³n, que me imagino muchÃ­simas gracias por el tiempo, Leili y Antonella, hemos podido comprender mÃ¡s cÃ³mo funciona REMAX URUS como tal, de manera integral, y cÃ³mo nuestra soluciÃ³n de IA, que recalcamos, no es un enlatado, no es algo como un SaaS estandarizado, sino es personalizado a cÃ³mo ustedes hoy estÃ¡n operando.  Ya que, como les mencionamos, no buscamos reinventar la rueda, sino hacer que la que tienen ustedes gire mucho mÃ¡s rÃ¡pido.  Entonces, con respecto al contexto, no voy a quedarme mucho tiempo en esto porque eso lo sabemos, pero sabemos que generan miles de leads cada mes gracias a su fuerza orgÃ¡nica y de redes sociales.  El reto ya no es atraer mÃ¡s interesados, sino convertirlos en visitas y cierres sin saturar al equipo. Y esto es algo que me llamÃ³ muchÃ­simo la atenciÃ³n porque REMAX URUS, teniendo como motor principal el contenido orgÃ¡nico, es agente.  Esto generando muchÃ­simos leads. Me imagino que ya se deben haber evaluado o planteado la idea de quÃ© pasarÃ­a si invertimos mÃ¡s en contenido, porque si ya tenemos contenido orgÃ¡nico que estÃ¡ pegando, ponerle pauta a ese contenido va a generar muchÃ­simo, muchÃ­simo mÃ¡s leads, pero este motor no tiene ningÃºn sentido si no tenemos un sistema de cÃ³mo gestionarlo.  Entonces, actualmente la gestiÃ³n depende de una Ãºnica persona, que en este caso es Antoine, que atiende, califica y deriva manualmente a los leads.  Esto limita la velocidad, limita la capacidad del equipo de ventas para enfocarse en cerrar. Y esto es normal, no es malo, ya que Antoine estÃ¡ llevando una tarea, decirlo de alguna manera mÃ¡s coloquial, una chamba que hace sÃºper bien, que podrÃ­a ser mucho mejor si se enfocara en supervisar como otra Antoine 24-7 hace la tarea difÃ­cil por ella.  Entonces, Â¿cuÃ¡l serÃ­a el problema principal o cuÃ¡l es el problema principal? Es que la respuesta estÃ¡ fuera del primer minuto.  La pÃ©rdida de conversiÃ³n puede llegar hasta un 80%. Es normal... que hoy en dÃ­a, y eso me imagino que lo sabes tÃº mucho mejor que yo, Leili, es que la diferencia ya no va a estar tanto en el precio ni en lo que tiene una propiedad u otra, sino en la atenciÃ³n, ya que al final el producto es el mismo, y bÃ¡sicamente el que atiende primero y mejor va a ganar.  Con respecto a leads frÃ­os, sabemos que se pierden por falta de seguimiento constante, esto no solo les ocurre a ustedes, sino a cualquier otra inmobiliaria mÃ¡s aÃºn, si tienen mucho volumen de leads, la saturaciÃ³n de antonÃ© y asesores con tareas repetitivas, ademÃ¡s de la falta de trazabilidad en el proceso una vez que el lead pasa a la gente.  El verdadero costo nuevamente no estÃ¡ en generar mÃ¡s, sino en no dejar que se enfrÃ­en. Â¿En quÃ© consiste esa soluciÃ³n de agente de inteligencia artificial?  Que como se los comentÃ© en su momento, puede tener el nombre que ustedes quieran, puede hablar de la manera que ustedes quieran, los vamos a entrenar con ustedes para que tengan ese proceso claro, todo lo que hace antonÃ© en el dÃ­a a dÃ­a, o cÃ³mo ese agente 24-7 deberÃ­a responder para filtrar a los que no nos van a comprar, de los que sÃ­ va a ser entrenado, es decir, como si tuvieran a sus propios...  Asesor 24-7. Â¿CuÃ¡ van a ser las funciones principales de este asesor 24-7, asesor de IA? Va a dar atenciÃ³n instantÃ¡nea, respuestas en menos de un minuto, 100 tiempos muertos, manejamos una tasa de contactabilidad del 98%.  Es decir, que de 1,000 leads, 980 mÃ­nimo van a ser atendidos en menos de un minuto. Y esto claramente aumenta muchas mÃ¡s las posibilidades.  CalificaciÃ³n inteligente, va a poder identificar bajo distintos criterios. Presupuesto, zona, tipo de propiedad, claramente la gente va a tener acceso y conectado a una base donde estÃ¡n sus propiedades, que es Ãºnicamente exportando lo que tienen en IA, pero eso lo vamos a ver mucho mÃ¡s adelante, bueno, en un momento que estÃ© interesante, para que vean cÃ³mo lo podemos integrar.  Registro automÃ¡tico. Viene una base conectada a su sistema actual, lista para integrarse con el SIL, y eso lo vamos a tocar en un minuto.  AsignaciÃ³n dinÃ¡mica, es decir, que envÃ­a el asesor correspondiente y notifica en tiempo real cuando pidan derivaciÃ³n con un asesor o cuando han agendado una visita, o cuando ustedes creen que sea un criterio vÃ¡lido para que esa gente haga esa derivaciÃ³n.  Y lo que yo creo que es crucial en un agente de inteligencia artificial, el seguimiento automÃ¡tico. De nada me sirve que me contesten menos de un minuto si es que al final me van a responder o de repente nunca me van a responder.  Es ahÃ­ cuando la gente saca el mayor potencial porque estÃ¡ cada dos horas mandÃ¡ndote un follow-up, luego a las seis, luego a las doce, y va a depender del rango que ustedes quieran darle para hacer estos seguimientos.  El agente no reemplaza, Antoine, el agente la potencia. Y eso es un paradigma que a nosotros nos gusta mucho esclarecer porque todavÃ­a hay una barrera de entrada muy grande en el PerÃº con respecto a que la IA nos va a quitar el trabajo.  Y no es asÃ­. La IA va a potenciar nuestro trabajo siempre y cuando nosotros la apliquemos de manera correcta.  Y la entrega de leads ya filtrados y listos para la conversiÃ³n liberando su carga operativa. Equipo, Â¿hasta este momento tienen alguna duda con respecto a la funcionalidad de la gente?
+
+9:52 - REMAX URUS
+  Oh, claro.
+
+9:54 - Santiago Zavaleta
+  Genial, muchas gracias, Leili. Entonces, lo que yo les querÃ­a mostrar ahora es un poco mÃ¡s de este flujo. Claramente, este flujo es algo preliminar porque nosotros, dentro de esta implementaciÃ³n, brindamos como una mini auditorÃ­a porque tenemos que conocer bien ese proceso que se lleva de manera comercial, ya que es el proceso que la gente va a tener.  AsÃ­ que este flujo definitivamente no es el flujo con cual se estÃ¡n operando, pero en base a la informaciÃ³n que hemos recapitulado, es lo que se ha podido diagramar.  Entonces, todo claramente empieza desde que los leads entran, sea por TikTok, Instagram, u otra red social, y la gente va a centralizar esa atenciÃ³n y va a atender a todos en menos de un minuto, y bÃ¡sicamente, el tiempo de respuesta en segundos va a evitarles frÃ­os, eso es mÃ¡s que todo un comentario.  Luego, va a consultar por una propiedad o por el producto como tal, si es que ya tiene la informaciÃ³n que publican en TikTok o en la pauta publicitaria, la guÃ­a va a identificar por propiedad y va a verificar la disponibilidad.  Si la bÃºsqueda es abierta, la guÃ­a va a hacer preguntas clave en base a los criterios que ya conocemos para poder darle una propiedad a  El agente de IA va a atender de manera correcta. Pasando por la calificaciÃ³n, intenciÃ³n, tiempos, formas de compra, crÃ©dito, etcÃ©tera, etcÃ©tera, toda esa informaciÃ³n se va a ir recapitulando y se va a registrando y si es que es una informaciÃ³n que ustedes tengan que registrar en el SII, el agente de IA lo va a ir guardando.  Eso lo vamos a ver un poco mÃ¡s adelante. Bueno, acÃ¡ vemos si es que requiere filtro financiero, si es que no requiere, lo pasamos directamente al siguiente paso.  Y sÃ­, sÃ­, solicitamos el DNI, les pedimos dos semanas aproximados, todo lo que se conversÃ³ segÃºn lo que nos mencionaste, Leili.  Bueno, luego inteligencia artificial, selecciona opciones alineadas. Y aquÃ­ estÃ¡ lo interesante, equipo, porque nosotros vamos a construir una soluciÃ³n de IA adaptada al SII.  Si es que hoy en dÃ­a, o de acÃ¡ en un mes, en dos, en tres, todavÃ­a no podemos integrarnos directamente, no hay ningÃºn problema.  Porque la manera en la que nosotros vamos a construir la soluciÃ³n va a ser solo para ajustar unas tuercas y cuando se puede integrar, lo integremos.  Es decir, que bÃ¡sicamente el agente va a hacer un registro automÃ¡tico en una base intermedia que puede... Debe ser un Excel tranquilamente con un formato columna similares a los que tiene SIGI.  Es decir, Antuane solo va a tener que hacer la validaciÃ³n de que la informaciÃ³n estÃ© correcta, copiar y pegar.  Eso ya le va a quitar tiempo de digitaciÃ³n. Es decir, que ya no somos teniendo un solo agente que estÃ¡ vendiendo por nosotros, entre comillas.  Si no tenemos un agente que estÃ¡ haciendo tarea operativa que le quitaba mucho tiempo, Antuane, tiempo que ahora tiene para darle mayor valor a otras tareas o simplemente poner mÃ¡s pauta, por ejemplo, y ver que la gente lo estÃ¡ haciendo correcta.  Exactamente. Â¿CuÃ¡l es el futuro? Que nos integremos mediante API SIGI. Esto ya serÃ­a otro nivel. Si la diferencia ya aquÃ­ es grande, cuando nos integremos directamente con ese sistema, van a tener un ecosistema completo.  Porque el SIGI, por lo que pudimos ver, es una plataforma, y perdÃ³n por la palabra, que estÃ¡ genial, estÃ¡ increÃ­ble.  La verdad es que la vea sÃºper completa. Me parece un CRM espectacular. ImagÃ­nense cÃ³mo se verÃ­a eso potenciado con un, me gusta siempre mencionar, un practicante 24-7 que va a hacer todo lo que tÃº le digas.  Es increÃ­ble. Por eso yo creo que... En plazo estÃ¡ integrarnos con el CIGI como tal. Equipo, una consulta hasta aquÃ­.
+
+13:04 - REMAX URUS
+  Â¿Pudieron averiguar el tema de la integraciÃ³n o todavÃ­a no tenemos esa informaciÃ³n? SÃ­, he preguntado, pero como ahora estÃ¡n en cierre del mes y las personas que nos dan atenciÃ³n con CIGI tambiÃ©n hacen soporte de cierre en Remas PerÃº con contabilidad y otras cosas, probablemente me van a contestar la siguiente semana.
+
+13:26 - Santiago Zavaleta
+  Claro. Lo bueno, gracias, Leili, por esa aclaraciÃ³n. Lo bueno es que, como les mencionÃ¡bamos, y es que si optamos por empezar a desarrollar la implementaciÃ³n desde ahora, no habrÃ­a ningÃºn cambio si es que por A o B en tres semanas nos dicen que sÃ­ podemos integrarnos ya que lo estamos haciendo escalable y adaptable.  Entonces, una vez que veamos si el IDIC estÃ¡ calificado o no, claramente aquÃ­ pueden haber mÃ¡s criterios de calificaciÃ³n que maneje URUS.  Si es que no estÃ¡ calificado, simplemente o le dejamos de responder si es que ustedes deciden que es lo mejor o simplemente le hacemos nutriciÃ³n y reactivaciÃ³n con seguimientos automÃ¡ticos hasta que encuentre la propiedad que quiera o simplemente...
+
+14:01 - REMAX URUS
+  Yo creo que ahÃ­ lo podrÃ­a hacer y lo que siempre quiero es como que nos sigan en nuestro canal de WhatsApp, como una respuesta automÃ¡tica se podrÃ­a decir que enviarle los links de nuestras redes sociales, Â¿no?  Como un agradecimiento por consultar a la empresa, Â¿no? Que siempre vamos a estar ahÃ­ para cualquier duda o asesoramiento inmobiliario y que nos sigan en las redes sociales.
+
+14:26 - Santiago Zavaleta
+  SÃ­, totalmente de acuerdo. Es mÃ¡s, creo que es una muy buena manera de optimizar el camino, Â¿no? Es como que ya no estÃ¡ calificado, pero por Ãºltimo puede aumentar esa comunidad en las redes sociales y se puede dejar un mensaje automatizado acÃ¡.  MÃ¡s que automatizado, es personalizado porque sigue siendo el mismo agente, pero comprende el concepto y definitivamente se puede hacer.  Entonces, por el lado de que el IDIC se ha calificado, aquÃ­ va a haber una asignaciÃ³n dinÃ¡mica al asesor, Â¿no?  Este va a ser dependiendo del criterio que ustedes manejaban y era lo que les comentaba. De repente ustedes manejan 20 asesores para ciertos distritos y luego otros por campaÃ±a, si luego otros por red social.  Ese criterio... Es lo Ãºnico que nosotros tenÃ­amos que tener para que la gente de ella sepa a quiÃ©n le va a asignar la propiedad.  Para hacer una analogÃ­a simple, si es que tuviÃ©ramos un proyecto o casas en Miraflores, si tuviÃ©ramos solo cinco asesores, el agente asignarÃ­a al asesor 1, luego al asesor 2, luego cuando llegue al 5 volverÃ­a a reiniciar ese ciclo y si estuviera con los de San Isidro harÃ­a lo mismo, si estuviera con los de CampaÃ±as harÃ­a lo mismo.  La lÃ³gica es simple.
+
+15:24 - REMAX URUS
+  Sergio, una pregunta, Â¿cÃ³mo asignarÃ­a al asesor si en caso no tiene vinculaciÃ³n con SIGI? Porque cuando nosotros asignamos al asesor, lo agregamos ahÃ­ en ese formulario que te enseÃ±Ã©, que es el asesor de SIGI, o sea, por el Landbox.
+
+15:43 - Santiago Zavaleta
+  Esa asignaciÃ³n la dejarÃ­a en un Excel, por ejemplo. La podemos dejar con el mismo nombre y apellido como lo tienen en el SIGI.
+
+15:52 - REMAX URUS
+  Cosa que supiera llegar o revisar quÃ© asesor es y colocarlo ahÃ­. O manualmente podrÃ­a hacerlo, Antony.
+
+15:59 - Santiago Zavaleta
+  Lo que pasa es que no queremos...
+
+16:00 - REMAX URUS
+  Tarde, integrar al cliente asÃ­, Â¿por quÃ©? Porque si a la gente no se lo mandamos por sÃ­, de todas maneras que por el dÃ­a a dÃ­a o porque estÃ¡ atendiendo sus funciones como agente, es poco probable que lo cargue asÃ­ y si lo hacen se va a demorar y ya no va a ser en tiempo real.  Entonces, no vamos a poder dar la atenciÃ³n del tiempo real que es. Para nosotros, como empresa que invertimos en que esos leads lleguen a nosotros, a traerlos de manera orgÃ¡nica, sÃ­ es importante mapearlo.  De repente ellos no lo valoran tanto en el aspecto del seguimiento porque es como que, bueno, ya la oficina siempre me estÃ¡ dando clientes, pero nosotros que invertimos tanto tiempo y dinero en conseguir ese lead y que sea orgÃ¡nico, entre comillas, Â¿no?
+
+16:52 - Santiago Zavaleta
+  Porque si hay una inversiÃ³n de marketing, metemos pauta.
+
+16:56 - REMAX URUS
+  Para nosotros sÃ­ es importante saber, ok, en el mes siempre con motivos. Ese Anthuane lo convierte a Excel porque ella tiene que hacer su reporte mensual.  Â¿CuÃ¡ntos clientes llegaron? Llegaron mil, de los cuales se cerraron dos operaciones. Y ahÃ­ nosotros tambiÃ©n podemos detectar en quÃ© podemos mejorar para que lleguen clientes y lleguen clientes a la oficina mÃ¡s calificados, que es lo que estamos haciendo.
+
+17:25 - Santiago Zavaleta
+  SÃ­, totalmente de acuerdo, Lely. Al final, ese agente se tiene que adaptar a la manera en que ustedes les haga producir mÃ¡s en menos.  Si es que tiene que dejar el espacio libre para que Anthuane haga la manualidad, y eso les facilita la vida, el agente lo puede hacer sin ningÃºn problema, si es que esa era tu duda.  Esto es totalmente adaptable a la manera en la que ustedes trabajan. Entonces, Â¿todo lo con esa parte, Lely?
+
+17:52 - REMAX URUS
+  SÃ­, todo bien, porque lo que se me ocurre ahora es que, como que lo dije en un Excel, como estabas mencionando, que la IA lo dije en el Excel,  Y Anthuane, cada vez que ve, pues, que se actualiza el Excel, ella va subiÃ©ndolo al LATMAX, pero ya no se pierde ese seguimiento, pues, de lo que nos interesa a nosotros, Â¿no?  Los fines de semana, o cuando Anthuane es del Ã¡rea de marketing y estÃ¡ grabando. Y, aparte, el seguimiento, ya, pues, como llegan 200 mensajes, pues, la memoria tampoco te da para tanto como para decir quÃ© pasÃ³ con este cliente que me, que me, este, que me, no sÃ©, me dio una solicitud, le pedÃ­ informaciÃ³n y ya no le da seguimiento.
+
+18:34 - Santiago Zavaleta
+  Total, total, total. Yo creo que es una muy buena apreciaciÃ³n. Es mÃ¡s, como valor agregado, podrÃ­amos hacer que cada vez que un LITIA pase por esa parte del flujo, claramente que no lo asigne, porque Anthuane lo va a hacer manual.  Pero que tal vez le mande un mensaje a Anthuane para que ella sepa que acaba de ingresar un LIT.  Esa podrÃ­a ser una opciÃ³n. Al final va a ser lo que a ustedes mÃ¡s se les facilite. Eso es el punto.  Y, continuando con el flujo, bÃ¡sicamente la IA va a proponer horarios. Y en base a un calendario, en base a una visita, esto se puede gestionar como se los mostrÃ© en un Google Calendar con todos los horarios de los asesores, o se puede centralizar en uno, o se puede desde aquÃ­ de repente cortar el flujo y que su horario ya dependa del propio asesor.  Esto va a depender tambiÃ©n de lo que sea mÃ¡s fÃ¡cil para ustedes. Entonces, aquÃ­ se notificarÃ­a directamente o al asesor si es que fue asignado, en el caso de que sea manual, o tambiÃ©n se podrÃ­a hacer el aviso a la misma Antoine.  Esto de aquÃ­, al ya comentarme el tema de la asignaciÃ³n Lely, esto podrÃ­a valer un poco mÃ¡s, pero nuevamente es adaptable a lo que a se vea mÃ¡s fÃ¡cil.  Entonces, Â¿cÃ³mo se traduce todo el tipo?
+
+19:40 - REMAX URUS
+  En que al final Antoine se va a encargar de monitorear el tablero o el SIGI como tal, las derivaciones, las visitas, los seguimientos, etc.  Antoine va a pasar de... Santiago, mira, ahÃ­ se me ocurre que ya listo, la idea le avisa, Â¿no? Antoine, hay un cliente en Excel.  Ella lo revisa, lo carga al SIGI. Y... Y, este, que le respondan, Â¿no? Ya estÃ¡, ya estÃ¡ en el Landmax, entonces que la guÃ­a le avise a la gente y le diga, porque eso tambiÃ©n hace a Antoine, Â¿no?  Aparte que le manda al cliente en el Landmax, tambiÃ©n le dice, hola Pepito, te acabo de mandar a un cliente en Landmax, este, revÃ­salo.  Entonces ya la guÃ­a se encargarÃ­a de hacer eso, Â¿no? Cuando despuÃ©s le avise que ya estÃ¡, ya estÃ¡ cargado al SIGI.
+
+20:27 - Santiago Zavaleta
+  Total, ahÃ­ lo que podrÃ­amos hacer es, en ese mismo Excel, aÃ±adirle una columna que se llame ingresado y que Antoine se lo tenga que poner sÃ­, para que eso active un evento que haga que la IA le avise al asesor en particular.  Totalmente.
+
+20:40 - REMAX URUS
+  Ok, ok.
+
+20:41 - Santiago Zavaleta
+  Genial. Con respecto, bueno, al seguimiento, una vez, ese serÃ­a un filtro que se tiene que ir personalizando mÃ¡s a cÃ³mo ustedes operan en el dÃ­a a dÃ­a, pero si es que el asesor ya se le asignÃ³ este lead, ya se estÃ¡ encargando de hacer el seguimiento, ustedes manualmente pueden activar o desactivar el asesor en especÃ­fico.
+
+20:59 - REMAX URUS
+  SÃ­, Leili. Santiago, ahora, la IA no sÃ© cÃ³mo, la verdad es que no, no, este, no sÃ© cÃ³mo lo maneje, pero la IA no puede poner los datos en ese formulario o tendrÃ­a que estar conectado porque es un formulario externo.
+
+21:15 - Santiago Zavaleta
+  Â¿QuÃ© formulario?
+
+21:17 - REMAX URUS
+  El Landmax, o sea, no es un formulario en el que necesariamente tÃº tengas que tener acceso al SIGI. Mira, te lo voy a mandar.  Es un formulario que es mÃ¡s, que nosotros se lo enviÃ¡bamos al cliente para que lo llene por sÃ­ solo al WhatsApp, pero tenÃ­amos este tema que me pasÃ³ ayer que lo registrÃ© y sale error, o sea, la primera no agarra, tiene que registrarse dos veces.  Mira, te voy a enviar el Landmax.
+
+21:56 - Santiago Zavaleta
+  Ok.
+
+21:58 - REMAX URUS
+  Y tÃº vas a entrar y vas Saber que no es necesario que este te loguees al al sÃ­.
+
+22:06 - Santiago Zavaleta
+  Este formulario, Lili, en que en que parte del flujo que acabamos de revisar ahora entrarÃ­a de la gente?
+
+22:13 - REMAX URUS
+  Para registrar. Al prospecto. Para registrar el prospecto, cosa que la IA registra al prospecto y le manda una notificaciÃ³n a este Antuanet.
+
+22:30 - Santiago Zavaleta
+  Ah, este es abierto.
+
+22:32 - REMAX URUS
+  AjÃ¡, es abierto. Y Antuanet, pero sÃ­ se tiene que hacer dos veces.
+
+22:37 - Santiago Zavaleta
+  Â¿Por quÃ©? Porque a la primera no agarra.
+
+22:39 - REMAX URUS
+  Yo le he mandado a soporte decir porque no me agarra la primera y entonces mi cliente me dice, ya me registrÃ©.  Claro, aparece error. Por ejemplo, pon los datos asÃ­, pon datos X y en la primera te va a aparecer error, pero en la segunda sÃ­ te va a agarrar.
+
+22:58 - Santiago Zavaleta
+  Nos vamos, vamos en la playa.
+
+23:01 - REMAX URUS
+  Bueno, ahorita saliÃ³, no. No, no, sÃ­ pasa, me imagino.
+
+23:06 - Santiago Zavaleta
+  Igualmente nos hace quedar mal. Me ha pasado que a mÃ­ mi agente no responde en la demo y me hace quedar mal, no, no, entiendo, no pasa nada.
+
+23:13 - REMAX URUS
+  No, a mÃ­ me ha pasado que, pues, pinto SIGI asÃ­ como a lo mÃ¡ximo, porque es lo mÃ¡ximo, y doy capa y se me logra todo y se cae el SIGI.  No, entiendo. Bueno, ya, eso es, o sea, yo creo que no sÃ© si la IA puede hacer eso. Le manda una notificaciÃ³n a Antoine que hay un cliente registrado, y ahora, para que Antoine lo derive a un agente, esos, ahÃ­ sÃ­ tienes que loguearte.  O sea, eso sÃ­ implicarÃ­a, pues, que ustedes tengan acceso al SIGI, que no sÃ© si lo puedan tener. TendrÃ­amos que esperar la respuesta, este, pero hasta ahÃ­, no es necesario que entres al SIGI.
+
+23:57 - Santiago Zavaleta
+  Ok, entonces, si no es necesario entrar al SIGI, estoy 90%. Seguro, segÃºn mi experiencia, Leili, que se puede, que la IA puede llenar este formulario sin problema.  Ahora, igual eso te lo voy a confirmar mÃ¡ximo maÃ±ana con el equipo, pero estoy segurÃ­simo que sÃ­, asÃ­ que dÃ©moslo por hecho, porque sÃ­ hemos trabajado con el landing pages en la que la gente de IA llena el dato de algÃºn prospecto.
+
+24:19 - REMAX URUS
+  Una pregunta, esto es cuando ya, cuando un cliente se comunica con la IA y le da sus datos, la IA tiene que venir acÃ¡ y llenar esto, es lo que me estÃ¡s diciendo.  Claro, si, por ejemplo, tÃº me dices, Â¿no? Quiero alquilar una propiedad. Ok, primero le preguntan, Â¿no? Este, sus ingresos, lo califica en el Infocor y lo carga ahÃ­ Antoine y ya se loguea para que, para que, este, para que lo asigne a un asesor.
+  SCREEN SHARING: Remax started screen sharing - WATCH: https://fathom.video/share/tBPpVdctSVy9iVNBQ9WwHh1Tk6oMvdYc?timestamp=1494.200714  O sea, por ejemplo, voy a, a ver, voy a compartir pantalla. Este, no sÃ© si se ve mi CG.
+
+25:00 - Santiago Zavaleta
+  A ver, a ver, voy a entrar.
+
+25:06 - REMAX URUS
+  Por ejemplo, tÃº te acabas de registrar acÃ¡, Â¿verdad?
+
+25:10 - Santiago Zavaleta
+  A ver, dame un momentito que no me deja verlo completo. AhÃ­ estÃ¡.
+
+25:23 - REMAX URUS
+  Ya, hoy 1031, tÃº acabas de poner que eres Santiago Zavaleta y quieres arrendar una casa. Entonces, eso lo has hecho desde el ANDI.  Ahora, Anthuane lo hace manual. O lo que has hecho lo hace. Le preguntÃ³ al cliente su requerimiento. Y acÃ¡, esto sÃ­, para enviarlo a un agente y que el agente lo reciba desde su SIGI, esto sÃ­ lo tiene que hacer manual.  Es decir, yo soy Antone, entonces derivo, a ver, Â¿quiere arrendar una casa?
+
+25:57 - Santiago Zavaleta
+  Y acÃ¡ siempre te ponen las observaciones de quÃ© distrito, Â¿no?
+
+26:00 - REMAX URUS
+  O le cuenta a Antuane, o el cliente le dice, Â¿no? Quiero arrendar una casa de Pueblo Libre, mi presupuesto es 4.000, 6.000 soles.  Ya, perfecto. Eso se pone en el espacio blanco que no pusiste nada. AhÃ­ se coloca y Antuane ya le dirÃ­a, Â¿no?  Pueblo Libre, por ejemplo, especialista, Anitza Candela. Ya, entonces.
+
+26:28 - Santiago Zavaleta
+  Entonces. Y es ahÃ­, es ahÃ­ justo cuando Antuane selecciona al asesor, donde me dices que la IA deberÃ­a mandarle un mensaje a ese asesor.
+
+26:36 - REMAX URUS
+  Claro. Entonces, ahÃ­ sÃ­ no sabrÃ­a cÃ³mo, cÃ³mo la IA podrÃ­a saber quÃ© asesor, Â¿no? O puede ser que la IA le diga al cliente, porque eso tambiÃ©n le dice, este, el asesor tal se va a comunicar contigo, Â¿no?  Antuane le dice, El asesor, eh, Danitza Candela se va a comunicar. ...contigo en breve. Eso podrÃ­a ser la guÃ­a, cosa que Antoine lo lee y ya sabe a quÃ© asesor derivÃ¡rselo, para que sea, pues, pariente a lo que le dice la guÃ­a.  Eso se podrÃ­a hacer.
+
+27:17 - Santiago Zavaleta
+  Ok, ya te entendÃ­. SÃ­, definitivamente se puede hacer. Creo que, nuevamente, Leili, estÃ¡ increÃ­ble que me lo estÃ©s diciendo, porque todo yo lo estoy apuntando, todo lo tenemos sÃºper analizado, porque al final, nuevamente, no damos un hilatado, damos una soluciÃ³n personalizada.  Nosotros, mientras mÃ¡s informaciÃ³n sepamos de ustedes, disculpen, estoy con toda la luz del sol ahÃ­, pero mientras nosotros mÃ¡s informaciÃ³n sepamos de ustedes, va a ser mucho mejor.  Â¿QuÃ© es que pasa? Nosotros no solo ofrecemos servicios de desarrollo, sino ofrecemos servicios de auditorÃ­a y consultorÃ­a. Â¿QuÃ© es lo que pasa con la auditorÃ­a y consultorÃ­a?  Que la auditorÃ­a y consultorÃ­a, ahora lo estamos inclinando sobre todo mÃ¡s, no inmobiliarias, ahorita estamos mÃ¡s en e-commerce. Â¿Por quÃ©?  Porque las inmobiliarias estÃ¡n con un poco mÃ¡s de barrera con el tema del aire, en cambio, el e-commerce, es  O aprovecha la inteligencia artificial porque es muy difÃ­cil vender una casa por ya pipeline o transferencia. Imposible. No te lo van a comprar por WhatsApp.  Es un trabajo de meses. La rotaciÃ³n del ticket es muy lenta. Sin embargo, un e-commerce con productos de retail que te venden blusas, mancuernas, etcÃ©tera, una idea te lo puede estar vendiendo 24-7.  Es por eso. Va mÃ¡s que todo por el tipo de producto. Â¿Por quÃ© te menciono esto? Porque en un futuro nosotros trabajamos siempre auditando el negocio.  Y cuando ustedes opten por esta implementaciÃ³n, la primera semana va a ser para auditarlos y poder conocer cÃ³mo funcionan.  Todo eso que me estÃ¡s diciendo va a ser clave para hacer que la idea se adapte al dÃ­a a dÃ­a de ustedes.
+
+28:38 - REMAX URUS
+  AsÃ­ que muchÃ­simas gracias por hacer ese hincapiÃ©. Ok.
+
+28:42 - Santiago Zavaleta
+  Ok. BÃ¡sicamente eso. Les termino de compartir la Ãºltima parte de la propuesta.
+
+28:48 - REMAX URUS
+  Â¿Les parece? Ok.
+
+28:51 - Santiago Zavaleta
+  Era el tema de... No me encanta, de verdad. Me queda clarÃ­simo lo del formulario. Es sÃºper interesante. Creo que eso le ahorra mucha mÃ¡s...  Mucho mÃ¡s trabajo a Anthuane. Bueno, eso era la parte del flujo final. Entonces, Â¿cuÃ¡les son los resultados esperados? Es duplicar el nÃºmero de visitas agendadas en los primeros 45 dÃ­as de implementaciÃ³n, que es lo que hemos hecho con todos nuestros clientes.  Es Ãºnicamente, si manejan un buen volumen de leads, lo Ãºnico que hay que hacer ahÃ­ es hacer que la red gire mÃ¡s rÃ¡pido y tener un sistema que se encargue de filtrar a los que no y empezar a prospectar a los que sÃ­.  Y como lo vamos a hacer en menos tiempo, va a haber mucha mÃ¡s posibilidad de que entren mÃ¡s leads, asÃ­ que mucho, mucho mejor.  Mejorar la trazabilidad del proceso y la comunicaciÃ³n interna. Automatizar el 80% del seguimiento sin cargar personalizaciÃ³n. Y finalmente, aumentar la productividad del equipo comercial y reducir tiempos de respuestas a segundos.  Â¿CÃ³mo serÃ­a esta fase o el plan de implementaciÃ³n? SerÃ­a 60 dÃ­as. La fase 1, que es la semana 1 o 2, es la adaptaciÃ³n de la gente, conexiÃ³n con bases de datos y el CRM que les vamos a brindar.  AquÃ­ se incluyen tambiÃ©n todas las reuniones que vamos a tener con ustedes, principalmente los primeros dos, Tres, a lo mucho, cuatro dÃ­as.  La segunda fase serÃ­a la de la personalizaciÃ³n. Esto ya es un poco mÃ¡s tÃ©cnico de cara a mi equipo.  La fase tres serÃ­a el lanzamiento de la gente en producciÃ³n a la semana cinco para que ustedes ya lo puedan probar.  Cabe recalcar que entre la semana tres y cuatro, ustedes ya van a tener a gente funcionando en WhatsApp. Y todas las fases, todas las semanas, ustedes van a tener entregables con un centro de control para que vean cÃ³mo estÃ¡ evolucionando el avance.  No se preocupen. No nos vamos a desaparecer apenas empiece la fase uno. AsÃ­ es que, de repente, eso les puede preocupar.  En la fase tres, vamos a ya lanzar el agente en producciÃ³n. Es Andy, pero me dijiste 60 dÃ­as. En la semana cinco, reciÃ©n estamos semana y una, perdÃ³n, mes y una semana.  Lo que pasa, equipo, es que el agente de dÃ­a cuando entre en producciÃ³n, algo muy importante es que tiene que fallar.  Â¿Por quÃ© tiene que fallar? Porque cuando el agente de dÃ­a entre en producciÃ³n, es cuando en verdad lo vamos a entrenar al comportamiento real del buyer persona de Remax URUS.  Porque podemos nosotros auditarlos y construirlo. Pero donde en verdad la IA se entrena es en la cancha. AsÃ­ que es bÃ¡sicamente por eso que en la semana 5 estimamos que la gente tiene que entrar y en producciÃ³n para ir haciendo los ajustes respectivos en la cancha.  Y la fase final es bÃ¡sicamente el monitoreo de esta producciÃ³n, hacer los ajustes, reportes semanales y el monitoreo de resultados.  Desde el dÃ­a 30 la gente ya estarÃ¡ operando y generando resultados reales. Â¿Por quÃ©? Porque vamos a evidenciar que desde el dÃ­a 1 al 98% de los leads les va a responder en menos de un minuto con una conversaciÃ³n fluida.  Finalmente, bueno, antes de llegar a la parte de la inversiÃ³n, la garantÃ­a de resultados es que si en los primeros 60 dÃ­as nosotros no les entregamos los resultados que estamos prometiendo, les devolvemos el 100% de la inversiÃ³n o seguimos trabajando sin costos hasta cumplirlos de cara a que ustedes se hayan revisado que en verdad les estÃ¡ aportando valor.  Finalmente, equipo, la inversiÃ³n por esta implementaciÃ³n total serÃ­an de 2.000 dÃ³lares mÃ¡s IGB si es que desean facturarlo. Eso incluye el desarrollo, la personalizaciÃ³n y lo mÃ¡s importante.  La documentaciÃ³n y el entrenamiento. Nosotros no hacemos enlatados, no hacemos software como tal. Â¿Vamos a estanalizarlo en un futuro?  Por supuesto que sÃ­, pero esto es personalizado para ustedes. Â¿Por quÃ© documentaciÃ³n? Porque nuevamente nosotros no los vemos como clientes y nosotros no somos proveedores como tal y es por lo mismo que nosotros nos vamos a enseÃ±ar y va a estar todo grabado, no es que vamos a ocupar horas de su tiempo para enseÃ±arles, pero le vamos a dar documentaciÃ³n tanto en texto como grabadas de cÃ³mo funciona la soluciÃ³n, quÃ© hace cada parte y cÃ³mo pueden cambiar ciertas cositas y es que quisieran mejorar o cambiar ciertos parÃ¡metros.  AsÃ­ que por ese lado no se preocupen. Y finalmente termino con esta frase que el objetivo no es solo automatizar, sino transformar la eficiencia comercial de Remax URUS con un aliado tecnolÃ³gico 24-7.  Y esto nos gusta mencionarlo porque hoy en dÃ­a los negocios, el 80% de proyectos con inteligencia artificial fallan. Y esto lo menciono y esto acÃ¡ sinceramente no me ayudarÃ­a a mÃ­ como parte de partner de IA.  Pero Â¿por quÃ© lo menciono? Porque los negocios miran a la inteligencia artificial como un fin. Y no es asÃ­.  La IA no es el fin, la IA no es el objetivo final. La IA solo es el medio para tener los resultados que ustedes necesitan.  Y esos resultados es vender mÃ¡s, bÃ¡sicamente. CuÃ©ntenme, equipo, Â¿quÃ© les parece la presentaciÃ³n? Â¿QuÃ© es lo que opinan? Â¿Tienen alguna votaciÃ³n?
+
+33:21 - REMAX URUS
+  En realidad, ya yo lo habÃ­a conversado con Gonzalo. sea, sÃ­ estamos convencidos de contratar el servicio. Sin embargo, hay esos cabos sueltos que me gustarÃ­a, pues, que podamos esclarecer y poder saber cÃ³mo exactamente, cÃ³mo el flujo que me acabas de mostrar, cÃ³mo exactamente entrarÃ­a, Â¿no?  Pero entiendo que esto es despuÃ©s de contratar el servicio.
+
+33:48 - Santiago Zavaleta
+  Parcialmente, porque hasta este punto, Leili, es mÃ¡s, despuÃ©s de esta reuniÃ³n, nosotros vamos a tener mucha mÃ¡s informaciÃ³n de la que tuvimos en la primera y la segunda.  Lo que facilita, en esos primeros dÃ­as, va a ser mucho mÃ¡s fÃ¡cil conversar. TendrÃ© el 100% de su proceso.  Pero sÃ­ comprendo tu pregunta. Se podrÃ­a decir que parcialmente sÃ­, vamos a tener que auditarlos aÃºn para poder confirmar lo que ya sabemos ahora.
+
+34:11 - REMAX URUS
+  Ok. Ok, entonces sÃ­ serÃ­a importante para no perder los leads. O si ya estamos haciendo esta inversiÃ³n, que se pueden enviar los match, que la IA puede enviar los match.  Â¿Por quÃ©? Porque pasa mucho con los agentes tambiÃ©n que se le deriva el cliente y al momento no le contestan o estÃ¡n ocupados.  O tambiÃ©n lo mismo, Â¿no? Este, tienen sus actividades diarias como agente inmobiliario y no les dan seguimiento. Entonces serÃ­a ya coordinar la visita.  O sea, serÃ­a derivar al cliente, pero con la visita ya coordinada.
+
+35:00 - Santiago Zavaleta
+  AsÃ­ es.
+
+35:01 - REMAX URUS
+  O sea, hasta el Ãºltimo, digamos, ya no un cliente con el que ellos tienen que atender, llamarlo, preguntarle, esto y lo otro, sino la IA ya harÃ­a todo y serÃ­a un cliente ya, por ejemplo, Pepe, tienes una reuniÃ³n para el dÃ­a sÃ¡bado segÃºn tu calendario de disponibilidad a las 3 de la tarde.
+
+35:24 - Santiago Zavaleta
+  Exacto, es eso, bÃ¡sicamente. Es lead que se asigna mensaje al asesor. O sea, es, al final, yo comprendo tambiÃ©n mÃ¡s el cÃ³mo funciona el sector y una realidad que de repente tÃº me puedes ayudar a validar mÃ¡s, y es que, no sÃ© si decirle flojera, decirle como que, no creo que sea falta de interÃ©s, pero hay como una falta de proactividad en hacer los seguimientos automÃ¡ticos, manejar su informaciÃ³n ordenada, y que al final es entendible, porque son tareas repetitivas que pueden llevar a frustraciones o cansancio, pero lo bueno es que existen tecnologÃ­as ahora que te permiten apalancarte de eso, asÃ­ que sÃ­, estoy siempre.  Siento de acuerdo con lo que me mencionas. AdemÃ¡s, cabe recalcar que, nuevamente, lo que nosotros les estamos presentando ahora es lo que mÃ¡s rÃ¡pido les va a dar resultados en este tiempo.  DespuÃ©s, cuando vean cÃ³mo la soluciÃ³n funciona y se les ocurren mÃ¡s ideas, por ejemplo, como te comentÃ©, poner un agente en TikTok o, de repente, uno que haga llamadas para reactivar una base de leads que ya no les contestan, todo al final se puede realizar y se puede ir armando el ecosistema de RE-MAX URUS.  Pero lo que nosotros les estamos mostrando ahora es la primera win. Es como que lo que mÃ¡s rÃ¡pido les va a dar resultados, bÃ¡sicamente.  Creo que es la mejor manera en la que los puedo definir.
+
+36:38 - REMAX URUS
+  Ok. Ok, Santiago. Entonces, ahora quedarÃ­a confirmar para iniciar, Â¿verdad?
+
+36:48 - Santiago Zavaleta
+  SÃ­, solo quedarÃ­a el tema de la confirmaciÃ³n del pago. Si es que este pago les hace sentido sÃºper, sÃºper genial.  De igual manera, si es que quisieran fraccionar el pago en un financiamiento de dos pagos, podrÃ­an... Podemos hacerlo, perdÃ³n, dejÃ¡ndolo en 2.300, pagando el 50% inicial ahora y el 50% inicial en 14 dÃ­as.  mÃ­ se les hace mucho mÃ¡s cÃ³modo. O de repente un solo pago. Una pregunta, Leili. Â¿Vas a facturar o va a ser sin IGB?
+
+37:16 - REMAX URUS
+  No, yo tengo que facturar todo.
+
+37:19 - Santiago Zavaleta
+  Ok, ok, ok, entiendo. Â¿Y si te facilita un Ãºnico pago?
+
+37:25 - REMAX URUS
+  TendrÃ­a que ahora reunirme con Gonzalo, conversar. Justo estamos en cierre de mes, asÃ­ que ordenamos varias cosas. Como completeras, estamos casi finalizando el aÃ±o donde mÃ¡s inversiÃ³n hacen las empresas, pero tambiÃ©n donde mÃ¡s ingresos tienen.  AsÃ­ que tendrÃ­a que cuadrar todo eso.
+
+37:43 - Santiago Zavaleta
+  Total, entiendo. No te preocupes por eso, Leili. Igual manera, agradecerÃ­a muchÃ­simo si me pudieras dar una respuesta el dÃ­a de maÃ±ana, por lo mismo que ya estamos en cierres.  Queremos priorizar a nuestros clientes mÃ¡s comprometidos y mÃ¡s que comprometidos, vemos que RemaxURUS lo necesita. Y no porque nos necesite como tal.  Sino porque tienen una estructura de marketing que se puede potenciar, que se puede sacar el mÃ¡ximo provecho. Y es especÃ­ficamente por el cual lleguÃ© a Gonzalo y, bueno, me alegra muchÃ­simo haber llegado a esta reuniÃ³n.
+
+38:13 - REMAX URUS
+  AsÃ­ que yo estoy atento a su respuesta y cualquier cosa voy a escribirme por WhatsApp. Ok, ok, Santiago. Muchas gracias por tu tiempo y muchas gracias por la claridad que nos has dado con esta nueva implementaciÃ³n de la IA.  No, de quÃ©. MuchÃ­simas gracias a ustedes por su tiempo, equipo. Ya nos estamos viendo. Que tengan un buen fin de semana.  Gracias. Chao, chao.

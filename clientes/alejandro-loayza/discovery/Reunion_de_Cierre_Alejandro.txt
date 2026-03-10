@@ -1,0 +1,253 @@
+Impromptu Google Meet Meeting - November 21
+VIEW RECORDING - 28 mins (No highlights): https://fathom.video/share/igVp_Dtx5BUCdbW7n7AmbyruWmyohQgc
+
+---
+
+0:00 - Alejandro juan Loayza jordan
+  Esta reuniÃ³n encima yo la recontrapedÃ­ y mi calendario dice a las 5, como dice el link que acabo de hacer.  Disculpa, Alonso. No te preocupes.
+
+0:10 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿QuÃ© tal, Alejandro? No te preocupes. SÃ­, ahÃ­ yo tambiÃ©n habÃ­a creÃ­do que la reuniÃ³n era a 5, pero no pasa nada.  Â¿Se me escucha bien? Â¿Se me ve bien? Â¿QuÃ© tal, Alonso? estÃ¡s? Bien, bien.
+
+0:19 - Alejandro juan Loayza jordan
+  Veo muchos, se demuestra que necesito un robot que no se equivocan.
+
+0:22 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, mira, justamente por eso, Alejandro, te comento un poquito. El objetivo principal de esta reuniÃ³n no es venderte absolutamente nada.  El objetivo principal de esta reuniÃ³n es comprender un poquito mÃ¡s quÃ© es lo que haces en tu dÃ­a a dÃ­a, cÃ³mo sientes que una automatizaciÃ³n, una inteligencia artificial podrÃ­a ayudarte a potenciar esos resultados que ya tienes.  No se trata de reinventar tu rueda, sino hacer que la que ya tienes gire mÃ¡s rÃ¡pido. Â¿Nos puedes contar un poco mÃ¡s cÃ³mo es tu dÃ­a a dÃ­a y dÃ³nde sientes que estÃ¡s teniendo mayores obstÃ¡culos para no poder de repente vender mÃ¡s, agendar mÃ¡s?  Y tambiÃ©n nos puedes contar un poco en quÃ© consiste ese modelo de negocio que tienes. SerÃ­a espectacular. Â¿Puedo? PerdÃ³n, creo que no se te escucha muy bien, no sÃ© si se lo yo.  SÃ­, no, no se te escucha muy bien.
+
+1:16 - Alonso Aguila
+  Â¿Y ahora?
+
+1:18 - Alejandro juan Loayza jordan
+  Ahora sÃ­ estÃ¡ bien. Mi gatito donde pongo el celular tapa el... Ya, hay... Mi servicio a nivel core tiene tres pilares.  La elaboraciÃ³n de planes nutricionales alimenticios.
+
+1:37 - Santiago Isaias Zavaleta Ayala (Ulima)
+  La elaboraciÃ³n de funciones nutricionales.
+
+1:42 - Alejandro juan Loayza jordan
+  Y el seguimiento slash monitoreo por WhatsApp.
+
+1:47 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Soy nutricionista para esto.
+
+1:49 - Alejandro juan Loayza jordan
+  De hecho, Alonso es un paciente al que queremos mucho. Y que hace poco se reintegrÃ³ con nosotros. Real.
+
+1:58 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Perfecto. Son los tres.
+
+2:00 - Alejandro juan Loayza jordan
+  Pilares del servicio. Ahora, creerÃ­a en tÃ©rminos de la sesiÃ³n como tal, ahorita no estamos haciendo nada al respecto para automatizarlo, porque la manera mÃ¡s humana, a nivel de producciÃ³n de planes, ya estamos haciendo esfuerzos, no directamente con MIA, pero con programaciÃ³n clÃ¡sica, estamos haciendo esfuerzos para que nuestros planes alimenticios se puedan hacer mÃ¡s rÃ¡pido y presentar en un formato mÃ¡s bonito, de hecho, Alonso es uno de los primeros prototipos de plan digital que estoy intentando hacer, donde es un poco mÃ¡s bacana, no sÃ© si yo, si yo, yo, una tojita, con el derecho de la puta madre, y mi marca se construyÃ³ alrededor de, escucha, queremos serte Ãºtil, nos vamos a cagar un poco en recomendaciÃ³n de salud, y si tu dÃ­a tiene que tener una chela y un postre para que la matemÃ¡tica cuadre, pero lo hagas, eso Â¡Gracias!  Â¡Gracias! Entonces, ahorita ahÃ­ de por medio, tiene varias particularidades, pero hay un desplegable para que tengas opciones de comida en la calle segÃºn tus calorÃ­as, que jalan de una vacÃ­a.  Es como que tÃº super 100% personalizaba al cliente.
+
+3:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Lo mÃ¡s que podamos.
+
+3:17 - Alejandro juan Loayza jordan
+  Hay algunas cosas que, por ejemplo, tienen que tener cierto grado de plantillas, o algunas secciones, por ejemplo, de la cultura peruana, son muy de...  O sea, casi todos los planes, a menos que me indiquen lo contrario, van a tener arroz, papa, fideos, por ejemplo, Â¿no?  A este grado, de repente, no tanto, porque es comÃºn, pero sÃ­ intentamos... Si alguien particularmente nos dice, ok, yo ceno los sÃ¡bados a esta hora porque tengo pÃ©s, etcÃ©tera, intentamos cuadrar todo el resto del dÃ­a para que tenga su cena, haya margen de calorÃ­as a la noche, y que tenga acceso a una dieta, no solo que las incluya, sino que...  Le puede dar clic, que desplieguen opciones, que golpee... TodavÃ­a no estÃ¡ hecho, pero ahorita artesanalmente golpea un servidor y te trae de vuelta acciones que estÃ©n dentro de cierto rango, etc.  Pero que ahorita estÃ¡ impreso. Lo que le han traÃ­do a Alonso, de hecho, es una lista que medio se imprime a mano, con programaciÃ³n clÃ¡sica, porque todavÃ­a no tengo un API que funciona.  Pero eso es muy claro, Â¿no?
+
+4:22 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y la otra parte es la del monitoreo.
+
+4:25 - Alejandro juan Loayza jordan
+  AhÃ­ es donde yo me complico un poco, porque el monitoreo consiste en que las personas suelen tener dificultades en su dieta en materia casuÃ­stica.  Por ejemplo, Alejandro, serÃ­a este restaurante, no sÃ© cÃ³mo, Alejandro, saborÃ³n, todos los grupos del menÃº que me dijiste, del plan que me dijiste, de la nada, tengo avena que me traje, que tiene diferentes calorÃ­as.  Entonces, hay diferentes casuÃ­sticas donde el paciente quiere tener... Es situaciÃ³n de cumplimiento, pero no tiene cÃ³mo resolver la prÃ¡ctica que se haya presentado por la vida.
+
+5:12 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, Â¿y tÃº sientes, Alejandro, que esa respuesta, si tÃº estuvieras al momento justo cuando el cliente la consulta, Â¿podrÃ­as responderla?  Yo, 100%.
+
+5:21 - Alejandro juan Loayza jordan
+  Y de hecho, es un pain que tenemos. El seguimiento ahorita no es particularmente caro. Para el cliente, si es la matemÃ¡tica de horas, pero las pocas quejas que hay sobre el seguimiento no son a nivel tÃ©cnico de, oh, Alejandro, eres malnutricionista y tu respuesta era incorrecta.  Es de, viejo, estoy almorzando, me siento y no me respondo. Ahora. Exacto. Los clientes entienden que imposible o mÃ¡s, a pesar de que ya tengo tres personas cuyendo tu trabajo responder, simplemente es imposible.  Claro.
+
+5:57 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Alejandro, discÃºlpame que te corte, Â¿cuÃ¡ntos clientes Â¿QuÃ© estÃ¡s manejando hoy en dÃ­a?
+
+6:05 - Alejandro juan Loayza jordan
+  Aproximadamente entre 130 y 150 son los que tenemos activos.
+
+6:12 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok. Una consulta, cuando me hablabas de esos tres enfoques, Â¿te refieres a tres planes diferentes? No.
+
+6:20 - Alejandro juan Loayza jordan
+  En principio, por ejemplo, cuando entrÃ© Alonso, en principio todos nuestros planes incluÃ­an, EscÃºchame, si tÃº vienes con nosotros, con nuestra marca, esa calidad de plan, esa calidad de sesiÃ³n nutricional, porque nuestra sesiÃ³n tambiÃ©n es un poquito diferente, es menos mÃ©dica, y vas a tener el seguimiento.  Los tres, el servicio, lo que varÃ­a a ver si lo tratabas un mes o tres. Lo que he hecho ahora, para no seguir creciendo en cartelera y tener un volumen de seguimiento que no pueda y voy a estar...  Ahora puedes elegir el mismo servicio, pero con seguimiento. Pido el precio a la opciÃ³n con seguimiento, un poco para que la gente no lo contrate y que los que lo contraten tengan un comprometido 100%.  SÃ­, pero aÃºn asÃ­ es muy difÃ­cil realmente por la variante humana. Hay un par de conchasos madres que siempre buscan el peso y dicen como que no, no me gusta y no cierro nada.  Y yo, pero Â¿quÃ© no te gusta, hermano? Es que no me respondÃ­a los domingos. Y esas son son ceras, pero te dan pie a la imaginaciÃ³n que puede tener alguien para quejarte de huevadas.  SÃ­, obvio.
+
+7:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Es un tema de calidad, es un tema de quÃ© tantos recursos tengo para poder dispersar esa calidad a todos mis clientes.  Y tambiÃ©n, no es invÃ¡lido lo que dijo esta persona.
+
+7:49 - Alejandro juan Loayza jordan
+  Esta persona en particular era mi acojuda, pero no es invÃ¡lido que si puedo darle ayuda a alguien 24 7 y mi costo no se eleva.  A un punto que mi margen me cambia totalmente el pricing para el cliente, si se puede hacer, de hecho ya tuve que hacer un AIA, pero honestamente los costos hacÃ­an un costo fijo y ademÃ¡s un costo fijo el cliente, lo que me hacÃ­a un poco difÃ­cil porque, o el costo por cliente no hay problema, Â¿no?  Pero como habÃ­a un costo fijo, era como que necesitaba poder inyucar a las personas en un costo mÃ¡s elevado, entonces habÃ­a una barrera extra, le sumaba, tambiÃ©n me inflaba la base, entonces en momento no lo tomÃ© por eso.
+
+8:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Alejandro, una consulta, y mÃ¡s allÃ¡ de estos 150 clientes activos, Â¿tÃº sigues teniendo prospectos, potenciales clientes mes a mes?
+
+8:51 - Alejandro juan Loayza jordan
+  SÃ­, no, nosotros tenemos la agenda llena con un par de semanas de anticipaciÃ³n, gracias a Dios. Y no me mando a atender mÃ¡s gente porque no tengo capacidad.
+
+9:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok. Porque mi sÃºper es la producciÃ³n de planes, hecho.
+
+9:12 - Alejandro juan Loayza jordan
+  Tanto esto del monitoreo, son dos problemas diferentes.
+
+9:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok. El de la producciÃ³n de planes, honestamente. SÃ­, me imagino, mÃ¡s la gestiÃ³n interna por el tiempo que te toma.  MÃ¡s que tener mÃ¡s clientes. Ok, Alejandro, y una consulta. Este seguimiento, este seguimiento personalizado que les haces a los clientes, me dices que no eres solo tÃº, son tres personas mÃ¡s o cuÃ¡ntas personas mÃ¡s.
+
+9:34 - Alejandro juan Loayza jordan
+  De hecho, no soy yo, o sea, indirectamente, son tres personas, por dos, puede entrar una tercera que tiene doble funciÃ³n, que en caso haya muchos mensajes, se puede meter.  Y ya, obviamente, pasa que me dicen, por ejemplo, ahorita, dicen, oh, Alejandro, este, Alonso, que estÃ¡ en nuestra cartelera de pacientes.  Gracias. Entonces, este, te dice como que si pasarlo con el reo, yo le digo, no, no pasa nada, pero la reo es a las 5, no, esas son las 4, yo, a la mierda, entonces yo salto.  Entonces, serÃ­a la misma forma si Alonso dice, o Alonso dice que, puta, se va, se porta un brazo, y dice, Â¿quÃ© come ahora?  Bajan las jalarÃ­as, y asÃ­, puta, entonces yo dirÃ©, bueno, dile Alonso que, ya se me, ya a me, pero, ya no, es operativo, Dios, no soy yo.
+
+10:31 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entiendo, entiendo. Alejandro, y entre esas 3 personas, entiendo por lo que me dices que, indistintamente del tiempo, tratan de atender a estos 150 clientes.
+
+10:42 - Alejandro juan Loayza jordan
+  SÃ­, gracias a Dios, no todos preguntan todos los dÃ­as, directo, unos 50, son muy activos. Otro porcentaje, pregunta a veces.  Y otro porcentaje, habiendo contratado eso, nunca lo usa igual. Y otro porcentaje, esos son pacientes antiguos, pero otro porcentaje son este nuevo universo de clientes que deciden no contratar el seguimiento.
+
+11:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, Â¿tÃº crees, Alejandro, a estos clientes que te dejan de responder, llamÃ©moslos leads muertos o clientes muertos que estÃ¡n ahÃ­ simplemente ocupando un espacio, si es que les hiciÃ©ramos un seguimiento automÃ¡tico, volviendo a reactivar la conversaciÃ³n para entender en quÃ© estÃ¡ el plan, cÃ³mo va todo, Â¿seguirÃ­an activos?  Â¿Crees que influirÃ­a en algo hacer eso?
+
+11:35 - Alejandro juan Loayza jordan
+  Y ahÃ­ aquÃ­ hablas de leads, ahÃ­ hay fenÃ³menos y entra un problema mÃ¡s. entiendo, necesitas, estamos intentando enlistar todos mis dolores de cabeza a ver cÃ³mo se puede.
+
+11:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total, es exactamente lo que estamos haciendo.
+
+11:48 - Alejandro juan Loayza jordan
+  Perfecto, entonces, primero segmentando bien a nivel, hay dos segmentaciones que hacer ahÃ­. Una es a nivel de clientes, no es un dolor de cabeza que un cliente no interactÃºe.  En tanto siga viniendo. De hecho, eso es casi modelo Smart. La gente paga y no usa. Problema tal cual.  Pero, si es un problema indirectamente, porque si no hay engagement en el servicio, bueno, pasa. Pero es una parte pequeÃ±a de que si hay un problema mÃ¡s grande cuando hablamos de, por la forma en que yo me hago en sociales, que he estado con algunos videos alguna vez, pero son muy exuberantes en sentido de, puta, con todos los que suelen que suelen 1500 calorÃ­as, que son como 30 y tantas latas, o me hice una incandola de dos metros para representar una huevada.
+
+12:47 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, como es muy exuberante, tengo LITS orgÃ¡nico, realmente bastante.
+
+12:54 - Alejandro juan Loayza jordan
+  Y no tengo excepciÃ³n de LITS. Â¿CuÃ¡ntas LITS aprobamos?
+
+13:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Aproximadamente, me estÃ¡s hablando del orgÃ¡nico Ãºnicamente, que me imagino que viene por redes sociales y demÃ¡s. Â¿Aproximadamente esa cantidad mensual la tendrÃ¡s?
+
+13:10 - Alejandro juan Loayza jordan
+  Depende un poco si hago en vivos o no, pero... Le dirÃ­a que tranquilamente son... Si llegan a mi Whatsapp, Â¿ah?  Por lo menos 500 a 600, por lo menos. Wow, es mucho eso.
+
+13:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Pueden ser.
+
+13:33 - Alejandro juan Loayza jordan
+  Pero yo no gasto en publicidad. Claro, es orgÃ¡nico y eso es lo mejor.
+
+13:39 - Santiago Isaias Zavaleta Ayala (Ulima)
+  una consulta, Alejandro, Â¿y cuÃ¡l serÃ­a el escenario ideal para estos leads que vienen a escribirte estos 500, no? Si imaginemos que tÃº puedes atender a los 500 rÃ¡pido, en menos de un minuto, de manera coherente, Â¿hacia dÃ³nde tÃº los guÃ­as?  Â¿Hacia la venta? SÃ­, 100%.
+
+13:56 - Alejandro juan Loayza jordan
+  Espero que el ticket de entrada es un poco alto ahora, pero eventualmente... Eventualmente, no va pasar ahorita ya, pero eventualmente eso tiene que gestionar, uno, que vaya a la venta y dos, que los pueda redirigir a mis ventas low ticket, que eventualmente voy a empezar a implementar, pero bueno, igual necesito construir, digamos, el mecanismo de manejo de leads para que cuando este producto estÃ© hecho ya entre nomÃ¡s, Â¿no?  Por eso querÃ­a, eso es lo que le comentÃ© a Alonso, de hecho, si no tenÃ­amos esta llamada hoy, yo iba a abrir mi como, que no sÃ© si es como, y ahÃ­ iba a abrir mi como, que ya tengo mi huevada gratuita me iba a poder a jugar con la huevada a ver quÃ© descubrÃ­a, porque todo de hecho se maneja en el mismo WhatsApp, mi WhatsApp tiene todos los leads, mi idea estÃ¡ disperso por ahÃ­, ya me voy a comprar un celular, por si acaso, me voy a personal, pero voy a poner listas afuera y mientras he archivado de mi celular, hay dos personas.
+
+14:58 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Es como yo he segmentado.
+
+15:00 - Alejandro juan Loayza jordan
+  Mis clientes.
+
+15:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, lo entiendo. Alejandro, yo me consulta, discÃºlame que te corto. O es interesante lo que dices porque CRM es como cÃ³mo muchas veces para varios negocios, o muchas veces a los ojos del negocio puede ser una soluciÃ³n Ã³ptima, sin embargo te das cuenta que ok, ya tengo un CRM como cÃ³mo que va a almacenar todos mis leads en una tabla ordenadita, pero de nada me sirve almacenarlos cuando no puedo gestionarlos.  Es ahÃ­ donde estÃ¡ el principal diferenciador que tiene la inteligencia artificial. Alon me comentÃ³ un poco sobre que ya estabas enterado sobre esos agentes de IA, bots de IA, no me gusta llamarlos mucho bots de chatbots porque eso ya es algo del pasado, es mÃ¡s que todo una tirria que le tengo a los chatbots, pero bueno, llames asistente de IA y demÃ¡s.  Â¿QuÃ© sabes sobre los agentes de IA y cÃ³mo consideras que te pueden ayudar de cara al conocimiento que tienes sobre todo este tema de la inteligencia artificial?  O sea, sea, Gracias.
+
+16:00 - Alejandro juan Loayza jordan
+  Aparte, primero necesito un problema con el, hay varios problemas, uno es la gestiÃ³n de leads y otro tiene que ver con esto del monitoreo que te dije de respuesta a WhatsApp a clientes.  Por la respuesta a WhatsApp de clientes, ademÃ¡s de la velocidad, yo por factor humano no puedo asegurarme que no se me pasa a responderle a alguien.  Entonces, para que tengas una idea, aparte de todas esas personas que te dije, tengo una persona y media cuyo trabajo es pato.  No estÃ¡n, porque a veces les tienen un huevÃ³n cuyo Ãºnico trabajo es apretar un botÃ³n rojo, bueno, que es un chiste incorrecto.  Bueno, si ellos tienen eso, yo tengo un huevÃ³n que pase lista. Tengo mi planchazo de pacientes y esa persona todos los dÃ­as se encarga de pasar lista a todos para asegurarnos que no nos olvidamos responderle a nadie.  Claramente, ineficiente hasta el mango, pero es mi forma de solucionarlo. Pero, Â¿me entrepaste un poquito ahÃ­? Â¿CÃ³mo? Creo que se te han recortado un poquito.
+
+17:02 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Se han recortado un poquito.
+
+17:03 - Alonso Aguila
+  Se te estÃ¡ escuchando medio como robot. De hecho, las ideas de Santiago hablan como humano. Eso es lo que tambiÃ©n me sorprendiÃ³ bastante.
+
+17:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, estÃ¡n locas. EstÃ¡n locas. Y aquÃ­ de repente te cuento un poquito mÃ¡s, Alejandro, ya para comentarte cÃ³mo esto se puede alinear a lo que estÃ¡s buscando.  Y es lo que te mencionÃ¡bamos. Nosotros no somos un proveedor como tal. Somos mÃ¡s socios estratÃ©gicos, somos mÃ¡s partners de IA.  Y lo que buscamos es adaptar inteligencia artificial exactamente a los cuellos de botella que puedes estar experimentando hoy. Y desde la informaciÃ³n que nos acabas de dar ahora, que claramente luego se va a analizar para darte un mayor dimensionamiento de que exactamente es lo que vas a necesitar o puedes necesitar, ya que esto es como una mini auditorÃ­a, ya en base a la experiencia te puedo decir que conozco muchos casos del mismo sector de nutriciÃ³n donde un agente de IA por WhatsApp se encanta.  Â¿CuÃ¡l dirÃ­as tÃº que es una prioridad para tener Ã©xito en los siguientes meses?
+
+18:30 - Alejandro juan Loayza jordan
+  Â¿CuÃ¡l dirÃ­as que el de los clientes? O sea, no me sirve a mÃ­ mejorar, que eventualmente va a superar mi oferta, mi capacidad, sin el cuidado de la calidad de los clientes que ya tengo.  O primero tener el mejor servicio posible. Gracias a Dios, en flujo no es tan mal. O no estoy en rojo ni cerca.  Entonces, creo que dar mejor calidad al cliente va a ser el primero. Y ya... Y eso, si llegaste a escuchÃ¡rmelo de la persona que toma el listo, Â¿no?  Justo ahÃ­ en mi internet se...
+
+19:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, sÃ­, sÃ­, lo escuchamos.
+
+19:07 - Alejandro juan Loayza jordan
+  Y sÃ­, pero de todas maneras el manejo del listo es una pÃ©rdida de plata, porque tengo un montÃ³n de gente a que puede hacer campaÃ±as, remarketing, etcÃ©tera, y todo lo es...  Le digo a Rodrigo, Rodrigo baja en el chat y mira todo y ya, pero...
+
+19:25 - Santiago Isaias Zavaleta Ayala (Ulima)
+  La capacidad de producciÃ³n es tambiÃ©n, como que puede ser ahÃ­ el cuello de botella, pero bueno, lo mÃ¡s importante ahorita es sacar el mÃ¡ximo provecho a eso, Â¿no?
+
+19:31 - Alonso Aguila
+  SÃ­, Santi, ahÃ­ te corto para interrumpir los cinco minutos nomÃ¡s, porque es algo chÃ©vere, Alejandro, Santiago, en donde estemos, por un lado, los que podemos solucionar ahorita el cuello de botella, el proveedor, en este caso Alejandro, y un usuario, como yo.  Es una reuniÃ³n distinta. Entonces, Â¿es correcto? O sea, yo creo que ahorita el enfocarse en darle o brindar un mejor servicio...  Yo creo que es el pilar fundamental. Y yo quÃ© valoro hoy, valoro. que realmente pues siento que cuando le escribo al chat de Alejandro, que no suele ser seguido, o sea, sÃ­ le escribo, no le escribo en cada comida, pero sÃ­ le escribo y sÃ­ se demoran en responderme, pero responden y responden con algo que va a agregar valor.  El tema estÃ¡ en que en la inmediatez de la respuesta realmente se va a sentir esa cercanÃ­a que hoy por hoy, Alejandro, tÃº proyectas en tus videos y por los cuales yo lleguÃ© a ti, Â¿me entiendes?  O sea, esa cercanÃ­a, esa coloquialidad, ese nutricionista no tan tÃ©cnico de toda la vida, sino alguien mÃ¡s que es como tu pata, que te brinda el plan alimenticio como tu pata y te entiende a nivel de permitirte no hacer dieta, pero tener un plan que te permite alcanzar tus objetivos.
+
+20:49 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Este, es creo que el principal valor agregado que te diferencia versus el resto de los nutricionistas. Esa cercanÃ­a sÃ­ se puede llegar a perder cuando la respuesta no es inmediata.
+
+21:00 - Alonso Aguila
+  Y eso es lo interesante de la propuesta de los agentes de inteligencia artificial. Totalmente de acuerdo.
+
+21:10 - Alejandro juan Loayza jordan
+  Yo, acÃ¡ yo me vendo todo realmente, en el buen sentido creo, porque si, no, yo solo que quiero hacerse tiempo, si de verdad el pricing lo permite, porque Alonso entra, creo cuando el pack estÃ¡ a 650 puede ser Alonso, yo creo no.  Ya, para que te hagas una idea, una actualidad con nosotros, que es una sesiÃ³n tradicional de una hora y un plan de alimentaciÃ³n sin seguimiento, cuesta 200.  Una sesiÃ³n conceptual, lo mismo, resÃºmele que te he responado por WhatsApp, cuesta 220. Si hacen la matemÃ¡tica para sombre, a una tasa de respuestas.  EtcÃ©tera, que ya lo hicimos, el margen es medio, sea, me digo que por el monitoreo, estÃ¡ claramente el margen es mejor a nivel, preferirÃ­a que, por eso es no da el monitoreo humano, no se puede y es claro, pero yo creo que es un modelo de negocio diferente versus otros nutricionistas que te dicen, oye, ven, te hago una videollamada cada una hora de semana, ya, para mÃ­ eso no te arregla el problema, Â¿no?  Pues si es que alguna vez se sentÃ³ a llevar una dieta, el pensamiento intrusivo es constante, y la necesidad de resolver una casuÃ­stica es el momento, el tema de desamparo, hay un tema que sigue dietas, te rinde, cada una dieta y falla, va a perder la esperanza de a poquitos, y eso te va quemando por dentro.  Entonces, yo no puedo seguir un tema que abandone a la vida, y por eso es que esto...
+
+22:59 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Necesario, pero de repente que...
+
+23:00 - Alejandro juan Loayza jordan
+  Son 70 lucas mÃ¡s. Si haciendo otro modelo, con estos chicos que me ofrecieron antes que eran unos venezolanos, el pricing iba a aumentar realmente bastante.  Entonces ya me descuadra la mate. Dependiendo de cÃ³mo se puede accionar el servicio y quÃ© funcionalidades tenga, etcÃ©tera, si cuadra un pricing razonable, es lo que quiero hacer de todas maneras, 100%.
+
+23:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, es muy, muy interesante lo que dices, Alejandro, y de hecho creo que con todo lo que nos has mencionado ya comprendemos y ya tenemos toda la informaciÃ³n como para mostrarte una segunda llamada, cÃ³mo esto se puede implementar hoy en dÃ­a en tu negocio.  AsÃ­ que nada, bÃ¡sicamente ese ha sido el objetivo de la reuniÃ³n. Como te digo, esta reuniÃ³n no tiene como objetivo venderte nada, sino comprender mÃ¡s lo que estabas haciendo.  Y quÃ© te parece si ahora mismo podemos coordinar la segunda reuniÃ³n ya para mostrarte con todo lo que nos has contado, cÃ³mo podrÃ­amos empezar a implementarlo desde ya.  Que tengas resultados en los siguientes 30 dÃ­as. Â¿Tienes espacio? Bueno, Alon, tambiÃ©n depende de ti. No sÃ© si te lo ves el lunes.  Â¿CÃ³mo estÃ¡n de tiempo?
+
+24:09 - Alejandro juan Loayza jordan
+  Te dirÃ­a que el lunes es buen dÃ­a.
+
+24:17 - Alonso Aguila
+  El lunes a las 5 es buen dÃ­a para mÃ­.
+
+24:25 - Santiago Isaias Zavaleta Ayala (Ulima)
+  5 de la tarde.
+
+24:26 - Alejandro juan Loayza jordan
+  SÃ­, el lunes 3, 3, 30. Miren, podrÃ­a hacerlo Â¿CuÃ¡nto necesitamos el club a medio tiempo?
+
+24:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Creo que mÃ¡ximo 30 minutos es mÃ¡s que suficiente.
+
+24:46 - Alejandro juan Loayza jordan
+  Y ya, entonces, te dirÃ­a 5 y 30 es una opciÃ³n para mÃ­. 5 y 30 es 6. Es como H, ver, O 3 4.
+
+24:59 - Alonso Aguila
+  fue school. Yo prefiero las 5 y 36, porque como chambeo, si quieres estar en la reuniÃ³n.
+
+25:06 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Me dejo que yo no chambeo, escuchaste.
+
+25:10 - Alonso Aguila
+  Yo le doy mis ingresos a Don Ofre, sÃ­ que tengo que estar en la oficina por allÃ¡. Oye, Don Ofre, deberÃ­a patrocinarnos, voy a hacer mi helado.
+
+25:23 - Alejandro juan Loayza jordan
+  Me estoy apuntando ahorita, Â¿eh? Para no carla, no. Ya, 5 y media a 6, mismos correos. SÃ­, de hecho, Â¿no les llegÃ³ la invitaciÃ³n anterior, chicos?
+
+25:42 - Alonso Aguila
+  SÃ­, sÃ­, sÃ­, a mÃ­, solo que yo soy medio boomer con el Gmail, pero sÃ­, al final la encontrÃ©.  SÃ­, dale, dale, no problema, ya.
+
+25:49 - Alejandro juan Loayza jordan
+  Lo acabo de crear, Â¿eh? Vale. Rego a Alonso y a Vox, ya, y ahÃ­ se lo voy a cambiar, Â¿eh?  Para que no me digan tampoco que estÃ¡ desactualizado, ya. SÃ­, eso, eso. Y de verdad yo, una cosa final que voy decir es, yo tengo que lidiar con gente que me jode porque, oye, pero precio, precio, yo no tengo ningÃºn problema con libros, porque al final creo que una forma seria o formal de decirle a alguien que algo escapa del presupuesto es decirle, oye, estos son mis libros, estos son mis costos, estos son mis mÃ¡rgenes, busquemos algo que funcione en ese umbral.  Obviamente estoy yÃ©ndome al caso de que salga del margen que puedo manejar, pero tengo toda la intenciÃ³n de hacer que algo, que esto funcione de una u otra forma, con toda la seriedad y transparencia del mundo, porque yo odio cuando la gente se pone X, que yo se comido con precios y no querrÃ­a hacer lo mismo de vuelta, porque creo que es.
+
+26:48 - Alonso Aguila
+  No te preocupes. Al final la idea, la idea, o sea, no es venderte un enlatado, lo bueno de Santiago es que no te vende o no vendemos un enlatado, sino adaptamos la propuesta a lo que el cliente,  Te necesita, no necesariamente se hace, digamos, toma esto con todo el paquete, sino se va armando nuevamente a lo que tÃº necesitas, porque la idea, sobre todo, es que tÃº tengas o que pruebes que en realidad el servicio te va a ayudar mÃ¡s que a generar mÃ¡s, como bien dices, interacciones o demÃ¡s o nuevos leads, realmente pues a dar el nivel de servicio que hoy por hoy tu propuesta de valor ofrece.  Entonces, tranquilo, que por ese lado no es nada tan elevado y la idea es que ya Santiago en el siguiente reuniÃ³n te muestre un poco hacia dÃ³nde podemos llegar, Â¿no?
+
+27:39 - Alejandro juan Loayza jordan
+  Dale, dale. SÃ­, sÃ­, se puede dar a toda la intenciÃ³n del mundo. Un abrazo. Un abrazo.
+
+27:45 - Alonso Aguila
+  no hay de quÃ©.
+
+27:47 - Alejandro juan Loayza jordan
+  Sorry por la demora una vez mÃ¡s. No te preocupes.
+
+27:50 - Alonso Aguila
+  No, no te preocupes, Alejandro.
+
+27:52 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Dale.
+
+27:53 - Alonso Aguila
+  Un abrazo. Ya nos estamos viendo, chicos.
+
+27:54 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Hasta luego. CuÃ­dense. Chao, chao.
+
+27:56 - Alonso Aguila
+  Un abrazo.

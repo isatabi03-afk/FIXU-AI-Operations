@@ -1,0 +1,505 @@
+{
+  "name": "food_analytic_tool",
+  "nodes": [
+    {
+      "parameters": {
+        "workflowInputs": {
+          "values": [
+            {
+              "name": "phone"
+            },
+            {
+              "name": "patient_dni"
+            },
+            {
+              "name": "context_date"
+            },
+            {
+              "name": "timezone"
+            },
+            {
+              "name": "user_text"
+            },
+            {
+              "name": "image_analysis_json"
+            },
+            {
+              "name": "label_text"
+            },
+            {
+              "name": "plan_json"
+            },
+            {
+              "name": "conversation_id"
+            },
+            {
+              "name": "message_id"
+            },
+            {
+              "name": "meal_hint"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.executeWorkflowTrigger",
+      "typeVersion": 1.1,
+      "position": [
+        -1360,
+        352
+      ],
+      "id": "ac69aab8-9ce7-4ed5-aac7-609012cddc46",
+      "name": "When Executed by Another Workflow"
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "value": "gpt-5-mini",
+          "mode": "list",
+          "cachedResultName": "GPT-5-MINI"
+        },
+        "responses": {
+          "values": [
+            {
+              "content": "=# INPUT\n\n1. Texto del paciente (`user_text`): {{ $('When Executed by Another Workflow').first().json.user_text }}\n2. Resumen de imagen (si existe): \n{{ JSON.stringify($json.image_analysis || {}) }}\n3. Texto de etiqueta (si existe): {{$json.label_text_norm || 'N/A'}}\n4. Tipo de comida: {{$json.food_type || 'UNKNOWN'}}\n5. Ingredientes: {{ JSON.stringify($json.search_terms?.ingredients || []) }}\n6. Decision previa (`clasify`): {{$json.decision || 'CONTINUE'}}\n7. `stop_reason_code` (**solo si aplica**): {{$json.stop_reason_code || 'N/A'}}\n8. `response_text_prearmado` (**si decision=\"STOP_AND_REPLY\"**): \n{{$json.response_text_raw || $json.raw_llm_json?.response_text || ''}}\n9. `mensaje_listo_para_paciente_prev` (fallback directo): {{$json.mensaje_listo_para_paciente || $json.final_reply_text || ''}}\n10. `resumen_para_rommy_prev` (fallback DE contexto): {{$json.resumen_para_rommy_text || ''}}\n\n# PLAN VIGENTE\n\nPlan nutricional (`plan_json`) vigente normalizado con targets, porciones por comida, reglas, alternativas (street food, sabrosuras), etc:\n- {{$json.plan_context_json}}\n\n# CONTEXTO\n\n1. Resumen estructurado de lo que aparece en la foto (`image_analysis_json`):\n{{ $('When Executed by Another Workflow').first().json.image_analysis_json.toJsonString() }}\n2. Texto de la etiqueta nutricional (`label_text`): {{ $('When Executed by Another Workflow').first().json.label_text || 'N/A' }}\n3. - Fecha actual: {{ $now.setZone('America/Lima').format('yyyy-MM-dd') }}\n   - Hora actual: {{ $now.setZone('America/Lima').format('HH:mm') }}\n   - DÃ­a actual: {{ $now.setZone('America/Lima').format('cccc') }}\n\n# FLAGS PREVIAS\n\n1. packaged_product: {{$json.packaged_product}}\n2. packaged_needs_label: {{$json.packaged_needs_label}}\n3. packaged_needs_grams: {{$json.packaged_needs_grams}}\n4. packaged_questions: {{ JSON.stringify($json.packaged_clarifying_questions || []) }}\n\n\n"
+            },
+            {
+              "role": "system",
+              "content": "=# ROL\n\nSos un nutricionista asistente de seguimiento. Tu tarea es analizar comidas reportadas por texto y/o foto (resumen de imagen), validar SIEMPRE contra el plan vigente del paciente, que llega en `plan_json` y consultar informaciÃ³n **Ãºnicamente** de la base de datos de alimentos segÃºn el tipo de comida para realizar el anÃ¡lisis nutricional.\n\n# TAREA\n\nGenerar una respuesta 100% textual, humanizada y accionable, lista para reenviar al profesional para que continÃºe la conversaciÃ³n con el paciente.\n**NO devuelvas JSON. NO uses markdown con bloques de cÃ³digo. NO uses backticks**.\n\n# REGLAS CRÃTICAS\n\n1) Si `decision` = \"STOP_AND_REPLY\":\n   - Si `response_text_prearmado` NO estÃ¡ vacÃ­o y NO es \"N/A\": DevolvÃ© EXACTAMENTE esta misma informaciÃ³n en formato textual (sin objeto/schema JSON).\n   - Si `response_text_prearmado` estÃ¡ vacÃ­o o es \"N/A\": NO devuelvas \"N/A\". ConstruÃ­ la salida en el FORMATO DE SALIDA OBLIGATORIO usando:\n        - MENSAJE_LISTO_PARA_PACIENTE: `mensaje_listo_para_paciente_prev` (si estÃ¡ vacÃ­o, armalo con `packaged_questions`)\n        - RESUMEN_PARA_ROMMY: `resumen_para_rommy_prev` (si estÃ¡ vacÃ­o, resumÃ­ con `stop_reason_code` + `ingredients` + quÃ© falta)\n        - DATOS_PARA_TRACKER: UsÃ¡ informaciÃ³n disponbible de `packaged_needs_label`, `packaged_needs_grams` y/o `datos_para_tracker.missing`\n        - ACCION_RECOMENDADA: ASK_MORE_INFO\n        - PREGUNTAS_PENDIENTES: listar `packaged_questions` (si no hay, inventariar 2â€“3 preguntas mÃ­nimas segÃºn el faltante)\n        - FLAGS: incluir flags previas (packaged_*) y/o derivarlas desde `stop_reason_code`\n2) NO inventes datos. Si falta cantidad/ingredientes, pedÃ­ 1 a 3 preguntas concretas (mÃ¡ximo 3).\n3) Si `plan_json.plan_status != \"SENT\"`:\n   - NO des recomendaciones especÃ­ficas de porciones/macros ni compensaciones.\n   - IndicÃ¡ que el plan no estÃ¡ confirmado.\n   - MarcÃ¡ que se debe escalar o pedir confirmaciÃ³n del plan.\n4) Producto envasado:\n   - Si `packaged_product=true` y falta informaciÃ³n clave (tabla o gramos), no estimes macros.\n   - PedÃ­ exactamente: foto del frente + foto de la tabla nutricional + cantidad consumida (g/ml o unidades).\n5) ValidaciÃ³n contra el plan:\n   - Si el plan define porciones por comida (carbos/proteÃ­nas/grasas), alineÃ¡ tu feedback a esas porciones.\n   - Si hay â€œstreet food/sabrosuras/postres/adicional entrenamientoâ€ en el plan, usalo cuando aplique.\n6) ValidaciÃ³n contra las bases de datos de comida:\n   - UsÃ¡ `street_food_db` cuando el tipo de comida sea \"STREET_FOOD\" o \"PACKAGED\"\n   - UsÃ¡ `food_db` cuando el tipo de comida sea \"HOME_COOKED\"\n   - **IMPORTANTE**: Estas bases de datos son tu **Ãºnica fuente de verdad** para el anÃ¡lisis nutricional.\n7) Seguridad:\n   - Si detectÃ¡s sÃ­ntomas graves o riesgo mÃ©dico (alergia fuerte, desmayo, vÃ³mitos persistentes, dolor fuerte, etc.), NO des consejo mÃ©dico: marcÃ¡ â€œriesgo mÃ©dicoâ€ y sugerÃ­ escalar.\n8) Tono:\n   - Claro, humano, sin culpa, directo y accionable.\n   - EvitÃ¡ discursos largos. MÃ¡ximo 8-12 lÃ­neas para el mensaje al paciente.\n\n- **REGLA OBLIGATORIA: PROHIBIDO** responder con \"N/A\", vacÃ­o, o placeholders. Si faltan datos o hubo error, igual devolvÃ© una salida vÃ¡lida con:\n   - MENSAJE_LISTO_PARA_PACIENTE con el prÃ³ximo paso claro\n   - ACCION_RECOMENDADA coherente (ASK_MORE_INFO o ESCALATE_TO_HUMAN)\n\n# ENTRADAS (Inputs)\n\n- user_text: texto del paciente\n- image_analysis_json: (puede estar vacÃ­o) resumen de lo que aparece en la foto\n- label_text: (puede estar vacÃ­o) texto de etiqueta nutricional\n- packaged_product / packaged_needs_label / packaged_needs_grams: flags previos\n- plan_json: plan vigente normalizado (targets, porciones, reglas, extras)\n- context_date/timezone: para contextualizar â€œhoyâ€\n\n# HERRAMIENTAS\n\nLas herramientas son tu **ÃšNICA FUENTE DE VERDAD OBLIGATORIA** que siempre debes consultar para hacer un anÃ¡lisis nutricional segÃºn el tipo de comida:\n1. `street_food_db`: Base de datos de alimentos de comida callejera, restaurantes, comida preparada, rÃ¡pida, de baja calidad, procesada y ultraprocesada.\n2. `food_db`: Base de datos de alimentos naturales e ingredientes individuales con porciones y macronutrientes; alimentos enteros, integrales, ingredientes de casa y naturales, comidas de \"calidad\", lo mÃ¡s habitual del dÃ­a a dÃ­a.\n\nUsÃ¡ estas bases de datos para realizar anÃ¡lisis y cÃ¡lculos nutricionales, macronutrientes y responder **solo en base a datos reales**.\n\n# FORMATO DE SALIDA (OBLIGATORIO) â€” TEXTO\n\nDevolvÃ© EXACTAMENTE con estas secciones, en este orden, y en texto plano:\n\n1) ROMMY_STATUS:\n- Estado: OK | NEEDS_CLARIFICATION | PLAN_NOT_READY | ESCALATE\n- Motivo breve (1 lÃ­nea)\n\n2) MENSAJE_LISTO_PARA_PACIENTE:\nUn Ãºnico texto listo para enviar por WhatsApp (humano y natural).\n- Si falta info: pedÃ­ 1â€“3 cosas concretas en formato checklist.\n- Si estÃ¡ ok: validÃ¡ y sugerÃ­ el siguiente paso simple.\n\n3) RESUMEN_PARA_ROMMY (interno, corto):\n- Comida detectada: (desayuno/media_manana/almuerzo/media_tarde/cena/unknown) + confianza (0-1)\n- Items detectados: lista breve (con porciones si las inferÃ­s)\n- Â¿Producto envasado?: sÃ­/no\n- AlineaciÃ³n con plan: ON_PLAN | ADJUST | OFF_PLAN | UNKNOWN + razÃ³n breve\n\n4) DATOS_PARA_TRACKER (si aplica):\n- Si podÃ©s estimar con base suficiente:\n  kcal: X | proteÃ­nas: Xg | carbs: Xg | grasas: Xg | confianza: 0-1\n- Si NO podÃ©s estimar: â€œNo estimable â€” falta: â€¦â€\n\n5) ACCION_RECOMENDADA (para el workflow):\n- AcciÃ³n: LOG_MEAL | ASK_MORE_INFO | ESCALATE_TO_HUMAN | WAIT_FOR_PLAN\n- Â¿Loguear comida?: sÃ­/no\n- Â¿Sumar al tracker?: sÃ­/no\n\n6) PREGUNTAS_PENDIENTES (si aplica):\n- 1)\n- 2)\n- 3)\n\n7) FLAGS:\n- needs_escalation: true/false\n- medical_risk: true/false\n- notas (si hay)\n\n# IMPORTANTE\n- No agregues ninguna secciÃ³n fuera de las 7.\n- No uses JSON en ninguna parte.\n- No inventes macros si faltan datos clave; **Solo para obtener informaciÃ³n nutricional (macronutrientes, cantidades y calorÃ­as) usÃ¡ las bases de alimentos como fuentes de verdad Ãºnica: `street_food_db` y `food_db`.\n- RealizÃ¡ la comparaciÃ³n final contra el plan vigente del paciente **solo usando datos reales**; cÃ¡lculo de macronutrientes y anÃ¡lisis nutricional 100% real.\n- Elimina de manera definitiva el caracter guiÃ³n alto `-` en medio de una respuesta o partes que no corresponda; preferiblemente utiliza `,`."
+            }
+          ]
+        },
+        "builtInTools": {},
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.openAi",
+      "typeVersion": 2,
+      "position": [
+        -576,
+        352
+      ],
+      "id": "bddc4326-8974-4576-9797-78e33080c495",
+      "name": "ai_analysis",
+      "credentials": {
+        "openAiApi": {
+          "id": "LIjLWhC0Dh7UhHwu",
+          "name": "OPEN AI Fixu Test"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "function includesAny(text, arr) {\n  return arr.some(k => text.includes(k));\n}\n\nreturn items.map((item) => {\n  const j = item.json || {};\n  const warnings = [...(j.warnings || [])];\n\n  const userText = (j.user_text_norm || \"\").toLowerCase();\n  const labelText = (j.label_text_norm || \"\").toLowerCase();\n  const image = j.image_analysis || {};\n\n  const labelLooksReal =\n    labelText.length >= 40 ||\n    /por\\s*100\\s*g|porci[oÃ³]n|energ[iÃ­]a|kcal|prote[iÃ­]nas|carbohidratos|grasas|sodio/.test(labelText);\n\n  const packagedKeywords = [\n    \"tabla nutricional\", \"por 100\", \"porciÃ³n\", \"porcion\", \"kcal\", \"proteinas\", \"carbohidratos\", \"grasas\",\n    \"yogurt\", \"galletas\", \"barra\", \"cereal\", \"snack\", \"gatorade\", \"bebible\", \"light\", \"pack\", \"paquete\",\n    \"lata\", \"botella\", \"envase\", \"etiqueta\"\n  ];\n\n  const imageHintsPackaged =\n    image?.packaging_detected === true ||\n    (typeof image?.type === \"string\" && image.type.toLowerCase().includes(\"label\"));\n\n  const packaged_product = labelLooksReal || includesAny(userText, packagedKeywords) || imageHintsPackaged;\n\n  // Â¿falta lo mÃ­nimo para calcular?\n  const hasGramsHint = /\\b(\\d+)\\s*(g|gr|gramos|ml|mililitros)\\b/.test(userText) || /\\b(\\d+)\\s*(g|gr|gramos|ml)\\b/.test(labelText);\n  const needs_label = packaged_product && !labelLooksReal;\n  const needs_grams = packaged_product && !hasGramsHint;\n\n  const clarifying_questions = [];\n  if (packaged_product) {\n    if (needs_label) {\n      clarifying_questions.push(\"Â¿Me mandÃ¡s foto del frente del producto y otra de la tabla nutricional?\");\n    }\n    if (needs_grams) {\n      clarifying_questions.push(\"Â¿CuÃ¡nta cantidad consumiste? (gramos o ml, o si fue 1 unidad indicame tamaÃ±o/peso)\");\n    }\n  }\n\n  // Si detectÃ³ packaged pero no tiene nada Ãºtil, avisar\n  if (packaged_product && needs_label && needs_grams) {\n    warnings.push(\"Producto envasado detectado, pero faltan tabla nutricional y cantidad consumida.\");\n  }\n\n  return {\n    json: {\n      ...j,\n      packaged_product,\n      packaged_needs_label: needs_label,\n      packaged_needs_grams: needs_grams,\n      packaged_clarifying_questions: clarifying_questions,\n      warnings\n    }\n  };\n});\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -640,
+        16
+      ],
+      "id": "be92bd89-de1b-4f12-b03f-9988dd16bafa",
+      "name": "detect_packaged_product",
+      "disabled": true
+    },
+    {
+      "parameters": {
+        "jsCode": "const qs = $json.packaged_clarifying_questions || [];\nconst checklist = qs.length\n  ? qs.map((q, i) => `- ${i+1}) ${q}`).join('\\n')\n  : `- 1) Foto del frente del producto\\n- 2) Foto de la tabla nutricional\\n- 3) Cantidad consumida (g/ml o unidades)`;\n\nconst msg =\n`- InformaciÃ³n relevante Rommy:\n- Estado: NEEDS_CLARIFICATION\n- Motivo: Producto envasado sin datos suficientes (tabla y/o cantidad)\n\n- **MENSAJE_LISTO_PARA_PACIENTE**:\nÂ¡De una! Para calcularlo bien necesito 3 cositas:\n${checklist}\n\nCon eso te digo exacto si entra en tu plan y cuÃ¡nto suma en el dÃ­a âœ…\n\n- RESUMEN: (informaciÃ³n interna):\n  â€¢ Comida detectada: ${$json.detected_meal || 'unknown'} (0.55)\n  â€¢ Items detectados: producto envasado (pendiente)\n  â€¢ Â¿Producto envasado?: sÃ­\n  â€¢ AlineaciÃ³n con plan: DESCONOCIDO â€” falta etiqueta y/o gramos\n\n- DATOS_PARA_TRACKER (si aplica):\nNo estimable â€” falta: etiqueta nutricional y/o cantidad consumida\n\n- ACCION_RECOMENDADA:\n  â€¢ AcciÃ³n: ASK_MORE_INFO = Solicitar mÃ¡s informaciÃ³n\n  â€¢ Â¿Loguear comida?: no\n  â€¢ Â¿Sumar al tracker?: no\n\n- PREGUNTAS_PENDIENTES (si aplica):\n${qs.length ? qs.map((q,i)=>`- ${i+1}) ${q}`).join('\\n') : '- 1) Foto del frente\\n- 2) Tabla nutricional\\n- 3) Cantidad consumida'}`;\n\nreturn [{ json: { response_text: msg } }];\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        0,
+        0
+      ],
+      "id": "e45741bb-983d-41c5-9f0a-882a70246ba0",
+      "name": "packaged_missing_info?",
+      "disabled": true
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "60821d6b-32a9-488c-9150-aad2e8c708cb",
+              "leftValue": "={{ $('detect_packaged_product').first().json.packaged_product }}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "equals"
+              }
+            },
+            {
+              "id": "06835334-bce8-429f-848b-199deec09f64",
+              "leftValue": "={{ ( $('detect_packaged_product').first().json.packaged_needs_label === true || $('detect_packaged_product').first().json.packaged_needs_grams === true) }}",
+              "rightValue": "",
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        -240,
+        16
+      ],
+      "id": "ad8db5f2-50a5-4407-aaa1-fc4ae4f3f2da",
+      "name": "should_skip_llm?",
+      "disabled": true
+    },
+    {
+      "parameters": {
+        "jsCode": "// n8n Code node (JavaScript) â€” format_response (robusto post ai_analysis)\n// Objetivo: SIEMPRE devolver campos consistentes y \"reply_text\" listo para workflow main.\n\nfunction normalizeNewlines(s) {\n  return (s ?? \"\").toString().replace(/\\r\\n/g, \"\\n\").replace(/\\r/g, \"\\n\");\n}\n\nfunction stripDiacritics(s) {\n  return (s ?? \"\")\n    .toString()\n    .normalize(\"NFD\")\n    .replace(/[\\u0300-\\u036f]/g, \"\");\n}\n\nfunction toSnakeKey(s) {\n  return stripDiacritics(s)\n    .toLowerCase()\n    .trim()\n    .replace(/[Â¿?]/g, \"\")\n    .replace(/[()]/g, \"\")\n    .replace(/[^\\w\\s-]/g, \"\")\n    .replace(/[\\s-]+/g, \"_\")\n    .replace(/^_+|_+$/g, \"\");\n}\n\nfunction safeTrim(s) {\n  return (s ?? \"\").toString().trim();\n}\n\nfunction isPlaceholder(s) {\n  const v = safeTrim(s).toUpperCase();\n  return !v || v === \"N/A\" || v === \"NA\" || v === \"NULL\" || v === \"UNDEFINED\";\n}\n\nfunction coerceNumberLike(v) {\n  const raw = safeTrim(v);\n  if (!raw) return { ok: false, value: v };\n  const cleaned = raw\n    .replace(/\\s/g, \"\")\n    .replace(/(\\d)\\.(\\d{3})(\\D|$)/g, \"$1$2$3\") // miles con punto\n    .replace(/(\\d),(?=\\d{3}(\\D|$))/g, \"$1\")   // miles con coma\n    .replace(\",\", \".\");                      // decimal coma -> punto\n\n  if (!/^-?\\d+(\\.\\d+)?$/.test(cleaned)) return { ok: false, value: v };\n  const num = Number(cleaned);\n  if (!Number.isFinite(num)) return { ok: false, value: v };\n  return { ok: true, value: num };\n}\n\nfunction coerceBool(valueStr) {\n  const v = safeTrim(valueStr).toLowerCase();\n  if (!v) return { value: valueStr };\n\n  if (v === \"true\") return { value: true };\n  if (v === \"false\") return { value: false };\n\n  if (v === \"si\" || v === \"sÃ­\") return { value: true };\n  if (v === \"no\") return { value: false };\n\n  return { value: valueStr };\n}\n\nfunction stripCodeFences(text) {\n  const t = normalizeNewlines(text).trim();\n  const m = t.match(/^```(?:json)?\\s*\\n([\\s\\S]*?)\\n```$/i);\n  if (m) return m[1].trim();\n  return t;\n}\n\n/**\n * Extrae texto del output tÃ­pico (OpenAI / LLM chain / etc.)\n */\nfunction extractAnalyzerText(input) {\n  const candidates = [\n    input?.output?.[0]?.content?.[0]?.text,\n    input?.output?.[0]?.text,\n    input?.content?.[0]?.text,\n    input?.text,\n    input?.message,\n  ];\n\n  for (const c of candidates) {\n    if (typeof c === \"string\" && c.trim()) return c;\n  }\n\n  if (Array.isArray(input?.output)) {\n    for (const out of input.output) {\n      const t = out?.content?.[0]?.text;\n      if (typeof t === \"string\" && t.trim()) return t;\n    }\n  }\n\n  return \"\";\n}\n\n/**\n * Extrae primer JSON substring (obj/array) desde texto con basura alrededor.\n * Balanceo bÃ¡sico respetando strings.\n */\nfunction extractFirstJsonSubstring(raw) {\n  const s = stripCodeFences(raw);\n  if (!s) return null;\n\n  const starts = [];\n  for (let i = 0; i < s.length; i++) {\n    const c = s[i];\n    if (c === \"{\" || c === \"[\") starts.push(i);\n  }\n  if (!starts.length) return null;\n\n  const tryFrom = (startIdx) => {\n    const open = s[startIdx];\n    const close = open === \"{\" ? \"}\" : \"]\";\n    let depth = 0;\n    let inStr = false;\n    let esc = false;\n\n    for (let i = startIdx; i < s.length; i++) {\n      const ch = s[i];\n\n      if (inStr) {\n        if (esc) esc = false;\n        else if (ch === \"\\\\\") esc = true;\n        else if (ch === \"\\\"\") inStr = false;\n        continue;\n      }\n\n      if (ch === \"\\\"\") {\n        inStr = true;\n        continue;\n      }\n\n      if (ch === open) depth++;\n      if (ch === close) depth--;\n\n      if (depth === 0) return s.slice(startIdx, i + 1).trim();\n    }\n    return null;\n  };\n\n  for (const idx of starts) {\n    const candidate = tryFrom(idx);\n    if (!candidate) continue;\n    if (\n      (candidate.startsWith(\"{\") && candidate.endsWith(\"}\")) ||\n      (candidate.startsWith(\"[\") && candidate.endsWith(\"]\"))\n    ) return candidate;\n  }\n  return null;\n}\n\nfunction tryParseJsonLoose(text) {\n  const t = stripCodeFences(text).trim();\n  if (!t) return { ok: false, value: null };\n\n  const looksJson = (t.startsWith(\"{\") && t.endsWith(\"}\")) || (t.startsWith(\"[\") && t.endsWith(\"]\"));\n  if (looksJson) {\n    try { return { ok: true, value: JSON.parse(t) }; } catch (_) {}\n  }\n\n  const sub = extractFirstJsonSubstring(t);\n  if (sub) {\n    try { return { ok: true, value: JSON.parse(sub) }; } catch (_) {}\n  }\n\n  return { ok: false, value: null };\n}\n\n/**\n * Split de secciones robusto:\n * Soporta:\n * - \"1) TITULO: ...\" (con valor inline o body abajo)\n * - \"TITULO_EN_MAYUS: ...\" (con valor inline o body abajo)\n */\nfunction splitSections(fullText) {\n  const text = normalizeNewlines(fullText).trim();\n  if (!text) return [{ title: \"RAW\", body: \"\" }];\n\n  const lines = text.split(\"\\n\");\n  const headers = [];\n\n  const isUpperHeader = (line) => {\n    // evita \"Hola:\" / frases normales:\n    // requiere mayormente MAYÃšSCULA / _ / nÃºmeros / separadores\n    // y un mÃ­nimo de longitud Ãºtil.\n    return /^([A-ZÃÃ‰ÃÃ“ÃšÃœÃ‘0-9_][A-ZÃÃ‰ÃÃ“ÃšÃœÃ‘0-9_ \\-/]{2,80})\\s*:\\s*(.*)$/.test(line);\n  };\n\n  for (let i = 0; i < lines.length; i++) {\n    const raw = lines[i];\n    const line = raw.trim();\n    if (!line) continue;\n\n    // 1) Numerado: \"1) TITULO: resto?\"\n    let m = line.match(/^(\\d+)\\)\\s*([^\\n:]{2,80})\\s*:\\s*(.*)$/);\n    if (m) {\n      headers.push({\n        lineIndex: i,\n        title: m[2].trim(),\n        inline: m[3] ?? \"\",\n        kind: \"numbered\",\n      });\n      continue;\n    }\n\n    // 2) MayÃºscula (o estilo KEY): \"ROMMY_STATUS: resto?\"\n    m = line.match(/^([A-ZÃÃ‰ÃÃ“ÃšÃœÃ‘0-9_][A-ZÃÃ‰ÃÃ“ÃšÃœÃ‘0-9_ \\-/]{2,80})\\s*:\\s*(.*)$/);\n    if (m && isUpperHeader(line)) {\n      headers.push({\n        lineIndex: i,\n        title: m[1].trim(),\n        inline: m[2] ?? \"\",\n        kind: \"plain\",\n      });\n      continue;\n    }\n  }\n\n  if (!headers.length) return [{ title: \"RAW\", body: text }];\n\n  const sections = [];\n  for (let h = 0; h < headers.length; h++) {\n    const cur = headers[h];\n    const next = headers[h + 1];\n\n    const bodyStartLine = cur.lineIndex + 1;\n    const bodyEndLine = next ? next.lineIndex : lines.length;\n\n    const bodyLines = [];\n\n    // si el header vino con \"inline value\", lo agregamos como primera lÃ­nea del body\n    if (safeTrim(cur.inline)) bodyLines.push(cur.inline);\n\n    // sumamos lÃ­neas siguientes hasta el prÃ³ximo header\n    const rest = lines.slice(bodyStartLine, bodyEndLine);\n    const restJoined = rest.join(\"\\n\").trim();\n    if (restJoined) bodyLines.push(restJoined);\n\n    sections.push({ title: cur.title, body: bodyLines.join(\"\\n\").trim() });\n  }\n\n  return sections.length ? sections : [{ title: \"RAW\", body: text }];\n}\n\nfunction parseQuestionsFlexible(sectionBody) {\n  const t = normalizeNewlines(sectionBody).trim();\n  if (!t) return [];\n\n  // Caso 1: ya viene con saltos de lÃ­nea/bullets\n  const lines = t.split(\"\\n\").map(x => x.trim()).filter(Boolean);\n  const hasLineStyle = lines.length > 1 || lines.some(l => l.startsWith(\"-\") || /^\\d+\\)/.test(l));\n  if (hasLineStyle) {\n    const questions = [];\n    for (const line of lines) {\n      const bullet = line.match(/^\\-\\s*(.+)$/);\n      const content = bullet ? bullet[1].trim() : line;\n      const q = content.replace(/^\\d+\\)\\s*/, \"\").trim();\n      if (q) questions.push(q);\n    }\n    return questions;\n  }\n\n  // Caso 2: todo en una lÃ­nea: \"1) ... 2) ... 3) ...\"\n  const one = t.replace(/\\s+/g, \" \").trim();\n  const matches = [];\n  const re = /(?:^|\\s)(\\d+)\\)\\s*([\\s\\S]*?)(?=(?:\\s\\d+\\)\\s)|$)/g;\n  let m;\n  while ((m = re.exec(one)) !== null) {\n    const q = safeTrim(m[2]).replace(/\\s*;\\s*$/, \"\").trim();\n    if (q) matches.push(q);\n  }\n  if (matches.length) return matches;\n\n  // Caso 3: separados por \";\"\n  const parts = one.split(\";\").map(x => x.trim()).filter(Boolean);\n  if (parts.length > 1) return parts;\n\n  return one ? [one] : [];\n}\n\nfunction parseFlagsFlexible(sectionBody) {\n  const t = normalizeNewlines(sectionBody).trim();\n  const out = { list: [], kv: {} };\n  if (!t) return out;\n\n  const cleaned = t\n    .replace(/^\\-\\s*/gm, \"\")\n    .replace(/\\s+/g, \" \")\n    .trim();\n\n  const parts = cleaned\n    .split(/;|\\n|\\|/g)\n    .map(p => p.trim())\n    .filter(Boolean);\n\n  for (const p of parts) {\n    // soporta \"a=b\" y \"A\" simples\n    const eq = p.match(/^([^=]{1,80})=(.+)$/);\n    if (eq) {\n      const k = toSnakeKey(eq[1]);\n      const vRaw = eq[2].trim();\n\n      // bool/number/string\n      const b = coerceBool(vRaw);\n      let v = b.value;\n      const n = coerceNumberLike(vRaw);\n      if (n.ok) v = n.value;\n\n      out.kv[k] = v;\n      out.list.push(`${k}=${typeof v === \"string\" ? v : String(v)}`);\n    } else {\n      out.list.push(p);\n    }\n  }\n\n  // uniq list\n  out.list = [...new Set(out.list)];\n  return out;\n}\n\nfunction parseSingleValue(sectionBody) {\n  const t = normalizeNewlines(sectionBody).trim();\n  if (!t) return null;\n  const one = t.split(\"\\n\").map(x => x.trim()).filter(Boolean);\n  if (one.length === 1) return one[0];\n  return t;\n}\n\nfunction pickFirst(obj, keys) {\n  for (const k of keys) {\n    const v = obj?.[k];\n    if (v !== undefined && v !== null && String(v).trim() !== \"\") return v;\n  }\n  return null;\n}\n\nfunction extractSectionFallback(rawText, keyName) {\n  // captura header con inline o multiline hasta el prÃ³ximo header MAYÃšSCULA o fin.\n  const t = normalizeNewlines(rawText);\n  const keyEsc = keyName.replace(/[.*+?^${}()|[\\]\\\\]/g, \"\\\\$&\");\n  const re = new RegExp(\n    `${keyEsc}\\\\s*:\\\\s*([\\\\s\\\\S]*?)(?=\\\\n[A-ZÃÃ‰ÃÃ“ÃšÃœÃ‘0-9_][A-ZÃÃ‰ÃÃ“ÃšÃœÃ‘0-9_ \\\\-/]{2,80}\\\\s*:\\\\s*|$)`,\n    \"g\"\n  );\n  const m = re.exec(t);\n  return m ? safeTrim(m[1]) : \"\";\n}\n\nfunction deriveStopAndStatus(statusText, actionText, replyText) {\n  const s = safeTrim(statusText).toUpperCase();\n  const a = safeTrim(actionText).toUpperCase();\n\n  const stop =\n    [\"NEEDS_CLARIFICATION\", \"ERROR\", \"FAIL\", \"FAILED\"].includes(s) ||\n    [\"ASK_MORE_INFO\", \"ESCALATE_TO_HUMAN\", \"ERROR\", \"STOP\"].includes(a);\n\n  const status =\n    stop ? (s || \"NEEDS_CLARIFICATION\")\n         : (s || \"OK\");\n\n  // success: si tengo replyText utilizable (aunque sea error/clarification)\n  const success = !isPlaceholder(replyText);\n\n  return { stop, status, success };\n}\n\nreturn items.map((item) => {\n  const input = item.json || {};\n  const warnings = [];\n\n  // 1) Extraer texto bruto de ai_analysis\n  let rawText = extractAnalyzerText(input);\n  rawText = stripCodeFences(rawText);\n\n  if (isPlaceholder(rawText)) {\n    warnings.push(\"ai_analysis devolviÃ³ texto vacÃ­o/placeholder (N/A).\");\n  }\n\n  // 2) Si vino JSON, intentamos mapear o extraer 'response_text'\n  const jsonTry = tryParseJsonLoose(rawText);\n  let textForParsing = rawText;\n  let directObj = null;\n\n  if (jsonTry.ok) {\n    const parsed = jsonTry.value;\n\n    // si es objeto con campos finales (o response_text)\n    if (parsed && typeof parsed === \"object\" && !Array.isArray(parsed)) {\n      const maybeResponseText =\n        parsed.response_text ?? parsed.responseText ?? parsed.text ?? parsed.output_text ?? parsed.message ?? null;\n\n      if (typeof maybeResponseText === \"string\" && safeTrim(maybeResponseText)) {\n        textForParsing = maybeResponseText;\n      } else {\n        directObj = parsed;\n      }\n    }\n\n    // si es array, intentar primer objeto\n    if (Array.isArray(parsed) && parsed.length) {\n      const firstObj = parsed.find(x => x && typeof x === \"object\") || null;\n      if (firstObj?.response_text) textForParsing = firstObj.response_text;\n      else if (firstObj && !directObj) directObj = firstObj;\n    }\n  }\n\n  // 3) Armar salida base (siempre consistente)\n  const out = {\n    // passthrough IDs si estuvieran\n    phone: pickFirst(input, [\"phone\"]),\n    patient_dni: pickFirst(input, [\"patient_dni\"]),\n    patient_key: pickFirst(input, [\"patient_key\"]),\n    timezone: pickFirst(input, [\"timezone\"]),\n    context_date: pickFirst(input, [\"context_date\"]),\n    conversation_id: pickFirst(input, [\"conversation_id\"]),\n    message_id: pickFirst(input, [\"message_id\"]),\n\n    // campos textuales â€œpara el workflow mainâ€\n    final_reply_text: \"\",\n    reply_text: \"\",\n    rommy_status_text: \"\",\n    accion_recomendada_text: \"\",\n    resumen_para_rommy_text: \"\",\n    datos_para_tracker_text: \"\",\n    preguntas_pendientes: [],\n    flags_list: [],\n    flags_kv: {},\n\n    // routing\n    stop: false,\n    status: \"UNKNOWN\",\n    success: false,\n\n    // debug\n    raw_text: textForParsing,\n    raw_sections: {},\n    warnings,\n    // opcional: objeto directo si el modelo devolviÃ³ JSON estructurado\n    raw_llm_json: directObj,\n  };\n\n  // 4) Si el modelo devolviÃ³ JSON ya â€œfinalâ€, mergeamos y salimos (pero igual garantizamos los *_text)\n  if (directObj && typeof directObj === \"object\") {\n    Object.assign(out, directObj);\n\n    // normalizaciÃ³n de campos textuales si vienen con otros nombres\n    out.rommy_status_text = safeTrim(\n      out.rommy_status_text || out.rommy_status || out.status_text || out.status\n    );\n\n    out.accion_recomendada_text = safeTrim(\n      out.accion_recomendada_text || out.accion_recomendada || out.action || out.accion\n    );\n\n    out.final_reply_text = safeTrim(\n      out.final_reply_text || out.reply_text || out.mensaje_listo_para_paciente || out.message_to_patient || \"\"\n    );\n    out.reply_text = out.final_reply_text;\n\n    out.resumen_para_rommy_text = safeTrim(\n      out.resumen_para_rommy_text || out.resumen_para_rommy || out.summary_for_rommy || \"\"\n    );\n\n    out.datos_para_tracker_text = safeTrim(\n      out.datos_para_tracker_text || out.datos_para_tracker || out.tracker_text || \"\"\n    );\n\n    // preguntas\n    if (!Array.isArray(out.preguntas_pendientes)) {\n      out.preguntas_pendientes = parseQuestionsFlexible(out.preguntas_pendientes ?? \"\");\n    }\n\n    // flags\n    if (!out.flags_kv || typeof out.flags_kv !== \"object\") out.flags_kv = {};\n    if (!Array.isArray(out.flags_list)) out.flags_list = [];\n\n    const { stop, status, success } = deriveStopAndStatus(\n      out.rommy_status_text,\n      out.accion_recomendada_text,\n      out.reply_text\n    );\n    out.stop = stop;\n    out.status = status;\n    out.success = success;\n\n    if (!out.reply_text) out.reply_text = \"\";\n    if (!out.final_reply_text) out.final_reply_text = out.reply_text;\n\n    return { json: out };\n  }\n\n  // 5) Parsear texto con secciones (inline o multiline)\n  if (isPlaceholder(textForParsing)) {\n    warnings.push(\"No se encontrÃ³ texto utilizable para parsear (textForParsing vacÃ­o/placeholder).\");\n    textForParsing = rawText || \"\";\n  }\n\n  const sections = splitSections(textForParsing);\n\n  for (const sec of sections) {\n    const titleNorm = toSnakeKey(sec.title);\n    out.raw_sections[titleNorm] = sec.body;\n\n    if (titleNorm === \"rommy_status\") {\n      out.rommy_status_text = safeTrim(parseSingleValue(sec.body) || \"\");\n    } else if (titleNorm === \"mensaje_listo_para_paciente\") {\n      out.reply_text = safeTrim(sec.body);\n    } else if (titleNorm === \"resumen_para_rommy\") {\n      out.resumen_para_rommy_text = safeTrim(sec.body);\n    } else if (titleNorm === \"datos_para_tracker\") {\n      out.datos_para_tracker_text = safeTrim(sec.body);\n    } else if (titleNorm === \"accion_recomendada\") {\n      out.accion_recomendada_text = safeTrim(parseSingleValue(sec.body) || \"\");\n    } else if (titleNorm === \"preguntas_pendientes_si_aplica\" || titleNorm === \"preguntas_pendientes\") {\n      out.preguntas_pendientes = parseQuestionsFlexible(sec.body);\n    } else if (titleNorm === \"flags\") {\n      const f = parseFlagsFlexible(sec.body);\n      out.flags_list = f.list;\n      out.flags_kv = f.kv;\n    }\n  }\n\n  // 6) Fallbacks ultra importantes (por si el split fallÃ³ o vino raro)\n  if (!out.rommy_status_text) {\n    out.rommy_status_text = safeTrim(extractSectionFallback(textForParsing, \"ROMMY_STATUS\"));\n  }\n  if (!out.reply_text) {\n    out.reply_text = safeTrim(extractSectionFallback(textForParsing, \"MENSAJE_LISTO_PARA_PACIENTE\"));\n  }\n  if (!out.resumen_para_rommy_text) {\n    out.resumen_para_rommy_text = safeTrim(extractSectionFallback(textForParsing, \"RESUMEN_PARA_ROMMY\"));\n  }\n  if (!out.datos_para_tracker_text) {\n    out.datos_para_tracker_text = safeTrim(extractSectionFallback(textForParsing, \"DATOS_PARA_TRACKER\"));\n  }\n  if (!out.accion_recomendada_text) {\n    out.accion_recomendada_text = safeTrim(extractSectionFallback(textForParsing, \"ACCION_RECOMENDADA\"));\n  }\n  if (!out.preguntas_pendientes?.length) {\n    const qFallback = extractSectionFallback(textForParsing, \"PREGUNTAS_PENDIENTES\");\n    out.preguntas_pendientes = parseQuestionsFlexible(qFallback);\n  }\n  if ((!out.flags_list?.length) && Object.keys(out.flags_kv || {}).length === 0) {\n    const flagsFallback = extractSectionFallback(textForParsing, \"FLAGS\");\n    const f = parseFlagsFlexible(flagsFallback);\n    out.flags_list = f.list;\n    out.flags_kv = f.kv;\n  }\n\n  // 7) Normalizaciones finales\n  out.rommy_status_text = safeTrim(out.rommy_status_text);\n  out.accion_recomendada_text = safeTrim(out.accion_recomendada_text);\n\n  // reply final\n  out.final_reply_text = safeTrim(out.reply_text);\n\n  // si sigue vacÃ­o, NO devolvemos N/A: generamos fallback explÃ­cito\n  if (isPlaceholder(out.final_reply_text)) {\n    // si hay preguntas, armamos mensaje con preguntas; si no, mensaje genÃ©rico\n    if (Array.isArray(out.preguntas_pendientes) && out.preguntas_pendientes.length) {\n      out.final_reply_text =\n        \"Gracias. Para poder continuar necesito estos datos:\\n\" +\n        out.preguntas_pendientes.map((q, i) => `${i + 1}) ${q}`).join(\"\\n\");\n    } else {\n      out.final_reply_text =\n        \"Gracias. En este momento no tengo suficiente informaciÃ³n para estimar correctamente. \" +\n        \"Â¿PodÃ©s reenviar la foto y decirme cantidades aproximadas (gramos, cucharadas o porciones)?\";\n    }\n  }\n\n  out.reply_text = out.final_reply_text;\n\n  // status/stop/success\n  const derived = deriveStopAndStatus(out.rommy_status_text, out.accion_recomendada_text, out.reply_text);\n  out.stop = derived.stop;\n  out.status = derived.status;\n  out.success = derived.success;\n\n  return { json: out };\n});\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -224,
+        352
+      ],
+      "id": "8eb11c08-349a-4e1d-81b2-a86738efae73",
+      "name": "format_response"
+    },
+    {
+      "parameters": {
+        "jsCode": "function stripDiacritics(s) {\n  return (s ?? \"\")\n    .toString()\n    .normalize(\"NFD\")\n    .replace(/[\\u0300-\\u036f]/g, \"\");\n}\n\nfunction normKey(s) {\n  return stripDiacritics(s)\n    .toLowerCase()\n    .replace(/_/g, \" \")\n    .trim();\n}\n\nreturn items.map((item) => {\n  const j = item.json || {};\n  const userText = normKey(j.user_text_norm || \"\");\n  const image = j.image_analysis || {};\n  const imageItems = (image?.items || []).map(x => normKey(x.name || \"\"));\n\n  // Keywords para street food\n  const streetFoodKeywords = [\n    \"bembos\", \"yopo\", \"kfc\", \"mc donald\", \"mcdonald\", \"burger king\",\n    \"popeyes\", \"papa john\", \"little caesar\", \"pizza hut\", \"china wok\",\n    \"hamburguesa\", \"pizza\", \"chicken\", \"nuggets\", \"wings\", \"shawarma\",\n    \"pollo a la brasa\", \"ceviche\", \"arroz chaufa\", \"tallarin\"\n  ];\n\n  const isStreetFood = streetFoodKeywords.some(kw => \n    userText.includes(kw) || imageItems.some(item => item.includes(kw))\n  );\n  // detecciÃ³nproducto envasado\n  const isPackaged = j.packaged_product === true;\n  // ingredientes bÃ¡sicos\n  const basicIngredients = [\n    \"arroz\", \"pollo\", \"carne\", \"pescado\", \"huevo\", \"papa\", \"camote\",\n    \"pasta\", \"ensalada\", \"lechuga\", \"tomate\", \"palta\", \"aceite\"\n  ];\n  const hasBasicIngredients = basicIngredients.some(ing => \n    userText.includes(ing) || imageItems.some(item => item.includes(ing))\n  );\n  // ClasificaciÃ³n final\n  let foodType = \"UNKNOWN\";\n  if (isPackaged) foodType = \"PACKAGED\";\n  else if (isStreetFood) foodType = \"STREET_FOOD\";\n  else if (hasBasicIngredients || imageItems.length > 0) foodType = \"HOME_COOKED\";\n  return {\n    json: {\n      ...j,\n      food_type: foodType,\n      search_terms: {\n        street_food: isStreetFood ? extractStreetFoodTerms(userText, imageItems) : [],\n        ingredients: hasBasicIngredients ? extractIngredients(userText, imageItems) : []\n      }\n    }\n  };\n});\n\nfunction extractStreetFoodTerms(text, items) {\n  const terms = [];\n  const restaurants = [\"bembos\", \"yopo\", \"kfc\", \"mc donald\", \"burger king\", \"popeyes\", \"china wok\"];\n  \n  for (const rest of restaurants) {\n    if (text.includes(rest)) {\n      terms.push(rest);\n      // Extraer plato mencionado\n      const platMatch = text.match(new RegExp(`${rest}[^.]*`, \"i\"));\n      if (platMatch) terms.push(platMatch[0].trim());\n    }\n  }\n  \n  return terms.length ? terms : items;\n}\n\nfunction extractIngredients(text, items) {\n  const ingredients = [\n    \"arroz blanco\", \"arroz\", \"pollo\", \"carne\", \"pescado\", \"huevo\", \n    \"papa\", \"camote\", \"pasta\", \"lechuga\", \"tomate\", \"palta\", \"aceite\"\n  ];\n  \n  const found = [];\n  for (const ing of ingredients) {\n    if (text.includes(ing) || items.some(i => i.includes(ing))) {\n      found.push(ing);\n    }\n  }\n  \n  return found.length ? found : items;\n}"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -432,
+        16
+      ],
+      "id": "f453a1ca-f63f-4d20-a0e7-ee66d407d4c0",
+      "name": "classify_food_type",
+      "disabled": true
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "815359c0-4788-4156-a8b5-70fd561c0568",
+              "name": "response",
+              "value": "={{ $json.response_text }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        192,
+        0
+      ],
+      "id": "4b23b776-ca3e-469b-802a-5dd4b19e8a22",
+      "name": "response1",
+      "disabled": true
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "value": "1rOhi5MmVRII98sec7r8jNo-BxcuqqYsS7L9F30-1HT4",
+          "mode": "list",
+          "cachedResultName": "DB_ALIMENTOS",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1rOhi5MmVRII98sec7r8jNo-BxcuqqYsS7L9F30-1HT4/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "gid=0",
+          "mode": "list",
+          "cachedResultName": "Street Food",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1rOhi5MmVRII98sec7r8jNo-BxcuqqYsS7L9F30-1HT4/edit#gid=0"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheetsTool",
+      "typeVersion": 4.7,
+      "position": [
+        -656,
+        560
+      ],
+      "id": "f59fa023-0b31-440c-b224-68f01dd8205c",
+      "name": "street_food",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "oByWHLg1Mvy9ndS0",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "value": "1rOhi5MmVRII98sec7r8jNo-BxcuqqYsS7L9F30-1HT4",
+          "mode": "list",
+          "cachedResultName": "DB_ALIMENTOS",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1rOhi5MmVRII98sec7r8jNo-BxcuqqYsS7L9F30-1HT4/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 37666635,
+          "mode": "list",
+          "cachedResultName": "Alimentos",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1rOhi5MmVRII98sec7r8jNo-BxcuqqYsS7L9F30-1HT4/edit#gid=37666635"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheetsTool",
+      "typeVersion": 4.7,
+      "position": [
+        -288,
+        560
+      ],
+      "id": "e1199bf5-338e-4f24-b28d-a6311e643570",
+      "name": "food_db",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "oByWHLg1Mvy9ndS0",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "/**\n * normalize_inputs (ULTRA robusto 99.9% - parser multi-estrategia)\n * FIX definitivo: decodifica plan_json aunque venga:\n * - objeto\n * - string JSON vÃ¡lido\n * - string con JSON embebido\n * - string escapado: {\\\"status\\\":\\\"PARTIAL\\\"...}\n * - string doble-escapado (backslashes duplicados)\n * - con caracteres de control invisibles (PDF / WhatsApp / iLovePDF)\n */\n\nfunction normalizeText(s) {\n  return (s ?? \"\").toString().replace(/\\s+/g, \" \").trim();\n}\n\nfunction stripDiacritics(s) {\n  return (s ?? \"\")\n    .toString()\n    .normalize(\"NFD\")\n    .replace(/[\\u0300-\\u036f]/g, \"\");\n}\n\nfunction normKey(s) {\n  return stripDiacritics(s)\n    .toLowerCase()\n    .replace(/_/g, \" \")\n    .replace(/\\s+/g, \" \")\n    .trim();\n}\n\n/**\n * Quita NUL/BOM y control chars peligrosos.\n * OJO: NO elimina \\n \\r \\t porque son whitespace vÃ¡lido fuera de strings,\n * pero sÃ­ elimina el resto de control chars ASCII.\n */\nfunction sanitizeBase(s) {\n  return (s ?? \"\")\n    .toString()\n    .replace(/^\\uFEFF/, \"\") // BOM\n    .replace(/\\u0000/g, \"\") // NUL\n    .replace(/[\\u0001-\\u0008\\u000B\\u000C\\u000E-\\u001F\\u007F]/g, \"\") // control chars (except \\t \\n \\r)\n    .replace(/\\r\\n/g, \"\\n\")\n    .trim();\n}\n\n/**\n * Escapa caracteres de control SOLO dentro de strings JSON.\n * Esto salva casos donde el texto trae U+2028/U+2029 o tabs/newlines reales dentro de strings.\n */\nfunction escapeControlCharsInsideJsonStrings(jsonText) {\n  const s = sanitizeBase(jsonText);\n  if (!s) return s;\n\n  let out = \"\";\n  let inStr = false;\n  let esc = false;\n\n  for (let i = 0; i < s.length; i++) {\n    const ch = s[i];\n    const code = ch.charCodeAt(0);\n\n    if (!inStr) {\n      if (ch === \"\\\"\") inStr = true;\n      out += ch;\n      continue;\n    }\n\n    // inStr === true\n    if (esc) {\n      esc = false;\n      out += ch;\n      continue;\n    }\n\n    if (ch === \"\\\\\") {\n      esc = true;\n      out += ch;\n      continue;\n    }\n\n    if (ch === \"\\\"\") {\n      inStr = false;\n      out += ch;\n      continue;\n    }\n\n    // dentro de strings: escapamos control chars reales\n    if (ch === \"\\n\") { out += \"\\\\n\"; continue; }\n    if (ch === \"\\r\") { out += \"\\\\r\"; continue; }\n    if (ch === \"\\t\") { out += \"\\\\t\"; continue; }\n\n    // U+2028 / U+2029 (muy comunes en PDFs)\n    if (code === 0x2028) { out += \"\\\\u2028\"; continue; }\n    if (code === 0x2029) { out += \"\\\\u2029\"; continue; }\n\n    // cualquier otro control < 0x20\n    if (code < 0x20) {\n      out += \"\\\\u\" + code.toString(16).padStart(4, \"0\");\n      continue;\n    }\n\n    out += ch;\n  }\n\n  return out;\n}\n\n/**\n * Extrae el primer JSON (objeto/array) embebido en texto (balanceo respetando strings).\n */\nfunction extractFirstJsonSubstring(raw) {\n  const s = sanitizeBase(raw);\n  if (!s) return null;\n\n  const starts = [];\n  for (let i = 0; i < s.length; i++) {\n    const c = s[i];\n    if (c === \"{\" || c === \"[\") starts.push(i);\n  }\n  if (!starts.length) return null;\n\n  const tryFrom = (startIdx) => {\n    const open = s[startIdx];\n    const close = open === \"{\" ? \"}\" : \"]\";\n    let depth = 0;\n    let inStr = false;\n    let esc = false;\n\n    for (let i = startIdx; i < s.length; i++) {\n      const ch = s[i];\n\n      if (inStr) {\n        if (esc) esc = false;\n        else if (ch === \"\\\\\") esc = true;\n        else if (ch === \"\\\"\") inStr = false;\n        continue;\n      }\n\n      if (ch === \"\\\"\") { inStr = true; continue; }\n\n      if (ch === open) depth++;\n      if (ch === close) depth--;\n\n      if (depth === 0) return s.slice(startIdx, i + 1).trim();\n    }\n    return null;\n  };\n\n  for (const idx of starts) {\n    const cand = tryFrom(idx);\n    if (!cand) continue;\n    if (\n      (cand.startsWith(\"{\") && cand.endsWith(\"}\")) ||\n      (cand.startsWith(\"[\") && cand.endsWith(\"]\"))\n    ) return cand;\n  }\n\n  return null;\n}\n\n/**\n * Detecta JSON escapado â€œa lo brutoâ€: {\\\"k\\\":\\\"v\\\"...}\n */\nfunction looksLikeEscapedJson(raw) {\n  const s = sanitizeBase(raw);\n  if (!s) return false;\n  return s.startsWith(\"{\\\\\\\"\") || s.startsWith(\"[\\\\\\\"\") || /\\\\\\\"[A-Za-z0-9_\\-\\s]+\\\\\\\"\\s*:/.test(s);\n}\n\n/**\n * Remueve TODOS los backslashes inmediatamente antes de comillas:\n * - \\\"   -> \"\n * - \\\\\\\" -> \"\n * - \\\\\\\\\\\" -> \"\n */\nfunction unescapeOnlyQuotesAggressive(raw) {\n  const s = sanitizeBase(raw);\n  if (!s) return s;\n  // uno o mÃ¡s \"\\\" antes de una comilla\n  return s.replace(/\\\\+\"/g, \"\\\"\").replace(/\\\\\\//g, \"/\").trim();\n}\n\n/**\n * Intenta parsear; si devuelve string que parece JSON, re-parsea hasta 3 veces.\n */\nfunction tryParseJsonWithReparse(str) {\n  const s = escapeControlCharsInsideJsonStrings(str);\n  try {\n    let v = JSON.parse(s);\n\n    for (let i = 0; i < 3; i++) {\n      if (typeof v === \"string\") {\n        const t = sanitizeBase(v);\n        if (t.startsWith(\"{\") || t.startsWith(\"[\") || looksLikeEscapedJson(t)) {\n          // reintento\n          try { v = JSON.parse(escapeControlCharsInsideJsonStrings(t)); continue; } catch (_) { break; }\n        }\n      }\n      break;\n    }\n\n    return { ok: true, value: v };\n  } catch (e) {\n    return { ok: false, error: e };\n  }\n}\n\n/**\n * Decodificador por â€œenvolver como string JSONâ€ (sirve para doble-escapes).\n * Importante: despuÃ©s de decodificar, escapamos control chars dentro de strings y reciÃ©n ahÃ­ parseamos.\n */\nfunction decodeEscapesViaJsonString(raw) {\n  const s = sanitizeBase(raw);\n  if (!s) return null;\n\n  // construimos un JSON string literal seguro:\n  //  - duplicamos backslashes\n  //  - escapamos comillas\n  const quoted = '\"' + s.replace(/\\\\/g, \"\\\\\\\\\").replace(/\"/g, '\\\\\"') + '\"';\n\n  try {\n    const decoded = JSON.parse(quoted); // devuelve string â€œdecodificadaâ€\n    return decoded;\n  } catch (_) {\n    return null;\n  }\n}\n\n/**\n * Parser principal: prueba varias rutas hasta encontrar objeto/array.\n */\nfunction safeParseJson(maybeValue, fallback = null) {\n  if (maybeValue == null) return fallback;\n  if (typeof maybeValue === \"object\") return maybeValue;\n  if (typeof maybeValue !== \"string\") return fallback;\n\n  const raw0 = sanitizeBase(maybeValue);\n  if (!raw0) return fallback;\n\n  // 1) parse directo\n  let r = tryParseJsonWithReparse(raw0);\n  if (r.ok) return r.value;\n\n  // 2) JSON embebido\n  const emb0 = extractFirstJsonSubstring(raw0);\n  if (emb0) {\n    r = tryParseJsonWithReparse(emb0);\n    if (r.ok) return r.value;\n  }\n\n  // 3) escapado tipo {\\\"...\\\"} (o peor)\n  if (looksLikeEscapedJson(raw0)) {\n    const unq = unescapeOnlyQuotesAggressive(raw0);\n    r = tryParseJsonWithReparse(unq);\n    if (r.ok) return r.value;\n\n    const emb1 = extractFirstJsonSubstring(unq);\n    if (emb1) {\n      r = tryParseJsonWithReparse(emb1);\n      if (r.ok) return r.value;\n    }\n  }\n\n  // 4) decoder por JSON-string (maneja doble-escapes y variantes)\n  const decoded = decodeEscapesViaJsonString(raw0);\n  if (decoded) {\n    r = tryParseJsonWithReparse(decoded);\n    if (r.ok) return r.value;\n\n    const emb2 = extractFirstJsonSubstring(decoded);\n    if (emb2) {\n      r = tryParseJsonWithReparse(emb2);\n      if (r.ok) return r.value;\n    }\n\n    // si decoded todavÃ­a parece escapado, intentamos quotes-aggressive\n    if (looksLikeEscapedJson(decoded)) {\n      const unq2 = unescapeOnlyQuotesAggressive(decoded);\n      r = tryParseJsonWithReparse(unq2);\n      if (r.ok) return r.value;\n    }\n  }\n\n  return fallback;\n}\n\nfunction looksLikePlan(p) {\n  if (!p || typeof p !== \"object\" || Array.isArray(p)) return false;\n  return Boolean(\n    p.status ||\n    p.plan_status ||\n    p.patient ||\n    p.targets ||\n    p.schedule ||\n    p.plan_meta ||\n    p.extras ||\n    p.constraints ||\n    p.recommendations\n  );\n}\n\nfunction unwrapPlanObject(planObj, warnings, depth = 0) {\n  if (depth > 12) return planObj;\n\n  let p = planObj;\n\n  if (Array.isArray(p)) {\n    if (p.length === 1) return unwrapPlanObject(p[0], warnings, depth + 1);\n    const firstObj = p.find((x) => x && typeof x === \"object\") || null;\n    if (firstObj) return unwrapPlanObject(firstObj, warnings, depth + 1);\n    return p;\n  }\n\n  if (p && typeof p === \"object\") {\n    if (looksLikePlan(p)) return p;\n\n    for (const k of [\"plan\", \"data\", \"result\", \"output\", \"payload\"]) {\n      if (p[k] && typeof p[k] === \"object\") {\n        const inner = p[k];\n        if (looksLikePlan(inner) || Array.isArray(inner)) {\n          return unwrapPlanObject(inner, warnings, depth + 1);\n        }\n      }\n    }\n\n    const maybeStr =\n      p.nutrition_plan ??\n      p.plan_json ??\n      p.plan_json_raw ??\n      p.current_plan ??\n      p.plan_raw ??\n      null;\n\n    if (typeof maybeStr === \"string\" && maybeStr.trim()) {\n      const inner = safeParseJson(maybeStr, null);\n      if (inner) return unwrapPlanObject(inner, warnings, depth + 1);\n      warnings.push(\"No se pudo parsear plan embebido dentro del wrapper.\");\n    }\n  }\n\n  return p;\n}\n\nfunction detectMealFromText(userText) {\n  const t = normKey(userText);\n  if (/(desayun|desay\\b)/.test(t)) return \"desayuno\";\n  if (/(media\\s*manana|media\\s*maÃ±ana|colacion|colaci[oÃ³]n)/.test(t)) return \"media_manana\";\n  if (/(almuer|almorz|almorc)/.test(t)) return \"almuerzo\";\n  if (/(media\\s*tarde|meriend|once\\b)/.test(t)) return \"media_tarde\";\n  if (/(cen[eÃ©]|\\bcena\\b)/.test(t)) return \"cena\";\n  return \"unknown\";\n}\n\nfunction mapDetectedMealToPlanMealKey(detectedMeal) {\n  if (detectedMeal === \"media_manana\") return \"media maÃ±ana\";\n  if (detectedMeal === \"media_tarde\") return \"media tarde\";\n  return detectedMeal;\n}\n\nfunction pickMealSection(planObj, detectedMeal) {\n  const schedule = planObj?.schedule || planObj?.plan?.schedule;\n  if (!schedule) return null;\n\n  const weekday = Array.isArray(schedule.weekday) ? schedule.weekday : [];\n  const weekend = Array.isArray(schedule.weekend) ? schedule.weekend : [];\n\n  const keyNorm = normKey(mapDetectedMealToPlanMealKey(detectedMeal));\n\n  const findIn = (arr) => {\n    if (!Array.isArray(arr)) return null;\n\n    let meal = arr.find((x) => normKey(x?.meal_name) === keyNorm);\n    if (meal) return meal;\n\n    if (detectedMeal !== \"unknown\") {\n      meal = arr.find((x) => normKey(x?.meal_name).includes(keyNorm));\n      if (meal) return meal;\n    }\n\n    const alt = detectedMeal.replace(\"_\", \" \");\n    meal = arr.find((x) => normKey(x?.meal_name).includes(normKey(alt)));\n    return meal || null;\n  };\n\n  return findIn(weekday) || findIn(weekend) || null;\n}\n\nfunction computePlanStatus(planObj) {\n  if (!planObj || typeof planObj !== \"object\") return null;\n\n  const raw =\n    planObj?.plan_status ??\n    planObj?.plan?.plan_status ??\n    planObj?.status ??\n    planObj?.plan?.status ??\n    null;\n\n  if (raw == null) return looksLikePlan(planObj) ? \"sent\" : null;\n\n  if (typeof raw === \"object\") {\n    const candidate = raw.estado ?? raw.status ?? raw.value ?? raw.result ?? null;\n    if (candidate != null) return computePlanStatus({ status: candidate });\n    return looksLikePlan(planObj) ? \"sent\" : null;\n  }\n\n  if (typeof raw === \"boolean\") return raw ? \"sent\" : \"not_found\";\n\n  const up = String(raw).trim().toUpperCase();\n\n  if ([\"OK\", \"SENT\", \"FOUND\", \"SUCCESS\", \"TRUE\"].includes(up)) return \"sent\";\n  if ([\"PARTIAL\", \"INCOMPLETE\"].includes(up)) return \"partial\";\n  if ([\"NOT_FOUND\", \"MISSING\", \"NONE\", \"NO_PLAN\"].includes(up)) return \"not_found\";\n  if ([\"ERROR\", \"FAIL\", \"FAILED\"].includes(up)) return \"error\";\n\n  return up.toLowerCase();\n}\n\nfunction buildPlanContext(planObj, mealSection, plan_status) {\n  if (!planObj) return null;\n\n  const targets = planObj.targets || planObj.plan?.targets || null;\n\n  return {\n    plan_status,\n    patient: planObj.patient || planObj.plan?.patient || null,\n    plan_meta: planObj.plan_meta || planObj.plan?.plan_meta || null,\n    targets,\n    meal_context: mealSection || null,\n    extras: planObj.extras || planObj.plan?.extras || null,\n    constraints: planObj.constraints || planObj.plan?.constraints || null,\n    recommendations: planObj.recommendations || planObj.plan?.recommendations || [],\n    warnings: planObj.warnings || planObj.plan?.warnings || []\n  };\n}\n\nreturn items.map((item) => {\n  const input = item.json || {};\n  const warnings = [];\n\n  const phone = normalizeText(input.phone);\n  const patient_dni = normalizeText(input.patient_dni);\n  const patient_key = patient_dni || phone || null;\n\n  const user_text = normalizeText(input.user_text);\n  const label_text = normalizeText(input.label_text);\n\n  const imageAnalysis = safeParseJson(input.image_analysis_json, null);\n  if (input.image_analysis_json && !imageAnalysis) {\n    warnings.push(\"image_analysis_json no es JSON vÃ¡lido (se ignorarÃ¡).\");\n  }\n\n  const planSource =\n    input.plan_json ??\n    input.plan_obj ??\n    input.plan_json_raw ??\n    input.nutrition_plan ??\n    input.current_plan ??\n    input.plan ??\n    null;\n\n  const parsed = safeParseJson(planSource, null);\n  let planObj = parsed ? unwrapPlanObject(parsed, warnings) : null;\n\n  if (typeof planObj === \"string\") {\n    const reparsed = safeParseJson(planObj, null);\n    planObj = reparsed ? unwrapPlanObject(reparsed, warnings) : null;\n  }\n\n  if (!planObj || typeof planObj !== \"object\") {\n    if (planSource) {\n      const s = typeof planSource === \"string\" ? sanitizeBase(planSource) : \"\";\n      warnings.push(\n        `plan_json existe pero no se pudo normalizar/parsear. ` +\n        (s ? `prefix='${s.slice(0, 20)}' len=${s.length}` : \"\")\n      );\n    }\n    planObj = null;\n  }\n\n  const plan_status = planObj ? computePlanStatus(planObj) : null;\n\n  let detected_meal = \"unknown\";\n  if (input.meal_hint && input.meal_hint !== \"auto\") detected_meal = input.meal_hint;\n  else detected_meal = detectMealFromText(user_text);\n\n  const mealSection = planObj ? pickMealSection(planObj, detected_meal) : null;\n  if (planObj && !mealSection) {\n    warnings.push(`No se encontrÃ³ secciÃ³n del plan para meal='${detected_meal}'. Se enviarÃ¡ el plan general.`);\n  }\n\n  const plan_context_obj = planObj ? buildPlanContext(planObj, mealSection, plan_status) : null;\n\n  let plan_context_json = \"\";\n  if (plan_context_obj) {\n    try { plan_context_json = JSON.stringify(plan_context_obj); }\n    catch (_) { warnings.push(\"No se pudo stringify plan_context_obj.\"); plan_context_json = \"\"; }\n  }\n\n  return {\n    json: {\n      phone,\n      patient_dni,\n      patient_key,\n      context_date: input.context_date || null,\n      timezone: input.timezone || null,\n      conversation_id: input.conversation_id || null,\n      message_id: input.message_id || null,\n      attachments_count: Number.isFinite(input.attachments_count)\n        ? input.attachments_count\n        : (input.attachments_count != null ? Number(input.attachments_count) : null),\n\n      user_text_norm: user_text,\n      label_text_norm: label_text,\n      image_analysis: imageAnalysis,\n\n      plan_obj: planObj,\n      plan_status,\n      detected_meal,\n\n      plan_context_json,\n      // si no querÃ©s debug, podÃ©s borrar estas 2:\n      plan_context_obj,\n      warnings\n    }\n  };\n});\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -832,
+        32
+      ],
+      "id": "ac80eceb-638f-4cb8-a42b-58f303f07f21",
+      "name": "normalize_inputs",
+      "disabled": true
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "value": "gpt-5-mini",
+          "mode": "list",
+          "cachedResultName": "GPT-5-MINI"
+        },
+        "responses": {
+          "values": [
+            {
+              "content": "=# INPUT\n\n- MENSAJE (`user_text`): {{ $json.user_text }}\n- ETIQUETA DE MENSAJE (`label_text`): {{ $json.label_text || 'Sin Etiqueta' }}\n- RESUMEN DE IMAGEN ANALIZADA (`image_analysis_json` = puede venir como string JSON o vacÃ­o):\n{{ $json.image_analysis_json || 'AnÃ¡lisis Inexistente'}}\n- NOTA DE LA COMIDA (`meal_hint`): {{ $json.meal_hint }}\n\n## PLAN VIGENTE DEL PACIENTE\n\nEl plan nutricional puede venir como objeto o string muy largo; puede estar escapado con \\\"\n\n**PLAN**:\n{{ $json.plan_json }}"
+            },
+            {
+              "role": "system",
+              "content": "=# ROL\n\nSos un â€œPRE-PROCESSOR + ROUTERâ€ para un workflow de anÃ¡lisis nutricional.\n\n# TAREA: TU OBJETIVO\n\n1) Normalizar inputs (texto, imagen_analysis_json, label_text, ids, timezone).\n2) Normalizar/extraer el plan (plan_json) y construir plan_context_json usable.\n3) Detectar si es producto envasado y si faltan datos crÃ­ticos (etiqueta / gramos).\n4) Clasificar el tipo de comida (HOME_COOKED vs STREET_FOOD vs PACKGED).\n5) Decidir si se debe ejecutar el anÃ¡lisis nutricional (RUN_AI_ANALYSIS) o cortar y responder (STOP_AND_REPLY).\n6) SI STOP: producir response_text listo para enviar (en el formato de 7 secciones que usa el resto del sistema).\n7) SI RUN: dejar response_text vacÃ­o y devolver todas las claves necesarias para que el nodo â€œai_analysisâ€ funcione.\n\n**TAREA CONCRETA**: DevolvÃ© SOLO un JSON vÃ¡lido con las claves EXACTAS pedidas en `# OUTPUT`.\n\n# REGLAS CRÃTICAS\n\n- Prohibido inventar datos (plan, macros, ingredientes no visibles). Si no estÃ¡, es null / \"\" / unknown.\n- Si algo es ambiguo, bajÃ¡ confianza y agregÃ¡ warning.\n- Output SIEMPRE debe ser un JSON vÃ¡lido (sin markdown, sin texto extra).\n- No uses herramientas externas. Todo sale SOLO de los inputs.\n- â€œfood_typeâ€ debe ser EXACTAMENTE uno de: \"HOME_COOKED\" | \"STREET_FOOD\" | \"PACKGED\"\n  (Nota: uso \"PACKGED\" a propÃ³sito para compatibilidad con reglas posteriores del sistema).\n- â€œplan_statusâ€ (top-level) debe ser: \"sent\" | \"partial\" | \"not_found\" | \"error\" | null\n- Dentro de plan_context_json, el campo plan_status debe ir en MAYÃšSCULAS: \"SENT\" | \"PARTIAL\" | \"NOT_FOUND\" | \"ERROR\"\n  (Esto evita falsos â€œplan no listoâ€ en el anÃ¡lisis posterior).\n\n# DETALLES Y ESPECIFICACIONES \n\n## CRITERIOS DE DECISIÃ“N (Router)\n\nA) STOP_AND_REPLY si:\n  - No hay nada para analizar (user_text y image_analysis y label_text vacÃ­os o irrelevantes), o\n  - plan_json existe pero NO podÃ©s reconstruir plan_context_json mÃ­nimamente confiable, o\n  - producto envasado y falta etiqueta nutricional clara (packaged_needs_label=true), o\n  - producto envasado y falta cantidad consumida (packaged_needs_grams=true), o\n  - detectÃ¡s riesgo mÃ©dico/sÃ­ntomas graves (escalar): marcar ESCALATE.\nB) RUN_AI_ANALYSIS si:\n  - TenÃ©s al menos algo identificable (user_text o image_analysis o label_text) Y\n  - plan_context_json pudo construirse con plan_status \"SENT\" o \"PARTIAL\" (o al menos no es NOT_FOUND/ERROR) Y\n  - si es envasado, NO faltan etiqueta ni gramos.\n\n## DETECCIÃ“N â€œPRODUCTO ENVASADOâ€\n\n- packaged_product=true si:\n  - label_text parece tabla nutricional/ingredientes (kcal, proteÃ­nas, carbohidratos, grasas, â€œporciÃ³nâ€, â€œ100gâ€, â€œingredientesâ€), o\n  - user_text describe marca + producto (ej: â€œgalletitas Xâ€, â€œwheyâ€, â€œyogur marcaâ€¦â€), o\n  - image_analysis sugiere packaging/etiqueta (si existiera ese tipo).\n- packaged_needs_label=true si packaged_product=true y NO hay label_text Ãºtil (vacÃ­o o genÃ©rico tipo â€œfotoâ€).\n- packaged_needs_grams=true si packaged_product=true y NO hay cantidad consumida (gramos, porciones, â€œme comÃ­ 1â€, â€œ2 cucharadasâ€, etc.).\n- packaged_clarifying_questions: 1â€“3 preguntas tipo checklist, concretas.\n\n## DETECCIÃ“N DE COMIDA (detected_meal)\n\n- Si viene meal_hint y NO es â€œautoâ€, usarlo.\n- Si no, inferir por palabras: desayuno / media maÃ±ana / almuerzo / media tarde / cena.\n- Si no se puede, â€œunknownâ€.\n\n## NORMALIZACIÃ“N DE TEXTO\n\n- user_text_norm y label_text_norm: trim + minÃºsculas NO (dejalo en formato natural), pero sin espacios dobles.\n- No elimines tildes salvo para matching interno. Devuelve el texto normalizado â€œhumanoâ€.\n\n## PARSEO / NORMALIZACIÃ“N \n\n- `plan_json` puede ser:\n  1) objeto JSON real,\n  2) string JSON,\n  3) string con JSON embebido,\n  4) JSON â€œescapadoâ€ estilo {\\\"status\\\":\\\"PARTIAL\\\"...} sin comillas externas.\n- Estrategia:\n  - IntentÃ¡ interpretarlo como JSON.\n  - Si ves muchos \\\", tratÃ¡ de â€œdes-escaparâ€ mentalmente.\n  - Si hay texto extra, extraÃ© el primer bloque balanceado {...} o [...]\n  - Si aun asÃ­ no es confiable: marcÃ¡ plan_status=\"not_found\" y STOP.\n- ConstruÃ­ `plan_context_json` como string JSON MINIFICADO (sin pretty):\n  {\n    \"plan_status\": \"SENT|PARTIAL|NOT_FOUND|ERROR\",\n    \"patient\": ...,\n    \"plan_meta\": ...,\n    \"targets\": ...,\n    \"schedule\": ... (si existe),\n    \"meal_context\": ... (si podÃ©s ubicar la comida detectada),\n    \"extras\": ...,\n    \"constraints\": ...,\n    \"recommendations\": ...,\n    \"warnings\": [...]\n  }\n- Si no encontrÃ¡s schedule/meal_context, igual podÃ©s correr con plan_status=\"PARTIAL\" y warnings.\n\n## CLASIFICACIÃ“N food_type + search_terms\n\n- Si packaged_product=true => food_type=\"PACKGED\"\n- Si menciona restaurante/fast food/marca de local/comida comprada => \"STREET_FOOD\"\n- Si parece comida casera o ingredientes sueltos => \"HOME_COOKED\"\n- search_terms.ingredients:\n  - HOME_COOKED: lista de ingredientes detectados por image_analysis.items + user_text (sin inventar).\n  - STREET_FOOD: ingredientes si hay, o tÃ©rminos del plato/local.\n  - PACKGED: nombre del producto + marca + sabor/variante; ademÃ¡s ingredientes si aparecen en label_text.\n- Mantener ingredients como array de strings cortos.\n\n# FORMATO (**SOLO SI STOP**)\n\nDebe tener EXACTAMENTE estas 7 secciones y en texto plano (sin JSON adentro):\n1) ROMMY_STATUS:\n2) MENSAJE_LISTO_PARA_PACIENTE:\n3) RESUMEN_PARA_ROMMY:\n4) DATOS_PARA_TRACKER:\n5) ACCION_RECOMENDADA:\n6) PREGUNTAS_PENDIENTES:\n7) FLAGS:\n\nEn STOP casi siempre:\n- ROMMY_STATUS Estado: NEEDS_CLARIFICATION o PLAN_NOT_READY o ESCALATE\n- ACCION_RECOMENDADA AcciÃ³n: ASK_MORE_INFO o WAIT_FOR_PLAN o ESCALATE_TO_HUMAN\n- DATOS_PARA_TRACKER: â€œNo estimable â€” falta: â€¦â€\n- MENSAJE_LISTO_PARA_PACIENTE: 8â€“12 lÃ­neas mÃ¡ximo, checklist 1â€“3 Ã­tems.\n\n# OUTPUT\n\n## OUTPUT JSON (schema lÃ³gico)\n\n{\n  \"decision\": \"RUN_AI_ANALYSIS\" | \"STOP_AND_REPLY\",\n  \"stop_reason_code\": string | null,\n  \"response_text\": string,                  // si STOP: texto con 7 secciones; si RUN: \"\"\n  \"phone\": string,\n  \"patient_dni\": string,\n  \"patient_key\": string | null,\n  \"context_date\": string | null,\n  \"timezone\": string | null,\n  \"conversation_id\": string | null,\n  \"message_id\": string | null,\n  \"attachments_count\": number | null,\n  \"user_text_norm\": string,\n  \"label_text_norm\": string,\n  \"image_analysis\": object | null,          // si image_analysis_json es parseable, devolver objeto; si no, null + warning\n  \"plan_status\": \"sent\" | \"partial\" | \"not_found\" | \"error\" | null,\n  \"detected_meal\": \"desayuno\" | \"media_manana\" | \"almuerzo\" | \"media_tarde\" | \"cena\" | \"unknown\",\n  \"plan_context_json\": string,              // JSON minificado como string. Si no existe, \"\"\n  \"packaged_product\": boolean,\n  \"packaged_needs_label\": boolean,\n  \"packaged_needs_grams\": boolean,\n  \"packaged_clarifying_questions\": string[],\n  \"food_type\": \"HOME_COOKED\" | \"STREET_FOOD\" | \"PACKGED\",\n  \"search_terms\": {\n    \"ingredients\": string[],\n    \"dish_name\": string | null,\n    \"brand\": string | null,\n    \"variants\": string[]\n  },\n  \"warnings\": string[]\n}\n\n# NOTAS\n\n- Si STOP, response_text DEBE respetar 7 secciones (ROMMY_STATUS...FLAGS) como el formato del sistema.\n- No inventes macros ni detalles del plan.\n"
+            }
+          ]
+        },
+        "builtInTools": {},
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.openAi",
+      "typeVersion": 2,
+      "position": [
+        -1152,
+        352
+      ],
+      "id": "bbabcf09-c24b-4d28-9a75-da645b0a298b",
+      "name": "classify",
+      "credentials": {
+        "openAiApi": {
+          "id": "baIRTMKZUeGvp1Wx",
+          "name": "OpenAi Fixu"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// n8n Code node (JavaScript)\n// POST \"clasify\" LLM: normaliza salida para:\n// - Gatear si corre ai_analysis (decision)\n// - Exponer campos individuales (status/mensaje/preguntas/flags/...)\n// - Mantener passthrough (user_text_norm, image_analysis, plan_context_json, etc.)\n// Robustez 99.9%: soporta mÃºltiples rutas de output + JSON embebido + backticks.\n\nfunction normalizeNewlines(s) {\n  return (s ?? \"\").toString().replace(/\\r\\n/g, \"\\n\").replace(/\\r/g, \"\\n\");\n}\n\nfunction stripDiacritics(s) {\n  return (s ?? \"\")\n    .toString()\n    .normalize(\"NFD\")\n    .replace(/[\\u0300-\\u036f]/g, \"\");\n}\n\nfunction toSnakeKey(s) {\n  return stripDiacritics(s)\n    .toUpperCase()\n    .trim()\n    .replace(/[()]/g, \"\")\n    .replace(/[^\\w\\s-]/g, \"\")\n    .replace(/[\\s-]+/g, \"_\")\n    .replace(/^_+|_+$/g, \"\");\n}\n\nfunction sanitize(s) {\n  return (s ?? \"\").toString().replace(/\\u0000/g, \"\").trim();\n}\n\n// --- extracciÃ³n robusta de texto LLM ---\nfunction extractLLMText(input) {\n  const candidates = [\n    input?.output?.[0]?.content?.[0]?.text,\n    input?.output?.[0]?.content?.[0]?.output_text?.text,\n    input?.output?.[0]?.text,\n    input?.content?.[0]?.text,\n    input?.text,\n    input?.message,\n    input?.data?.[0]?.text,\n    input?.choices?.[0]?.message?.content,\n  ];\n\n  for (const c of candidates) {\n    if (typeof c === \"string\" && c.trim()) return c;\n  }\n\n  // Si viene como array de outputs (variante)\n  if (Array.isArray(input?.output)) {\n    for (const out of input.output) {\n      const t = out?.content?.[0]?.text ?? out?.text;\n      if (typeof t === \"string\" && t.trim()) return t;\n    }\n  }\n\n  return \"\";\n}\n\n// --- extrae primer JSON substring por balanceo { } o [ ] ---\nfunction extractFirstJsonSubstring(raw) {\n  const s = sanitize(raw);\n  if (!s) return null;\n\n  const starts = [];\n  for (let i = 0; i < s.length; i++) {\n    const c = s[i];\n    if (c === \"{\" || c === \"[\") starts.push(i);\n  }\n  if (!starts.length) return null;\n\n  const tryFrom = (startIdx) => {\n    const open = s[startIdx];\n    const close = open === \"{\" ? \"}\" : \"]\";\n    let depth = 0;\n    let inStr = false;\n    let esc = false;\n\n    for (let i = startIdx; i < s.length; i++) {\n      const ch = s[i];\n\n      if (inStr) {\n        if (esc) esc = false;\n        else if (ch === \"\\\\\") esc = true;\n        else if (ch === \"\\\"\") inStr = false;\n        continue;\n      }\n\n      if (ch === \"\\\"\") {\n        inStr = true;\n        continue;\n      }\n\n      if (ch === open) depth++;\n      if (ch === close) depth--;\n\n      if (depth === 0) return s.slice(startIdx, i + 1).trim();\n    }\n    return null;\n  };\n\n  for (const idx of starts) {\n    const candidate = tryFrom(idx);\n    if (!candidate) continue;\n    if (\n      (candidate.startsWith(\"{\") && candidate.endsWith(\"}\")) ||\n      (candidate.startsWith(\"[\") && candidate.endsWith(\"]\"))\n    ) {\n      return candidate;\n    }\n  }\n  return null;\n}\n\n// --- quita fences ```json ...``` ---\nfunction stripCodeFences(raw) {\n  let s = sanitize(raw);\n  if (!s) return s;\n\n  // ```json\\n{...}\\n```\n  const fence = s.match(/^```(?:json)?\\s*([\\s\\S]*?)\\s*```$/i);\n  if (fence) return fence[1].trim();\n\n  // si hay fences mezclados en medio, lo dejamos y luego usamos extractor\n  return s;\n}\n\n// --- detecta JSON \"escapado\" sin comillas externas: {\\\"a\\\":\\\"b\\\"} ---\nfunction looksLikeEscapedJson(raw) {\n  const s = sanitize(raw);\n  if (!s) return false;\n  return /\\\\\\\"[A-Za-z0-9_\\-\\s]+\\\\\\\"\\s*:/.test(s);\n}\n\nfunction unescapeJsonLike(raw) {\n  let s = sanitize(raw);\n  if (!s) return s;\n\n  s = s\n    .replace(/\\\\\\\"/g, \"\\\"\")\n    .replace(/\\\\n/g, \"\\n\")\n    .replace(/\\\\r/g, \"\\r\")\n    .replace(/\\\\t/g, \"\\t\")\n    .replace(/\\\\\\//g, \"/\");\n\n  // colapsa \\\\ -> \\\n  s = s.replace(/\\\\\\\\/g, \"\\\\\");\n\n  return s.trim();\n}\n\n// --- parse JSON best-effort ---\nfunction safeParseJsonBestEffort(maybe, fallback = null) {\n  if (maybe == null) return fallback;\n  if (typeof maybe === \"object\") return maybe;\n  if (typeof maybe !== \"string\") return fallback;\n\n  let raw = stripCodeFences(maybe);\n  raw = sanitize(raw);\n  if (!raw) return fallback;\n\n  // 1) parse directo\n  try {\n    const v = JSON.parse(raw);\n    return v;\n  } catch (_) {}\n\n  // 2) si parece escapado, unescape y parse\n  if (looksLikeEscapedJson(raw)) {\n    try {\n      return JSON.parse(unescapeJsonLike(raw));\n    } catch (_) {}\n  }\n\n  // 3) extraer JSON embebido y parsear\n  const embedded = extractFirstJsonSubstring(raw);\n  if (embedded) {\n    try {\n      return JSON.parse(embedded);\n    } catch (_) {}\n    if (looksLikeEscapedJson(embedded)) {\n      try {\n        return JSON.parse(unescapeJsonLike(embedded));\n      } catch (_) {}\n    }\n  }\n\n  return fallback;\n}\n\n// --- normaliza food_type (incluye typos como \"PACKGED\") ---\nfunction normalizeFoodType(ft) {\n  const s = (ft ?? \"\").toString().trim().toUpperCase();\n\n  if (!s) return null;\n  if (/(PACK|PACKA|PACKG|PACKGE|PACKGED|PACKAGED)/.test(s)) return \"PACKAGED\";\n  if (/(HOME|MEAL|PLATE|COMIDA|CASER|PLATO|RECETA)/.test(s)) return \"MEAL\";\n  if (/(RESTA|DELIV|FAST|STREET)/.test(s)) return \"MEAL\"; // suele ser comida â€œno envasadaâ€\n  return s; // fallback\n}\n\n// --- parsea response_text con headers tipo \"ROMMY_STATUS:\" (y tambiÃ©n soporta numerado) ---\nfunction splitSectionsFlexible(text) {\n  const t = normalizeNewlines(text).trim();\n  if (!t) return { sections: {}, raw: \"\" };\n\n  // 1) si viene numerado: \"1) ROMMY_STATUS:\"\n  const numRe = /(?:^|\\n)\\s*\\d+\\)\\s*([^\\n:]+?)\\s*:\\s*\\n/g;\n  let m;\n  let numMatches = [];\n  while ((m = numRe.exec(t)) !== null) {\n    numMatches.push({ idx: m.index, end: numRe.lastIndex, title: m[1].trim() });\n  }\n  if (numMatches.length) {\n    const out = {};\n    for (let i = 0; i < numMatches.length; i++) {\n      const cur = numMatches[i];\n      const next = numMatches[i + 1];\n      const body = t.slice(cur.end, next ? next.idx : t.length).trim();\n      out[toSnakeKey(cur.title)] = body;\n    }\n    return { sections: out, raw: t };\n  }\n\n  // 2) headers en mayÃºsculas: \"ROMMY_STATUS:\\n...\"\n  const hdrRe = /(?:^|\\n)\\s*([A-ZÃÃ‰ÃÃ“ÃšÃ‘][A-ZÃÃ‰ÃÃ“ÃšÃ‘0-9_ \\-]{2,})\\s*:\\s*\\n/g;\n  let hdrMatches = [];\n  while ((m = hdrRe.exec(t)) !== null) {\n    hdrMatches.push({ idx: m.index, end: hdrRe.lastIndex, title: m[1].trim() });\n  }\n\n  if (!hdrMatches.length) return { sections: { RAW: t }, raw: t };\n\n  const out = {};\n  for (let i = 0; i < hdrMatches.length; i++) {\n    const cur = hdrMatches[i];\n    const next = hdrMatches[i + 1];\n    const body = t.slice(cur.end, next ? next.idx : t.length).trim();\n    out[toSnakeKey(cur.title)] = body;\n  }\n  return { sections: out, raw: t };\n}\n\nfunction firstNonEmptyLine(body) {\n  const lines = normalizeNewlines(body).split(\"\\n\").map((l) => l.trim()).filter(Boolean);\n  return lines[0] ?? \"\";\n}\n\nfunction parseQuestions(body) {\n  const lines = normalizeNewlines(body).split(\"\\n\").map((l) => l.trim()).filter(Boolean);\n  const out = [];\n  for (const line of lines) {\n    const q = line\n      .replace(/^\\-\\s*/, \"\")\n      .replace(/^\\d+\\)\\s*/, \"\")\n      .trim();\n    if (q) out.push(q);\n  }\n  return out;\n}\n\nfunction parseFlags(body) {\n  const s = sanitize(body);\n  if (!s) return [];\n  // puede venir \"A; B; C\" o \"A, B\" o lÃ­neas\n  const tokens = s\n    .split(/[\\n;,]+/g)\n    .map((x) => x.trim())\n    .filter(Boolean)\n    .map((x) => stripDiacritics(x).toUpperCase().replace(/\\s+/g, \"_\"));\n  // unique\n  return Array.from(new Set(tokens));\n}\n\nfunction parseDatosTracker(body) {\n  const s = sanitize(body);\n  if (!s) return { estimable: false, missing: \"sin datos\", kcal: null, protein_g: null, carbs_g: null, fat_g: null, confidence: null };\n\n  // Caso: \"No estimable â€” falta: ...\"\n  if (/no\\s*estimable/i.test(s)) {\n    const missing = s.split(/falta\\s*:\\s*/i)[1]?.trim() ?? s;\n    return { estimable: false, missing, kcal: null, protein_g: null, carbs_g: null, fat_g: null, confidence: null };\n  }\n\n  // Caso: pipe style o texto con nÃºmeros\n  const num = (re) => {\n    const m = s.match(re);\n    if (!m) return null;\n    const n = Number((m[1] ?? \"\").replace(\",\", \".\"));\n    return Number.isFinite(n) ? n : null;\n  };\n\n  const kcal = num(/kcal\\s*:\\s*([0-9]+(?:[.,][0-9]+)?)/i);\n  const protein = num(/prote(ina|Ã­nas)?\\s*:\\s*([0-9]+(?:[.,][0-9]+)?)/i) ?? num(/protein(?:_g)?\\s*:\\s*([0-9]+(?:[.,][0-9]+)?)/i);\n  const carbs = num(/carb(?:ohidratos)?\\s*:\\s*([0-9]+(?:[.,][0-9]+)?)/i) ?? num(/carbs(?:_g)?\\s*:\\s*([0-9]+(?:[.,][0-9]+)?)/i);\n  const fat = num(/grasas?\\s*:\\s*([0-9]+(?:[.,][0-9]+)?)/i) ?? num(/fat(?:_g)?\\s*:\\s*([0-9]+(?:[.,][0-9]+)?)/i);\n  const conf = num(/confianza\\s*:\\s*(0?\\.\\d+|1(?:\\.0+)?)/i);\n\n  const estimable = [kcal, protein, carbs, fat].some((x) => x != null);\n\n  return { estimable, missing: estimable ? null : \"faltan macros\", kcal, protein_g: protein, carbs_g: carbs, fat_g: fat, confidence: conf };\n}\n\nfunction normalizeDecision(decision) {\n  const s = (decision ?? \"\").toString().trim().toUpperCase();\n  if (!s) return null;\n  if (s.includes(\"STOP\")) return \"STOP_AND_REPLY\";\n  if (s.includes(\"PROCEED\") || s.includes(\"RUN\") || s.includes(\"ANALYSIS\")) return \"PROCEED_TO_ANALYSIS\";\n  return s;\n}\n\nreturn items.map((item) => {\n  const input = item.json || {};\n\n  const llmText = extractLLMText(input);\n  const parsed = safeParseJsonBestEffort(llmText, null);\n\n  // Si el nodo ya viene entregando JSON directo (rarÃ­simo pero posible)\n  const classifyObj = parsed && typeof parsed === \"object\" ? parsed : (input.decision ? input : null);\n\n  const out = {\n    success: false,\n\n    // Gate principal\n    decision: null,\n    decision_norm: null,\n    stop_reason_code: null,\n\n    // Texto para responder (si STOP)\n    response_text_raw: \"\",\n    // Secciones parseadas\n    rommy_status: { estado: null, motivo_breve: null },\n    mensaje_listo_para_paciente: \"\",\n    resumen_para_rommy_text: \"\",\n    datos_para_tracker: { estimable: false, missing: null, kcal: null, protein_g: null, carbs_g: null, fat_g: null, confidence: null },\n    accion_recomendada: null,\n    preguntas_pendientes: [],\n    flags_list: [],\n\n    // Campos de clasificaciÃ³n / bÃºsqueda\n    packaged_product: null,\n    packaged_needs_label: null,\n    packaged_needs_grams: null,\n    packaged_clarifying_questions: [],\n    food_type: null,\n    food_type_norm: null,\n    search_terms: { ingredients: [], dish_name: null, brand: null, variants: [] },\n\n    // Passthrough para ai_analysis\n    phone: input.phone ?? \"\",\n    patient_dni: input.patient_dni ?? \"\",\n    patient_key: input.patient_key ?? null,\n    context_date: input.context_date ?? null,\n    timezone: input.timezone ?? null,\n    conversation_id: input.conversation_id ?? null,\n    message_id: input.message_id ?? null,\n    attachments_count: input.attachments_count ?? null,\n\n    user_text_norm: input.user_text_norm ?? input.user_text ?? \"\",\n    label_text_norm: input.label_text_norm ?? input.label_text ?? \"\",\n    image_analysis: input.image_analysis ?? input.image_analysis_json ?? null,\n\n    plan_status: input.plan_status ?? null,\n    detected_meal: input.detected_meal ?? input.meal_hint ?? null,\n    plan_context_json: input.plan_context_json ?? \"\",\n\n    // Usabilidad / debug\n    should_run_ai_analysis: false,\n    final_reply_text: \"\",\n    warnings: [],\n    error: null,\n    raw_llm_text: llmText || \"\",\n    raw_llm_json: classifyObj || null,\n  };\n\n  if (!classifyObj) {\n    out.error = { code: \"CLASSIFY_PARSE_FAILED\", message: \"No se pudo parsear JSON desde el output del LLM (clasify).\" };\n    out.decision_norm = \"STOP_AND_REPLY\";\n    out.stop_reason_code = \"CLASSIFY_OUTPUT_INVALID\";\n    out.rommy_status.estado = \"ESCALATE\";\n    out.mensaje_listo_para_paciente = \"Tuve un problema tÃ©cnico interpretando la informaciÃ³n. Â¿PodÃ©s reenviar la foto y el texto, por favor?\";\n    out.final_reply_text = out.mensaje_listo_para_paciente;\n    return { json: out };\n  }\n\n  // ---- mapear campos base desde JSON del LLM ----\n  out.decision = classifyObj.decision ?? null;\n  out.decision_norm = normalizeDecision(out.decision);\n  out.stop_reason_code = classifyObj.stop_reason_code ?? null;\n\n  out.response_text_raw = classifyObj.response_text ?? \"\";\n  out.phone = classifyObj.phone || out.phone;\n  out.patient_dni = classifyObj.patient_dni || out.patient_dni;\n  out.patient_key = classifyObj.patient_key || out.patient_key;\n  out.context_date = classifyObj.context_date ?? out.context_date;\n  out.timezone = classifyObj.timezone ?? out.timezone;\n  out.conversation_id = classifyObj.conversation_id ?? out.conversation_id;\n  out.message_id = classifyObj.message_id ?? out.message_id;\n  out.attachments_count = classifyObj.attachments_count ?? out.attachments_count;\n\n  out.user_text_norm = classifyObj.user_text_norm ?? out.user_text_norm;\n  out.label_text_norm = classifyObj.label_text_norm ?? out.label_text_norm;\n  out.image_analysis = classifyObj.image_analysis ?? out.image_analysis;\n  out.plan_status = classifyObj.plan_status ?? out.plan_status;\n  out.detected_meal = classifyObj.detected_meal ?? out.detected_meal;\n  out.plan_context_json = classifyObj.plan_context_json ?? out.plan_context_json;\n\n  out.packaged_product = classifyObj.packaged_product ?? null;\n  out.packaged_needs_label = classifyObj.packaged_needs_label ?? null;\n  out.packaged_needs_grams = classifyObj.packaged_needs_grams ?? null;\n  out.packaged_clarifying_questions = Array.isArray(classifyObj.packaged_clarifying_questions)\n    ? classifyObj.packaged_clarifying_questions\n    : [];\n\n  out.food_type = classifyObj.food_type ?? null;\n  out.food_type_norm = normalizeFoodType(out.food_type);\n\n  if (classifyObj.search_terms && typeof classifyObj.search_terms === \"object\") {\n    out.search_terms = {\n      ingredients: Array.isArray(classifyObj.search_terms.ingredients) ? classifyObj.search_terms.ingredients : [],\n      dish_name: classifyObj.search_terms.dish_name ?? null,\n      brand: classifyObj.search_terms.brand ?? null,\n      variants: Array.isArray(classifyObj.search_terms.variants) ? classifyObj.search_terms.variants : [],\n    };\n  }\n\n  // warnings del LLM\n  if (Array.isArray(classifyObj.warnings)) out.warnings.push(...classifyObj.warnings);\n\n  // ---- parsear response_text en secciones ----\n  if (out.response_text_raw && typeof out.response_text_raw === \"string\") {\n    const { sections } = splitSectionsFlexible(out.response_text_raw);\n\n    // aliases por si vienen con keys distintas\n    const get = (...keys) => {\n      for (const k of keys) {\n        const kk = toSnakeKey(k);\n        if (sections[kk]) return sections[kk];\n      }\n      return \"\";\n    };\n\n    const rommyStatusBody = get(\"ROMMY_STATUS\");\n    const msgBody = get(\"MENSAJE_LISTO_PARA_PACIENTE\");\n    const resumenBody = get(\"RESUMEN_PARA_ROMMY\", \"RESUMEN_PARA_ROMMY_INTERNO_CORTO\");\n    const trackerBody = get(\"DATOS_PARA_TRACKER\", \"DATOS_PARA_TRACKER_SI_APLICA\");\n    const accionBody = get(\"ACCION_RECOMENDADA\", \"ACCION_RECOMENDADA_PARA_EL_WORKFLOW\");\n    const preguntasBody = get(\"PREGUNTAS_PENDIENTES\", \"PREGUNTAS_PENDIENTES_SI_APLICA\");\n    const flagsBody = get(\"FLAGS\");\n\n    // ROMMY_STATUS suele ser 1 lÃ­nea (NEEDS_CLARIFICATION / OK / ERROR)\n    const estado = firstNonEmptyLine(rommyStatusBody);\n    out.rommy_status.estado = estado || null;\n\n    out.mensaje_listo_para_paciente = sanitize(msgBody);\n    out.resumen_para_rommy_text = sanitize(resumenBody);\n    out.datos_para_tracker = parseDatosTracker(trackerBody);\n\n    const accionLine = firstNonEmptyLine(accionBody);\n    out.accion_recomendada = accionLine ? accionLine.trim() : null;\n\n    out.preguntas_pendientes = parseQuestions(preguntasBody);\n\n    out.flags_list = parseFlags(flagsBody);\n\n    // Si el LLM no completÃ³ bien flags booleanos, los derivamos\n    const flagsSet = new Set(out.flags_list);\n    if (out.packaged_product == null) out.packaged_product = flagsSet.has(\"PACKAGED_PRODUCT\");\n    if (out.packaged_needs_label == null) out.packaged_needs_label = flagsSet.has(\"NEED_LABEL\") || flagsSet.has(\"NEEDS_LABEL\");\n    if (out.packaged_needs_grams == null) out.packaged_needs_grams = flagsSet.has(\"NEED_GRAMS\") || flagsSet.has(\"NEEDS_GRAMS\");\n\n    // Si decision estÃ¡ vacÃ­a pero ROMMY_STATUS sugiere stop\n    if (!out.decision_norm) {\n      if (out.rommy_status.estado && out.rommy_status.estado.toUpperCase().includes(\"NEEDS\")) {\n        out.decision_norm = \"STOP_AND_REPLY\";\n      }\n    }\n  }\n\n  // ---- decision final (fallbacks) ----\n  if (!out.decision_norm) out.decision_norm = normalizeDecision(out.decision) || \"STOP_AND_REPLY\";\n\n  out.should_run_ai_analysis = out.decision_norm === \"PROCEED_TO_ANALYSIS\";\n\n  // reply text\n  if (out.decision_norm === \"STOP_AND_REPLY\") {\n    out.final_reply_text =\n      out.mensaje_listo_para_paciente ||\n      \"Necesito un dato adicional para poder analizar correctamente. Â¿PodÃ©s ampliar la info?\";\n  } else {\n    out.final_reply_text = \"\"; // no respondemos acÃ¡; sigue ai_analysis\n  }\n\n  // success mÃ­nimo\n  out.success = true;\n\n  // sanity extra: ingredients siempre array\n  if (!Array.isArray(out.search_terms.ingredients)) out.search_terms.ingredients = [];\n\n  // compat: si food_type_norm quedÃ³ null, usar raw\n  if (!out.food_type_norm) out.food_type_norm = out.food_type ? String(out.food_type).toUpperCase() : null;\n\n  return { json: out };\n});\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -784,
+        352
+      ],
+      "id": "4af98f52-3822-46fd-952c-96006415dd22",
+      "name": "formatter"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "7a4fc3c7-0cd4-4660-8fdc-7b56f1b97fec",
+              "name": "respuesta_paciente",
+              "value": "={{ $json.final_reply_text }}\n",
+              "type": "string"
+            },
+            {
+              "id": "4f68d1d7-7b49-4f91-b188-d8911e53b7a7",
+              "name": "preguntas_pendientes",
+              "value": "={{ ($json.preguntas_pendientes || []).filter(Boolean).map(p => String(p).trim()).filter(p => p !== '').map((p,i)=> `${i+1}- ${p}`).join('\\n') }}",
+              "type": "string"
+            },
+            {
+              "id": "e5577948-2e03-452d-841a-d88330f25adf",
+              "name": "rommy_summary",
+              "value": "={{ $json.resumen_para_rommy_text }}",
+              "type": "string"
+            },
+            {
+              "id": "89f8faf9-fb61-4344-8c35-851768f4e7a2",
+              "name": "status",
+              "value": "=1- Estado actual: {{ $json.rommy_status_text }}\n2- PrÃ³xima acciÃ³n: {{ $json.accion_recomendada_text }}",
+              "type": "string"
+            },
+            {
+              "id": "4c21ab3e-f211-4e58-aa3f-62e334afa3cd",
+              "name": "tracker_data",
+              "value": "={{ $json.datos_para_tracker_text }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -16,
+        352
+      ],
+      "id": "e2d6a553-113f-422e-a327-ad0b149132a7",
+      "name": "response"
+    }
+  ],
+  "pinData": {
+    "When Executed by Another Workflow": [
+      {
+        "json": {
+          "phone": "5493534270844",
+          "patient_dni": "44789566",
+          "context_date": "2026-01-21",
+          "timezone": "America/Lima",
+          "user_text": "si, el plan es ese!\nla salsa rosa es whey protein de frutilla",
+          "image_analysis_json": "{\"type\":\"meal_photo\",\"items\":[{\"name\":\"avena\",\"confidence\":0.9},{\"name\":\"manzana en cubos\",\"confidence\":0.85},{\"name\":\"nueces\",\"confidence\":0.88},{\"name\":\"salsa rosa\",\"confidence\":0.75},{\"name\":\"pastel\",\"confidence\":0.8}],\"portion_estimate\":\"porciÃ³n mediana\",\"notes\":\"TazÃ³n de avena con manzanas, salsa rosa y nueces; pastel a un lado.\"}",
+          "label_text": "foto",
+          "plan_json": "{\"status\":\"PARTIAL\",\"patient\":{\"full_name\":\"Thalia\",\"consultation_date\":null,\"next_session_date\":\"2025-06-05\",\"age_years\":null,\"height_m\":null,\"weight_kg\":null,\"objective\":\"FASE DE PÃ‰RDIDA DE PESO\"},\"plan_meta\":{\"pdf_title\":null,\"pdf_author\":null,\"pdf_creator\":null,\"pdf_producer\":\"iLovePDF\",\"creation_date_raw\":null,\"mod_date_raw\":\"D:20250505163325Z\",\"language\":\"en\",\"pages\":null},\"targets\":{\"kcal\":null,\"protein_g\":null,\"carbs_g\":null,\"fat_g\":null},\"schedule\":{\"weekday\":[{\"meal_name\":\"Almuerzo (ejemplo)\",\"time\":null,\"kcal\":null,\"rules\":[\"Identifica cada grupo alimenticio en la comida que te toca\",\"Elige opciones del buffet igual al nÃºmero de porciones indicado en tu plan\",\"Puedes repetir opciones hasta alcanzar el total de porciones\",\"Usar las porciones indicadas (ej. 1/3 tz arroz por porciÃ³n) para sumar al total\"],\"portion_groups\":[{\"group_name\":\"AlmidÃ³n\",\"pick_n\":5,\"options\":[{\"item\":\"1 tajada de pan de molde\",\"amount\":null,\"notes\":null},{\"item\":\"1 pan pequeÃ±o (tipo carretilla)\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 pan grande (tamaÃ±o de toda la mano)\",\"amount\":null,\"notes\":null},{\"item\":\"Papas al air fryer (72 gr)\",\"amount\":null,\"notes\":null},{\"item\":\"1 tortilla/rapidita\",\"amount\":null,\"notes\":null},{\"item\":\"1 und de pan pita\",\"amount\":null,\"notes\":null},{\"item\":\"1/4 tz de granola\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 tz de cereal s/azÃºcar\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 tz de avena, quinoa, maca bebible s/azÃºcar\",\"amount\":null,\"notes\":null},{\"item\":\"3 cdas de avena cruda (25 g)\",\"amount\":null,\"notes\":null},{\"item\":\"1/3 tz de arroz cocido (70 g)\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 tz de pasta cocida (45g)\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 tz de quinoa, trigo\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 tz de choclo desgranado\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 und de papa, camote (90g)\",\"amount\":null,\"notes\":null},{\"item\":\"1/3 tz de yuca\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 tz de purÃ© de papa s/mantequilla\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 tz de menestras (frejoles, arverja verde, lentejas, pallares, garbanzos, haba) (120 g)\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 tz de guiso (locro, olluquito, etc)\",\"amount\":null,\"notes\":null},{\"item\":\"1 paquete de galletas salmas\",\"amount\":null,\"notes\":null},{\"item\":\"8 galletas de arroz costeÃ±o\",\"amount\":null,\"notes\":null},{\"item\":\"6 galletas de agua\",\"amount\":null,\"notes\":null},{\"item\":\"3 tz de palomitas de maÃ­z sin aceite\",\"amount\":null,\"notes\":null},{\"item\":\"1 cda de mermelada, manjar\",\"amount\":null,\"notes\":null},{\"item\":\"1 cda de azÃºcar, miel\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 tz de gelatina\",\"amount\":null,\"notes\":null}]},{\"group_name\":\"Grasas (y snacks grasos/semillas)\",\"pick_n\":null,\"options\":[{\"item\":\"8 aceitunas negras\",\"amount\":null,\"notes\":null},{\"item\":\"10 aceitunas verdes\",\"amount\":null,\"notes\":null},{\"item\":\"1/4 de palta\",\"amount\":null,\"notes\":null},{\"item\":\"1 cdta de aceite\",\"amount\":null,\"notes\":null},{\"item\":\"1 cda de mantequilla de manÃ­, nuez, almendras, etc\",\"amount\":null,\"notes\":null},{\"item\":\"6 almendras, nueces, castaÃ±as\",\"amount\":null,\"notes\":null},{\"item\":\"10 manÃ­es\",\"amount\":null,\"notes\":null},{\"item\":\"4 pecanas\",\"amount\":null,\"notes\":null},{\"item\":\"16 pistachos\",\"amount\":null,\"notes\":null},{\"item\":\"1 cda de ajonjolÃ­, linaza, o semillas de girasol, chÃ­a, sÃ©samo\",\"amount\":null,\"notes\":null},{\"item\":\"1 cda de hummus\",\"amount\":null,\"notes\":null},{\"item\":\"1 cda de queso crema light\",\"amount\":null,\"notes\":null},{\"item\":\"1 cda de aderezo de ensalada\",\"amount\":null,\"notes\":null},{\"item\":\"1 cda de mantequilla light\",\"amount\":null,\"notes\":null},{\"item\":\"1 cda de mayonesa light\",\"amount\":null,\"notes\":null},{\"item\":\"3 cdas de salsa blanca, pesto\",\"amount\":null,\"notes\":null}]},{\"group_name\":\"LÃ¡cteos\",\"pick_n\":null,\"options\":[{\"item\":\"1 tz de leche descremada o leche super light 0%\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 tz de leche evaporada descremada\",\"amount\":null,\"notes\":null},{\"item\":\"1 vaso de yogurt bebible light\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 tz de yogurt griego natural o Skyr (100 g)\",\"amount\":null,\"notes\":null},{\"item\":\"1 latte Alto con leche descremada de Starbucks\",\"amount\":null,\"notes\":null}]},{\"group_name\":\"ProteÃ­nas - Semi grasa\",\"pick_n\":null,\"options\":[{\"item\":\"1 und de huevo o 5 und de codorniz\",\"amount\":null,\"notes\":null},{\"item\":\"30 g de: cerdo, pescado frito, hot dog, chorizo\",\"amount\":null,\"notes\":null},{\"item\":\"30 g de: queso mozarella, feta, ricota, edam, parmesano\",\"amount\":null,\"notes\":null},{\"item\":\"2 tajadas de jamÃ³n\",\"amount\":null,\"notes\":null}]},{\"group_name\":\"ProteÃ­nas - Magra\",\"pick_n\":null,\"options\":[{\"item\":\"30 g de: pescados en conserva (en aceite, escurrido) filete de pierna, muslo o pierna, pescado graso, chancho sin grasa externa o un corte muy magro con aceite aÃ±adido o carne tipo parrilla\",\"amount\":null,\"notes\":null}]},{\"group_name\":\"ProteÃ­nas - Muy magra\",\"pick_n\":null,\"options\":[{\"item\":\"2 und de clara de huevo\",\"amount\":null,\"notes\":null},{\"item\":\"30 g de: pollo, bistec de res, salmÃ³n, pescados en conserva (en agua), milanesa de avinka, corazÃ³n de res.\",\"amount\":null,\"notes\":null}]},{\"group_name\":\"Verduras\",\"pick_n\":null,\"options\":[{\"item\":\"1 TZ DE VERDURAS FRESCAS: Espinaca, Lechuga, Tomate, Pepino, Rabanito, Brotes (frijol chino, alfafa, soya)\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 TZ DE VERDURAS COCIDAS: Brocoli, Coliflor, Vainitas, Zanahorias, Betarraga, entre otras verduras\",\"amount\":null,\"notes\":null}]},{\"group_name\":\"Frutas\",\"pick_n\":null,\"options\":[{\"item\":\"3/4 tz de arÃ¡ndanos (105 g)\",\"amount\":null,\"notes\":null},{\"item\":\"1 1/4 tz de fresas, melÃ³n, sandÃ­a (190 g)\",\"amount\":null,\"notes\":null},{\"item\":\"1 tz de papaya, naranja picada, frambuesas, aguaymanto (150 g)\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 tz de mango, lÃºcuma, chirimoya, guanÃ¡bana, granada (75 g)\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 tz de jugo de frutas (125 ml)\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 tz de ensalada de frutas\",\"amount\":null,\"notes\":null},{\"item\":\"1 und de manzana, pera, durazno, tuna, ciruela, kiwi, plÃ¡tano manzano\",\"amount\":null,\"notes\":null},{\"item\":\"17 und de uvas pequeÃ±as (90 g)\",\"amount\":null,\"notes\":null},{\"item\":\"9 und de uvas medianas (90 g)\",\"amount\":null,\"notes\":null},{\"item\":\"1/2 und de plÃ¡tano de la isla o seda, toronja, pitahaya (80 g)\",\"amount\":null,\"notes\":null},{\"item\":\"2 und de mandarina, guayabas, higos medianos, granadilla, 2 dÃ¡tiles\",\"amount\":null,\"notes\":null},{\"item\":\"1 rodaja de piÃ±a (181 g)\",\"amount\":null,\"notes\":null}]}],\"alternatives\":[]}],\"weekend\":[]},\"extras\":{\"training_additional\":{\"kcal\":null,\"when\":null,\"options\":[]},\"sabrosuras\":{\"kcal\":null,\"items\":[\"1 chocolate individual de tu preferencia (sublime, princesa, triÃ¡ngulo, etc.)\",\"1 paquete personal de tu galleta preferida\",\"1 helado individual de tu preferencia (sublime, sin parar, frio rico, etc.)\",\"1 bolsa personal de inkachips o papas lays (30 g)\",\"1 porciÃ³n de keke (60 g)\"]},\"postres\":{\"kcal\":null,\"items\":[]},\"mini_sabrosura\":{\"kcal\":null,\"items\":[]},\"street_food\":[{\"size\":\"PEQUENA\",\"kcal_limit\":650,\"items\":[\"PequeÃ±a - Hasta 650 kcal (categorÃ­a general)\",\"Mc Donalds: Big Mac - 500 kcal\",\"Mc Donalds: Cuarto de Libra - 512 kcal\",\"KFC: Hot Wings 8 u - 512 kcal\"]},{\"size\":\"MEDIANA\",\"kcal_limit\":850,\"items\":[\"Mediana - Hasta 850 kcal (categorÃ­a general)\",\"Yopo: Wrapper Original - 1068 kcal\",\"Yopo: Wrapper ChingÃ³n - 1163 kcal\",\"Yopo: Wrapper trufado - 1181 kcal\",\"Yopo: BBQ Wrapper + Chicken nuggets 6 u - 1182 kcal\",\"Yopo: BBQ Bowl - 930 kcal\",\"Bembos: Hamburguesa A lo Pobre Mediana + Papas fritas medianas - 1000 kcal\",\"Bembos: Hamburguesa Parrillera mediana + Papas Fritas medianas - 1128 kcal\",\"Bembos: Hamburguesa Cheese Mediana - 570 kcal\",\"Bembos: Hamburguesa ClÃ¡sica Mediana - 483 kcal\",\"Mc Donalds: Doble hamburguesa con queso + Mc Nuggets 6 u - 650 kcal\",\"Twister Mediano (KFC) - 630 kcal\",\"Burger King: Whopper Grande - 660 kcal\",\"Burger King: Whopper Junior + Papas medianas - 610 kcal\"]},{\"size\":\"GRANDE\",\"kcal_limit\":1250,\"items\":[\"Grande - Hasta 1250 kcal (categorÃ­a general)\",\"Yopo: Tex Mex Bowl - 786 kcal\",\"Yopo: Chicken Nuggets 6 u + Papas Fritas - 720 kcal\",\"Mc Donalds: Hamburguesa Doble Queso + Nuggets 10 u - 821 kcal\",\"Mc Donalds: Hamburguesa Doble Queso + Mc Flurry - 813 kcal\",\"Bembos: Hamburguesa Cheese mediana + Papas fritas medianas - 870 kcal\",\"Bembos: Hamburguesa Cheese mediana + Nuggets 6 u - 870 kcal\",\"KFC: Sandwich de Pechuga de Pollo + Nuggets 8 u - 780 kcal\",\"Popeyes: SÃ¡ndwich AjÃ­ Mix - 637 kcal\",\"Popeyes: Chicken tenders 5 u - 600 kcal\",\"Popeyes: Chicken nuggets 12 u - 560 kcal\",\"Popeyes: 1 Pieza de Pollo Crispy Pecho - 527 kcal\",\"Fridays: Cheese Burger - 780 kcal\",\"Fridays: Signature Burger - 680 kcal\",\"Fridays: Caesar Salad - 500 kcal\"]}},\"recommendations\":[\"Consumir al menos 2.5L de lÃ­quido al dÃ­a\",\"EstÃ¡ permitido beber cualquier producto zero sin azÃºcar\",\"Utiliza Stevia con yacÃ³n en pote y Aceite en aerosol para las preparaciones\",\"Prefiere preparaciones a la plancha, al horno, al vapor y salteados en lugar de frituras\",\"Usar tazas medidoras y balanza digital de comida para pesar porciones\",\"Puedes elegir tus preferencias dentro de las listas de intercambio para no sentir que estÃ¡s a dieta\"],\"constraints\":{\"allowed_beverages\":[\"productos zero sin azÃºcar\",\"agua (para alcanzar 2.5L/dÃ­a)\"],\"avoid\":[\"frituras (preferir no freÃ­r)\"],\"cooking_methods_prefer\":[\"a la plancha\",\"al horno\",\"al vapor\",\"salteados\"],\"other\":[\"Utilizar Stevia con yacÃ³n en pote\",\"Usar aceite en aerosol\",\"Medir porciones con tazas y balanza\"]},\"raw_highlights\":{\"key_lines\":[\"PLAN NUTRICIONAL DE THALIA\",\"FASE DE PÃ‰RDIDA DE PESO\",\"Lo que necesitarÃ­as para seguir el plan: Tazas medidoras Balanza digital de comida Muchas ganas\",\"OBJETIVOS DEL MES:\",\"EstÃ¡ permitido beber cualquier producto zero sin azÃºcar\",\"Consumir al menos 2.5L de lÃ­quido al dÃ­a\",\"Utiliza Stevia con yacÃ³n en POTE y Aceite en aerosol para tus preparaciones\",\"Prefiere preparaciones a la plancha, al horno, al vapor y salteados en lugar de frituras\",\"PRÃ“XIMO CONTROL: 05/06/2025\",\"Lista de intercambio\",\"Verduras\",\"Frutas\",\"Sabrosuras\",\"Suplementos\",\"STREET FOOD\"],\"detected_sections\":[\"IntroducciÃ³n / Objetivo\",\"Instrucciones para seguir el plan\",\"Ejemplo de almuerzo\",\"Lista de intercambio (AlmidÃ³n, LÃ¡cteos, Grasas, ProteÃ­nas)\",\"Verduras\",\"Frutas\",\"Suplementos / Sabrosuras\",\"Street Food (listado de comidas rÃ¡pidas con kcals)\",\"Recordatorios y contacto\"]},\"warnings\":[\"No se encontrÃ³ fecha de consulta inicial explÃ­cita; solo 'PRÃ“XIMO CONTROL: 05/06/2025' fue extraÃ­do.\",\"No aparecen objetivos calÃ³ricos o macronutrientes explÃ­citos en el texto.\",\"Las cantidades de porciones solo estÃ¡n explÃ­citas en el ejemplo de almuerzo (AlmidÃ³n = 5 porciones). Para otros grupos no se indica 'pick_n'.\",\"Metadatos del PDF incompletos (sin tÃ­tulo, autor, pÃ¡ginas).\",\"Algunas listas (ej. street food) contienen items con kcal mayores que los lÃ­mites de categorÃ­a; se incluyeron tal cual del texto.\"]}",
+          "conversation_id": "136",
+          "message_id": "msg_5493534270844_21012026050333",
+          "meal_hint": "desayuno"
+        }
+      }
+    ]
+  },
+  "connections": {
+    "When Executed by Another Workflow": {
+      "main": [
+        [
+          {
+            "node": "classify",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "ai_analysis": {
+      "main": [
+        [
+          {
+            "node": "format_response",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "format_response": {
+      "main": [
+        [
+          {
+            "node": "response",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "street_food": {
+      "ai_tool": [
+        [
+          {
+            "node": "ai_analysis",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "food_db": {
+      "ai_tool": [
+        [
+          {
+            "node": "ai_analysis",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "classify": {
+      "main": [
+        [
+          {
+            "node": "formatter",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "formatter": {
+      "main": [
+        [
+          {
+            "node": "ai_analysis",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "availableInMCP": false,
+    "timeSavedMode": "fixed",
+    "saveDataSuccessExecution": "all",
+    "callerPolicy": "workflowsFromSameOwner"
+  },
+  "versionId": "542eb762-58f9-42cb-9cf2-0f6bc87cbdde",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "a908134184433ebf07981b9f471fec283d5d7b629e6d329989a1aaf055db9736"
+  },
+  "id": "rsbK9IuFI8qdxOUNkUGpJ",
+  "tags": []
+}

@@ -1,0 +1,586 @@
+Impromptu Google Meet Meeting - November 19
+VIEW RECORDING - 41 mins (No highlights): https://fathom.video/share/1zs-zG3mrECvupzgHGd6xcz-_zo94KUA
+
+---
+
+0:00 - dacodeperu
+  He hecho una carga a Lespera, y me doy con la sorpresa de que, por ejemplo, Rosita me muestra que es una asesora, me muestra un mensaje de que MIA le ha mandado un cliente, el cliente Denny Donberto, por ejemplo.  Ok. Ya. Y dicen, le manda que el cliente quiere, o sea, los datos que es MIA manda cada asesor, Â¿no?  AjÃ¡. Pero en la data veo que el asesor asignado es otro, no es Rosita. Ok.
+
+0:33 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Y este asesor quiÃ©n es exactamente?
+
+0:35 - dacodeperu
+  PerdÃ³n, este cliente. AcÃ¡ lo tengo mapeado, acÃ¡ lo tengo mapeado. Â¿Ok? Esto acÃ¡ no. Justo hace unos momentos he estado conversando y la verdad eso sÃ­, preocupa, porque sÃ­ es delicado.  SÃ­, sÃ­, sÃ­, entiendo.
+
+0:52 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Vamos a revisarlo ahora mismo. MÃ¡s bien, ya corregimos los duplicados, eso no volverÃ¡ a pasar. Hay una data que estÃ¡ actualizada justo, si quieres podemos trabajar sobre esa.
+
+1:02 - dacodeperu
+  Primero veamos lo que tengo porque es el de hoy, el archivo de hoy que he sacado el dÃ­a de hoy dÃ­a.  SÃ­, por eso.
+
+1:07 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Hoy hay otro archivo que ya estÃ¡ corregido sin duplicados. Eso lo podemos revisar despuÃ©s sin problema.
+
+1:15 - dacodeperu
+  Ya, a ver, vamos a ver por partes, ya, un ratito. Ahorita te voy a compartir mi pantalla un ratito.  Ya, a ver, eso no estÃ¡, estÃ¡, estÃ¡, no estÃ¡. estÃ¡. ver, Â¿cÃ³mo se comparte el pantalla acÃ¡? AquÃ­, compartir, ventana, eso.  Ya, Â¿se ve mi pantalla? Â¿Se acuerda?
+
+1:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, estÃ¡ cargando, sÃ­, la veo.
+
+1:44 - dacodeperu
+  Ya, mira, todo lo de naranja claro es lo que he cargado el dÃ­a de hoy.
+
+1:49 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok. Ya, que es una regular cantidad.
+
+1:55 - dacodeperu
+  Son, Â¿cuÃ¡ntos? 72 leads que he cargado el dÃ­a de hoy. El caso en particular es este de aquÃ­, Elsa Salcedo.  Elsa Salcedo, segÃºn la data, dice que fue asignado al cliente Marlesa Trevolada, pero sin embargo, la mÃ­a le ha enviado mensaje a Rosa Mendoza.  Ok, Â¿cÃ³mo se llama?
+
+2:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Me dices Elsa Salcedo. SÃ­, es del 18 a las 6 y 28 p.m. Ok, vamos a ver acÃ¡, en el momento que estoy revisando.
+
+2:41 - dacodeperu
+  Ya le da la informaciÃ³n.
+
+2:47 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, quiero ver la selecciÃ³n. Ok, Â¿este es el Ãºnico caso similar, Denis, segÃºn lo que te han reportado?
+
+2:54 - dacodeperu
+  No, no es el Ãºnico caso. Ok, Â¿me puedes mostrar, por favor, otro? SÃ­. Y justamente lo he puesto de otro color.  El otro caso es de Victoria Kano.
+
+3:06 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok. Que tambiÃ©n pasÃ³ lo mismo.
+
+3:11 - dacodeperu
+  De igual para Rosa y se lo asignÃ³ Marlester. SÃ­. Ok. Ojo que este archivo que estÃ¡s viendo es el archivo de mÃ­a, que yo descargo.  AjÃ¡.
+
+3:24 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, El que estÃ¡ en la nube es el mismo que descargo, solo que lo convierte en Excel.
+
+3:29 - dacodeperu
+  Claro. Ya.
+
+3:31 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Esas son las columnas que siempre tÃº necesitas, Â¿no? En las que hemos acordado. SÃ­.
+
+3:36 - dacodeperu
+  Y acÃ¡, por ejemplo, hay una discordancia. Ahorita que estoy mirando, mira. El mÃ³vil dice un nÃºmero, pero el correo no es el mismo correo.  Ya.
+
+3:50 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok. Ya. Ok, perfecto, Denis. Si me pudieras pasar esos dos casos en particular, serÃ­a genial para ver cuÃ¡l es ahÃ­ la...
+
+3:59 - dacodeperu
+  No.
+
+4:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y el cuello de botella que estÃ¡ ocurriendo en la automatizaciÃ³n. Ya, porque eso sÃ­ puede generar malestar entre los asesores.  SÃ­, 100% de acuerdo, no te preocupes que lo vamos a corregir. Ya.
+
+4:17 - dacodeperu
+  A ver, estaba mandando primero desde acÃ¡, Â¿AhÃ­? Porque despuÃ©s me olvido, Santiago. Ya.
+
+4:52 - Santiago Isaias Zavaleta Ayala (Ulima)
+  El Cazaliceo. AdiÃ³s. AdiÃ³s.
+
+5:01 - dacodeperu
+  SÃ­, Rosita me mostrÃ³ los chats que le indican de que se le asignaba a ella.
+
+5:07 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, sÃ­, sÃ­, sÃ­, es lo que estoy revisando. Claro, asesor Marlester Tremolada, no debes armar Lester, ahÃ­ es a Rosa.  Ok, se lo vamos a revisar.
+
+5:22 - dacodeperu
+  Ok, no te preocupes, va a quedar al 100%.
+
+5:27 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Una pregunta, Denis, Â¿esta carga que tÃº no haces al Esperant, lo haces diario?
+
+5:33 - dacodeperu
+  No, reciÃ©n estoy empezando a hacerle diaria ya. SÃ­, ya se estÃ¡ haciendo diaria. Ok. Diaria se estÃ¡ haciendo. Justamente, bueno, los asesores no me han dicho nada, reciÃ©n hoy dÃ­a te ha venido a Rosita.  Y me he dicho, por eso es que te estoy de una vez pasando el caso. SÃ­, no te preocupes, ahÃ­ lo vamos a...
+
+5:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Es cuestiÃ³n de entrenar a MÃ­a Ãºnicamente, asÃ­ como se le entrena de cara a la atenciÃ³n. TambiÃ©n se lo tiene que entrenar de cada registro.  Eso no pasa nada. Por eso lo mÃ¡s importante es que apenas ocurra esto, es mostrarlo al momento. AsÃ­ como nos has estado comunicando por el grupo de WhatsApp.  AsÃ­ que no te preocupes, eso lo vamos a entrenar. aquÃ­ tenemos dos discordancias, Â¿no? El tema del asesor asignado con relaciÃ³n al mensaje que manda MÃ­a y el correlativo que deberÃ­a ir en el mail, que me imagino que igual lo vamos a corregir, pero esto es mÃ¡s secundario, porque al ser un mail correlativo, lo que tÃº necesitas...  No, es un correlativo.
+
+6:32 - dacodeperu
+  No es un correlativo, Santiago, el correo. Bueno, lo que se pidiÃ³ fue que sea el mismo nÃºmero del mÃ³vil arroba whatsapp.com.  Â¿Eso no es un correlativo? Bueno, no es tanto un correlativo, pero bueno, ya. SÃ­, sÃ­, comprando el punto, comprando el punto.
+
+6:51 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Sintiendo ahÃ­ la... A lo que voy es que se estÃ¡ cumpliendo con llenado el espacio, pero lo vamos a mantener.  sÃ­, SÃ­, sÃ­, eso sÃ­.
+
+7:00 - dacodeperu
+  Ah, mira, vamos a validar data, Â¿ya? Ok. A ver, vamos a ver. En el tema del interÃ©s, todavÃ­a, ah, ya, eso queda por definir.  EstÃ¡ por definir el tema del interÃ©s, el asesor.
+
+7:17 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, acÃ¡ en el asesor hay algunos que estÃ¡n sin asignar.
+
+7:22 - dacodeperu
+  Mira. Hay algunos que estÃ¡n sin asignar, pero, sin embargo, hay algunos que estÃ¡n duplicados.
+
+7:31 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, Â¿te parece si eso, Denis, lo vemos en el Excel que justo se acaba de actualizar? Como te digo, ayer hemos eliminado todos los duplicados.
+
+7:40 - dacodeperu
+  Ah, ya, entonces voy a descargar de una vez ese Excel. SÃ­, dale, no importa, aquÃ­ lo hacemos juntos.
+
+7:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Quiero, o sea, lo que al final estamos buscando, Denis, es que ese reporte quede impecable. Estamos buscando facilitarte la vida a ti, sobre todo, que al final tÃº eres el que hace la casa.  Pues no, eso es lo que queremos buscar. Ya, a ver, voy a descargar el Ãºltimo archivo, entonces.
+
+7:58 - dacodeperu
+  Uh A ver, import, eh, ha sido a las 3 y 41, hace un rato.
+
+8:07 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, hace un, hace nada, justo me acaban de confirmar ahÃ­ la actualizaciÃ³n, ya no van a ver duplicados, hemos puesto una, un filtro previo antes de la importaciÃ³n y la exportaciÃ³n.  Ya, a ver, vamos a chequearlo.
+
+8:24 - dacodeperu
+  Vamos a ponerlo. A ver, voy a abrir el archivo. Habitar is now. Ha estado con filtros, Â¿no?
+
+8:37 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿CÃ³mo filtros, perdÃ³n?
+
+8:39 - dacodeperu
+  Porque el archivo me sale filtrado, como que le hubieran aplicado filtro.
+
+8:43 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ah, sÃ­, ahÃ­ lo he estado yo revisando, disculpenme, que no lo quitÃ©.
+
+8:49 - dacodeperu
+  Ya, a ver, aquÃ­. Ah, no, no, Vamos a ponerlo en su esto. Ya. Este de le voy a poner un color.  Ya estÃ¡. Y este de acÃ¡ le a poner otro color. Y empiezo con los, Â¿con quÃ© era? AhÃ­ va, con los citados.
+
+9:22 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, vamos a, voy a poner, a compartir el archivo para validarlo, por completo junto contigo, Â¿ya?
+
+9:28 - dacodeperu
+  SÃ­, sÃ­. Ya, a ver, Â¿cuÃ¡ntas para compartir? AcÃ¡. Vamos a compartir. Ventana. Â¿Es enero? SÃ­, es enero. Ya, se visualiza, Â¿verdad?  SÃ­.
+
+9:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, lo primero que vamos a validar, Santiago, es el tema de los citados.
+
+9:51 - dacodeperu
+  Se supone que todos los, todos los que tienen cita, tienen que aparecer con el estado de citado. Â¿no? Uy, Entonces,  Para todos los que tienen fecha y hora de visitar, Â¿no? O solicitÃ³ atenciÃ³n. Ya, pero mira cÃ³mo estÃ¡n apareciendo.
+
+10:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿CuÃ¡l? Ah, en la parte del registrado, Â¿no?
+
+10:16 - dacodeperu
+  El solicitÃ³ atenciÃ³n tambiÃ©n aplica para los que tienen ya cita. No, es mÃ¡s que todo una hora en la que solicitan atenciÃ³n, si es que la solicitan.
+
+10:26 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AhÃ­ lo que podemos hacer es simplemente no ponerles, o sea, no ponerle la hora de fecha de visita. O perdÃ³n, no ponerle ni fecha ni hora a los que solicitan atenciÃ³n.  Â¿QuÃ© opinas? Ya, por eso. Â¿Y esto de acÃ¡?
+
+10:37 - dacodeperu
+  No, Â¿eso de quÃ© dice que esto de acÃ¡ es incorrecto? No, no es incorrecto.
+
+10:41 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Si es que el cliente menciona una hora en la que, por ejemplo, quieren que se comuniquen con ellos, eso lo guarda como una fecha hora y cita.  Y si no, automÃ¡ticamente la hora en la Ay, ay, ay.
+
+10:51 - dacodeperu
+  No, estÃ¡ bien, dÃ©jalo asÃ­, asÃ­ como dices. EstÃ¡ bien. Si solicitÃ³ atenciÃ³n para que sea en esa fecha, dÃ©jalo asÃ­.  No hay problema. Pero sÃ­, los registrados no deberÃ­an de estar. SÃ­, no te preocupes, eso ahÃ­ lo dimensiono un poco.  Bueno, no son muchos casos, pero ojo, estÃ¡ en el 18.
+
+11:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, sÃ­, sÃ­, sÃ­, es lo que estoy observando. Bien. Ahora, otra cosa, no estÃ¡ ordenado ni por fecha ni por hora, Â¿verdad?  Por fecha ni por hora, no, de hecho sÃ­, sÃ­, sÃ­, eso sÃ­ lo hemos ordenado por fecha y por hora.  No, porque mira, acÃ¡ estÃ¡ tal cual.
+
+11:27 - dacodeperu
+  Ok, ah, ya, eso sÃ­, ok. No estÃ¡ ordenado por mi papÃ¡, sino por hora. Ya, entonces voy a tratar de ordenarlo un poco porque sÃ­, la verdad es que no estÃ¡ bien, estÃ¡ ordenado, un segundito.  Me recesÃ³, dos centÃ­metros. Por hora de mayor o menor, ya estÃ¡. Ya, ahora sÃ­, entonces los registrados, ah, los que tienen cita, ya, vamos a hacerlo asÃ­.  Eh, sÃ­. Fathom de los registrados. Y a todos, mira, para que acÃ¡ lo valides, tengo cuatro casos, de los mÃ¡s recientes.
+
+12:10 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, despuÃ©s, por favor, bueno, igual si me pudieras pasar esos casos al igual que me has pasado a los otros, te lo agradecerÃ­a bastante.
+
+12:17 - dacodeperu
+  Ya, vas a mandar un correo por cada paso para ir resolviendo, a lo mejor. Ya, dale.
+
+12:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, vamos a mandar un correo ahorita, SebastiÃ¡n. AhÃ­ solo me estÃ¡ seÃ±alando los mÃ¡s recientes. No, no, no, no, no.
+
+13:18 - dacodeperu
+  Y ahÃ­ ya te envÃ­as el correo, no te lo tengas. Ya, genial. Ya. Ya, ahorita solo estoy considerando 18 y 19, porque ahora ya se deberÃ­an de corregir de todos.  No deberÃ­an apuntar con Estados Unidos.
+
+13:33 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, seguimos.
+
+13:36 - dacodeperu
+  Lo otro era... Ya, voy a validar primero los nÃºmeros mÃ³viles duplicados, no deberÃ­a haber. Claro, no deberÃ­a haber ninguno.
+
+13:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Gracias. Gracias.
+
+13:59 - dacodeperu
+  Vamos.
+
+14:16 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, no hay duplicados.
+
+14:21 - dacodeperu
+  SegÃºn lo que me dicen, no hay duplicados.
+
+14:33 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok. Hasta ahorita tendrÃ­amos dos pendientes, entonces, Â¿no, Denis? Los registrados que no deberÃ­an tener fecha y hora de cita, es decir, que si tienen fecha y hora de cita, son citados, sin mÃ¡s.  Y los casos en particular, que, bueno, esos son los casos, Â¿no? Ya.
+
+14:49 - dacodeperu
+  Santiago, justo ahorita ha venido Rosita para indicarme que le acaba de llegar otro caso de un citado. Â¿Ya? Mira, te voy a reenviar el correo que ella me estÃ¡ dando para revisar los correos.  Â¿Ya?
+
+15:11 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Creo que voy a reenviar. Ok, perfecto. Mi correo, Â¿verdad? SÃ­.
+
+15:16 - dacodeperu
+  Â¿CuÃ¡l es el cliente? No, no, no. El cliente con el que estÃ¡ apareciendo asÃ­. Â¿QuÃ© clientes? Esa. SÃ­, esa.  Esa. Ah, de la base. SÃ­, sÃ­, sÃ­. de la base. Ya. Ya. Pero si el mensaje, no lo llevo.  Ya, ahorita lo veo. Ya. A ver, seguimos, Santiago. SÃ­. No, no, no, no, no, no A ver, este es el correo.  TambiÃ©n voy a aplicarle el formato.
+
+16:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿No hay nada duplicado, me dices ahora?
+
+16:10 - dacodeperu
+  Â¿Has hecho como un reproceso o algo?
+
+16:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, hemos ajustado la automatizaciÃ³n para que, bueno, elimine los duplicados antes de exportar el archivo.
+
+16:22 - dacodeperu
+  Ya. Bueno, esto ya lo tuve que cargar de una forma. Esto ya estÃ¡ cargado, pero ya no importa.
+
+16:31 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, Â¿eso es con respecto a de aquÃ­ en adelante o...?
+
+16:34 - dacodeperu
+  SÃ­, de aquÃ­ en adelante. Eso ya no va volver a pasar, Denise. Ah, ya, es de aquÃ­ en adelante, entonces.  Exacto. Entonces ya no veo data antiguo. SÃ­, total. Ya. Â¿CÃ³mo se va a manejar el tema de los...? He visto varios que nos dicen...  Mira, acÃ¡ hay un proyecto que dice Callao.
+
+16:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, ahÃ­ UCP nos mencionÃ³ que en caso el prospecto... No mencione ningÃºn proyecto en especÃ­fico y que, bueno, mencione o zona o algo similar, que mÃ­a lo rellene con lo que mÃ¡s se asemeja a lo que busca el prospecto, pero que no se deje vacÃ­o, sin mÃ¡s, ahÃ­ bajo esas situaciones o le pone o el distrito o la zona o le pone no asignÃ³ porque al final nunca iba a especificar tanto, pues, Â¿no?  Es lo que nos mencionÃ³ Giuseppe.
+
+17:23 - dacodeperu
+  No idea. Â¿En todo caso? En esa parte, para mÃ­ no hay problema, tranquilo. Si lo han acordado de esa forma, no hay problema.  Pero yo preferirÃ­a que si en casa menciona un distrito, ponerle el proyecto mÃ¡s cercano o que por default sea Villanova.  Ya despuÃ©s, si el cliente dice, no, yo no quiero en Villanova, quiero en AndalucÃ­a, y asÃ­, obviamente, es como una resignaciÃ³n.  Claro.
+
+17:48 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Si me puedes formalizarlo por correo, genial. Si voy a conversarlo con Giuseppe, mejor en esa parte.
+
+17:53 - dacodeperu
+  Dale. bien, Eso ya entonces ya queda saludado de esa forma. No, no tengo problemas. Ok. Ya. Esta de acÃ¡, Â¿por quÃ© entonces envÃ­o?  Porque acÃ¡ tengo dos casos, o unos casos que son de esta forma.
+
+18:06 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿CuÃ¡l, cuÃ¡l, perdÃ³n? Â¿Ves la pantalla? SÃ­, sÃ­, sÃ­. Uy, es una muy buena pregunta. Eso era bajo una situaciÃ³n en la que preguntaban por los dos proyectos a la vez.
+
+18:19 - dacodeperu
+  Bueno, acÃ¡ yo manualmente lo estoy dando prividad primero, no lo estoy dando prividad segundo.
+
+18:24 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, no, el orden es por default, de hecho. O sea, sea que hayan preguntado primero por Villa Monumental y luego por Villanova o viceversa, asÃ­ como lo estÃ¡s viendo, siempre se coloca.  Yeah.
+
+18:38 - dacodeperu
+  Eso de ahÃ­, Â¿cÃ³mo quedaron ustedes? EstÃ¡ bien, con lo mismo. Â¿QuÃ© va a ser asÃ­? Â¿Se va a mostrar con una diagonal y separar el proyecto?
+
+18:48 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No especificamos exactamente cuÃ¡l iba a ser la simbologÃ­a, pero si tienes alguna que sea mucho mÃ¡s cÃ³moda para ti, menciÃ³namela y lo ajustamos.
+
+18:57 - dacodeperu
+  No, no, yo no digo por eso, sino porque veo que algÃºn... Uno se ha puesto barra invertida y en otro se ha puesto punticoma.
+
+19:03 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, es la misma IA al final quien decide hacerlo, pero como te digo, si lo ajustamos de una manera, me dices cuÃ¡l es mÃ¡s cÃ³moda.
+
+19:10 - dacodeperu
+  No, simplemente que les aparezca en una diagonal es suficiente, nada mÃ¡s, no nos hagamos tanto problema. Que aparezca, no problema que aparezca.  Ahora, Â¿cÃ³mo MIA va a manejar si yo, por ejemplo, Dennis, pregunto primero por Villanova, luego pregunto por Chancay y de ahÃ­ pregunto por Trujillo?  Â¿CÃ³mo lo va a manejar MIA? Â¿CÃ³mo va a manejar con respecto a quÃ©?
+
+19:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿A la conversaciÃ³n, al envÃ­o de imÃ¡genes?
+
+19:33 - dacodeperu
+  No, no, yo veo el tema de data. Porque sÃ© que MIA va a responder y le va a enviar la data.  Por esa parte no es mi preocupaciÃ³n. Mi preocupaciÃ³n es por la data, cÃ³mo la va a enviar.
+
+19:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mira, MIA estÃ¡ construida para que al final en la data se quede el Ãºltimo proyecto o los Ãºltimos proyectos por los cuales ha preguntado.  Â¿A me refiero? Si pregunta por los dos del Callao, va a registrar los dos del Callao. Pero si justo despuÃ©s de preguntar por esos dos preguntas...  Pregunta... Por AndalucÃ­a, borra esos dos y se pone solo AndalucÃ­a. Si es que pregunta por los dos de Callao, se ponen los dos.  Si es que pregunta por uno de Callao, solo se pone uno. Pero independientemente de eso, si pregunta por otra zona, pone Ãºnicamente la del proyecto de esa zona.  La Ãºltima por la cual preguntÃ³ y ya confirmÃ³.
+
+20:17 - dacodeperu
+  Lo que te entiendo es que internamente MIA lo que va a hacer es, va a agarrar el Ãºltimo proyecto por el cual preguntÃ³ y solamente ese proyecto va a aparecer en la base.
+
+20:31 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AsÃ­ es, total, total eso. Ya, ya, ya.
+
+20:37 - dacodeperu
+  Como te digo, al final es cuestiÃ³n tambiÃ©n que... Esa parte de ahÃ­, por favor, envÃ­alo para tenerlo claro para que despuÃ©s no haya inconvenientes.  Claro. Enviarnos un correo a mÃ­, a Giuseppe y a Renel, indicÃ¡ndonos que si en caso del cliente pregunta por varios proyectos, solamente en la base va a aparecer sobre el Ãºltimo que preguntÃ³.  SÃ­, no te preocupes, lo formalizamos.
+
+21:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Sin embargo, Demi, si extiendes la columna resumen, ahÃ­ estÃ¡, o sea, vale la redundancia, el resumen de lo que el dijo, si es que pregunto por mÃ¡s de Este resumen ya lo estoy cargando, ahora le esperan.
+
+21:16 - dacodeperu
+  Este resumen lo estoy cargando, justamente lo estoy cargando por ese tema, Â¿no? Porque una cosa es que yo diga que el IDIC le pertenece a Marlesa y solo es de Villanova, pero le estoy mandando que se conversÃ³ como para que tengas una idea de lo que tiene que ver con ese cliente.
+
+21:33 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, ok.
+
+21:35 - dacodeperu
+  Este resumen sÃ­ se estÃ¡ cargando, Santiago.
+
+21:38 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, no, lo menciono Ãºnicamente porque si de repente no podemos tener la data 100% comprensible porque solo estÃ¡ el nombre del proyecto, tenemos el resumen que fortalece y especifica mÃ¡s quÃ© es lo que el cliente mencionÃ³, pues, Â¿no?
+
+21:51 - dacodeperu
+  SÃ­, totalmente de acuerdo. Genial.
+
+21:54 - Santiago Isaias Zavaleta Ayala (Ulima)
+  MÃ¡s bien, Â¿deseas que sea un poco mÃ¡s detallado o te parece bien la informaciÃ³n que ya estÃ¡ ahÃ­? Mira, primero voy...
+
+22:00 - dacodeperu
+  Vamos a esperar, Â¿quÃ© es lo que me dicen los asesores? Porque al final son ellos los que van a manejar esa informaciÃ³n.  Mi Ãºnico trabajo es trasladar tu data a la espera. Dale, genial.
+
+22:10 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Por eso es que necesito que la data estÃ© bien.
+
+22:13 - dacodeperu
+  Ahora, ya bueno, vamos a sacar esto. Ya, ya saquÃ© los filtros. Â¿quÃ© me falta? Esto de acÃ¡. Â¿CuÃ¡les eran los vacÃ­os o vacÃ­os?  Ya acÃ¡ no hay nada. Ah, aquÃ­. No, eso no. Ah, sin necesidad. No, sin necesidad.
+
+22:38 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Hemos eliminado todos los vacÃ­os para que no tengan esos problemas de, bueno, los que nos mencionaba, Yusepe, Â¿no? Todos los hemos corregido con correlativos o con un default, por ejemplo, en proyecto no mencionÃ³, o en asesor sin asignar y en interÃ©s por definir, asÃ­ que ustedes definen cÃ³mo quieren hacer esa puntuaciÃ³n por lead, pues, Â¿no?
+
+22:55 - dacodeperu
+  Ya, mira, Santiago, por ejemplo, acÃ¡ tengo un caso. Estos dos. Estos dos vÃ­deos. Â¿La llegas a apreciar? Â¿Logrando un poco?
+
+23:02 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, lo voy a cerrar un poquito mejor, por favor.
+
+23:06 - dacodeperu
+  Bien, listo. Mira, tengo estos dos casos que habÃ­a visto. Por ejemplo, no hay un proyecto asignado, pero sÃ­ un asesor.  Entonces, creo que ambos van de la mano, Â¿no?
+
+23:22 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No necesariamente. Â¿Puedes revisar si solicitaron atenciÃ³n? Â¿O si tienen...? Â¿CuÃ¡l es el estado? Porque, mira, acÃ¡, segÃºn...
+
+23:30 - dacodeperu
+  Vamos a ver el primer caso de acÃ¡. Ok. Ya, estÃ¡ acÃ¡. Ya, mira, por ejemplo, dentro del resumen dice, Â¿interesad en proyectos del Callao?  Y lo decÃ­a, segÃºn lo que me indicaste hace un momento, acÃ¡ deberÃ­a aparecer como proyecto Callao. AjÃ¡. Â¿No? Y no quedar en no mencionÃ³.  Porque sÃ­ lo estÃ¡ indicando.
+
+23:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Como te digo, es parte del margen de error que tiene la guÃ­a. Es un... No, estÃ¡ bien.
+
+24:01 - dacodeperu
+  SÃ­, estÃ¡ bien. No, sino que estoy viendo caso por caso de la data.
+
+24:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  En el caso de acÃ¡ de San MartÃ­n, bueno, sÃ­, eso sÃ­ no mencionÃ³.
+
+24:12 - dacodeperu
+  Lo mÃ¡s cercano es Villanova, Â¿no? Si en caso de Lima hay que mencionarle Villanova. Cualquier distrito de Lima tiene que mencionarle Villanova o...
+
+24:21 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, o sea, igual cabe recalcar que puede que MÃ­a le ofrezca Villanova, si es que no se preguntan por San MartÃ­n, Â¿no?  Y MÃ­a ofrece Villanova, de hecho ya tiene la instrucciÃ³n asÃ­, pero... que para cualquier distrito de Lima tendrÃ­a que ofrecer Villanova, porque no tenemos en otro distrito.
+
+24:38 - dacodeperu
+  Claro.
+
+24:39 - Santiago Isaias Zavaleta Ayala (Ulima)
+  MÃ­a hace eso actualmente. A lo que voy es que por mÃ¡s que MÃ­a mencione Villanova, no siempre hay el interÃ©s del prospecto por Villanova.  AÃºn asÃ­ me consideras que por mÃ¡s que no haya ese interÃ©s se coloque Villanova.
+
+24:54 - dacodeperu
+  A eso me refiero, Â¿no?
+
+24:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Como que preguntan por San MartÃ­n. Oye, no tenemos proyecto de San MartÃ­n, pero tenemos Villanova siempre en el Callao.
+
+24:59 - dacodeperu
+  Gracias. Gracias. Gracias. Â¿Sabes por quÃ© lo digo, Santiago? Porque como que el asesor y el proyecto van de la mano.  Si ya te puse el asesor tremolada, Momar Lesser, entonces por defecto ya tiene que ponerte Villanodo. AsÃ­ como que si ya le puse el asesor rosa, tiene que ponerle ya el proyecto Villanodo.  O sea, yo lo digo por eso, Â¿no? Â¿Por quÃ© puse el nombre del asesor y no el proyecto? Aunque sea callado por Ãºltimo, Â¿no?  Porque supuestamente para que haya puesto el nombre del asesor es porque MIA ya dedujo que hay algo que tenga que ver con los proyectos en Lima.
+
+25:37 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, entiendo, entiendo, entiendo.
+
+25:38 - dacodeperu
+  Esa parte nada mÃ¡s habrÃ­a que de repente cumplir porque, mira, esta data es del 17, o sea, no hace mucho.
+
+25:47 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿De ayer? SÃ­.
+
+25:53 - dacodeperu
+  Ya, entonces, si ya asigna un asesor, que le asigne un proyecto sÃ­ o sÃ­. Y asÃ­ ya le asignÃ³ al asesor.  MÃ­a ya dijo, ya, tu asesor va a ser ese porque para que mande acÃ¡ el asesor es porque MÃ­a ya le mandÃ³ un mensaje al cliente, que eso va a ser tal persona.  Entonces, si ya le asignÃ³ al asesor, que le asigne el proyecto. Punto. Pero si estÃ¡ sin asignarle, eso sÃ­ que quede vacÃ­o, ya yo con Giuseppe vemos cÃ³mo lo cargamos.  Por esa parte, sin el problema tambiÃ©n.
+
+26:21 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, estÃ¡ bien, perfecto.
+
+26:25 - dacodeperu
+  Ya, de ahÃ­, Â¿quÃ© mÃ¡s? Bueno, ya veo que he sacado bastante data de acÃ¡. Ahora quiero validar los demÃ¡s estados, Â¿cÃ³mo estÃ¡n?  A ver, todo lo que estÃ¡. Ya, saludo. Ya, saludo, no me voy a ir atrÃ¡s, ya estÃ¡ bien. Todo lo que estÃ¡ enregistrado.  Enregistrado, en teorÃ­a, deberÃ­a tener todo menos la cita. Ya, saludo, no me a no Â¿Por quÃ©, por ejemplo, podemos ver este caso de Dalila Osoria?
+
+27:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, claro. Â¿Puedes validar si en el chat ella entregÃ³ el DNI, por favor? A ver. Dalila Osoria. No, no entregÃ³ el DNI.  No entregÃ³, ya, sÃ­, no entregÃ³ el DNI, sÃ­.
+
+27:46 - dacodeperu
+  Y quÃ©, una pregunta, Denis, Â¿quÃ© te hizo ruido de esa fila? Â¿CÃ³mo? Â¿QuÃ© es lo que te hizo ruido de esa fila?  Ah, ya, lo decÃ­a porque si Ã©l estÃ¡ en estado registrado... Es porque ya habÃ­a ingresado todos sus datos, sus miembros del DNI.  Pero si no, si estÃ¡ este DNI por defecto no hay problema, igual de acuerdo actualizan los usuarios. Siempre me estoy intentando validar, nada mÃ¡s.  Ok, ok, ok, sÃ­, sÃ­, 100% de acuerdo.
+
+28:16 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bien, porque algunos ingresan a la PID. De igual manera, serÃ­a bueno que de la mano, si es que hay alguna informaciÃ³n que estÃ© ambigua, puedan cruzarlo con el CRM conversacional que les hemos dado y vean chat por chat.  De los cuales a ustedes les hace ruido para que puedan tambiÃ©n comprender.
+
+28:33 - dacodeperu
+  Claro, sino que como hemos descargado reciÃ©n este archivo hace un momento, no he tenido el tiempo para poder verlo, porque como se han eliminado duplicados.  SÃ­, me imagino, no te preocupes. Ya, a ver, Â¿quÃ© mÃ¡s? Ya no voy muy atrÃ¡s. Â¿Me parece o hay mÃ¡s personas que no estÃ¡n entregando DNI, por lo que tengo, por lo que estoy viendo acÃ¡?
+
+28:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, hay muchas personas que no estÃ¡n entregando DNI.
+
+29:01 - dacodeperu
+  Ya, otra cosa que estoy observando, por ejemplo, tÃº lo has puesto en estado registrado, pero mira, acÃ¡ hay un cliente que no ha entregado data.  Â¿Por quÃ© lo ha puesto registrado?
+
+29:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Es el estado, parte de registrar la data, es saber de quÃ© proyecto es, quiÃ©n es el asesor.
+
+29:21 - dacodeperu
+  Por mÃ¡s que haya entregado sus nombres, o sea, con que tenga estos dos datos de acÃ¡, tanto proyecto como asesor, ya pasa estado registrado.
+
+29:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, por supuesto, tiene que pasar por el estado registrado antes de pasar por los demÃ¡s, sea que entregue todo o sea que entregue nada, porque al final la data que nosotros tenemos es sÃ­ o sÃ­ el nÃºmero de WhatsApp, que nos quiere dar algo mÃ¡s, serÃ¡ el proyecto de interÃ©s, en el peor de los casos, Â¿no?  Que siga con el proceso sin habernos dado su informaciÃ³n como tal, pero igual se registra.
+
+29:50 - dacodeperu
+  Ya, ok, ya. Si asÃ­ lo han definido, estÃ¡ bien. Ya, Por ejemplo, dentro de los registrados tenemos estos que no han dicho proyecto.
+
+30:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Son los mismos que hemos revisado. Hace los que hemos revisado que habÃ­a habido cambio, Â¿no? O mÃ¡s que cambio, no especificÃ³ proyecto uno y el otro solo mencionÃ³ Callao.  Tampoco especificÃ³ proyecto, pero vamos a ajustarlo para que en vez de diga no mencionÃ³, la precisiÃ³n se ajuste para poner la zona.
+
+30:27 - dacodeperu
+  Ya, te indicaron de que hay un nuevo asesor, que tenemos un nuevo asesor, que es JoaquÃ­n MÃ¡rquez. Â¿De quÃ© proyecto, perdÃ³n?
+
+30:36 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Villanova y Monumental.
+
+30:38 - dacodeperu
+  Villanova y Monumental, ok, lo asignamos hoy mismo.
+
+30:42 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Te indicaron?
+
+30:43 - dacodeperu
+  Â¿Te dieron sus datos o algo?
+
+30:44 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Creo que no me lo formalizaron por correo, pero algo sÃ­ me habÃ­a mencionado Giuseppe, si mal no recuerdo, o Lionel, no recuerdo bien.
+
+30:52 - dacodeperu
+  Ya, porque hay que considerarlo para mÃ­ tambiÃ©n, JoaquÃ­n. Ok, genial. Ya. Y creo que... Eso serÃ­a todo de mi parte.  Ahora, Â¿tÃº me querÃ­as mostrar algo, creo? No, no, no.
+
+31:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De hecho, la reuniÃ³n solo era pulir de una vez el formato del Excel para tenerlo lo mÃ¡s claro posible.  MÃ¡s bien, querÃ­a hacer unas preguntas, pero si no tienes tiempo de...
+
+31:13 - dacodeperu
+  DÃ­belo, dÃ­belo, dÃ­belo.
+
+31:14 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, solo a grosso modo quisiera saber que algÃºn feedback sobre mÃ­, no de cara a la data, porque me quedan claras las oportunidades de mejora que vamos a dejar pulidas para esta semana sin falta, pero de cara a los agendamientos, de cara al flujo, de cara al feedback de ventas, de marketing, si es que hay alguna observaciÃ³n importante sobre el comportamiento de MIA desde el Ãºltimo flujo que definimos con Giuseppe.
+
+31:36 - dacodeperu
+  Mira, por respecto a lo que me comentas, ahorita lo que estÃ¡ saltando es el tema de la asignaciÃ³n de los asesores, Â¿no?  Yo cargo un asesor, pero otro asesor me dice que lo tenÃ­a asignado a Don Rojo Chat, entonces, es delicado.
+
+31:54 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eso es lo mÃ¡s crÃ­tico que dirÃ­as, que tenemos que corregirlo ya.
+
+31:57 - dacodeperu
+  SÃ­, eso sÃ­. Porque crÃ©eme que eso sÃ­ puede causar asferezas con los asesores mismos. SÃ­, me imagino.
+
+32:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, me imagino, no te preocupes. Denis, mira, tengo la data de que en lo que va de noviembre, me ha agendado, wow, ha agendado 33 citas aproximadamente.  Si es que, igual al final de mes lo podemos sincerar, pero si es que al final hay alguna observaciÃ³n sobre esas citas y se pueden comparar con las citas del mes pasado o del noviembre del anteÃ±o, serÃ­a increÃ­ble para poder tener el feedback de MIA de cara a quÃ© tan eficiente estÃ¡ siendo.  AhÃ­ nos ayudarÃ­as bastante con esa data tambiÃ©n. SÃ­, voy a revisar la data. Contemplando que es Ãºnicamente ese bloque de leads que llegan directamente al WhatsApp, no los que dejan su formulario y que se inicia la conversaciÃ³n con un mensaje automatizado, que justo estamos trabajando en eso para mostrarles cÃ³mo podemos integrarlo todo.
+
+33:00 - dacodeperu
+  Yo tengo 53 citas en dÃ­a de noviembre. En los 4 de noviembre tengo 53. Y de octubre, bueno, obviamente en octubre tenemos mucho menos, 25.
+
+33:14 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, sÃ­, sÃ­. Â¿Esa es la tabla? Â¿Esa es la data con los duplicados? PerdÃ³name. No, no, esta es la Ãºltima que me dijiste que descargue.
+
+33:22 - dacodeperu
+  Ah, mira, genial.
+
+33:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, acÃ¡ voy a sincerar lo del CRM conversacional. A lo mejor hay muchas mÃ¡s. Pero perfecto, estÃ¡ bien. SÃ­, ahora, otra cosa.
+
+33:29 - dacodeperu
+  Yo supuestamente, si hago un, Â¿cÃ³mo se llama? Una auditorÃ­a con respecto a lo que tengo en la data, con lo que tengo en el chat, Â¿deberÃ­a coincidir?  Â¿O no?
+
+33:42 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, porque hubo un periodo, una semana en el que paramos la producciÃ³n y el reporte dejÃ³ de generarse por lo mismo que estÃ¡bamos integrÃ¡ndonos vÃ­a meta oficial.  Y ahÃ­ hubo una semana, hubo un desfase que al final hizo que no estÃ© 100% alineado. Pero asÃ­... Es como cortes desde la segunda semana, no, la primera semana de noviembre, perdÃ³n, la segunda semana de noviembre inicio, sÃ­, todo deberÃ­a estar igual.  O sea, a partir del 7 en adelante yo puedo ver que ahÃ­ sÃ­ puedo hacer mi comparaciÃ³n. SÃ­, de igual manera esa fecha te la voy a formalizar para que no haya ninguna digerapancia con el corte.
+
+34:17 - dacodeperu
+  SÃ­, porque se supone que ahÃ­ sÃ­ debe ser, si el asesor me pide algo mÃ¡s detallado, entonces podrÃ­a enviarle los chats.  SÃ­, total, total, total. Por eso, eso de ahÃ­ es lo que querÃ­a saber, para que justamente tendrÃ­a que coincidir la data con eso.
+
+34:34 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, no, definitivamente, todo lo que estÃ¡ en el Excel estÃ¡ en el CRM, si es que esa es la duda, no te preocupes, eso estÃ¡ ahÃ­.
+
+34:40 - dacodeperu
+  Ya, una Ãºltima cosa, Santiago, mira, yo entiendo que MÃ­a, cuando manda un mensaje a un cliente que solicite informaciÃ³n, le manda el nombre correcto del asesor, Â¿verdad?  El nombre completo, Â¿no? Zair HernÃ¡ndez, Marquez Tramolada. SÃ­. Pero acÃ¡ internamente en el asesor... No sÃ©, creo que no te lo han dicho, tiene que ir, por ejemplo, vez de Zayn HernÃ¡ndez, es HernÃ¡ndez.  De Marlesa, Tramolada, M, Tramolada. O sea, eso es para base.
+
+35:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, eso no, no me lo habÃ­an mencionado en ningÃºn momento. Yeah.
+
+35:49 - dacodeperu
+  Ya, tranquilo, tranquilo, solo consultaba.
+
+35:52 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, igual es bueno informalizarlo Ãºnicamente. Pero no te preocupes, que lo que me has mostrado ahora es lo que...  MÃ¡s vamos a priorizar para que, perdÃ³n por la expresiÃ³n coloquial, pero la chamba que tÃº estÃ©s haciendo sea mucho mÃ¡s fÃ¡cil, al final lo que buscamos es eso, para que tÃº lo tengas que exportar y Ãºnicamente lo pongas al Esperant.  Es mÃ¡s, vamos a proponerles tambiÃ©n la misma integraciÃ³n directa, base, ahÃ­ sÃ­ serÃ­a tu validaciÃ³n al 100% una vez que la gata y este 100% pulida de cara como tÃº consideras que se tiene que subir al Esperant, pues, Â¿no?
+
+36:22 - dacodeperu
+  Ah, bueno, pero, Â¿cÃ³mo se llama? Si tÃº quieres hacer una subida directa, ahÃ­ hay que cambiar varias cosas, entre ellas el interÃ©s, el asesor, el nombre del proyecto, porque el Esperant lo ve de otra forma, entonces, ahÃ­ sÃ­ hay que retocar mÃ¡s cosas, por eso es que yo estaba siendo de intermediario en esas, en esas cosas.
+
+36:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, no, sÃ­, ahÃ­ me imagino que ya serÃ­a lo que tendrÃ­a que ver yo contigo directamente, si es que al final Cumbres opta por hacerlo, ahÃ­ sÃ­ ya tendrÃ­amos que trabajar tÃº y yo mÃ¡s de la mano para, nuevamente, Â¿no?  Facilitarte mÃ¡s esa carga operativa. Ya estÃ¡ bien.
+
+37:00 - dacodeperu
+  SÃ­, perfecto, Denise.
+
+37:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Muchas gracias ahÃ­ por la informaciÃ³n, no te preocupes que lo vamos a alinear y ahÃ­ me estoy comunicando tanto por grupo como por el interno contigo para avisarte cÃ³mo va todo y cualquier ayuda que nos puedas dar tambiÃ©n con respecto al formato te lo agradecerÃ­amos bastante.
+
+37:11 - dacodeperu
+  SÃ­, lo Ãºltimo, Santiago, es ver el tema de cuando se hizo, como tÃº dices, el alcance del proyecto, una de las cosas que se habÃ­a dicho era que el archivo tendrÃ­a que ser automÃ¡tico porque, por ejemplo, las cosas que se necesitan los fines de semana, que es cuando los asesores estÃ¡n, no hay archivo.
+
+37:34 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Por ejemplo, no comprendÃ­ ese punto, Denise, perdÃ³n, Â¿cÃ³mo automÃ¡tico? A ver, dame un segundito, por favor.
+
+37:41 - dacodeperu
+  Â¿Ah? Â¿Dame segundito? Â¿A ver, te ? TambiÃ©n Â¿Dame segundito, hai po Zustå—Ž? Â¿No?
+
+38:10 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, ahora sÃ­.
+
+38:13 - dacodeperu
+  Realizame un poco lo que estoy diciendo.
+
+38:16 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ah, que parte del alcance del proyecto es que el reporte sea automÃ¡tico. Ah, ya claro.
+
+38:23 - dacodeperu
+  Claro, tanto los chats y la data, de Excel, se tenÃ­an que ver en tiempo real y para evitar justamente este tema manual, porque si bien es cierto, a hace muchas cosas, la descarga de la informaciÃ³n, ya sea para los chats y para el archivo de Excel, que para mÃ­ no hay problema, es manual.
+
+38:50 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿CuÃ¡l serÃ­a la situaciÃ³n ideal, Denis?
+
+38:54 - dacodeperu
+  Porque cuando conversamos tÃº y yo por primera vez, justamente la idea era... Tener un archivo, como te dije, en un formato de fecha y que estÃ© en tiempo real, Â¿no?  Cosa que yo lo descargo, si no lo detecta mÃ­a, lo volvÃ­ a crear. Â¿Te acuerdas que hablamos de eso?  No sÃ© si te acordarÃ¡s.
+
+39:12 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, creo que en las primeras reuniones, pero conversamos tambiÃ©n de la complejidad operativa que habÃ­a de hacerle eso al formato.  Creo que sÃ­, si es que te refieres a eso.
+
+39:21 - dacodeperu
+  Lo que pasa es que hay un punto ahÃ­ que sÃ­ es un poco delicado, que es el tema de que si yo, por ejemplo, hablo a las nueve de la maÃ±ana o a las diez de la maÃ±ana por WhatsApp y, Â¿sabes quÃ©?  Mira, a la tarde estoy disponible. Nunca nos vamos a enterar. Â¿Y cuÃ¡l serÃ­a la soluciÃ³n ahÃ­? No, por eso.  Si fuera en lÃ­nea, serÃ­a otra cosa, porque ya los chicos podrÃ­an verlo. Oye, Â¿sabes quÃ©? Porque supuestamente en dÃ­a le mandan el chat al asesor, Â¿no?  Al instante.
+
+40:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, pero Â¿cÃ³mo lo supervisamos?
+
+40:04 - dacodeperu
+  Â¿O es que el chat lo envÃ­a a mÃ¡s personas como para hacer la supervisiÃ³n? Â¿Puedo hacer que el mensaje te lo manden a ti tambiÃ©n?
+
+40:11 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿QuerÃ­a mejor eso?
+
+40:13 - dacodeperu
+  Claro, porque creo que eso te lo habÃ­a indicado la vez pasada, Â¿no? Para que ese tipo de casos, cuando es dÃ­a cita, de alguna forma tenerla, Â¿no?  En el dÃ­a.
+
+40:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, en ese caso, voy a ajustar para que MÃ­a te haga el envÃ­o a ti y a Giuseppe, Â¿quÃ© te parece?  TambiÃ©n, o sÃ­ o sÃ­. Y a Leonel tambiÃ©n, porque...
+
+40:33 - dacodeperu
+  A Leonel tambiÃ©n. SÃ­, por favor.
+
+40:36 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, perfecto, no te preocupes. Pero solo para el caso de citados.
+
+40:40 - dacodeperu
+  Solo para el caso de citados.
+
+40:41 - Santiago Isaias Zavaleta Ayala (Ulima)
+  O sea, cuando hay una cita que el cliente ya dice, ya, esta quiero ir a tal dÃ­a, a tal hora.
+
+40:46 - dacodeperu
+  Entonces, pum, mandarlo. Eso nada mÃ¡s. Porque el chat, no vas a llegar a hacer un montÃ³n de chat, pero las citas sÃ­ son importantes porque necesitamos hacerle seguimiento a las citas.  SÃ­, claro.
+
+40:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Citas sÃ­ o sÃ­, entiendo.
+
+40:59 - dacodeperu
+  Ok. Perfecto, Denis, muchas gracias por tu tiempo, no te preocupes. Listo, Santiago, gracias.
+
+41:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Nos vemos, que tengas buen dÃ­a. Ok, listo, hasta luego.

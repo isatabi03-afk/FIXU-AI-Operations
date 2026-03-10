@@ -1,0 +1,553 @@
+Impromptu Google Meet Meeting - January 15
+VIEW RECORDING - 60 mins (No highlights): https://fathom.video/share/LpLNusRsP-sJzs2Vb4MBzMxJ1gbczx5w
+
+---
+
+0:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No te preocupes.
+
+0:03 - Alejandro juan Loayza jordan
+  AhÃ­ voy. Â¿Y quÃ© fue, Â¿QuÃ© ha Yo le iba a decir cuÃ¡l de las fotos que estÃ¡s poniendo, pero bueno.  Â¿El chat? SÃ­. Esto. A ver, Rami, te voy a enviar un link, Â¿eh? Para que te metas.
+
+0:18 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Buenas, Ale. Â¿QuÃ© tal? Â¿CÃ³mo estÃ¡s? Â¿CÃ³mo estÃ¡s, muchachÃ³n? Todo bien, todo bien. Oye, disculpas que ayer no te habÃ­a podido responder, escucha, estÃ¡bamos a full dos reuniones, se extendieron.  Todo un tema ahÃ­ el inicio del aÃ±o, pero gracias a Dios, todo bien. Gracias por la paciencia, mÃ¡s bien.  No pasa nada, acÃ¡ estamos.
+
+0:36 - Alejandro juan Loayza jordan
+  Genial, genial, genial.
+
+0:37 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No sÃ© si iba a entrar Alon, me hubiera gustado que entre, pero bueno, imagino que ahÃ­ tambiÃ©n debe estar sÃºper, sÃºper full.  Ok, se estÃ¡ grabando. Alejandro Robot, que recuerda todo. Genial, ese no me da mucho. AhÃ­ estÃ¡, Alon. Â¿Te lo manda Coco o...?
+
+0:57 - Alejandro juan Loayza jordan
+  SÃ­, pero... Miskas. Pero... Pero un premio chico que os puedo sopear nomÃ¡s. Ya, perdÃ³n, Romy, que va medio a gestionar esto.  Genial. Dale, dale unos segundos.
+
+1:53 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y ya, perdÃ³n.
+
+2:07 - Alejandro juan Loayza jordan
+  Â¿EstÃ¡ mucho bien, Santi?
+
+2:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­. De 10. Dale.
+
+2:13 - Alejandro juan Loayza jordan
+  SÃ­, va a entrar alguien mÃ¡s, si no esperamos, sin problema.
+
+2:16 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿EstÃ¡ Romy y estÃ¡...
+
+2:18 - Alejandro juan Loayza jordan
+  Â¿Coco estÃ¡s? SÃ­.
+
+2:21 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok.
+
+2:24 - Alejandro juan Loayza jordan
+  AhÃ­, a ver, ya. Ok, perfecto, dÃ©jame...
+
+2:29 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Que lo proyecto todo. Y lo dejo listo para explicarles en quÃ© consiste la reuniÃ³n de hoy. Listo. Perfecto, chicos.  Solo para contarles un poquito en quÃ© consiste la reuniÃ³n de hoy. Hoy va a ser el primer dÃ­a, o la primera vez, en la que ustedes van a probar a RomyBot ya viva, funcionando con los lineamientos que hemos podido...  O valga la redundancia alinear en base a cÃ³mo ustedes... Manejan la atenciÃ³n al cliente, la atenciÃ³n a los potenciales clientes.  Voy a concluir de la frase, una frase sÃºper sencilla y es que hoy ustedes tienen que hacerle bullying a Romy Bot, Â¿ok?  Todas las observaciones que tengan, Santi, esto estÃ¡ bien, Santi, esto no estÃ¡ bien, esto deberÃ­a ser asÃ­. Ustedes tienen que actuar literalmente como si fueran un potencial cliente y como si fueran un cliente activo porque vamos a tener dos interacciones, Â¿ok?  Y esto va a ser para poder moldear el comportamiento de Romy Bot en base a cÃ³mo ustedes manejan en general su negocio.  Y esto era parte de lo que les comentÃ¡bamos al inicio, Â¿no? Lo que hemos hecho ahora es crear el esqueleto y es crear un cerebro base que va a estar hecho de tal manera de que ustedes solo tengan que darnos sus comentarios para que el comportamiento pueda ser el mÃ¡s Ã³ptimo.  Les voy a... Primero les voy a mandar el nÃºmero de telÃ©fono, el cual nosotros utilizamos para las demos, estrictamente no va a ser el...  NÃºmero en el cual va a estar Romina Vod, si no va ser su nÃºmero oficial. De hecho, Ale, aprovecho en preguntarte al final, Â¿quÃ© tal todo con respecto a la verificaciÃ³n de meta?  Me saliÃ³ que me han confirmado hoy dÃ­a. Ya tienes el negocio verificado, entonces. SÃ­. Genial.
+
+4:17 - Alejandro juan Loayza jordan
+  Me saliÃ³ un mensaje en Instagram, creo que tengo que hacer un pasito mÃ¡s, pero... Justo lo estaba revisando mÃ¡s temprano.  La verdad es que he estado un poco incompetente porque me he enfermado hasta el culo de delante de dÃ­a para otro.  Claro. Pero sÃ­, acÃ¡ tengo... Felicidades, cuenta de meta ha verificado con Ã©xito. Para completar la verificaciÃ³n hay que dar los beneficios, Axel, por televerificaciÃ³n.  Y chat AI tambiÃ©n me dijo lo mismo. Perfecto. Solo que esto no tiene cheque azul, asÃ­ que no sabrÃ­a realmente quÃ© tanto hacerle caso a esto.  Claro.
+
+4:49 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, el cheque azul es algo que se paga. O al final el cheque azul es mÃ¡s que todo una etiqueta bonita.  No, lo sÃ©, pero digo, es un...
+
+5:00 - Alejandro juan Loayza jordan
+  Es un chat AI, no sÃ©, o es una cuenta de alguien. Ya, Â¿te parece si luego me compartes pantalla para revisar los juegos?
+
+5:12 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Porque no, no entiendo muy bien eso. Listo. Ya chicos, les he pasado el nÃºmero para que le escriban, de igual manera yo le voy a escribir tambiÃ©n ahorita, vamos a escribirle todos de cero.  Y solo para comprender la lÃ³gica, Â¿no? Y esa es la lÃ³gica que habÃ­amos conversado. Â¿DÃ³nde estÃ¡ el nÃºmero, Santi?  Se los mandÃ© por el grupo de... que tenemos, el proyecto.
+
+5:39 - Alejandro juan Loayza jordan
+  O yo lo tengo que ver. SÃ­.
+
+5:41 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Lo que les comentaba, y es que ahora como le van a escribir, y claramente sus nÃºmeros de telÃ©fono no estÃ¡n dentro de la base de datos maestra, los va a tratar como si fueran un potencial cliente, mÃ¡s que un cliente activo como tal.  Luego vamos a pasar a... A ver cÃ³mo serÃ­a ese comportamiento en base a un cliente activo. Pero ahorita vamos a probar el flujo que estÃ¡ utilizando para los que todavÃ­a no son clientes.  Ok. Ay, asÃ­ se le acabÃ³ de escribir. AsÃ­ te escribe la gente de la nada, Ale.
+
+6:25 - Alejandro juan Loayza jordan
+  Lo que pasa es que muchos son mensajes que van a gatillarse porque llegan de la publicidad de Meta o de algunos de nuestros links que tienen una frase prediseÃ±ada.  Ok.
+
+6:43 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eso es clave porque mÃ¡s adelante si lo consideras se puede hacer algÃºn tipo de mÃ©trica o dashboard en el cual tÃº mires cuÃ¡l de todas tus campaÃ±as o cuÃ¡n un sos el que mejor rendimiento o retorno te estÃ¡ dando.  O sea, el CRM deberÃ­a ser eso, Â¿no? Total. Total. Eh, bueno, hasta ahora todavÃ­a no me responde. AhÃ­ estÃ¡.  Primera interacciÃ³n, Ale, y tengo mi primera consulta antes de que tÃº me des tus observaciones. Cuando Romy saluda asÃ­ las expresiones en exclamaciÃ³n, el hola, Â¿te gusta que las mencione con dos signos de exclamaciÃ³n o preferirÃ­as que sea mÃ¡s humano y que solo lo deje al final?  El hola, o el Ãºltimo signo de exclamaciÃ³n, no entre dos, o al final, o de repente sÃ­ te gusta.  Esto es mÃ¡s con respecto a, a ver, dÃ©jame traer al chico de ventas. Ah, tiene que pesarse.
+
+7:49 - Alejandro juan Loayza jordan
+  Â¿QuiÃ©n?
+
+7:51 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ah, tiene que pesarse y tallarse.
+
+7:54 - Alejandro juan Loayza jordan
+  Eh, estamos viendo cÃ³mo va a responder el robot en la parte, bueno, tÃº, Chama. Ya. EstÃ¡ respondiendo asÃ­. Hola, Sandy, el es RodrÃ­guez, que nos ayuda con esta parte.  Hola, hola, Â¿quÃ© tal? Entonces, Â¿puedes repetir la pregunta, Sandy, por favor?
+
+8:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, a ver, vuelvo a proyectar, creo que estoy proyectando otra pantalla, pensÃ© que estaba proyectando listo, Les mencionaba, equipo, esta expresiÃ³n del hola con los signos de exclamaciÃ³n, Â¿lo quieren manejar asÃ­ o preferirÃ­an que solo sea un signo al final de exclamaciÃ³n que lo hace mÃ¡s humano?  No creo que nosotros no escribimos tanto los signos de exclamaciÃ³n o interrogaciÃ³n entre dos, sino al final. Quiero que el final, mejor.  Puedes perder tu micro, Romy, ahÃ­, meterla. Ok, perfecto. Â¿EstÃ¡ bien entonces este mensaje? Â¿Algo, algÃºn disco? Â¿QuÃ© tal, Romy, cÃ³mo estÃ¡s?
+
+8:42 - Romina Ivazeta Pineda
+  Esto, Â¿se puede cambiar Romy por, o sea, con I latina, no con Y? SÃ­, claro.
+
+8:48 - Santiago Isaias Zavaleta Ayala (Ulima)
+  TÃº eres Romy con I latina, Â¿ves? Â¿Por quÃ©?
+
+8:51 - Romina Ivazeta Pineda
+  Porque asÃ­ escribieron tus nombres, tus papis. Por eso. Pero que la IA tambiÃ©n sea con I latina, porque con Y no me gusta.
+
+9:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, que estÃ¡ bien. Ale, el signo de aclamaciÃ³n tambiÃ©n estoy de acuerdo que sea solo al final. Ok, perfecto.  Ale, pues si quieres probar mandÃ¡ndole un audio. Si es que en algÃºn momento equipo ven que a Romy se le sale alguna jerga argentina es porque con mano estoy supervisando el prompting, pero no se preocupen porque va a ser sÃºper, sÃºper peruano.  Y ya, quieres probar mandÃ¡ndole un audio. Gracias.
+
+10:32 - Alejandro juan Loayza jordan
+  AhÃ­ se me bloquea a veces por rato, no sÃ© por quÃ©. Te iba a decir, ya PonteÃ­ me ha preguntado lo mismo y ya le respondÃ­.  Ok, Â¿ahÃ­ tÃº quÃ© esperarÃ­as que ya te hubiera respondido, Ale? O sea, que de arranque lo primero que tendrÃ­a que preguntarle para agilizar es tus datos, su peso, talla y edad y actividad fÃ­sica de arranque.  Porque si no le estoy aÃ±adiendo un mensaje mÃ¡s que tiene que responder esa persona. Y ya, pues, no nos ayuda tanto.
+
+11:06 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total, que no repregunte, sino que directamente pregunte por todas estas variables que son importantes conocer de los clientes.
+
+11:12 - Alejandro juan Loayza jordan
+  De hecho, te dirÃ­a que hasta el primer mensaje deberÃ­a ser eso, a menos que alguien me dÃ© un argumento comercial de por quÃ© no deberÃ­a.
+
+11:18 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, estÃ¡ bien, perfecto. Peso, talla, edad y objetivo. Ok, perfecto. Â¿Te parece si le pones si estÃ¡n de acuerdo para las preguntas?  Porque de hecho es con lo que va a continuar, con el flujo, para revisar el flujo completo. MÃ¡s allÃ¡ de que sabemos que esta es una iteraciÃ³n que ya vamos a hacer, Â¿verdad?  O es en la parte de venta.
+
+11:38 - Alejandro juan Loayza jordan
+  SÃ­, esto es cuando todavÃ­a no sabemos nada. Dale.
+
+11:49 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Vas a juntar eso? SÃ­. Te voy a comer algo. AlÃ­, habÃ­as mencionado peso, talla, edad. Â¿Y objetivo? Y objetivo.  Eso. Ya, ahÃ­ te lo pregunto. Es decir, que si estÃ¡ con el flujo correcto, sin embargo, es importante que lo haga de manera proactiva y que no pida una reconfirmaciÃ³n, o mejor dicho, que lo haga al inicio para acelerar el proceso y que sea mÃ¡s rÃ¡pido.
+
+12:59 - Alejandro juan Loayza jordan
+  Yo. CreerÃ­a que deberÃ­a, bueno, a ver, acÃ¡ quÃ© deberÃ­a hacer, porque me importa, primero tengo que saber su edad, por ejemplo, si tiene 12 aÃ±os, no tiene sentido seguir esta conversaciÃ³n.
+
+13:21 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok.
+
+13:24 - Alejandro juan Loayza jordan
+  Y me importa saber su peso, o sea, por eso necesito la talla, y su peso y edad, son importantes porque le da informaciÃ³n sobre el sentido de urgencia que pueda tener esta persona.  Ok. QuÃ© tan cerca estÃ¡, es su mortalidad, realmente, es, o sea, de 200 kilos, metro 70, no es raro.  Vale, Â¿cÃ³mo estÃ¡s?
+
+13:50 - Alonso Aguila
+  Â¿Quieres que le calcule el, o sea, quieres que le responda con algÃºn mensaje, tipo, con algÃºn indicador, o asÃ­ nomÃ¡s?  O que lo...
+
+14:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, Ale, solo estÃ¡s mencionando que es importante que de todas las preguntas que le haga inicialmente la edad, bueno, sea una de las principales, entiendo.  Ãšnicamente estamos iterando, Alon, lo que hay que poner un poquito en contexto sobre lo que estÃ¡bamos haciendo.
+
+14:15 - Alejandro juan Loayza jordan
+  Â¿QuÃ© tal, Alon? Bien, bien, sorry que me conectÃ© tarde.
+
+14:19 - Alonso Aguila
+  No, tranquilo.
+
+14:21 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, perfecto, Ale. Entonces tenemos claro que estas preguntas tienen que ser proactivas, mandarlas al inicio y la edad, sobre todo, Â¿no?  SÃ­, correcto, porque es filtro, Â¿no?
+
+14:31 - Alejandro juan Loayza jordan
+  Para seguir atendiendo a Alon.
+
+14:34 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, ahora, Â¿hay algÃºn gatillador para que Ronnie Bot deje la atenciÃ³n con respecto a la edad? Por ejemplo, si te dice que tiene 17, 16, Â¿quÃ© deberÃ­a hacer Ronnie Bot?
+
+14:45 - Alejandro juan Loayza jordan
+  DeberÃ­a decirle, agradecerle muy amablemente, oye, muchas gracias por escribirnos, sin embargo, para poder atenderte, es necesario que se comunique con nosotros tus padres atropoderados.  Bueno, Ta-ra.
+
+15:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Perfecto. Entonces, Â¿les parece si seguimos con el flujo?
+
+15:06 - Alejandro juan Loayza jordan
+  SÃ­, dale. Ya yo deberÃ­a responder, Â¿no? Quisiera perder peso. Urgentemente estÃ¡. Ya.
+
+15:58 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Gracias. AquÃ­ una observaciÃ³n, Ale, me imagino que igual no va estar, pues, Pero como te digo, esto es para iterar.  Ese tipo de expresiÃ³n del guiÃ³n, definitivamente la eliminamos. SÃ­.
+
+16:22 - Alejandro juan Loayza jordan
+  Gracias por contarme. Entiendo que quieras bajar el peso rÃ¡pido. Vamos a hablar lo paso a paso con seguridad. Ya, creerÃ­a que, ya, y acÃ¡ Alonso podrÃ­a decÃ­rmelo mucho mejor, Â¿no?  Porque estamos hablando de un B2C por WhatsApp y creerÃ­a que lanzarle muchas preguntas a la gente, Â¿no? Cuando podemos saber peso, talla y edad y objetivo en una, a menos que me diga que hay una razÃ³n diferente por la cual no deberÃ­a preguntarlo asÃ­.  Yo lo que creo es, Â¿saben quÃ©?
+
+16:54 - Alonso Aguila
+  A ver, primero, Â¿cuÃ¡l es tu objetivo principal de la nutriciÃ³n? Perder peso. Tienes Â¿no? Creo que, si... EstÃ¡ bien.  O sea, si yo te digo, quiero mi peso, mi talla, mi edad, ya, este, y de ahÃ­ cuÃ¡l es tu objetivo, bacÃ¡n, porque no se lo estÃ¡s dando como opciones para que se sienta un chatbot, estÃ¡ bien.  Yo creo que eso estÃ¡ bien. O sea, mÃ¡s de esas, mÃ¡s de esas preguntas, no. Porque al final lo que nos interesa en este primer contacto es generar la primera, la primera cita, Â¿cierto?  Correcto.
+
+17:31 - Alejandro juan Loayza jordan
+  Ok, perfecto.
+
+17:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, Â¿hay alguna observaciÃ³n con respecto en esa parte, Ale? Solo para dejarlo apuntado en la guÃ­a.
+
+17:40 - Alejandro juan Loayza jordan
+  Creo que el otro de estas preguntas no deberÃ­an ser tan... Es hay dos cosas, la verdad, porque es muy comÃºn, y le pasa a Rodrigo, me pasa a mÃ­, que cuando preguntan, hola, Â¿quÃ© tal?
+
+17:56 - Alonso Aguila
+  Es un gusto, peso, talla, edad. CreerÃ­a que la tasa de abandono a esos chats es al...
+
+18:00 - Alejandro juan Loayza jordan
+  No sÃ© si sea una mala prÃ¡ctica nuestra, o quizÃ¡ estoy pensando equivocadamente, pero si esto lo puede responder inmediatamente, no sÃ© si ahÃ­ me recomendarÃ­an o aumentarÃ­a mi tasa de respuesta, preguntar uno por uno, creo que siempre lo hemos preguntado de golpe.
+
+18:15 - Alonso Aguila
+  Puede ser, o sea, en realidad, lo que pasa es que yo creo, este, un segundo, a ver, ya, o yo creo que tiene que haber un mensaje de presentaciÃ³n, en donde le vayas a decir, oye, mira, va, chÃ©vere por contactarte, este, hay algunas preguntas que debemos llenar, como registro, nombre, documento, etcÃ©tera, peso, tal, talla, tal, edad, tal, mangas, y de seguro la persona te puede preguntar en quÃ© consiste tu mÃ©todo, entre el, entre que te responde el peso y la talla, el bot puede responderte, o sea, no tiene que seguir un orden expresivo.  Entonces, al final va a seguir una naturalidad, Â¿entiendes? De acuerdo a lo que le vayas cargando de informaciÃ³n al banco de respuestas.
+
+19:09 - Alejandro juan Loayza jordan
+  Claro, sin embargo, ahÃ­ me llama mÃ¡s un poco de rollo porque, Â¿quÃ© pasa si Ã©l me dice precio? Y al final, este, el bot le responde y tampoco es algo que quiera, pues, Â¿no?
+
+19:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, es que no le va a responder el precio, Â¿me entiendes?
+
+19:22 - Alonso Aguila
+  Al final, tu respuesta predeterminada, o sea, independientemente del flujo, tu respuesta predeterminada para el precio, Â¿cuÃ¡l debe ser? Depende de cuÃ¡l.  dar, que no le puedes dar ahorita, Depende de quÃ© programa desea y quÃ© necesite. cual, es, le puede responder, ahorita, el precio, el precio consiste en el programa que tÃº puedas, este, Â¿cÃ³mo se llama?  Adquirir. Conversaremos de eso en unos momentos. Este, hoy por hoy, o sea, necesito sacar primero, primero necesito llenar tu informaciÃ³n, Â¿me entiendes?  Claro. Que no creo que estÃ¡ mal, porque, mira, yo me contacto contigo. Y de frente te digo, hola, hola, Alonso, Â¿quÃ© tal?  Â¿CÃ³mo estÃ¡s? Bien, oye, Â¿cuÃ¡nto cobras? Aguanta. Primero, o sea, depende del plan que vayas a seguir, Â¿ok? Pero antes de hablar del precio, primero dame tu talla, tu edad, este, Â¿cÃ³mo se llama?  Tu peso, y luego hablamos de eso, Â¿no? Claro, cuÃ©ntame un poquito sobre ti para ver. Exacto, cuÃ©ntame un poquito sobre ti para ver cÃ³mo te podemos ayudar y quÃ© recomendaciÃ³n te podemos hacer, Â¿no?
+
+20:26 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AhÃ­ solo para complementar lo que dice en Ale o Ale, demuestro brevemente quÃ© es lo que hacemos con un cliente, y es que hacemos que ese bloque de preguntas se hagan de esta manera.  Cuando se tengan que hacer esas preguntas, se manden en un mensaje, sin mÃ¡s, para que no tenga que estar haciendo una por una por una, pero si te das cuenta, el resto de mensajes sÃ­ es normal.  Pero cuando sea especÃ­ficamente ese bloque de mensajes, lo mande de golpe. Eso lo podrÃ­amos trabajar de esa manera. BacÃ¡n.
+
+20:53 - Alejandro juan Loayza jordan
+  Listo.
+
+20:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, bueno, ahÃ­ lo que puedes hacer Ale es responderle todas las medidas. Bueno, cÃ³mo te suelen responder tus potenciales clientes, Â¿no?  Para ver hasta dÃ³nde llegas.
+
+21:08 - Alejandro juan Loayza jordan
+  Ale, el tiempo entre mensaje y respuesta, Â¿te parece correcto?
+
+21:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Te parece muy largo? Â¿Te parece muy corto? Yo recomiendo siempre ese, la verdad, a veces 5 segundos mÃ¡s, a veces 10 segundos mÃ¡s, porque mira, tÃº ahorita, pues, estÃ¡s pensando, no, no, ya bajÃ© 2 kilos.  Y le vuelves a mandar, no, mentira, 72. Ese tiempo que le damos a la idea, y para que tÃº termines de mandar todos tus mensajes, ese delay es un poquito importante.  Adelante.
+
+21:41 - Alejandro juan Loayza jordan
+  Hasta ahorita, ahorita, por ejemplo, para mÃ­ ya se demorÃ³ mucho en responder. Ok.
+
+21:48 - Alonso Aguila
+  Vamos a hacer rebusirlo un poquito, gracias. Gracias. Gracias. Gracias. Ahora, Ale, hay cierta, hay cierto delay, como te dice Santi, que se recomienda.  Â¿Ahorita en cuÃ¡nto estÃ¡, Santiago?
+
+22:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ahorita estÃ¡ en 45 segundos, mÃ¡s o menos. Y acÃ¡, disculpe a menos que te corte, acÃ¡ para acÃ¡, Ale, siempre va haber un delay que no se puede cambiar, que es el delay interno de las automatizaciones, de entre 15 y 20 segundos.  Eso siempre va a ser asÃ­. yo, aparte de eso, yo le pongo 20-25 segundos, porque esos 20-25 segundos que se le pone manualmente, es para que Romy espere a que tÃº termines de mandar todos tus mensajes.
+
+22:42 - Alejandro juan Loayza jordan
+  Pero, o sea, si la persona no responde nada en 45 segundos, Â¿se le va a un mensaje? Exacto.
+
+22:50 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Pero imagÃ­nate que tÃº en el segundo 40 le dices, ah, verdad, me faltÃ³ decirte esto, y lo va a recibir.  Y otra vez te va a a esperar. Â¿Sabes el problema? se me hace un poco raro.
+
+23:03 - Alejandro juan Loayza jordan
+  Si tÃº estÃ¡s, nos estÃ¡s hablando con una flaquita, chulo. EstÃ¡ que fluye. Ya. AjÃ¡.
+
+23:09 - Alonso Aguila
+  Puta, 45 segundos es un culo, Â¿ves?
+
+23:11 - Alejandro juan Loayza jordan
+  Es un montÃ³n. SÃ­.
+
+23:14 - Alonso Aguila
+  Ahora, yo te dirÃ­a, Santi, dejÃ©moslo al mÃ­nimo. AjÃ¡. Ya, porque tambiÃ©n es cierto, Ale, que si lo reducimos al absoluto mÃ­nimo, o y solamente lo dejamos con el tiempo que la IA piensa, puede ser que, por ejemplo, con este bloque de mensajes que le mandemos de las preguntas, ya, este, termine siendo un poco rÃ¡pido y diga, oye, estÃ¡ hablando un bot.  Â¿Mangas? Entonces, yo sÃ­ lo dejarÃ­a en 20 segundos, porque 20 segundos es, coloquialmente hablando, y con la confianza que les tengo, ya, es, puta, estoy conversando contigo, me hablÃ³, puta, otro paciente, abrÃ­ su chat, chequeÃ©, le respondÃ­, volvÃ­ al tuyo.  Te leÃ­, te escribo y te envÃ­o Son 25-30 segundos Claro Â¿Me entiendes?
+
+24:07 - Alejandro juan Loayza jordan
+  O sea, con que se demore 25-30 para mÃ­ es correcto Â¿Me entiendes?
+
+24:13 - Alonso Aguila
+  Por eso es que tambiÃ©n, como dice Santiago, es mejor al principio mandarle un poco de informaciÃ³n como para que tambiÃ©n el UX sea mÃ¡s natural me estÃ¡ pidiendo informaciÃ³n, la estoy leyendo, la estoy entendiendo, le respondo, la piense y me lo pasa.  Â¿Me sigues? SÃ­, sÃ­, claro.
+
+24:35 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ahora lo acabamos de reducir, Ale, a ver si de repente ese tiempo, o es cuestiÃ³n de probar. De hecho, asignar el tiempo va a estar mÃ¡s preciso cuando ya estemos en producciÃ³n, porque va a ser ahÃ­ cuando nos adecuemos al comportamiento real de tus clientes activos y de tus potenciales clientes.  Es ahÃ­ cuando lo vamos a definir, de hecho. Ok, Â¿sabes?
+
+24:56 - Alejandro juan Loayza jordan
+  Â¿sabes? Â¿sabes? Â¿sabes? Hmm... A ver, estoy... No, sÃ­, no, ten, ten, ten, ten, sigamos. SÃ­, listo.
+
+25:17 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AhÃ­, si quieres, Ale, le puedes dar toda tu informaciÃ³n de golpe o puedes seguir ahÃ­ con las preguntas a preguntas.  Igual estamos quedando en que Rom y vos no mandar todas las preguntas de golpe, cuando tenga que preguntar esas variables.
+
+25:31 - Alejandro juan Loayza jordan
+  HÃ¡ganle bullying, muchachos. Lo que tenemos que hacer ahorita es literalmente hacerle bullying para poder moldearlo al componente. Ja. No, no estÃ¡ listo.  No, no, no estÃ¡ listo. Gracias. Â¿Omitamos, porfa, que estÃ¡ hablando con el acento argentino?
+
+26:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Dale.
+
+26:12 - Alejandro juan Loayza jordan
+  Â¡TenÃ©s!
+
+26:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Algo chÃ©vere tambiÃ©n, Ale, si es que te crÃ­en en inglÃ©s, Romy va a empezar a ser bilingÃ¼e, Â¿eh? SÃ­, en francÃ©s, incluso.
+
+26:40 - Alonso Aguila
+  AhÃ­, Ale, solo para aclarar, Â¿estÃ¡ bien ese parÃ©ntesis?
+
+26:44 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Simplemente preguntar por el . Â¿Puedo usar tu flecha? Obviamente no me hace eso, no creo que no te gusta la flecha.
+
+26:50 - Alejandro juan Loayza jordan
+  Â¿Para quÃ©? Â¿Para quÃ©? No. Â¿QuerÃ­a que con el nombre ya lo deduzco? Ehm... SÃ­, creo que eso especÃ­fico no se me...  No sÃ©. O yo no lo pregunto normalmente, la verdad.
+
+27:11 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, no considerarÃ­amos en este caso la pregunta.
+
+27:22 - Alejandro juan Loayza jordan
+  Ya, acÃ¡ ya dejÃ³ de gustarme un poco porque realmente no me importa tanto su cantidad de actividad fÃ­sica ahorita.  Ok.
+
+27:31 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y ya aparece una entrevista.
+
+27:33 - Alejandro juan Loayza jordan
+  Vamos a imaginar que las cuatro preguntas anteriores fueron preguntadas de golpe. Lo que sigue, segÃºn yo, deberÃ­a ser un como que...  Ok, ya sÃ© cuÃ¡nto estÃ¡s lidiando con este problema, sÃ© cuÃ¡nto es un problema.
+
+27:49 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro. Ok.
+
+27:50 - Alejandro juan Loayza jordan
+  Ya creÃ­a que esa pregunta especÃ­fica ya no me ayuda necesariamente a calentar a Leeds y no es informaciÃ³n que en ese momento voy a utilizar.  Ã‰l me va a contar, de hecho, solito. Claro.
+
+28:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces dirÃ­amos que ya estÃ¡, bueno, no hablar de la actividad fÃ­sica, sino ya empezar a empatizar con el IDIC y preguntarle hace cuÃ¡nto estÃ¡ buscando ese objetivo, Â¿verdad?  De igual. Ok, perfecto. Entonces, omitamos esa pregunta y Â¿quÃ© es lo que tÃº esperarÃ­as despuÃ©s del flujo, Â¿CuÃ¡l es lo que te esperas finalmente con esa atenciÃ³n a un potencial cliente?  Llevarlo a tus planes, Â¿verdad?
+
+28:31 - Alejandro juan Loayza jordan
+  Claro, necesito que entienda, primero que necesito aislar el pain de esta persona, eso es clave, y necesito que entienda, hay muchas personas que no entienden en salud o piensan que quieren saber cÃ³mo funciona el mÃ©todo, y ahÃ­ viene la incomprensiÃ³n, y esto es algo que yo estoy sufriendo un poco para explicar.
+
+28:59 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¡Gracias!
+
+29:00 - Alejandro juan Loayza jordan
+  Claro, el mÃ©todo no consiste en una combinatoria especÃ­fica de alimentos o recetas que ayudan a que alguien pierda peso, el mÃ©todo consiste en sistemÃ¡ticamente identificar las necesidades nutricionales de cada persona, por eso es que mucha gente termina diciendo como, oye, pero yo primero quiero una consulta para que me digas cÃ³mo serÃ­a mi tratamiento, la respuesta es, asÃ­ no funciona, no es que te voy a diagnosticar y segÃºn cuÃ¡nto pesas te mando la dieta A o la dieta B, es sea que pesas 20 kilos, porque te estÃ¡s muriendo, o 200 kilos, porque te estÃ¡s muriendo al otro lado, yo tengo que sentarme contigo a hacer un mapeo completo de todos tus patrones alimenticios para poder crearte una rutina que te ayude, eso es lo que hacemos, pues explicaciÃ³n del mÃ©todo creo que es un objetivo importante para hacer el match y que esta persona entienda, ok, esta weÃ¡ sÃ­ me puede ayudar y va a funcionar conmigo.
+
+29:57 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y listo, genial. Ale, entonces, me queda clarÃ­simo esa parte, como para resumir eso en una pregunta que te harÃ­a un cliente, Â¿cÃ³mo le preguntarÃ­as ahorita a RomyBot?  Entiendo, Â¿no? Â¿QuÃ© te tendrÃ­an que preguntar para que tÃº tengas que responder de la manera en la que me acabas de responder?
+
+30:16 - Alejandro juan Loayza jordan
+  Bueno, se supone que ya preguntaron, bueno, estoy lidiando con este problema hace mucho tiempo, pero he intentado estos mÃ©todos ABCD, se supone que ya me contÃ³ eso.  A ver, este, Ale, Ale, Â¿cÃ³mo estÃ¡s?
+
+30:32 - Alonso Aguila
+  Â¿Me escuchas? Porque justo me querÃ­a, esta es la parte mÃ¡s importante, y estoy ahorita en la parte de la playa que se va la seÃ±al.  SÃ­, te escucho. Este, a ver, Â¿podemos hacer un roleplay sÃºper rÃ¡pido entre tÃº y yo? SÃ­, claro. Mira, entonces yo te digo, hola Alejandro, Â¿cÃ³mo estÃ¡s?  Â¿TÃº quÃ© me respondes ahÃ­?
+
+30:55 - Alejandro juan Loayza jordan
+  Primero voy a ver si sÃ© tu nombre, si lo sÃ©, te saludo por nombre, si no lo sÃ©, hola, Â¿quÃ© tal?  Un gustazo atenderte. CuÃ©ntame cuÃ¡l es tu nombre, peso, talla, edad y objetivo. A ver de quÃ© forma, para poder atenderte mÃ¡s personalizadamente.  Hola, Â¿quÃ© tal?
+
+31:12 - Alonso Aguila
+  TÃº puedes, mira, desde donde llegues, sea de alguna comunicaciÃ³n de Instagram o lo que fuere, ahÃ­ de frente es, Â¿cÃ³mo se llama?  Hola, Alejandro, Â¿cÃ³mo estÃ¡s? Quisiera mÃ¡s informaciÃ³n del mÃ©todo, Â¿no? O del plan que ofrece, eso es lo que fuere.  AhÃ­ tÃº respondes, hola, Â¿quÃ© tal? Â¿CÃ³mo estÃ¡s? Un gustazo atenderte. Mi nombre es Alejandro. Â¿CÃ³mo se llama? De alguna manera tienes que introducir en una lÃ­nea tu propuesta de valor, sea, tu factor diferencial, Â¿no?  Es como, este, bienvenido a, te voy a dar un servicio. servicio distinto, de alguna, de alguna, de, ahorita no tengo cÃ³mo, cÃ³mo ordenarlo, Â¿ya?  Pero sÃ­ serÃ­a chÃ©vere como que le pongas un nombre a tu mÃ©todo, Â¿me entiendes? Ah, ya se llama AJL.  Man, oye, bienvenido a AJL, este, estamos aquÃ­ para ayudarte en lo que necesites, eh, en cuanto a, a, Â¿cÃ³mo se llama?  Alinear tu salud con tus objetivos, una cosa asÃ­. Â¿Entiendes? Este, cuÃ©ntame, eh, Â¿cuÃ¡l es tu nombre? Eh, voy a pedirte alguna informaciÃ³n, cuÃ©ntame cuÃ¡l es tu nombre, peso y edad para poder continuar con la comunicaciÃ³n.  Man, ya, ya, yo agarro y te digo, perfecto, mi nombre es Alonso Aguila, tengo treinta y un aÃ±os, y puta, peso ciento diecisiete kilos.
+
+32:44 - Alejandro juan Loayza jordan
+  Â¿Por quÃ© te parece valioso eso en el primer contacto?
+
+32:52 - Alonso Aguila
+  Â¿CÃ³mo asÃ­? O sea, yo normalmente harÃ­a esto mismo, pero sin decir, hola, bienvenido al mÃ©todo AJL, bla, bla, bla,
+
+33:02 - Alejandro juan Loayza jordan
+  Para analizarle, porque Â¿sabes cuÃ¡l es el tema?
+
+33:04 - Alonso Aguila
+  O sea, cuando tÃº me vendes la idea de, puta, por fin lleguÃ© al sitio donde voy a poder lograr mi objetivo que es bajar de peso, pero de alguna u otra manera este huevÃ³n, con todo respeto, dice que no necesariamente tengo que desligarme de mis huevadas, y eso para mÃ­ es el principal problema, porque estoy harto de comer pollo hervido, me ha cortado el estÃ³mago una vez, la piel una vez, y estoy harto de probar treinta y cinco cosas, y de comenzar a tener que pincharme Wegovi, Monjaro, y mil cosas, entonces, Â¿quÃ© me puedo ofrecer este pata?  Â¿Majas? Entonces, la respuesta, con todo respeto nuevamente, si eres tÃº, pero a travÃ©s de algo, Â¿me entiendes? Entonces, ese algo que es AJL o a la miÃ©rcoles, hola, Â¿quÃ© tal?  Mi nombre es Alejandro, y estoy dispuesto a poder ayudar. En los objetivos que me compartas, mangas, algÃºn tipo de enganche que no sea tan directo y duro como peso, talla y edad, mangas, eso de ahÃ­ es que hay que ponerle al bot, yo te doy mi peso, talla y edad, y ahÃ­ tÃº que me vas a responder, tÃº que me responderÃ­as.
+
+34:22 - Alejandro juan Loayza jordan
+  Ok, se supone que ya hice eso que tÃº dices, Â¿no? Entonces, buenÃ­simo, gracias por compartirnos esto, y de ahÃ­ me voy a referir a su objetivo, Â¿hace cuÃ¡nto tiempo estÃ¡s intentando perder peso?  Asumiendo que sea el ejemplo, cuÃ©ntame un poquito, la persona se te obligarÃ¡.
+
+34:42 - Alonso Aguila
+  Mira, la verdad es que te soy honesto, compadre, o sea, tengo 31 aÃ±os y soy obeso desde que tengo 9, o a los 9 aÃ±os lleguÃ© a pesar 100 kilos y de ahÃ­ todo ha sido una cÃºspide, cÃºspide, cÃºspide, hasta que, pucha, hace 3 aÃ±os tomÃ© la decisiÃ³n de hacerme una cirugÃ­a bariÃ¡trica y he bajado un montÃ³n de peso, pero la...  La verdad es que, pucha, este, he vuelto a subir como 10 kilos y ya me estoy sintiendo sÃºper mal conmigo mismo y estoy desesperado.
+
+35:10 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, claro.
+
+35:11 - Alonso Aguila
+  Santiago, ahÃ­ corrÃ­geme, con esa explicaciÃ³n, la inteligencia artificial tranquilamente podrÃ­a asociar si es un tema de recomposiciÃ³n corporal o es un tema de pÃ©rdida de peso, Â¿cierto?  No, no necesariamente.
+
+35:26 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Creo que eso es un poquito ya mÃ¡s especÃ­fico. No le dejarÃ­a el libro AlbedrÃ­o a la IA para intuir si necesita dÃ©ficit, superÃ¡vit o recomposiciÃ³n.  Perfecto. Entonces, ahÃ­ es, nuevamente, Â¿no?
+
+35:40 - Alonso Aguila
+  Â¿QuÃ© me respondes tÃº, Alejandro?
+
+35:45 - Alejandro juan Loayza jordan
+  Ya me dijiste que te operaste hace un aÃ±o y que estÃ¡s que ganas peso. SÃ­. Ale, discÃºlpenme que te interrumpa, pero creo que es lo que ya habÃ­as mencionado.
+
+35:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, gracias por compartirnos esto. Â¿Hace cuÃ¡ndo estÃ¡s buscando este objetivo? CuÃ©ntame un poco mÃ¡s.
+
+36:00 - Alejandro juan Loayza jordan
+  No, o sea, ya me llorÃ³ porque ya me dijo que estaba intentando perder peso, ya me contÃ³ que el chivolo es un issue y que hace tres aÃ±os superÃ³, pero a pesar de haber superado, no lo estÃ¡ logrando, o sea, no estÃ¡ logrando mantener el peso.  AjÃ¡.
+
+36:14 - Alonso Aguila
+  estÃ¡ frustrado, pues, Â¿no? Claro.
+
+36:20 - Alejandro juan Loayza jordan
+  Te dirÃ­a como que, siempre creo que tiene que haber un reforzamiento positivo a que el paciente se vulnerabilice.
+
+36:25 - Alonso Aguila
+  Exacto, a eso quiere llegar. SÃ­, siempre.
+
+36:28 - Alejandro juan Loayza jordan
+  Lo primero que le dirÃ­a es como que, oye, Alonso, primero, quÃ© felicidad me da que hayas venido a buscar ayuda, te agradezco mucho por compartiÃ©ndonos eso, y creo que estÃ¡s haciendo un buen trabajo en contactarnos, o creo que estÃ¡s haciendo lo correcto en buscar ayudas si sientes que la necesitas, algo asÃ­.  Me encantarÃ­a saber si alguna vez has sido el nutricionista en el pasado o si te has intentado asesorar en nutriciÃ³n, porque hasta ahora yo ya sÃ© cuÃ¡l es el pain de Alonso, pero no entiendo quÃ© soluciÃ³n ha intentado y por quÃ© no lo ha funcionado.  TodavÃ­a no entiendo por quÃ© fallaste. quÃ© fallaste. fallaste. fallaste.
+
+36:59 - Alonso Aguila
+  no por TodavÃ­a TodavÃ­a no fallaste. fallaste. TodavÃ­a no fallaste. Â¡Gracias! Exacto, y ahÃ­ es donde tÃº comienzas a separar el dolor, manjas, entonces estÃ¡s empatizando con el cliente, ya, le estÃ¡s tratando de sacar mÃ¡s informaciÃ³n, sin ir al golpe brusco de peso talla y edad, que es el  nutricionista de hace 300 aÃ±os, y que tÃº dices y eres distinto, Â¿me entiendes?  Entonces ahÃ­ me preguntas si yo ya fui nutricionista, ya, y de puta hermano, sÃ­, la verdad es que he con psicÃ³logo, psicÃ³logo, nutricionista, pucha, despuÃ©s he estado con 5 nutricionistas mÃ¡s, y la verdad es que sigo estando en la tÃ­pica dieta de pollo orvido con papas ancochadas, ya estoy harto, Â¿me entiendes?  Ok. Y, mira, ya voy a tratar de darte mi punto, Â¿ya? AhÃ­ yo ya siento que tÃº podrÃ­as responder algo asÃ­ como tranquilo, vamos a trabajar juntos en poder tener una vida tranquila.  O algo asÃ­, buscando lograr tu objetivo. Entonces, si lo podemos definir ahorita, tÃº quieres recomposiciÃ³n corporal, pÃ©rdida de peso, o algo mÃ¡s, no sÃ©, Â¿me entiendes?
+
+38:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AquÃ­, una consulta, Alon, discÃºlpeme que te corte porque todo lo estoy, mÃ¡s allÃ¡ de apuntarlo con la IA, lo estoy apuntando en notas porque estamos literalmente definiendo tu proceso comercial, Ale, tu proceso de atenciÃ³n, mejor dicho.  Esa pregunta que menciona Alon sobre quÃ© estÃ¡s buscando especÃ­ficamente, si una recomposiciÃ³n, si un dÃ©ficit o un superÃ¡vit, Â¿es parte de las preguntas que se hacen al inicio o es una pregunta que ya deberÃ­a hacerse despuÃ©s de que el paciente se abriÃ³ contigo?
+
+38:43 - Alejandro juan Loayza jordan
+  Cuando la persona me dijo objetivo, normalmente ya me dijo esto, por lo cual creerÃ­a, no necesito repreguntarlo. Ok.
+
+38:54 - Alonso Aguila
+  Es que ahÃ­ viene lo que te decÃ­a, ahÃ­, ahÃ­, Ale, esa es la diferencia que hace... Este, como se llama la IA y lo que te acaba de decir Santiago, si yo te cuento el llanto que te acabo de contar hace un momento, tÃº al toque sacas te voy a bajar de peso, manjas, que si te das cuenta las respuestas que hemos ido trabajando juntos es exactamente lo mismo que yo un ex gordito que no estÃ¡ logrando mantener su peso te estÃ¡ diciendo, es exactamente lo mismo que un flaco escuÃ¡lido venga y te diga puta hermano trago todo el dÃ­a y no subo de peso y mis brazos.  Eso son un par de alfileres, manjas, y es lo mismo que te venga un hueÃ³n de 350 kilos y te diga puta brother, no puedo huir sin el chaufa, manjas, y necesito bajar de peso porque me voy a morir.  Entonces al final termina siendo la misma respuesta tuya de empatizar, se puede aplicar a casi cualquier problema, manjas, entonces hasta ahÃ­ ya respondiste, por eso es que yo te decÃ­a, la repregunta viene por quÃ©.  Porque ahorita nosotros podrÃ­amos dejarlo libre al vedrÃ­o de la inteligencia artificial, Â¿ya? Y mira con lo que te voy a decir, Â¿eh?  Yo le puedo dejar a ese nivel a la IA que define el objetivo o que lo alinee de acuerdo o podemos hacer un cÃ¡lculo adicional y ahÃ­ agarrar y decir, ya te acompaÃ±o, todo chÃ©vere, hermano, tranquilo, que vamos a hacer de tu vida o vamos a tener contigo, pues, una huevada, en la que no cambies tus hÃ¡bitos y puedas lograr tus objetivos, para poder ayudarte, por favor, mÃ¡rcame tu talla, peso y, Â¿cÃ³mo se llama esto?  Edad. Pregunta.
+
+40:43 - Alejandro juan Loayza jordan
+  O sea, se supone que en este ejemplo de roleplay que tÃº me estÃ¡s dando, yo no le he preguntado peso, talla, edad y objetivos.  No, no, no.
+
+40:52 - Alonso Aguila
+  Ahorita estamos siendo amigos, yo te estoy contando mis llantos, tÃº me estÃ¡s aprendiendo o entendiendo. Â¿Mangas? Gracias. Ya no me has preguntado peso, talla y edad, porque ese peso, talla y edad, ya, es la tÃ­pica pregunta que te hace cualquier nutricionista cuando reciÃ©n comienzas a hablar con Ã©l.  Y tÃº no eres, mangas. Ya ahÃ­ empatizamos, puta, ya sentÃ­ que Alejandro me escuchÃ³, que va a ser que mi vida sea una vida normal, que vamos a hablar de cÃ³mo puedo, dentro de mis hÃ¡bitos, meter y lograr mis objetivos.  Y reciÃ©n ahÃ­ me puedes preguntar peso, talla y edad. Â¿Me entiendes? Y con el peso, talla edad, ahÃ­ nosotros ya podemos volver a, Â¿cÃ³mo se llama esto?  A repreguntar, un segundo. Interesante.
+
+41:41 - Alejandro juan Loayza jordan
+  Este, Â¿cÃ³mo se llama?
+
+41:43 - Alonso Aguila
+  AhÃ­ me repreguntas, este, Â¿cÃ³mo se llama lo del objetivo? Â¿Me entiendes? O sea, oye, dame tu peso, talla y edad, ok, bacÃ¡n, este, nuevamente, Â¿no?  Tu objetivo lo podemos, y ahÃ­ el objetivo lo podemos definir con una repregunta. O podemos dejar que la IA lo infiera, pero eso ya depende, como te dice Santiago, puede haber algÃºn rango de error, entonces sÃ­ serÃ­a bueno repreguntarlo, Â¿me entiendes?  SÃ­.
+
+42:16 - Alejandro juan Loayza jordan
+  Ok. Y con eso ya estamos. Se me hace solo un poquito raro retroceder a preguntarle, o sea, la IA me imagino en este llanto hipotÃ©tico puede reconocer que tÃº me dicho tu peso.  O que me has dicho que estÃ¡s gordo, o que me has dicho que... SÃ­, por supuesto.
+
+42:36 - Alonso Aguila
+  Exactamente depende de cÃ³mo lo entrenemos, Â¿me entiendes? Porque lo que pasa es que yo te diga cirugÃ­a bariÃ¡trica, puta, ya el toque asocia, pam, pam, pam, pam, ya estÃ¡, obeso.  Pero de repente, yo soy bariÃ¡trico, ya me chupÃ©, y ahora quiero estar fuertecito, mangas. Entonces, ahÃ­ viene la parte...  No. Ese... Lo importante, yo creo, es hacer la repregunta. Ok. A mÃ­ yo estoy de acuerdo con la repregunta del objetivo.
+
+43:06 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Disculpa que te corte, dale.
+
+43:07 - Alejandro juan Loayza jordan
+  Dale, dale.
+
+43:08 - Alonso Aguila
+  Ya, ok, entonces repregunto, pero Â¿cÃ³mo?
+
+43:11 - Alejandro juan Loayza jordan
+  O sea, acÃ¡ estoy descubriendo, Â¿no? Porque ya empatizamos, ya me dijo que ha intentado de todo. Se supone que antes de, o estoy cortando de, digamos, el pitch para repreguntar esto, Â¿y cÃ³mo reconectas al pitch?  Porque va a haber un momento en que despuÃ©s de calentar suficiente, tengo que decirle como que, oh, mira, nosotros hacemos esto, mangas.  Eh, espÃ©rate, ahÃ­ todavÃ­a no llego, mangas.
+
+43:39 - Alonso Aguila
+  Entonces, las opciones de objetivos eran tres. Â¿Es recomposiciÃ³n corporal, bajar de peso y cuÃ¡l mÃ¡s? Es perder grasa, ganar musculatura o tratar algÃºn tema de salud especÃ­fico.
+
+43:52 - Alejandro juan Loayza jordan
+  Esas deberÃ­an ser las tres preguntas. Eso aplica a todo tambiÃ©n.
+
+43:55 - Alonso Aguila
+  Perder grasa. Eh, perdÃ³n, Ale, Â¿podrÃ­as repetir los otros? Perder grasa. Perder grasa, aumentar musculatura o atender un problema de salud en especÃ­fico.  Ok. Â¿Me entiendes? Que al final nuevamente, yo te puedo haber contado o que soy flaco o que soy gordo o que quiero mantener mi peso porque fui gordo y me estoy muriendo.  Â¿Me entiendes? Entonces, yo puedo mantener mi peso o lograr mantener el peso meta bajando grasa o tengo un tema de aumentar mÃºsculo o Â¿sabes quÃ©, puto hermano?  No, soy diabÃ©tico y la cagada. Â¿MaÃ±as? Entonces, eso en mis tres casos se aplica. Â¿MaÃ±as? SÃ­, claro. Como ex bariÃ¡trico que bajÃ© y volvÃ­ a subir un poquito.  Entonces, la repregunta es importante. Lo anterior al final termina siendo una respuesta casi que genÃ©rica. Â¿MaÃ±as? Entonces, repreguntas ahÃ­ y le vuelves a decir, genial, ahora sÃ­ para llenar informaciÃ³n necesito por favor que me compartas tu peso, talla y edad.  Â¿Te pasa el video? Â¿Ya? Claro. Porque ya estÃ¡, ya lo conectaste, llorÃ³, lo abrazaste, le dijiste Â¿cuÃ¡l es tu objetivo, hermano?  Ahora sÃ­ ya vayamos a lo rutinario. Â¿MaÃ±as? Peso, talla y edad. Mete el peso, talla edad y de ahÃ­ ya le cuentas tÃº lo que quieres.  Â¿CÃ³mo lo vas a ayudar? Si quieres ir mÃ¡s allÃ¡ del mÃ©todo o demÃ¡s, porque al final Â¿quÃ© pasa? AsÃ­ tÃº me cobres un sol o me cobres diez mil dÃ³lares, igual lo que ya te he contado se lo puedo contar a cualquier nutricionista.  Â¿MaÃ±as? TodavÃ­a no le vas a dar el gancho del mÃ©todo especÃ­fico y demÃ¡s. Entonces, Â¿de ahÃ­ quÃ© sigue?
+
+45:47 - Santiago Isaias Zavaleta Ayala (Ulima)
+  DespuÃ©s que ya me repreguntÃ³, despuÃ©s que ya me...
+
+45:51 - Alejandro juan Loayza jordan
+  No, despuÃ©s de que ya te di peso, talla y edad. Claro, esto, bueno, ya le preguntaste cuÃ¡nto tiempo intenta lidiar con esto.  PodrÃ­a preguntarle...
+
+45:59 - Santiago Isaias Zavaleta Ayala (Ulima)
+  preguntarle...
+
+46:01 - Alejandro juan Loayza jordan
+  Es que depende si le he hecho la pregunta de si he intentado ir al nutricionista antes. No sÃ© si voy a eso.
+
+46:06 - Alonso Aguila
+  Ya lo hicimos. Â¿Me entiendes? Ya identifiquÃ© cuÃ¡l ha sido su problema. Creo que viene la sugerencia, Â¿no?
+
+46:12 - Alejandro juan Loayza jordan
+  Decirle como que, oye, en base a lo que me has contado, creerÃ­a que podrÃ­amos ayudarte de esta forma. De hecho, yo ahorita, como no tengo un conocimiento de flujo mÃ¡s grande, creo que ya entrarÃ­a el pitch, pero no sÃ©, tÃº dime.  O sea, que ahÃ­ tÃº ya tienes diversas opciones, pues, Â¿no?
+
+46:32 - Alonso Aguila
+  Porque si tiene un IMC, que al final lo calculas, haciendo la ecuaciÃ³n del peso-talle-edad, de acuerdo a cierto rango, y ya fue el nutricionista, y estÃ¡ lidiando hace tiempo con el problema, tÃº ya le puedes ofrecer un paquete.  SÃ­, yo entrarÃ­a con el pitch despuÃ©s de eso. Creo que es el momento. Ok. De hecho, estoy...
+
+47:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Yo recuerdo con Alon ahÃ­, con lo que menciona Ale, que al inicio ese diferenciador de hablar sobre tu metodologÃ­a, entender sus puntos de dolor, vulnerizar al cliente, es el timing, eso genera el timing perfecto para que Ã©l se abra contigo y luego darte esa informaciÃ³n de peso, tal y edad tenga mucho mÃ¡s relevancia que preguntarlo de golpe al inicio, porque creo que eso es lo que harÃ­a cualquier nutricionista, entre comillas, porque simplemente tienen una automatizaciÃ³n que quieren esa informaciÃ³n rÃ¡pido.  En cambio, si lo guÃ­as de esa manera, le das mucho mÃ¡s valor a tu mÃ©todo.
+
+47:31 - Alejandro juan Loayza jordan
+  Ok, bacÃ¡n. Solo se me hace un poquito raro transicionar de que me dÃ© sus datos al pitch, no sÃ© si hay alguna sugerencia ahÃ­ un poco mÃ¡s soft, o sea, se me hace raro porque no sÃ© realmente, no porque crea que estÃ© mal.
+
+47:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mira, Â¿estÃ¡s viendo mi pantalla Ale? SÃ­. Yo creo que este hasta ahora es el flujo mÃ¡s Ã³ptimo. Bueno, retrocedo un poquito lo que te mencionÃ©, Â¿no?  Empezar primero con las preguntas de peso, talla, edad y objetivo. Segundo, Â¿cuÃ¡ndo? Cuando ya nos des informaciÃ³n, gracias por compartirnos esto.  Â¿Hace cuÃ¡nto estÃ¡s buscando ese objetivo? CuÃ©ntame un poco mÃ¡s. Empezar a entender cuÃ¡l es su situaciÃ³n, que el lead te cuente el caso.  Claramente eso es a mano alzada, Â¿no? Luego lo vamos a pasar a un flujo mucho mÃ¡s bonito. Luego, agradecer por compartir su experiencia, felicitarlo porque hace lo correcto por pedir ayuda, preguntarse su primera vez siendo nutricionista, saber si no tal, tal, extraer informaciÃ³n.  Luego, ya, pero Santi, hay, que te corrija, Â¿verdad?
+
+48:26 - Alonso Aguila
+  El peso de talla y edad va despuÃ©s de eso Ãºltimo que has dicho, no al inicio, va despuÃ©s.
+
+48:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Es, a ver, bueno, que lo confirme Ale, a ver si como, o sea, acÃ¡ abajo el asesoramiento que nos estÃ¡ dando, me voy a hablar.
+
+48:43 - Alejandro juan Loayza jordan
+  Entonces, Ã©l dice como que, que no deberÃ­a preguntar eso, Â¿no? Que deberÃ­a entrar con una frase de fuerza que diga como que, oye, bienvenido a mi casa, bÃ¡sicamente.  Â¿De cuÃ¡l?
+
+48:53 - Alonso Aguila
+  AquÃ­ ayudamos a las personas, y menciono mi buyer, bÃ¡sicamente, Â¿no? Muy, muy light. Gracias. SÃ­, claro. CuÃ©ntame en quÃ© te podemos ayudar, de repente.  Tal cual, ahÃ­ vas haciendo las preguntas, todo lo que te ha dicho Santiago, y luego de que ya lo felicitas por bla bla bla, ahÃ­ le pones el mensaje reciÃ©n de la pesotalla y edad.  Y de ahÃ­ ya entras a lo otro, que es ya el tema de los planes que tienes, en quÃ© consiste, y agenden la cita, pues, Â¿no?
+
+49:28 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, ok, listo. Entonces, extraemos la informaciÃ³n despuÃ©s, volvemos, bueno, confirmamos el objetivo, Â¿no? Para hablar grasa, aumentar mÃºsculo, va a tener el problema de salud en especÃ­fico, y despuÃ©s de esto, entre el pitch.  Este pitch, Â¿cuÃ¡l es? Â¿A quÃ© te refieres con el pitch? Â¿Son tus planes? Â¿CÃ³mo los presentas?
+
+49:48 - Alejandro juan Loayza jordan
+  De hecho, estuve anoche toda la madrugada hablando de la HPT porque quiero reformular nuestro proceso comercial. Lo que pasa es que, como les decÃ­a antes, es medio difÃ­cil explicarle, como las personas solo entienden salud desde la medicina, es un poco difÃ­cil explicar que el mÃ©todo, como te decÃ­a, no es esta combinatoria especÃ­fica de comidas, no es la fÃ³rmula ABCD, es el mÃ©todo justamente estÃ¡ en nuestra capacidad de extracciÃ³n de informaciÃ³n para hacer algo que te sea Ãºtil.
+
+50:26 - Alonso Aguila
+  Nada estÃ¡ predeterminado ni prediseÃ±ado.
+
+50:30 - Alejandro juan Loayza jordan
+  TodavÃ­a no aterrizo exactamente cÃ³mo hacer esa declaraciÃ³n sin que sea muy wordy, pero sÃ­, en eso estoy.
+
+50:42 - Alonso Aguila
+  Mira, yo lo que te dirÃ­a, aunque eso sonÃ³ un poco medio a lo bruto, pero porque al final esta vaina, se vuelve un poco lo que te debo, que es el tema de asesoramiento comercial a la LEA.  Pero quÃ© pasa. Al final tu mÃ©todo es que no hay un mÃ©todo, Â¿me entiendes? TÃº me estÃ¡s enseÃ±ando, me estÃ¡s explicando que en realidad todo se trata de entender cantidades y nutrientes, porque al final de eso se trata el plan, y que yo puedo tener una vida libre sin hacer dietas, simplemente controlando porciones y sabiendo que me estoy metiendo en la boca.  ParÃ©ntesis ahÃ­, rapidito.
+
+51:29 - Alejandro juan Loayza jordan
+  Pero tÃº sÃ­ me entiendes, Alonso, Â¿por quÃ© es medio jodida esta respuesta que yo busco?
+
+51:35 - Alonso Aguila
+  Claro, porque al final tÃº le dices, lo que yo hago es nada de distinto a lo que tÃº, o como tÃº vives.  sea, la respuesta suena como que, puta, entonces este buen, hace, ves, no? O sea...
+
+51:46 - Alejandro juan Loayza jordan
+  Es quieren saber quÃ© mÃ©todo haces, la keto, la esto, lo que hace Monjairo, pero no hay un mÃ©todo realmente, el mÃ©todo es...
+
+51:52 - Alonso Aguila
+  Exacto, entonces yo lo que creo que le podrÃ­a decir es, mira, vamos a crear un plan, que al final ese es el resumen de  De tu mÃ©todo, Â¿no? Es, mira, nosotros no seguimos una dieta en especÃ­fico, sino lo que hacemos es preparar un plan totalmente personalizado a ti, saber todo lo que te gusta, saber lo que no te gusta, y en base a eso diseÃ±amos una estructura personalizada de alimentaciÃ³n para que puedas lograr ese objetivo.  Vamos a estar contigo explicÃ¡ndote al detalle, cantidades, comidas, este, Â¿cÃ³mo se llama? Lugares a donde ir, quÃ© opciones escoger, de todo lo que tÃº nos brindes.  Â¿Y por quÃ©? Â¿Y por quÃ© lo hacemos? Claro. Â¿Me entiendes? Y ahÃ­, a mi juicio, entra la parte de, hay estos planes.  Â¿Me entiendes? Claro. O sea, yo normalmente lo...
+
+53:00 - Alejandro juan Loayza jordan
+  Lo que hacÃ­amos con Rodrigo era ahÃ­ le decÃ­amos como que hay todo esto y hacÃ­amos una aclaraciÃ³n que no sÃ© si sea pertinente o no de que oye, aunque todo esto suena bonito, es un trabajo en equipo, etc, etc, un poco para que no piensen que le estoy vendiendo algo ya demasiado fantasioso porque ya si suena muy bueno tambiÃ©n podrÃ­a generar desconfianza.  Y normalmente ahÃ­ la persona dice, ok, ya, bacÃ¡n, Â¿y cuÃ¡nto cuesta esa huevada que estÃ¡ diciendo? Y de ahÃ­ como los moches dices, Â¿no?  Te cuento. Y empiezas a decirle cuÃ¡nto cuesta. De hecho, he sufrido un poco porque creo que nuestra oferta no es clara en el sentido de no deberÃ­amos vender como que, oye, la asesorÃ­a cuesta esto, como que hoy tenemos X programas, este programa tiene esta frecuencia, este programa tiene esta frecuencia, pero hay muchas, muchas combinatorias, muchas, muchas, opciones.  Entonces, justo con Rodrigo nos estÃ¡bamos preguntando cÃ³mo determinar quÃ© informaciÃ³n enviarle al paciente. O de repente es, hay que bajarnos productos simplemente ya.
+
+54:00 - Alonso Aguila
+  TodavÃ­a no tengo eso claro, realmente. O sea, ahÃ­ viene el tema, Â¿no? Â¿TÃº quieres que la IA de frente ya le diga los planes y los costos?  Â¿O eso quieres ya conversarlo tÃº con ellos?
+
+54:18 - Alejandro juan Loayza jordan
+  CreerÃ­a que si llegÃ³ hasta ese punto, importarÃ­a, claro, que el, Â¿cÃ³mo se le llama ese asesor comercial? Â¿CÃ³mo se le llama?  Â¿El agente?
+
+54:31 - Alonso Aguila
+  No, no, el humano, pues. Ah, Â¿el consumidor o el cliente? No, el humano, Rodrigo, el.
+
+54:41 - Alejandro juan Loayza jordan
+  El asesor de ventas, El asesor de ventas, ahÃ­ estÃ¡ esa huevada, que era. Ya, que el asesor de ventas fÃ¡cil, ahÃ­ sÃ­ puede entrar para meterle su labia, pues, Â¿no?  Como que, este, un audio, no sÃ© si Romy puede mirar audios. Pero creo que lo del audio es algo que mucha gente ha valorado.
+
+54:59 - Alonso Aguila
+  no, no, Gracias.
+
+55:00 - Alejandro juan Loayza jordan
+  Entonces creo que eso es lo que me gustarÃ­a hacer despuÃ©s de todo el prefiltrado de Romy.
+
+55:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, total, ahÃ­ automÃ¡ticamente lo que se va a hacer Ale es avisarle en este caso a Rodri, perdÃ³n, Rodri, claro, sÃ­, se le va avisar automÃ¡ticamente cuando alguien ya llegue a, haya pasado por todas las etapas y estÃ© precalificado, le va llegar un aviso automÃ¡ticamente a Ã©l y le va a decir, oye, este potencial cliente ya ha pasado por las etapas y comunÃ­cate con Ã©l para poder darle informaciÃ³n sobre los precios.  Si es que tÃº eligieras que Romy Bot no dÃ© los precios y sea tu equipo quien todavÃ­a se encargue de toda la etapa final, pues, Â¿no?
+
+55:35 - Alonso Aguila
+  Que ahÃ­ viene un tema, porque quÃ© pasa si yo te contacto a las, mira, te pongo, te pongo, puta, el caso mÃ¡s jodido que se me puede ocurrir, un sÃ¡bado 11 de la noche salÃ­ a comer con mis amigos, me empujÃ© dos alchipapas, me estoy regresando a mi casa y en un semÃ¡foro abriÃ³ TikTok, me sentÃ­ culpable de haberme tragado dos alchipapas.  Te veo a ti, digo. Maldita sea, Esteban dice que puedo comer helado, panetÃ³n y la puta madre y puedo bajar de peso.  Le hablo, sÃ¡bado 11 de la noche, llego hasta ahÃ­, llorÃ© con Ã©l y toda la vaina, Rodrigo no va a estar disponible, se va a quedar colgado.  Eso es importante.
+
+56:15 - Alejandro juan Loayza jordan
+  QuerÃ­a que es posible activar o configurar para que en las horas no laborables de Rodrigo, la IA pueda gestionar un MVP de flujo comercial por su cuenta.
+
+56:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  A ver, aquÃ­ solo para aclarar, Â¿te refieres, Ale, a que cuando Rodri no estÃ© activo respondiÃ©ndole a los potenciales clientes, RomyBot no tiene que hacerlo?  Â¿Y solo cuando Ã©l no estÃ¡, sÃ­ tiene que estar activo? No, o sea, por ejemplo, vamos a asumir que en el paso 8 es que suelto precios.
+
+56:49 - Alejandro juan Loayza jordan
+  Ok. De este hipotÃ©tico flujo comercial, entonces digo, ok, durante las horas de actividad de Rodri, deberÃ­a pasar que RomyBot no active, no acciÃ³n.  El proceso 8, porque estÃ¡ Rodrigo, entonces es una, bueno, ya es un escenario donde existe un Rodrigo, ImagÃ­nate que solo fuera full robot, ya pues, no pasa eso, pero la posibilidad de desactivarlo en las horas Ãºtiles, trabajables de Rodrigo, para que Ã©l pueda ser quien cierre porque aumenta mi casa cerrada o de repente que un humano te manda un aviÃ³n, lo estoy inventando.
+
+57:24 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, no, sÃ­ es, sÃ­ es totalmente factible y viable, definitivamente como no lo, no lo dimensionamos al inicio, puede que sÃ­ tome un poco mÃ¡s porque sÃ­ es algo tÃ©cnicamente un poquito mÃ¡s laborioso, pero de que se puede hacer, se puede hacer.  SÃ­, sÃ­, sÃ­. Â¿Pero quÃ© es lo, quÃ© es lo laborioso?
+
+57:43 - Alejandro juan Loayza jordan
+  Â¿Hacer que pare trabajar en una fase especÃ­fica o configurarle para que en ciertas horas pare?
+
+57:49 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, si le decimos a Romibot, buena pregunta, si le decimos a Romibot, oye, de 8 a, de 8 de la maÃ±ana, 6 de la tarde, deja de trabajar, eso es sÃºper sencillo, simplemente se le apaga.  Ay, sin mÃ¡s, pero si le decimos a Romibot, oye, de 8 a la maÃ±ana, 6 de la tarde, haz tus funciones normales, pero de 6 de la tarde hasta las 7 de la maÃ±ana del dÃ­a siguiente, solo haz ciertas funciones, eso es lo que puede ser complicado.  Eso es que puede ser complicado tÃ©cnicamente. Ok, ok, te entiendo. Ok. Pero igual, o sea, no complicado, es simplemente un poco laborioso, pero no es difÃ­cil de hacer.  Ok.
+
+58:30 - Alonso Aguila
+  Entonces, ya con eso, me dan los precios, y agitamos la cita. Ahora, acÃ¡ hay dos cosas, Â¿no?
+
+58:40 - Alejandro juan Loayza jordan
+  Uno es, si tengo un abanico de opciones, la skill del comercial deberÃ­a, o sea, no puedo darle demasiados precios a la gente tampoco, porque no lo puedo hacerle si muy difÃ­cil.  Y bueno, mira, tenemos todos estos programas, yo creo que este te podrÃ­a ayudar por ABCD. La persona puede que diga...
+
+59:04 - Alonso Aguila
+  por ejemplo, Â¿cuÃ¡ntos programas tienes tÃº ahorita? Ahorita hay seis, seis, siete.
+
+59:13 - Alejandro juan Loayza jordan
+  Hay dos opciones de un mes, donde en una te doy dos sesiones por mes y en otra te doy solo una sesiÃ³n por mes.  Y hay una opciÃ³n de tres meses que tiene cuatro sesiones. Â¿Todas estas tres combinaciones existen con seguimiento o sin seguimiento?
+
+59:38 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok.
+
+59:39 - Alejandro juan Loayza jordan
+  Ahora, yo creerÃ­a que en este punto, y considerando que los toques no son muy caros, podrÃ­a simplemente ofrecer siempre con IA.  Por sea que se va a cortar esto en breves. Â¿CÃ³mo quieres hacer, Sandy? SÃ­, ahÃ­ te reenvÃ­o.
+
+59:51 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Voy a crear rÃ¡pidamente el otro link. De hecho, ahÃ­, Ale, mi recomendaciÃ³n comercial.
+
+1:00:00 - Alonso Aguila
+  SegÃºn mi experiencia con varios clientes, es que al final lo que yo busco el siguiente link, porque sea Moreno.

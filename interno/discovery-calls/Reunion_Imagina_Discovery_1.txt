@@ -1,0 +1,283 @@
+Impromptu Google Meet Meeting - January 23
+VIEW RECORDING - 39 mins (No highlights): https://fathom.video/share/v9Hdbj8MbNVtk43H8xcqmC-HPX6pXULF
+
+---
+
+0:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Hola, Â¿me escuchan? SÃ­, sÃ­, Â¿se me escucha bien? Â¿se me ve bien a mÃ­? Dame un segundito que quiero conectarme.  No te preocupes. Ahora sÃ­ creo que te escucho mejor. Ya, dame un minutito.
+
+0:30 - Erik Gamarra Monge
+  Â¿QuÃ© tal?
+
+0:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿QuÃ© tal, Erik? Â¿CÃ³mo estÃ¡s? Â¿QuÃ© tal ha estado hoy? Disculpa la demora.
+
+0:35 - Erik Gamarra Monge
+  Algo de movimiento y me demorÃ© un poco. No, no te preocupes.
+
+0:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, Erik, vamos a hacer que esta reuniÃ³n sea sÃºper, sÃºper prÃ¡ctica. Te quiero ser 100% transparente. El objetivo principal de esta reuniÃ³n no es venderte absolutamente nada.  El objetivo principal de esta reuniÃ³n es contarte un poco mÃ¡s quÃ© es lo que nosotros hacemos, sobre todo entender cÃ³mo estÃ¡n ustedes operando al 100%, cuÃ¡les son esos procesos que  Â¿DÃ³nde estÃ¡n esos cuellos de botella, esos obstÃ¡culos que de repente pueden estar frenando a tener mÃ¡s cierres? Conocerte un poco mÃ¡s y si es que al final de esta reuniÃ³n, despuÃ©s de haberte mostrado quÃ© es lo que hacemos, hace match con lo que estÃ¡s buscando, Â¿quÃ© te parece si coordinamos una segunda reuniÃ³n, tal vez con alguien mÃ¡s del equipo comercial, para presentarles una propuesta personalizada a lo que ustedes necesitan?  Ya, de acuerdo. Perfecto.
+
+1:22 - Erik Gamarra Monge
+  Te cuento un poco lo que es mi operaciÃ³n, Â¿sÃ­?
+
+1:25 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok. Ya.
+
+1:27 - Erik Gamarra Monge
+  A nivel de dimensiÃ³n, yo estoy gestionando mÃ¡s o menos este mes. Estoy en proceso, digamos, de expansiÃ³n a nivel digital y estoy pasando de una carga de 4,000 mes, mÃ¡s o menos, espero aterrizar en unos 7 mes, 7,000 mes, mÃ¡s o menos.  Ok.
+
+1:44 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Estamos hablando de leads, Â¿verdad? Leads, sÃ­. Ok.
+
+1:47 - Erik Gamarra Monge
+  La plataforma que hemos decidido como soporte para este crecimiento es Haspot, ese es nuestro CRM, lo hemos seteado por 8 meses como para que estÃ© lo mÃ¡s.  MÃ¡s a medida posible de nosotros como organizaciÃ³n. Creo que lo tenemos. Funciona. Hay dos cosas que estamos terminando de resolver.  Una es la de las llamadas, que Hasbro tiene llamadas nativas, entonces tengo trazabilidad 100% de las llamadas. A veces falla con alguna que otra cosa.  Para esta primera fase estÃ¡ bien, no soporta. Nuestra siguiente fase serÃ­a ir a conversacional para atacar una parte que hoy no tocamos por capacity.  Luego, el otro frente, que es WhatsApp, nuestra primera intenciÃ³n era tener trazabilidad de eso. Â¿Por quÃ©? Porque venÃ­amos de Esperan, donde todo estaba en el aire y tenÃ­as que confiar.  Un poquito en las ciegas, Â¿no? En lo que se gestionaba desde el frente. Hoy tenemos una herramienta que se llama Easy Buy, que tiene dos cosas especiales.  Una es que sincroniza todo hacia Hotspot, es plug and play de Hotspot, certificado de Hotspot. Genial. Dos, hace poco, Â¿quÃ© nos pasÃ³?  Empezamos a diseÃ±ar con ellos hace ocho meses, lo logramos, funcionÃ³. TenÃ­an tambiÃ©n workflows, lo que me permitÃ­a, de acuerdo a la etapa del pipeline de mi cliente, gestionar mensajes en automÃ¡tico, por ejemplo, el mensaje de NPS, despuÃ©s de una visita, estÃ¡ destinado por un workflow.  Como estÃ¡ en activo en Hotspot, le digo, cada vez que un cliente llegue a etapa de visitado, envÃ­ale tal mensaje desde el dueÃ±o del negocio.
+
+3:43 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿QuÃ© pasÃ³?
+
+3:44 - Erik Gamarra Monge
+  Que pasaron dos meses, Meta cambiÃ³ un poco sus polÃ­ticas de WhatsApp, y bueno, pasÃ³ lo que supongo que ustedes tambiÃ©n habrÃ¡n visto, que bloquearon a medio mundo por lo de business, con mensajes repetitivos o que parecieran comerciales.
+
+3:58 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, total.
+
+4:00 - Erik Gamarra Monge
+  La suerte que tuvimos es que esta empresa decidiÃ³ afrontar el tema y hoy lo que tenemos es API combinado con Business.  Ok.
+
+4:10 - Santiago Isaias Zavaleta Ayala (Ulima)
+  El API es sÃºper limitada.
+
+4:12 - Erik Gamarra Monge
+  Â¿Por quÃ©? Porque estÃ¡ solo trazado para Workflow, pero no es conversacional. Es totalmente yo ejecuto un mensaje.
+
+4:20 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total, es una automatizaciÃ³n muy genÃ©rica, muy cuadrada, genera fricciÃ³n despuÃ©s de todo eso.
+
+4:26 - Erik Gamarra Monge
+  Correcto. O sea, mÃ¡s que genera fricciÃ³n, no profundiza. EstÃ¡ bien, soluciona varios problemas. Una de las cosas esenciales, Santiago, en mi negocio es que la posiciÃ³n de mi marca es una posiciÃ³n premium.
+
+4:37 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Lo sÃ©. Entonces. mateado al 100%.
+
+4:39 - Erik Gamarra Monge
+  Lo que no puedo hacer, lo que no estoy dispuesto a hacer es, no puedo generalizar. Entonces, yo no estoy, lo que busco, primero, no son soluciones inmediatas.  Entonces, busco las plataformas que me permitan lograr sacar mi diferencial, que hoy como marca es mi atenciÃ³n en sala de venta.  O sea, nadie atiende como imagina en el mercado. Yo quiero plataformas que a mediano o largo plazo me permitan trasladar esta entrega de valor a medios digitales.  Entonces, no pretendo tener lo mismo que tienen todos. Entonces, necesito espacio como para maniobrar e ir mejorando. Es por eso que hoy, por ejemplo, IA Conversacional ya existe en el mercado, en el paÃ­s ya estÃ¡.  El problema que tiene es que primero te habla genÃ©rico, segundo tiene un problema de latencia notorio. Entonces, yo estoy dispuesto todavÃ­a a mi cliente que espera una experiencia premium entregarle esto que es bastante estÃ¡ndar.  Entonces, es por eso que estamos explorando, porque todavÃ­a no llega, cosas como la que te contaba ayer, Eleven Labs, que es una plataforma gringa, que ya tiene muy avanzado lo de IA Conversacional, que las latencias son cero, pero que me obligan a mi como...  Como empresa, a ir por la herramienta tÃ©cnica. Entonces, porque ellos tienen la plataforma, pero no tienen una herramienta que yo les puedo decir, ok, conozco a los hotspots.
+
+6:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Yo me dedico a hacer vida conversacional de alta calidad.
+
+6:16 - Erik Gamarra Monge
+  Pues le venden a desarrolladores, no inmobiliarios. Entonces, necesito un partner que sea capaz de, con esa exigencia, darme soporte.  Y a partir de eso, probÃ© ayer lo de, lo de, lo de los, lo del bot. Me gusta, no me gusta para todos, para hacerte honesto.  Lo voy a, si lo usa, si lo uso, lo usarÃ­a en leads de poco valor, en leads frÃ­os, donde simplemente tengo que decidir si no los atiendo o los atiendo asÃ­, Â¿no es cierto?  Entonces, esa es, esa es un poco mi, mi lectura. Y tambiÃ©n como para que veas mÃ¡s o menos a largo plazo que queremos.
+
+6:57 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, me queda 100% claro, Ãºnicamente. Realmente, primero que no te preocupes por el lado de la marca, creo que es uno de los primeros insights que me llevÃ© antes de entrar a la reuniÃ³n, por lo mismo que creo que es muy importante, mÃ¡s que creo, sÃ© que es muy importante saber que estas soluciones de inteligencia artificial, el principal valor que nosotros entregamos, Erik, es que, y lo mencionÃ© desde un inicio, no entregamos ningÃºn enlatado, ningÃºn software genÃ©rico.  Â¿A quÃ© me refiero con esto? Si es que me voy a inventar un ejemplo, si es que tÃº me dices, Santiago, yo quiero que mi asistente de voz o mi agente de WhatsApp hable con jergas o cero jergas o Ãºnicamente ponga ciertas palabras especÃ­ficas que nosotros usamos dentro de Imagina, ese asistente de guÃ­a va a empezar a hablar como lo harÃ­as tÃº o lo harÃ­a tu mejor asesor.  Es decir, que nosotros vamos a acoplarnos a Doca lo que ustedes hacen. No buscamos reinventar la rueda, sino hacer que la rueda que ustedes ya tienen gire mÃ¡s rÃ¡pido, sin mÃ¡s.  AsÃ­ que me queda 100% claro por ese lado, solo para dejarlo como insight, es que todo se puede acoplar a Doca lo que ustedes necesiten.  Erik, tengo unas cuantas preguntas para hacerte para poder comentar. Comprender mÃ¡s, ya tengo el dimensionamiento general de lo que me has mencionado, pero para poder aterrizar un poco mÃ¡s y mostrarles y explicarles a nuestros servicios, unas cuantas preguntas para poder comprender mÃ¡s su operaciÃ³n por dentro.  De todos estos leads que me has hablado, que eran entre 6, 7K, la mayorÃ­a entra por formularios, entra por WhatsApp directo, entra por redes, llamada.  Â¿Me puedes hablar un poquito mÃ¡s de esta proporciÃ³n?
+
+8:22 - Erik Gamarra Monge
+  O sea, si te digo mi proporciÃ³n de medios, primero es Facebook, que mete el 50% mÃ¡s o menos. Luego debo tener en Ads unos 20, 25% mÃ¡s.  Y lo demÃ¡s sÃ­ es formularios de mi web, campaÃ±as de mailing con formularios.
+
+8:47 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro.
+
+8:47 - Erik Gamarra Monge
+  SÃ­ estÃ¡ medio diversificado, pero sÃ­ en el pareto Facebook es la cabeza. Ok, perfecto.
+
+8:53 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eric, de cada 10 leads que entran, Â¿a cuÃ¡nto sientes que realmente logran contactar bien en las primeras 24 horas?
+
+9:00 - Erik Gamarra Monge
+  Ya, te cuento un poco. Como tengo hoy Hatspot, ya tengo trazabilidad. Entonces, mi contactabilidad hoy estÃ¡ mÃ¡s o menos en 50%.  El tiempo promedio para que un cliente nos conteste es 1.3 dÃ­as. Que no creo que sea el tiempo del cliente, es el tiempo del que lo estÃ¡ ejecutando, sobre todo.  Total. Mi pipeline es interesado, que es el lead, vamos a llamarle, que Hatspot convierte en negocio. Luego pasamos a tener contactados, el que te contesta, no importa lo que te haya dicho, pero te contesta.  Luego pasamos a un tramo que se llama cita agendada, porque la estrategia central de nuestra operaciÃ³n no es venderle al cliente en digital, como te contÃ©.  Nuestro diferencial es el punto de venta y lo que queremos es meter al cliente al diferencial. Total. Por eso el rediseÃ±o, incluso del speech, protegemos el precio porque no hemos entregado valor todavÃ­a como para poner el precio enfrente.  Entonces, sÃ­ es diferente, pero hay... AhÃ­, como para resumir, es cita agendada, cita concretada. AhÃ­ entra un grupo de visitas tradicionales que entran directamente al pipeline de la calle y luego estÃ¡ separaciÃ³n y cierre.  Ese es nuestro pipeline. Y hoy nuestro ratio grande ha sido, como para no desplegarme de informaciÃ³n, es tenemos un 1% de concreciÃ³n.
+
+10:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Elite a cierre.
+
+10:21 - Erik Gamarra Monge
+  Que estÃ¡ dentro del mercado, pero insisto, no queremos lo que el mercado hace, queremos dos cosas. Uno, ser mÃ¡s eficientes, porque tenemos mÃ¡s volumen.  Y no quiero que lo primero que haga es contratar mÃ¡s gente. Total. Y dos, quiero trasladar mi experiencia digital a entornos, perdÃ³n, mi experiencia memorable en salas a entornos digitales.  Eso es.
+
+10:44 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total. SÃ­, de hecho es sÃºper importante, porque no recuerdo la cifra exacta, mentirÃ­a, pero para el 2027 el mercado digital estÃ¡ teniendo un crecimiento exponencial brutal.  Y justo la idea entra como un engranaje perfecto para todos los negocios que dependen, que es la mayorÃ­a de los negocios.  Son la mayorÃ­a, la verdad, de estos entornos digitales. Erik, en horas pico o fueras de horario, Â¿quÃ© suele pasar con estos leads?  Â¿Hay algÃºn problema en particular? Â¿Algo que te haga ruido en esos horarios?
+
+11:10 - Erik Gamarra Monge
+  Evidentemente, mi promedio de tiempo de respuesta es grande, Â¿no? O sea, la parte tÃ©cnica, Santiago, la tengo sÃºper estudiada.  Entonces, yo entiendo con claridad que si yo le hablo a este cliente en los primeros 5 minutos, tengo 80% mÃ¡s de probabilidades de que me conteste.  SÃ© que en los siguientes 30 caerÃ¡n las 60 y en la siguiente hora sÃ© que cae a 20%. Lo tengo sÃºper claro.  Oye, Â¿y por quÃ© me has puesto un bot desde el primer dÃ­a? Porque ese es un parche, Â¿no es cierto?
+
+11:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Es un parche.
+
+11:46 - Erik Gamarra Monge
+  Lo que no quiero es que un bot hable y que viene abandonando al cliente porque no estÃ¡ totalmente adecuado con mi propuesta de valor.  Lo complejo de mi propuesta es el problema. Si fuese cualquier otra inmobiliaria donde el precio y el producto base...  Es mi propuesta, el bot me soluciona la vida. Pero en mi caso lo que no quiero es que un cliente abandone el proceso sin haber recibido valor real.  Ese es el gran desafÃ­o. Y ahÃ­, por ejemplo, yo he hecho esfuerzos particulares. Una de las cosas que yo tengo que me permitiÃ³ EasyBuy es que yo puedo hacer workflows de API sin perder la cara de la persona con la que estÃ¡s hablando.  Entonces, mi asesor estÃ¡ recibiendo un lead a las 11 de la noche y el workflow estÃ¡ respondiendo en primera instancia.  Â¿No es cierto? Y le dice, hola, soy tal, y estÃ¡ desde su nÃºmero. No tengo lo que todos tienen, que es el nÃºmero genÃ©rico que dice Inmobiliaria Imagina, Â¿no es cierto?  Que filtra y luego reparte a otro. Esa transiciÃ³n a mÃ­ me parece dolorosÃ­sima. O sea, uno, como ya has tratado con cinco inmobiliarias al mismo tiempo, ya te diste cuenta que el que tiene el logo es un bot.  Entonces, y luego dices, porque ademÃ¡s asÃ­ te trata TelefÃ³nica, asÃ­ te tratan 20 empresas. Es importante eso para ellos, estÃ¡ bien, es parte de su modelo de negocio.  Entonces, estÃ¡s esperando en quÃ© momento me pasan con una persona, Â¿no? Â¿CÃ³mo maniobro con este bot para que me pase con la persona?  Entonces, yo lo que quiero es tratar de estar con la persona todavÃ­a sin depender solo de la persona. Yo sÃ© que es un reto complejo.  De hecho, mis amigos de Icibai son una empresa de la India que rebuscando, como suelo hacer las cosas, rebuscando, encontrÃ© la soluciÃ³n intermedia.  Entonces, los seÃ±ores son buenos, son los que no peso todavÃ­a lo suficiente en su portafolio, pero que me dan algo a medida.
+
+13:36 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total, al final creo que lo mÃ¡s importante que tienes tÃº y en general todos es el tiempo. Y ese tiempo me imagino que lo necesitas invertir para vender mÃ¡s.  O no para estar metiÃ©ndote tanto en lo tÃ©cnico y creo que es justamente la razÃ³n por la que estÃ¡s contemplando opciones y nos has buscado.  AsÃ­ que por ese lado me queda sÃºper, sÃºper claro. Pero, Eric, Â¿hoy quÃ© parte creo que ya me respondiste entre todo lo que me has comentado?  Pero igual cumplo con las preguntas para que quede sÃºper claro porque estoy hablando. Â¿En quÃ© parte del proceso comercial sientes mÃ¡s tensiÃ³n, mÃ¡s fricciÃ³n?  Â¿En la velocidad de respuesta, el seguimiento a la conversiÃ³n? Â¿En la velocidad de respuesta?
+
+14:11 - Erik Gamarra Monge
+  Te cuento los dos grandes dolores. El primero es el front, que atiende a estos clientes que llegan. Como te contÃ©, mi cierre es del 1% en digital.  Entonces yo atiendo a 6.000 y cierro a 60. 5.940 no cierran, se pierden en X, Y, Z de etapa.  Hoy no los toco. Termina mi flujo y todo lo que se perdiÃ³ en el pipeline no es tocado hasta cierto hito donde tenemos un evento.  O sea, el asesor por sÃ­ solo, no por estructura, puede tocarlo despuÃ©s de un tiempo, a lo que le llamamos seguimiento de base.  Pero no tengo un sistema de nutriciÃ³n claro. AhÃ­, por ejemplo, sÃ­ me hace sentido el bot, incluso con la marca Imagina.  Â¿Por quÃ©? Pues si no lo toco, ya, ok. En lugar de no hacer nada, hasta... Tal vez medio genÃ©rico, Â¿no?  Total.
+
+15:02 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Pero no dejes al cliente enfriarse. Eso es un aire.
+
+15:06 - Erik Gamarra Monge
+  Eso es alto impacto, rÃ¡pido implementaciÃ³n.
+
+15:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, perfecto.
+
+15:09 - Erik Gamarra Monge
+  Donde tengo el desafÃ­o inicial, si quieres te lo muestro un poquito para que puedas ver.
+
+15:14 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, sin problema.
+
+15:19 - Erik Gamarra Monge
+  Este es mi mapa de operaciones y ese es el otro desafÃ­o. Yo tengo diversidad de tickets.
+
+15:26 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok.
+
+15:26 - Erik Gamarra Monge
+  Mi dispersiÃ³n de precio y de producto es grande. De hecho, acÃ¡ no se nota tanto porque solo estoy poniendo mis proyectos activos.  Pero en tres meses lanzo un proyecto de ticket promedio de 1.100 por ejemplo, en soles. Entonces, el lead es muy diferente al de mi producto de entrada, donde un depa de tres dormitorios te cuesta 250.000 soles.  Yo puedo llegar a tener en mi portafolio en el primer semestre inmuebles de tres dormitorios de 3 millones de soles.  Entonces, tengo que segmentar el tratamiento. Lo que tengo acÃ¡ es el volumen de leads. Y yo tengo un SLA, que es, el SLA serÃ­a mi manual de cÃ³mo tratar a un cliente, y que estÃ¡ mapeado por el pipeline, el hotspot genera tareas, te dice, llega un interesado, hazle una llamada hoy, pasado maÃ±ana otro, el tercer dÃ­a otro mÃ¡s, y no lograste pasarlo a contactado, yo te lo retiro de tu pipeline.  Claro. No te distraes. Y asÃ­, a lo largo de todo el proceso. Si yo para gestionar bien estos 6.000 clientes, ejecuto mÃ¡s o menos 27.000 tareas.  Esa es la carga de tareas que tiene mi pipeline. Entiendo. En mis proyectos de entrada, tengo mÃ¡s carga, evidentemente, pero menos valor.  El lead es un lead mÃ¡s genÃ©rico, mucho mÃ¡s curioso. Entonces, acÃ¡, por ejemplo, el asesor, que tengo, como te decÃ­a, el foco de mi negocio es que el asesor es especialista en generar una...  Experiencia memorable en el piso. Entonces, para Ã©l es enormemente desgastante cambiar su mirada de, oye, de 10 yo le separo a uno, a decir, de 100 voy a separarle a uno.  Total, total, total, No se puede mezclar, no se puede estar en todos lados y tener un especialista de todo.  Esto ya lo he estudiado, tengo tres meses rodÃ¡ndolo para ver dÃ³nde estÃ¡n las fricciones, dÃ³nde el asesor lo hace porque le pido, dÃ³nde lo hace porque encuentra valor.  Entonces, ahÃ­ yo tengo segmentado donde se puede y dÃ³nde no. Total. Y en este front, Santiago, yo las primeras tareas, las de interesado, en el menor ticket es donde voy a poner automatizaciÃ³n.
+
+17:41 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total. Vas a empezar desde ahÃ­. Correcto. Y ahÃ­ voy probando, oye, Â¿le duele o no duele? Â¿Le duele a este cliente ser atendido asÃ­?
+
+17:49 - Erik Gamarra Monge
+  Â¿Se da cuenta o no se da cuenta? Y si se puede sincronizar todo, yo puedo ir leyendo eso, chequeando, mirando, y a partir de eso, ok, puedo saltar a mi cliente cuyo lift es un poquito mÃ¡s caro.  Â¡Gracias! Â¡Gracias! Porque no duele tanto. Y a nivel de eficiencias, sÃ­ logro mejores indicadores en el pipeline y puedo acceder a ese espacio, Â¿no?
+
+18:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eso es. Hasta ir encontrando el molde, entre comillas, por asÃ­ decir, perfecto que necesita, imagina, de la inteligencia artificial.  Me queda...
+
+18:18 - Erik Gamarra Monge
+  Probablemente sea mÃ¡s de un molde, Â¿no? Por el tipo de cliente que trata. SÃ­, total.
+
+18:21 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eso es justo lo que te iba a preguntar. Entiendo que definitivamente la experiencia por proyecto es distinto para diferente buyer persona.  SÃ­, totalmente. Ok. Perfecto. Eso me queda clarÃ­simo, Muchas gracias por esa informaciÃ³n. Ha sido de bastante valor para poder entender mucho mÃ¡s tu situaciÃ³n.  Erik, no te quiero quitar mucho mÃ¡s tiempo. Te hago unas cuantas preguntas mÃ¡s solo para quedar 100% alineado. Y es...  Creo que, nuevamente, ya me lo mencionaste, pero cumplo con el protocolo de poder dejarlo 100% alineado. Si pudieras resumir dÃ³nde se estÃ¡n escapando todas las oportunidades, aunque tÃº tengas un buen marketing, Â¿dÃ³nde serÃ­a ese punto o esos puntos?  Uno es el...
+
+18:58 - Erik Gamarra Monge
+  Uno el... El tratamiento correcto del cliente. O sea, hoy puedo operar, pero tratÃ¡ndolo de manera superficial.
+
+19:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No quiero eso.
+
+19:07 - Erik Gamarra Monge
+  Por tanto, mi headcount no se da abasto porque ademÃ¡s yo tengo un equipo de contact limitado. Va a crecer, pero no va a crecer tanto.  Si puedo reemplazar un par de puestos con automatismo, prefiero eso antes de crecer en headcount. Y luego estÃ¡ la otra parte, que es la nutriciÃ³n.  Esa tambiÃ©n es clave. Lo que hacemos con estos 5,940 leads, que no fueron Ã©xito hoy, Â¿quÃ© hacemos para conservar los vivos?  Eso es relevante. Y donde creo que pueden ustedes tener alto impacto es en el primer tramo. Lograr que este interesado pase a ser contactado, contactabilidad.  Esa me parece una zona sensible en la cual ustedes creo que pueden ayudarlos.
+
+19:49 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, total. Me queda sÃºper claro. Erik, de los leads que se atienden, Â¿cuÃ¡ntos terminan en visita mÃ¡s o menos?  Si pudiÃ©ramos tener un porcentaje.
+
+19:57 - Erik Gamarra Monge
+  El matrimonio estÃ¡ mÃ¡s o menos, que es el show. SÃ­. 7% mÃ¡s o menos es. Ok.
+
+20:03 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Y de las visitas que se llegan a agendar, cuÃ¡ntas suelen asistir? Ah, ahÃ­ estamos 35, 35% mÃ¡s o menos.
+
+20:10 - Erik Gamarra Monge
+  Es bajito. Ok, perfecto.
+
+20:12 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Y de las que asisten, el porcentaje termina cerrando mÃ¡s o menos en...? 14.
+
+20:18 - Erik Gamarra Monge
+  Ok, perfecto.
+
+20:20 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Me podrÃ­as decir, por favor, tu ticket promedio, el que estÃ¡n manejando por operaciÃ³n? Lo que pasa es que ahÃ­ se dispara mucho.
+
+20:26 - Erik Gamarra Monge
+  Si haces un flat, estamos en 420 mÃ¡s o Ok, claro, es muy variable, pues no dependiendo.
+
+20:33 - Santiago Isaias Zavaleta Ayala (Ulima)
+  variable, sÃ­. Entiendo. Eric, hoy a grandes rasgos, Â¿cuÃ¡nto invierten en generar todos estos leads de manera mensual?
+
+20:43 - Erik Gamarra Monge
+  Ah, TendrÃ­amos que mirar a detalle, pero si te doy un flat, estamos a promedio de 6 dÃ³lares lead, unos 35 mil dÃ³lares mÃ¡s o menos.  Ok.
+
+20:53 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya sumando todos los proyectos, Â¿verdad? SÃ­, correcto. Ok. Eric, si tuvieras que hoy en dÃ­a... Â¡Gracias! Hacer una apuesta, Â¿dÃ³nde crees que se estÃ¡ perdiendo mÃ¡s dinero?  Â¿En leads que no se contactan, en seguimiento o en visitas que no se concretan? Â¿En quÃ© parte crees que es donde se estÃ¡ perdiendo mÃ¡s plata?
+
+21:11 - Erik Gamarra Monge
+  Mira, si tÃº mides con el estÃ¡ndar, mis indicadores son sanos. MÃ¡s que, o sea, si hoy el directorio me cuestiona el uso de los recursos, no tiene de dÃ³nde cuestionarme, porque lo estoy comparando con el mercado.  Â¿DÃ³nde creo que hay oportunidades de que este ROI mejore? Es, uno, insisto, en la parte de la contactabilidad. No porque la IA o un automatismo me vaya a vender ahÃ­, sino porque el hecho de filtrar ahÃ­ le permite a mi recurso humano encargarse de la parte mÃ¡s personal.
+
+21:50 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total.
+
+21:50 - Erik Gamarra Monge
+  Y lo estÃ¡n haciendo ambos. Entonces, y creo que es la Ãºnica parte en la cual podrÃ­a ir a automatismos por una cuestiÃ³n de que no quiero golpear su...  Experiencia. No quiero golpear la experiencia. mientras mÃ¡s adelante del pipeline estÃ¡ el cliente, mÃ¡s sensible es. Entonces, ahÃ­, luego, creo que el otro gran tramo es el tema del nuturing, de la nutriciÃ³n de la base post-funnel de primera lÃ­nea.  AhÃ­ creo que hay mucho, mucho que hacer.
+
+22:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total, perfecto. Bueno, Erik, entonces creo que esas han sido todas las preguntas. De hecho, ya me queda, no, me queda una mÃ¡s, te miento, y creo que esta es la mÃ¡s importante.  Si esta implementaciÃ³n de automatizaciones y asistentes de inteligencia artificial saldiera bien, no en 60 dÃ­as, porque veo que tienes una visiÃ³n mÃ¡s a largo plazo que un simple asistente de voz o un simple asistente de WhatsApp, pero si esto saldrÃ­a bien, Â¿quÃ© tendrÃ­a que mejorar sÃ­ o sÃ­ para que tÃº digas, mira, sabes que esto valiÃ³ la pena?  Â¿Visitas calificadas, tiempos de respuesta, el show rate, los cierres? Â¿CuÃ¡l serÃ­a ese capÃ­tulo clave para ti?
+
+22:54 - Erik Gamarra Monge
+  Para digital, show rate. Ok.
+
+22:58 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Para otro canal hay alguna otra mÃ©trica?
+
+23:00 - Erik Gamarra Monge
+  Lo que pasa es que como yo tengo posiciÃ³n diferencial en la visita, lo que necesito es meter al cliente a la sala.
+
+23:12 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entiendo.
+
+23:12 - Erik Gamarra Monge
+  No necesito ni siquiera perfilarlo mucho, necesito que el cliente llegue a la sala. Total, ahÃ­ solo es cuestiÃ³n de los asesores de meter el gol, sin mÃ¡s.  Saben hacerlo muy bien, estÃ¡n muy por encima del mercado en ese indicador. Perfecto, sÃ­, entiendo 100%.
+
+23:26 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De hecho, creo que es la analogÃ­a que yo siempre doy a todos los clientes y potenciales clientes con los que me reÃºno y es que es apalancarse de la IA y las automatizaciones para que simplemente le den el pase a gol a los asesores porque ellos saben, es lo que mejor hacen y lo que solo tienen que hacer, cerrar.  AsÃ­ que estoy 100% de acuerdo con eso. Perfecto, Erik. Te quiero compartir mi pantalla brevemente para mostrarte algo interesante.  De hecho, solo para contarte un poco, Erik, nosotros ofrecemos dos tipos de servicio. De hecho, no suelo ofrecer tanto el de consultorÃ­a porque el mercado...  mercado peruano todavÃ­a estÃ¡ muy verde. Mis clientes de consultorÃ­a son de MÃ©xico y de Colombia, pero de igual manera te lo voy a comentar para que puedas contemplarlo porque siento que puede estar alineado a lo que tÃº necesitas a largo plazo.  Primero, esto es un poco mÃ¡s hablando de los dolores. No voy a profundizar tanto en esto. Estoy seguro que esto tÃº lo entiendes mucho mÃ¡s que yo, pero lo que sÃ­ creo que es clave de resaltar son estos tres puntos.  Hoy en dÃ­a, respuesta tardÃ­a es igual a clientes perdidos. Es un hecho. Hoy ya no es el mÃ­nimo, es un estÃ¡ndar.  El seguimiento manual involucra mucho desgaste del equipo, muchas tareas repetitivas, manuales, desgaste, tareas que son importantes, ojo, porque si no fueran importantes, Â¿para quÃ© las automatizamos?  Y finalmente, las campaÃ±as sin retorno, claro. Hay algo muy interesante que la vez pasada estuve leyendo, no sÃ© si fue Mackenzie o una consultora, pero es que el sector inmobiliario en promedio en el mundo, su tasa de conversiÃ³n estÃ¡ rodando el 1% aproximadamente.  Una tasa de conversiÃ³n que se ha calculado sin la presencia de esta tecnologÃ­a, que hoy lo va a cambiar absolutamente todo, porque nos estamos...  Estamos apalancando de una herramienta que nos va a permitir hacer mÃ¡s en menos, solo para dimensionarlo desde ahÃ­. Â¿CuÃ¡l es la soluciÃ³n que nosotros siempre ofrecemos?  Hoy en dÃ­a, atenciÃ³n, 24-7, respuestas instantÃ¡neas por todos los canales, WhatsApp, Instagram, Facebook, todavÃ­a no entramos a TikTok porque todavÃ­a estÃ¡n siendo un poco, hay un poco de fricciÃ³n con el tema de esa red social, sin embargo, tambiÃ©n estamos a la vanguardia de eso, agendamiento de visitas calificadas, claramente, personalizaciÃ³n y de hecho yo aquÃ­ antes colocaba hiper personalizaciÃ³n.  porque hay algo que es sÃºper importante de comprender y te lo mencionaba desde un inicio, nosotros no somos un software, no somos un enlatado y no nos gustarÃ­a que nos veas como un proveedor directamente, sino como un partner de inteligencia artificial, porque nosotros nuestros clientes los vemos como socios estratÃ©gicos.  Â¿A quÃ© me refiero con esto? Santi, yo necesito que mi agente de IA hable con X jergas y siempre termine con un signo de exclamaciÃ³n en sus respuestas o que diga X palabra.  Ok, perfecto, lo hacemos. Santi, yo necesito que en esta parte del Funnel comercial en esta parte del pipeline se mande esta automatizaciÃ³n y si no ocurre esto, que pase X, Y o Z, no hay problema.  Muchos de los proveedores te van a ofrecer algo muy estandarizado y eso es muy limitado, Â¿ok? Y eso puede generar fricciÃ³n si es que en algÃºn momento no lo dimensionas bien.  CalificaciÃ³n y registro de leads, creo que esto es bÃ¡sico, es lo necesario para que pueda llegar a todos esos, esa intenciÃ³n real que al final es la que se quiere abarcar y justo iba a la filtraciÃ³n inteligente de intenciÃ³n, Â¿ok?  Â¿Por quÃ© nosotros brevemente? Nosotros ya tenemos experiencia con el sector inmobiliario, de hecho nuestra experiencia es contada por lo mismo que nosotros salvaguardamos la calidad de los servicios, nuevamente tÃº buscas proveedores como, no quiero mencionarlo en mala onda por asÃ­ decirlo de una manera coloquial, un mantra, un e-volta, un esperan, van a masificar su servicio por lo mismo que es un enlatado y cumplen con estÃ¡ndares que no se pueden salir de lo acordado.  Sin embargo, nosotros utilizamos esas herramientas para poder hacer algo personalizado a lo que nuestros clientes necesitan. Y esto que te estoy mostrando es Ãºnicamente para, no para jactarnos y decirte, oye, mira, somos muy buenos, sino para decirte que sabemos que existe un problema en el mercado y tambiÃ©n ya sabemos y hemos creado la soluciÃ³n.  Y no solo estÃ¡ validada por el mercado, sino estÃ¡ validada por una de las mejores universidades del PerÃº. Espero que no se haya notado que soy de la de Lima.  BÃ¡sicamente eso. Â¿CuÃ¡les serÃ­an los siguientes pasos? TodavÃ­a no quiero pasar con esto porque este servicio que yo te acabo de mostrar, Erik, es el servicio de desarrollo.  Â¿En quÃ© consiste el servicio de desarrollo? Nosotros desarrollamos para ustedes, hacemos una breve auditorÃ­a de unas 3, 4 reuniones para comprender exactamente quÃ© es lo que necesitan y empezamos con ese proceso de implementaciÃ³n.  Claramente las preguntas que yo te estoy haciendo me ayudan a poder hacer mejores preguntas al momento de poder auditarte a ti y a todo el equipo que sea necesario para construir esas soluciones que ustedes estÃ¡n buscando.  Â¿Ok? Eso por el lado del desarrollo. Nosotros como segundo servicio, y esto lo ofrecemos mÃ¡s que todo a empresas que a largo plazo estÃ¡n buscando tener su propio departamento de integraciÃ³n.  Inteligencia Artificial Interno, porque al lo Ãºltimo que las empresas quieren es siempre depender de un proveedor. Y al final las automatizaciones y la inteligencia artificial, entiendo que estÃ¡s al tanto por todo lo que me has hablado, se estÃ¡ haciendo parte del dÃ­a a dÃ­a.  Ya no va a ser necesario conocimientos de programaciÃ³n o tener super skills para poder dominar estas herramientas porque cada vez es mucho mÃ¡s fÃ¡cil y los negocios que tengan una o dos personas dentro de su empresa capacitadas para hacer eso van a poder armar sus soluciones siempre y cuando estÃ©n 100% capacitadas.  Y a eso me querÃ­a referir. Nosotros, aparte del desarrollo, hacemos auditorÃ­as para inmobiliarias con inteligencia artificial. Â¿En quÃ© consiste esto?  Bueno, aquÃ­ un poquito de que el mercado ha evolucionado y ya no el desarrollo cada vez va siendo algo que se va a ir dejando de lado y se va a pasar a la consultorÃ­a.  Â¿Por quÃ©? Â¿QuÃ© es lo que hacemos en esta consultorÃ­a? Analizamos tus procesos empresariales desde los mÃ¡s simples hasta los mÃ¡s complejos, identificarnos en todos esos procesos que tienes cuÃ¡les son las oportunidades de automatizaciÃ³n con inteligencia artificial.  Te garantizamos un retorno. ...de inversiÃ³n medible desde el primer mes. Es por eso que hacemos la auditorÃ­a para saber todos los tiempos, todos los KPIs necesarios para decirte, oye, mira, tÃº inviertes esto en este desarrollo y segÃºn todos tus nÃºmeros, que entiendo que los tienes clarÃ­simos, vas a terminar ganando esto.  Y finalmente, lo implementamos sin fricciÃ³n ya con nuestro propio equipo existente. Â¿En quÃ© consiste nuestra auditorÃ­a? Paso 1, entrevistas de descubrimiento.  Van a ser las semanas en las que mÃ¡s te vamos a molestar y molestar a tu equipo claramente con su disponibilidad previa para poder comprender cÃ³mo funcionan todos esos procesos que tÃº quieres solucionar y quieres descubrir dÃ³nde se pueden meter automatizaciones.  Paso nÃºmero 2, el mapeo y anÃ¡lisis de oportunidades. Nosotros les vamos a dar todos sus procesos desglosados y mostrando en quÃ© parte del proceso estÃ© ese cuello de botella y cuÃ¡les son las soluciones de inteligencia artificial que se necesitan en ese mismo proceso para poder tener X retorno de inversiÃ³n medible.  Y finalmente, la presentaciÃ³n y el cÃ¡lculo del retorno de inversiÃ³n. Te muestro... Brevemente, Â¿quÃ© es lo que hacemos para no ahondarte con tanta teorÃ­a?  Pero lo mÃ¡s importante que quiero que te lleves de esto, Erik, de este servicio es esta matriz de acÃ¡.  Una vez que nosotros terminamos de hacer la auditorÃ­a, nosotros les mostramos cuÃ¡les son todas las automatizaciones y o inteligencia artificial que se puede aplicar en todos sus procesos y las vamos a clasificar por Quick Wins, que van a ser las que tienen mayor impacto y menos esfuerzo, es decir, que van a ser las que mÃ¡s rÃ¡pido vamos a tener y mayores resultados vamos a tener.  Luego las Big Swins, que son las que nos pueden demorar un poco mÃ¡s, pero el impacto sigue siendo altÃ­simo.  Luego son las Nice to Have, que el esfuerzo es bajo, igual nos da un buen, perdÃ³n, el impacto es bajo, pero igual el esfuerzo es bajo igual.  Es bueno tenerlo, no pasa nada, no es que sume tanto a la operaciÃ³n, pero estÃ¡ bien ahÃ­. Y lo que es no prioritario, bÃ¡sicamente igual te lo dimensionamos para que en algÃºn momento, a lo mejor, tÃº me dices, Santi, yo creo que esto sÃ­ es prioritario, Â¿por quÃ© no lo ponemos mejor en Big Swins?  ETC, ETC, ETC. Eso es bÃ¡sicamente lo que nosotros hacemos con las auditorÃ­as. Yo solo lo recomiendo cuando el cliente estÃ¡ comprometido y dispuesto a meterse inmerso en una tecnologÃ­a que, sinceramente, hoy ya no es negociable.  Es simplemente ponerte en la vanguardia y poder potenciar lo que ya haces. Te lo dejo sobre la mesa para que igual lo puedas evaluar y me digas cuÃ¡l es el servicio que mÃ¡s sientes que conversa con lo que estÃ¡s buscando.  Â¿Ok? Me gustarÃ­a saber si tienes alguna duda. SÃ­.
+
+31:29 - Erik Gamarra Monge
+  Nosotros como empresa, como cultura organizacional, de hecho, somos un corporativo.
+
+31:35 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Hay muchos en este rubro. Entonces, no es problema para nosotros tener un proveedor por 10 aÃ±os.
+
+31:43 - Erik Gamarra Monge
+  Mientras realmente sea un especialista en lo que hace, y prefiero yo un proveedor que yo gestionando un proceso de manera mediocre porque quiero intentarlo.  Si no lo tenemos... Si tenemos... Es porque no lo he encontrado. Es eso, es por eso que estoy hablando con los gringos de Eleven Apps, cuando sÃ© la mitad, entiendo la mitad de lo que me dicen, porque tratan, le venden a programadores, no a una inmobiliaria, pero no encuentro la forma de que alguien me ayude, porque lo que me ofrecen, insisto, es muy bÃ¡sico, son workflows hechos en N8, que con dos tutoriales podrÃ­a hacer yo, no puedo poner eso de cara al cliente mÃ­o.  Total.
+
+32:28 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eso es lo primero, necesito un especialista.
+
+32:29 - Erik Gamarra Monge
+  Y asÃ­ como lo estoy buscando hoy en tecnologÃ­a, tengo un capacitador que tiene una empresa de capacitaciÃ³n que capacita mi equipo en los Ãºltimos 10 aÃ±os, y que lo que necesito lo trae y lo consigue y traemos.  Ese es nuestro perfil, digamos, de gestiÃ³n lateral a nivel de proveedores. Entonces, Â¿quÃ© sÃ­ tengo que garantizar? Es que efectivamente este proveedor estÃ© absolutamente capacitado y sea profundo en lo que hace.  AhÃ­, o sea, a partir de esto, a mÃ­ me hace... Mucho sentido la parte que me cuentas de la consultorÃ­a.  Hoy estamos explorando, ya he hecho eso, en otras instancias, a nivel de inteligencia de negocios, sin embargo, estÃ¡ muy enfocado en otras cosas.  Entonces, hoy quiero resolver la parte primero de ventas, quiero resolver mi front de ventas. Â¿Por quÃ©? Porque me enfrento a un crecimiento agresivo de volumen.  Entonces, necesito soportar ese volumen y regresar al directorio y decirle, tranquilo, la platita que estÃ¡s metiendo en Leeds estÃ¡ siendo bien gestionada.  No voy a contratar a cliente, tranquilo, esa no es la primera soluciÃ³n. Tengo esta otra soluciÃ³n que nos estÃ¡ soportando.  Entonces, lo que necesito hoy es garantizar que el SLA se cumpla. Exacto.
+
+33:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Una quick win. Ok. Perfecto, Eric. Eric, entonces, ya para dejarlo bien aterrizado, entiendo el interÃ©s por ambos servicios.
+
+33:56 - Erik Gamarra Monge
+  SÃ­, me interesan ambos, a corto plazo, para hacerte bien honesto y transparente. Transparente. Testeo el primero y veo si vale la pena o no saltar al segundo.
+
+34:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total, perfecto. Entonces, inclinarnos mÃ¡s por el servicio de desarrollo, Erik. EstarÃ­amos hablando de un asistente que se estarÃ­a enfocando hoy en ese canal digital por WhatsApp, por alguna red social mÃ¡s.  Â¿CuÃ¡les serÃ­an esos asistentes, esos robots que tÃº dices? Hoy yo quiero tener a mi mejor asesor replicado 24-7 en X canal.  Â¿CuÃ¡les serÃ­an esos asistentes? Ya.
+
+34:24 - Erik Gamarra Monge
+  O sea, habrÃ­a que dimensionarlo. Lo que pasa es que mi estrategia, que podrÃ­a cambiarla a partir de que haya una herramienta que me lo permita.  Mi estrategia es inbound. Es, mete tu formulario y yo te llamo. Nunca he atacado con Facebook chateando con el cliente.  Nunca he atacado con Instagram chateando con el cliente. No lo hago. Si puedo hacer omnicanal, genial. HabrÃ­a que ver cuÃ¡l es su impacto.  Hoy lo que me preocupa es que este cliente inbound, con todas sus limitaciones, sea bien atendido. Entonces, empezarÃ­a por ahÃ­.  Hoy Hasbro, de hecho, me permite... Tener una idea conversacional bÃ¡sica, bÃ¡siquÃ­sima, ya lo puedo conectar. Entonces, no quiero eso, quiero algo un poquito mejor.  Total.
+
+35:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, Eric, Â¿te parece si para la siguiente reuniÃ³n yo ya me llevo mÃ¡s mapeado el hecho de que necesitarÃ­as un agente de voz que llame e inmediatamente se llene un formulario y considerarÃ­as algÃºn asistente por red social o estarÃ­amos hablando Ãºnicamente de un asistente de voz que, ojo, puede realizar llamadas y realizar seguimientos en base a la estrategia que ustedes decÃ­an, Â¿a quÃ© me refiero con esto?  Sandy, yo no quiero que este agente de voz Ãºnicamente llame cuando se viene un formulario, quiero conectarlo a una base de datos que tengo de mis clientes para que todos los dÃ­as llame.  Esta estrategia y esa lÃ³gica se puede acordar sin problema. Pero solo para aterrizarlo, hoy estarÃ­as interesado en tener esa primera Quick Week con un agente de voz, Â¿verdad?  Quiero el agente de WhatsApp.
+
+35:50 - Erik Gamarra Monge
+  Ok. Siempre y cuando, o sea, Â¿hasta quÃ© punto el agente de WhatsApp puede conservar personalidad? EstÃ¡ bien, puedo renunciar en el ticket bajo y a ok.  Ok, pongamos de logo genÃ©rico, el nÃºmero, le entrego un nÃºmero API, que ya lo tengo de hecho, generamos mi bajo ticket con eso.  Y si es conversacional, sÃ­ tendrÃ­a que estar muy bien puesto. Y yo atacarÃ­a la parte de base de datos con lo conversacional.
+
+36:18 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, perfecto, no te preocupes, lo vamos a contemplar. Solo para que puedas tener un poquito mÃ¡s de claridad por ese lado, el tema de la personalizaciÃ³n o de la humanizaciÃ³n, mejor dicho, crÃ©eme que puede llegar sÃºper, sÃºper lejos.  SÃ© que este es otro nicho muy diferente, pero uno de nuestros clientes fuera del inmobiliario es un nutricionista. Y este asistente de dÃ­a lo que hace es literalmente replicar cÃ³mo Ã©l ha hablado con sus clientes activos.  Â¿Has usado FITIA, la aplicaciÃ³n para, o has visto FITIA similar a aplicaciones para contar calorÃ­as y demÃ¡s? SÃ­, claro, claro.  BÃ¡sicamente lo que nosotros hemos hecho es un asistente de dÃ­a que haga lo mismo, pero dentro de su WhatsApp para todos sus clientes que todos los dÃ­as le preguntan, oye, Â¿puedo comer esto?  Â¿Esto se me Y lo sorprendente es que muchos dicen gracias Alejandro porque piensan que estÃ¡n hablando con Ã©l. AsÃ­ que la personalizaciÃ³n puede llegar hasta ese punto.  Y otro punto mÃ¡s que te puede dar mÃ¡s tranquilidad y claridad es que en todo el proceso de implementaciÃ³n que nosotros manejamos, las Ãºltimas cuatro semanas, o mejor dicho, las penÃºltimas dos semanas, nos encargamos Ãºnicamente de probarlo con el equipo interno.  Le hagan bullying al asistente. Â¿CÃ³mo hablen? Â¿QuÃ© no? Â¿Esto bien? Â¿Esto sÃ­? Â¿MÃ¡s genÃ©rico? Â¿Negrita? Â¿No? Â¿No emojis? Toda esa manera de hablar, los lineamientos de Imagina, antes de salir a producciÃ³n, son los que se van a afinar.  SÃ­, esa parte de ceteo, el ceteo del bot, no me preocupa. Perfecto. lÃ­o.
+
+37:43 - Erik Gamarra Monge
+  La parte de que voy es, Â¿quÃ© es lo que tengo yo hoy de especial? Diferente a la industria. Yo tengo API y Business Conviviendo para 26 personas.  Ok.
+
+37:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eso es genial. Porque lo podemos introducir
+
+38:00 - Erik Gamarra Monge
+  Han hecho los indios y lo que me permite es, yo puedo enviar un masivo desde el telÃ©fono de mi asesor y le contesta, yo lo tengo que pasar al cliente de un lado a otro, yo puedo seguir retomando esta conversaciÃ³n, es uno a uno, Â¿no?  Entonces, y el asesor puede llevar su telÃ©fono sin el problema de entregar el nÃºmero a API que es, chao telÃ©fono, Â¿no es cierto?
+
+38:20 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Se quedas con API y ya. Entonces, esa es una potencia que yo no quiero perder. Â¿Por quÃ©?
+
+38:27 - Erik Gamarra Monge
+  Porque el cliente, justamente pasa lo que tÃº dices, pero ya no es una sola persona, son 26.
+
+38:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total, es mucho. SÃ­. Ok, perfecto, Erik, no te preocupes, con el equipo vamos a analizar la propuesta personalizada para ustedes con una estrategia acompaÃ±ada que se alinee como estÃ¡n manejando.  No sÃ© cÃ³mo estÃ¡s de tiempo, de repente el dÃ­a lunes o el dÃ­a martes, la siguiente semana, Â¿cuÃ¡ndo tienes un hueco para poder juntarnos y presentarte ya el plan de implementaciÃ³n?  A ver quÃ© opinas y si es que hace mÃ¡s suena lo que estÃ¡s buscando.
+
+38:55 - Erik Gamarra Monge
+  Ya, podrÃ­a ser el martes a las 3, es posible. Â¿Espacio?
+
+39:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Martes a las 3. SÃ­, sin problema. Ya. Perfecto, Erik. Entonces, lajendo el martes a las 3. Ya nos estamos viendo.  Muchas gracias. tardes. CuÃ­date.

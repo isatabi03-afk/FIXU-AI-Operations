@@ -1,0 +1,415 @@
+Impromptu Google Meet Meeting - January 30
+VIEW RECORDING - 60 mins (No highlights): https://fathom.video/share/v1FX2ZFyoHq228bDzUL-pyJuQ9cJ7AH5
+
+---
+
+0:00 - Nicolas Borda Silva
+  Hola, Â¿quÃ© tal? Â¿QuÃ© tal? Â¿QuÃ© tal, Â¿CÃ³mo estÃ¡n?
+
+0:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Oigan, mil disculpas por todos los inconvenientes que hemos tenido hoy dÃ­a. Les prometo que RomyBot va a hablar como su Romy normal.  Â¿QuÃ© tal? han estado? Â¿QuÃ© tal ha sido la semana?
+
+0:16 - Nicolas Borda Silva
+  Bien, bien. A ver, de las cosas que mÃ¡s destacarÃ­a de estos dos dÃ­as que hemos estado viendo a RomyBot.  Disculpa, discÃºlpame que te corte. Â¿Te parece?
+
+0:33 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Antes de que me des todos tus insights, como estamos grabando, TonÃ­a, primero hago una antelaciÃ³n sobre lo que vamos a ver en esta reuniÃ³n y empezamos a hablar sobre los insights, Â¿te parece?  Yo, dale, dale.
+
+0:42 - Nicolas Borda Silva
+  Perfecto.
+
+0:43 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿QuÃ© es lo que vamos a hacer en esta reuniÃ³n, entonces, chicos? Primero, vamos a alinear todo con respecto al feedback de lo que ya han probado sobre RomyBot para los clientes activos.  Es que tambiÃ©n tienen el feedback para RomyBot leads, genial, por ese lado. Segundo, queremos revisar todo lo que queda pendiente de cara al envÃ­o de las preguntas.  Los frecuentes, que entiendo que ya lo tienen listo, el envÃ­o de los testimonios, que es lo que estarÃ­a faltando para ya dejar a Romy Bot para los leads fina, fina.  Y en tercer lugar, vamos a revisar rÃ¡pidamente el formato que estÃ¡n hoy dÃ­a utilizando ustedes para registrar a todos los clientes y unas cuantas modificaciones que se tendrÃ­a que hacer de cara, sÃ© si Alec, yo voy conversar contigo, Alon, sobre el directorio que tenÃ­as que tener de clientes, mÃ¡s allÃ¡ de tener una fila por sesiÃ³n, tener una base en la que haya simplemente una fila por cliente como si fuera el CRM, literalmente, el repertorio.  Ok, eso lo vamos a profundizar un poco mÃ¡s en ese punto. Y finalmente, la lÃ³gica de los seguimientos automÃ¡ticos, porque recordemos que tanto Romy Bot para leads como para pacientes activos va a ser seguimientos automÃ¡ticos.  Lo que tenemos que hacer acÃ¡ es entender en quÃ© momento va a ser ese seguimiento, a quiÃ©n le va a hacer ese seguimiento, cÃ³mo ella va a entender que tiene que hacerle ese seguimiento a ciertas personas, etc.  BÃ¡sicamente, limitar los criterios. Ok, ahora sÃ­, Nico, gracias por el tiempo. AsÃ­ que cuÃ©ntame, Â¿quÃ© has encontrado sobre Romy?  Si es que tienes de repente, no puedes compartir pantalla, en general todo, hazle bullying ahorita porque es el momento para moldearlo a lo que necesitan.
+
+2:09 - Nicolas Borda Silva
+  Ya, dale. A ver, Rosita es que he ido apuntando ahÃ­ en este tiempo que la he estado probando. Ha sido, bueno, un poquito el tema tambiÃ©n del inicio, de lo de tener el plan asignado bien.  Eso fue como que un primer stopper que nos encontramos. Creo que primero quiero destacar las cosas chÃ©veres que he encontrado.  Lo chÃ©vere es cuando yo le he preguntado quÃ© cosas tengo en X momento del dÃ­a, por ejemplo, del desayuno, me lo ha dicho bien detallado y bonito, Â¿no?  Literal, me lo ha dado masticado, me ha dicho hasta la hora, tienes tantas calorÃ­as, tienes tantas porciones. Me ha dado un ejemplo incluso, y eso me parece valioso.  Por ahÃ­ chÃ©vere. DespuÃ©s, Â¿quÃ© otra cosa me ha gustado tambiÃ©n? A ver, dÃ©jame, abro el chat tambiÃ©n para tenerlo acÃ¡.
+
+3:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Nos puedes compartir igual si quieres para hacer un poquito mÃ¡s? SÃ­, a ver, te comparto pantalla.
+
+3:20 - Nicolas Borda Silva
+  Vale. Ya. Listo. Vamos a ver, Â¿esto sÃ­? Ya.
+
+3:41 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De dÃ­a, de dÃ­a, de dÃ­a. Ya, vamos a ver por acÃ¡.
+
+3:46 - Nicolas Borda Silva
+  Ya.
+
+3:51 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, por ejemplo, este resumen del dÃ­a me parece interesante.
+
+4:01 - Nicolas Borda Silva
+  Que me dijo las horas, las calorÃ­as y cuÃ¡ntas porciones tengo de cada comida. En una de esas tambiÃ©n, no me acuerdo en cuÃ¡l, me mandÃ³ la alternativa de forma sÃºper clara y me sirviÃ³ bastante.
+
+4:22 - Santiago Isaias Zavaleta Ayala (Ulima)
+  La manera en la que te lo pone, Nico, entre parÃ©ntesis, con ese sÃ­mbolo del promedio, Â¿afecta en algo? Â¿EstÃ¡ bien?
+
+4:31 - Nicolas Borda Silva
+  Yo creo que se entiende, para mÃ­ sÃ­ estÃ¡ bien puesto. SÃ­, sÃ­, creo que ahÃ­ serÃ­a bueno que una vez que lo implementemos, ver si se entiende para todos, pero para mÃ­ se ve bien.  Esta acÃ¡ que te seÃ±alo, me parece que estÃ¡ sÃºper correcta. Perfecto. Porque me dice, como te decÃ­a, las porciones por cada uno, me dice un ejemplo y me dice, pero tambiÃ©n tienes la alternativa de el pan Vesubio, eso.  ChÃ©vere, bien. Ahora, despuÃ©s de esa interacciÃ³n, sÃ­ le hice una pregunta que me parece que no le ha respondido de la mejor forma.  Por ejemplo, yo le puse, puedo comer cancha serrana en mi almuerzo, y me dijo, me lo cuestionÃ³ un poquito, Â¿no?  Me dijo, puede ser compatible con el plan si es una porciÃ³n pequeÃ±a y no estÃ¡ frita. Creo que ahÃ­ fallÃ³ un poco en asumir que la cancha serrana es frita.  Creo que en el intento de poder ser un poquito mÃ¡s flexible, como que no dio a entender, o no entendiÃ³ de inicio, que la cancha serrana es frita.  Entonces, probablemente ahÃ­ alguna persona le puede hacer un poco de ruido a eso.
+
+5:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total.
+
+5:48 - Nicolas Borda Silva
+  Creo tambiÃ©n, esta parte de acÃ¡ tambiÃ©n me hizo bastante ruido, por ejemplo. Yo le puse, comerÃ© un puÃ±ado, que obviamente es una porciÃ³n...  Que no se va a medir en gramaje. Total. Y la pregunta fue, Â¿a cuÃ¡nto estimas ese puÃ±ado en gramos?  Â¿20 o 30 gramos? Eso creo que es mÃ¡s labor nuestra que de la persona. Ok, perfecto. Â¿CÃ³mo hubiera respondido en esa situaciÃ³n?  En todo caso, yo creo que si ya se otorga alguna medida como puÃ±ado, se deberÃ­a asumir que no se puede medir.  Ok.
+
+6:38 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Impedir una imagen o no? SÃ­, sÃ­, sÃ­, sÃ­.
+
+6:41 - Nicolas Borda Silva
+  La imagen estÃ¡ bien pedida, mÃ¡s, un poquito mÃ¡s adelante, claro, la siguiente entrada de texto me dice, mÃ¡ndame una foto cuando te sirvas, y lo comparo con el plan.  Eso me parece correcto. Perfecto. El tema de pedir gramaje cuando es algo un poco mÃ¡s ambiguo, sÃ­ me parece que debemos omitirlo.  Gracias. Gracias. Ok. Eso de ahÃ­, despuÃ©s, ya bueno, acÃ¡ estuve un poquito forzÃ¡ndolo a que me diga alguna forma de calcularlo.  Y acÃ¡ fue donde ya asignÃ© el plan de Gabriel, por ejemplo. El resumen estÃ¡ check. AcÃ¡, por ejemplo, me parece que no terminÃ³ de leer bien o de explicar bien la alternativa, que sÃ­ me llamÃ³ la atenciÃ³n.  Porque, por ejemplo, le puse, Â¿quÃ© pasa si en la noche ceno algo de yopo? Ok, me pregunta como que ya, Â¿quÃ© vas a pedir?  Â¿Algo pequeÃ±o, mediano o grande? Le preguntÃ©, Â¿quÃ© puedo pedir segÃºn mis calorÃ­as? Entonces, ahÃ­ serÃ­a bueno que pueda, no recuerdo, creo que sÃ­ tenemos compartida la base de datos de las comidas en la calle con ustedes.  Street food. SÃ­, o sea, de las street foods y con calorÃ­as de cada una, me parece que sÃ­. Â¿Te parece si lo confirmamos justo ahora?  SÃ­, me parece que era un Excel bien extenso.
+
+8:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­. De igual manera, cuando salgamos a producciÃ³n, todo eso se va a validar antes, Â¿no? Como que, oigan, chicos, estas son las bases, estas son las bases, sÃ­, no, sÃ­, no, sÃ­, sÃ­, sÃ­.  Pero de igual manera la revisamos para saber con cuÃ¡l estamos trabajando exactamente en esta demo. Claro, una base que se llama copia de bases de datos actual, y hay dos pestaÃ±as, base de datos de Street Food y base de datos de alimentos.  Es un Excel extenso, con casi mil filas, no mÃ¡s, sÃ­, casi mil filas de comienzo, te lo comparto rÃ¡pido, ver si me confirmas.  SÃ­, me parece que sÃ­, me parece parece que Yo, por lo que veo, sÃ­, sÃ­ se conoce en el medio, pero solo para que me digas esto esta.
+
+8:49 - Nicolas Borda Silva
+  SÃ­, creo que por lo que se dice de ahÃ­. Perfecto, sÃ­, estÃ¡ en base a este. SerÃ­a bueno que el, o sea, por ejemplo, ya sabe cuÃ¡ntas calorÃ­as tengo en la cena.  No, porque me lo dijo, me dijo que tengo 270 calorÃ­as en la cena. SerÃ­a bueno que cuando yo le pregunte sobre alternativas, o quÃ© puedo pedir, que me pueda decir, oye, segÃºn esas calorÃ­as, o no cuadro nada, o sea, que me diga como que serÃ­a, o sea, que me pueda decir, con las calorÃ­as que tienes disponible para la cena, Â¿te pasarÃ­a estas calorÃ­as?
+
+9:27 - Santiago Isaias Zavaleta Ayala (Ulima)
+  O sea, pues sÃ­, o que me diga, o que me pueda decir como, acÃ¡ lo que me hizo ruido fue que en la alternativa de esa comida, tenÃ­a esto.
+
+10:00 - Nicolas Borda Silva
+  AcÃ¡, Â¿no? Tres chicken tenders. Pero uno de los, o sea, para que se cumpla eso, la alternativa decÃ­a tienes que omitir el adicional.  O sea, esta persona lo que tenÃ­a que hacer es no come una parte del plan, que es el adicional, y puede comer los tres chicken tenders.  Solamente con este mensaje de acÃ¡ que nos mandÃ³, nos estarÃ­amos pasando.
+
+10:29 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, Â¿me puedes volver a repetir esa parte para comprender bien la lÃ³gica, Nico?
+
+10:33 - Nicolas Borda Silva
+  SÃ­, claro, te paso, ademÃ¡s te voy a compartir el, el, el, hola, Â¿cÃ³mo estÃ¡n?
+
+10:42 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Hola, hola, Â¿cÃ³mo estÃ¡n?
+
+10:43 - ALONSO Aguila Alarcon
+  Hola, hola, Â¿cÃ³mo estÃ¡s?
+
+10:44 - Nicolas Borda Silva
+  El comportamiento de Romy.
+
+10:49 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eh, ya, mira, te comparto el plan, para que tambiÃ©n lo pueda hacer.
+
+10:54 - Nicolas Borda Silva
+  A ver, presentamos la ventana. Gracias. Justo.
+
+11:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Si omites el adicional, el adicional puedes pedir un postre. Â¿QuÃ© es lo que consideramos como adicional? Me imagino que eso es lo que estÃ¡ abajo, Â¿verdad?  SÃ­, este cuadrado es el adicional que no es parte del plan, o sea, del plan base, pero si la persona entrena, come ese adicional.  Ok, perfecto. Â¿CÃ³mo se llama?
+
+11:33 - Nicolas Borda Silva
+  SÃ­, entonces, por ejemplo, en la alternativa textualmente estÃ¡, si omites el adicional, puedes pedir tres chicken tenders de Yoko.  Y la respuesta que me dio en el chat fue, en tu alternativa sale tres chicken tenders de Yoko, pero no hizo, o no me recalcÃ³, oye, tienes que dejar el adicional.  Ok, entonces, este insight es importante.
+
+11:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Nos podrÃ­as definir la lÃ³gica que tiene la alternativa con el adicional? Es decir, que estas alternativas siempre van a ir en relaciÃ³n con este cuadro de adicional de abajo.  No es que sean alternativas para comer, por asÃ­ decirlo.
+
+12:09 - Nicolas Borda Silva
+  Son alternativas... No, la alternativa es muy variable. Puede ser omitiendo el adicional, puede ser omitiendo algÃºn elemento de una comida.  O sea, podrÃ­a ser... AcÃ¡ te podrÃ­a decir, si omites un carbohidrato del almuerzo, puedes comer tal cosa. TambiÃ©n podrÃ­a ser.
+
+12:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Si omites... Ah, ok. Son alternativas a DOC al paciente. SÃ­, sÃ­, sÃ­, sÃ­.
+
+12:35 - Nicolas Borda Silva
+  Siempre son intentando jugar con las porciones y con las opciones que tiene durante el dÃ­a. Hay algunas personas que le decimos, oye, omite el almuerzo y puedes comer tal cosa en la cena.  TambiÃ©n. Claro.
+
+12:49 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, perfecto. Me queda quedado. Â¿Me podrÃ­as dar, por ejemplo, para la redundancia, un ejemplo aplicado, imaginando que yo soy Gabriel Luna?  O sea, yo ahora, si es que... Que me como, lo que yo entiendo, Â¿no? Me puedo comer una sabrosura mÃ¡s una fruta, pero si no como la sabrosura de la fruta, me puedo pedir tres chicken tenders de Yopo.  Â¿Es asÃ­? En la cena, tal cual, sÃ­.
+
+13:12 - Nicolas Borda Silva
+  Perfecto.
+
+13:14 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, sÃ­.
+
+13:15 - Nicolas Borda Silva
+  MÃ¡s me parece que la parte crucial de eso es la matemÃ¡tica, Â¿no? Porque tenemos que una cena equivale a 270 calorÃ­as, tenemos que la adicional equivale a 270 tambiÃ©n.  Entonces, si en el chat, o sea, si en el texto sale, si omites el adicional, esas calorÃ­as se sumarÃ­an a las que tenemos de base, harÃ­an 540.  Entonces, cualquier opciÃ³n, tanto los tres chicken tenders como cualquier otra opciÃ³n de la base de datos que errÃ¡n de esas calorÃ­as, creo que puede ser una opciÃ³n para ofrecer a la persona.
+
+13:53 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total. Perfecto. Me queda clarÃ­simo por ese lado. Genial. Ok. Ya, ese genio...
+
+14:00 - Nicolas Borda Silva
+  Un ejemplo en particular, ahora volvemos al WhatsApp, que estÃ¡ acÃ¡, ya. Bueno, un detalle que siempre se ha repetido, y que justo lo se han anotado tambiÃ©n, es ese acento argentino, creo que va a llamar bastante la atenciÃ³n.
+
+14:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Creo que se nota mucho que nuestros desarrolladores son argentinos, pero no te preocupes, son mÃ­nimos detalles que definitivamente... Acabas de eliminar de ahÃ­.  Me imagino que es algo simple, Â¿no? Algo psicolÃ³gico para que los pacientes se emocionen mÃ¡s cuando no le entro.  Excelente.
+
+14:40 - Nicolas Borda Silva
+  Eso ahÃ­, dÃ©jame ver mi capÃ­tulo de feedback.
+
+14:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Otra especificaciÃ³n, en donde dice perfecto guiÃ³n, definitivamente, yo lo que siempre harÃ­a es quitar ese guiÃ³n de ahÃ­, porque me parece muy robÃ³tico, pero igual te pregunto.  Ese guiÃ³n que... Abajo, abajo, justo al costado de Tessy, SebastiÃ¡n.
+
+14:58 - Nicolas Borda Silva
+  Ese guiÃ³n...
+
+15:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Definitivamente, yo lo quitarÃ­a, pero igual te lo pregunto para calarlo, se va, fue una coma, Â¿verdad?
+
+15:04 - Nicolas Borda Silva
+  Sin mÃ¡s. SÃ­, sÃ­, sÃ­. Ok, perfecto. Es mÃ¡s, yo quitarÃ­a tambiÃ©n acÃ¡ este, todo, Â¿cÃ³mo?
+
+15:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  PodrÃ­amos poner, quitar las comitas y puntitos para hacerlo mÃ¡s humano, sin problema, quitar ahÃ­ y hacer un poquito mÃ¡s informal, por asÃ­ decirlo.
+
+15:22 - Nicolas Borda Silva
+  O sea, creo que despuÃ©s de, como punto final, no me hace tanto ruido, mÃ¡s ruido me hace, aunque sÃ­, creo que quitarÃ­a todos los puntos finales, las comas no, porque me parece que sÃ­ dan bastante, dan bastante buena lectura, pero los puntos o comas, despuÃ©s de un emoji, me parece que tambiÃ©n se llama la atenciÃ³n.
+
+15:51 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, perfecto. Entonces, para aclararlo, de cara a las correcciones ortogrÃ¡ficas, eliminarÃ­amos todos los puntos finales y todos los... Â¿Los signos de puntuaciÃ³n despuÃ©s de MoÃ¯se?
+
+16:02 - Nicolas Borda Silva
+  SÃ­, tal cual. Ok. Tal cual, tal cual. Â¿QuÃ© parte estaba? Â¿Estaba acÃ¡?
+
+16:10 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya. Ah, acÃ¡.
+
+16:20 - Nicolas Borda Silva
+  Ya, este acÃ¡, por ejemplo, en esta parte de acÃ¡, compensar quitando una porciÃ³n de carbohidrato, el reemplazo, ochenta, son quinientos ochenta, ya, ya, por ejemplo.  AcÃ¡, me dio otra alternativa mÃ¡s diferente a los chicken tenders de Yopo, que me parece bien. Lo que no me termina de cuadrar ahÃ­ es la matemÃ¡tica que usÃ³ para darme esa alternativa.
+
+16:57 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, porque son mÃ¡s, mÃ¡s cals que... que... que... que...
+
+17:01 - Nicolas Borda Silva
+  SÃ­, son mÃ¡s calorÃ­as, porque lo que me estÃ¡ diciendo es, o por lo que entiendo, la soluciÃ³n que me estÃ¡ dando es compartirlo, que ya, o sea, debatible, porque sÃ­ ayuda, no nos da una respuesta como que demasiado clara, pero ayuda.  Claro. Y el otro es compensar quitando una porciÃ³n de carbohidrato en lo que queda del dÃ­a. Ahora, hay varias cosas, Â¿no?  Porque en lo que queda del dÃ­a, digamos que es media tarde y ya no hay otra comida, no podemos dar otra porciÃ³n en lo que queda del dÃ­a.  Exacto. Y por otra parte, una porciÃ³n de carbohidrato no harÃ­a que cuadre, digamos que estamos, ahÃ­ tambiÃ©n hay dos cositas, tendrÃ­a que sobrespecificar que aparte de la porciÃ³n de carbohidrato se quite tambiÃ©n el adicional.  Ok.
+
+17:58 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, para que quede claro, ok, el rem...
+
+18:00 - Nicolas Borda Silva
+  El plazo que estamos sugiriendo para que comas un Tex-Mex Bowl es a tu cena, agrÃ©gale el adicional y agrÃ©gale un carbohidrato de algÃºn otro lado.  Ok. Tiene que quedar eso bien claro en la persona para que entienda el ajuste que se estÃ¡ haciendo. Eso es uno y dos y en caso asumiÃ©ramos que estÃ¡bamos haciendo eso serÃ­an algo de 620 calorÃ­as.  Esas 620 calorÃ­as no son reemplazables con un rapper, por ejemplo. Ok, perfecto.
+
+18:39 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Nico, solo para que quede claro, no solo en la transcripciÃ³n sino tambiÃ©n a mÃ­, Â¿podrÃ­as volver a repetir mÃ¡s ese ejemplo porque es importante?
+
+18:51 - Nicolas Borda Silva
+  AhÃ­, si es que la persona en este ejemplo en particular, si la persona a su cena como alternativa opta...  Por omitir el adicional y un carbohidrato, suma mÃ¡s o menos algo de 620 calorÃ­as. Ok. Entonces, toda alternativa que se sugiera deberÃ­a rondar esas calorÃ­as.  Y eso, en este caso, por ejemplo, en el Tex-Mex Bowen y el Rapper, no se cumple. Ok.
+
+19:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entiendo. SÃ­, pues no tiene sentido. Estamos metiendo mÃ¡s calorÃ­as de lo normal, a eso te refieres, Â¿verdad? SÃ­. Entonces, te digo, es mÃ¡s calÃ³rica de lo que se estarÃ­a haciendo.  Total, o sea, no tiene sentido decir que ya estÃ¡ bien, coman los tenders, pero si quieres algo mÃ¡s, sÃ¡ltate a esto que tiene como 700, 800, es un Rapper, digo.  Entonces, solo para dejarlo pauteado, serÃ­a importante que Romigot, antes de dar estos insights, evalÃºe bien las calorÃ­as de la comida que va a dar como alternativa para que...  Que no estÃ©n tan exagerados las calorÃ­as en comparaciÃ³n a la primera que dio. Â¿Entiendes? Eso y que tenga contemplado el momento del dÃ­a para que no suponga que si estÃ¡n comiendo a las 8 de la noche, diga lo que te queda del dÃ­a, le regresas un carbohidrato a algo.  Porque si come un yopo a las 8 de la noche, no creo que vuelva a comer algo a las 12 o 1.  Es yo lo he hecho mucho, pero claramente entiendo la situaciÃ³n. Ok, perfecto. SÃ­, eso sÃ­.
+
+20:29 - Nicolas Borda Silva
+  SÃ­, creo que tambiÃ©n considerarÃ­a que se indade, si es que vamos a darle otras opciones, estamos partiendo de la premisa de que tenemos las calorÃ­as, por ejemplo, de la alternativa.  Siguiendo este ejemplo, la alternativa estÃ¡ contemplando que se emite el adicional y un carbohidrato. La cena tenÃ­a 270, el adicional 270 y el carbohidrato son 80 calorÃ­as.  Al final son mÃ¡s de 20. Si es que Romibot va a darle otras alternativas, probablemente serÃ­a bueno repreguntar, oye, quieres, o sea, fÃ¡cil primero darle alternativas del mismo Yopu y fÃ¡cil repreguntar tambiÃ©n, o te gustarÃ­a que te digamos alternativas de algÃºn otro lugar, o de quÃ© otro lugar te gustarÃ­a que te digamos alternativas, cosa que damos pie a jugar con esas calorÃ­as y poder darle otras opciones de algÃºn lugar parecido, fÃ¡cil, pero ya que nos especifique eso.
+
+21:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total, perfecto, me entiendo. EstÃ¡ quedando bien interesante, hecho ya en un rato te las voy a mostrar cÃ³mo estÃ¡ todo por detrÃ¡s, pero sÃ­, ahÃ­ ya estÃ¡ jugando un papel bien minucioso, no solo en la lectura de los planes.  Â¿Lograste mandarle foto de alguna comida? No, no, no, no lo vemos.
+
+21:48 - Nicolas Borda Silva
+  SÃ­, lo probamos en un ratito.
+
+21:50 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya es pasable, mandÃ© la foto de un cross-site, me dijo si es que tenÃ­a papitas en mil o algo asÃ­, como que estÃ¡ ahÃ­, estÃ¡ interesante, ya lo vemos, pero ya, perfecto, queda aquÃ­ a lo del insight.
+
+22:00 - Nicolas Borda Silva
+  Bueno, ya, por ejemplo, esto de acÃ¡, que en la segunda parte de la prueba tambiÃ©n me pareciÃ³ bien interesante, porque me dijo, yo le dije, oye, quiero comer maquis, y obviamente yo sÃ© que el plan este de Gabriel Luna tiene dÃ­a con maquis.  Ok. Ok. Entonces, querÃ­a poder, querÃ­a que me diga cuÃ¡ntos maquis puedo comer y asÃ­, Â¿no? AjÃ¡. Entonces le preguntÃ©, le dije, oye, si maÃ±ana voy a comer maquis y nada mÃ¡s en mi dÃ­a, cÃ³mo se verÃ­a mi dÃ­a en las calorÃ­as.  AjÃ¡. Y me dijo, oye, tienes un dÃ­a con maquis, si no desayunas, puedes hasta 35 maquis sin cremas o hasta 24 maquis con cremas.  Claro. Y despuÃ©s me hizo el ajuste tambiÃ©n a las calorÃ­as, Â¿no? Porque este dÃ­a de maquis ya fue un cÃ¡lculo nuestro que no se especificÃ³ en el plan, pero nosotros sabemos que ese dÃ­a esa persona estÃ¡ en mantenimiento.  Ok. Entonces, fÃ¡cil ese ejemplo, probablemente ahÃ­ tengamos que ser un poquito mÃ¡s especÃ­ficos nosotros en el plan, como para que diga tal dÃ­a de mantenimiento, y Romibot asuma, porque sÃ­ ha pasado, es algo, no siempre, pero ha pasado, que le hacemos un plan a alguien de mantenimiento, porque es una persona que ese dÃ­a quiere comer un montÃ³n y quiere tener un poquito mÃ¡s de espacio para meter calorÃ­as.  Entonces, ahÃ­ fÃ¡cil, eso es un feedback a nosotros para especificarlo, para que Romibot lo sepa. Claro, mientras mÃ¡s clara sea la informaciÃ³n, mÃ¡s claras van a ser las respuestas.  SÃ­, de acuerdo. Pero me gustÃ³ que tenga el cÃ¡lculo por Maki, o sea, no dice, Â¿no? Un Maki sin crema, 70 calorÃ­as, un Maki con crema, 100 calorÃ­as.  Entonces, en base a eso, he estado calculando cuÃ¡ntos Maki's approach puedo meter. Claro. Â¿QuÃ© mÃ¡s? Â¿QuÃ© mÃ¡s? Me dijo, claro, me dijo esto, Â¿y quÃ© cenarÃ­a ese dÃ­a?  Lo ideal es no cenar, si todo el dÃ­a, si igual quiere cenar, 4 maquis. Y a esto a mÃ­ me pareciÃ³ interesante, Â¿no?  Esta de me pareciÃ³ un golazo.
+
+24:17 - Santiago Isaias Zavaleta Ayala (Ulima)
+  LeÃ­, me dijo, si quiere cenar, puedes omitir 4 maquis.
+
+24:22 - Nicolas Borda Silva
+  Me dio el cÃ¡lculo calÃ³rico de 4 maquis, que son 280 calorÃ­as. Y me dijo, puedes compararlo a esto de acÃ¡, en porciones, que mÃ¡s o menos cuadra con lo que tienes en algÃºn dÃ­a.
+
+24:37 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, voy a salir.
+
+24:40 - Nicolas Borda Silva
+  Bien, chÃ©vere, sÃ­. Me dijo, come 4 maquis menos si tienes una cena chiquita. ChÃ©vere. Este... Â¿QuÃ© mÃ¡s?
+
+24:54 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, sÃ­, sÃ­, sÃ­.
+
+24:55 - Nicolas Borda Silva
+  Â¿A quÃ© se refiere con esto? Â¿Quieres que lo registre ahora en tu seguimiento? Eso es una buena pregunta.
+
+25:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿QuÃ© es que pasa? Que de hecho eso todavÃ­a lo estamos construyendo porque queremos dejar todo bien alineado antes de armar la base, que segÃºn lo que habÃ­amos conversado con Ale, toda nueva, o sea, de por sÃ­, imagÃ­nate que tÃº eres Gabriel Luna, todo lo que tÃº hayas dicho que vas a comer hoy dÃ­a o que has comido hoy dÃ­a, eso en una base se va a guardar con el registro del 30 de enero.  Bueno, son los que has consumido, que de por sÃ­, no sÃ© si ustedes lo manejen, yo creo que es clave porque si la IA va a estar conversando con todos los clientes todos los dÃ­as, ustedes teniendo un histÃ³rico de todo lo que han comido en un dÃ­a, las calorÃ­as, se pueden sacar patrones, etc, etc, creo que igual es importante tener esa data y aparte si es que el cliente menciona alguna comida nueva fuera del plan o algo similar o alguna alergia nueva, etc, algo diferente a lo que tiene en su plan, lo va a aÃ±adir en esa base como una observaciÃ³n.  AcÃ¡ me invento una funcionalidad, Â¿no? Imaginemos que Gabriel Luna es vegano y te estÃ¡ diciendo que se quiere meter un New York Steak.  Eso va a guardarlo en la base de datos. Ahora, si ustedes quieren que les avisen justo en ese momento cuando sea, o sea, por ejemplo, que te avisen a ti, oye, tu cliente vegano se quiere comer un pedazo de carne, interviene o no.  Si ustedes quieren que se alertan de una situaciÃ³n asÃ­, es justamente lo que vamos a ver en el tercer punto de la reuniÃ³n, que son los seguimientos automÃ¡ticos, que es en quÃ© momento Romy va a hacer seguimientos y en quÃ© momento ustedes los tienen que alertar, tanto el de leads como el de clientes activos.  Pero volviendo, creo que me expliquÃ© un poco, volviendo a la base, va a ser registrar todo lo que coma el cliente en un dÃ­a y tambiÃ©n todo lo que sÃ© fuera de comÃºn del plan, pues, Â¿no?  Ya, ok, ok, ok, ok.
+
+26:37 - Nicolas Borda Silva
+  Me gusta. Me gusta tambiÃ©n ligado un poco a las recomendaciones de snacks, Â¿no? Porque si alguien nos dice tambiÃ©n alguna intolerancia o alergia, sÃ­ es bueno tener siempre en cuenta eso.  Porque sÃ­ me parece que en algÃºn momento nos ha pasado que, oye, que puedes comerte, sÃ©, frutos secos. Y en algÃºn momento nos mencionÃ³, oye, alÃ©rgico.
+
+27:02 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AlmanÃ­, obviamente nos van a matar porque va decir, oye, yo les dije, no pueden estar recomendando despuÃ©s de hacer cosas.
+
+27:09 - Nicolas Borda Silva
+  Total, total. Entonces sÃ­, me parece muy bello eso. DespuÃ©s de eso, creo que estos son por ahora todos mis feedbacks de la interacciÃ³n que he tenido ahorita con el PromiBook.
+
+27:25 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Perfecto. Genial. Â¿Te gustarÃ­a que lo probemos rÃ¡pidamente ahora? No sÃ© si de repente tengan la foto de algÃºn hot dog, un pan con pollo, un helado, lo que sea, Ãºnicamente para que vean la funcionalidad de la lectura de imagen.  Mientras, voy pasando un momento a la fase, no sÃ© si ALON estÃ©s por ahÃ­, justo para revisar todo el tema de la base de clientes.  AquÃ­ estoy.
+
+27:51 - ALONSO Aguila Alarcon
+  Nico, escÃºchame, tenemos un problemÃ³n con la base, Â¿ya? Y mira, te voy a hacer bien. Pongo en esto, el tema de que ustedes tengan su registro de citas y demÃ¡s, estÃ¡ bien, eso es su forma de controlar el Einstein Value de sus clientes, segÃºn lo que nos ha ido comentando Alejandro y demÃ¡s, pero nosotros necesitamos tener un directorio de clientes, entonces este directorio de clientes tiene que tener dentro de otra informaciÃ³n solamente clientes Ãºnicos, porque cuando nosotros registramos dos, tres, cuatro, cinco entradas de un mismo cliente, la base chicotea, Â¿ok?  Entonces, en este directorio, que ustedes, que podemos crear juntos, de hecho, es un tema, en realidad es un Excel sencillo, es simplemente quitar duplicados, este, con nÃºmero de telÃ©fono y ya estÃ¡.  Entonces, la idea es que cuando ustedes tengan un nuevo cliente, lo creen o lo den de alta en esta base de datos, esta es la base de datos que va a estar conectada a RomyBot, y por el otro lado, pues tengan su propio seguimiento, eso cuando ya lo automaticemos o mÃ¡s adelante en algÃºn otro servicio que les vendamos, ya podemos mejorar esa vaina, pero, este, como les digo, sin necesito tener una...  Sola, este, base, en donde yo tenga una entrada por cada cliente, para que haya un Ãºnico cÃ³digo llave, por asÃ­ decirlo, que es el nÃºmero de telÃ©fono, y que RomyBot no chicotee, Â¿me entienden?  Entonces, es bien sencillo. SÃ­, dale.
+
+29:15 - Nicolas Borda Silva
+  Este, dos opciones bÃ¡sicas sobre eso. Una es, nosotros tenemos otro Excel, que no es tan inquiado de la base que tÃº has visto, que es donde la gente llena sus consentimientos informados.  Esa es una unidad de registro, sin repeticiones, porque ahÃ­ la entrada es cliente. El Ãºnico problema de eso es que, Romy, Â¿cuÃ¡l es el primer ingreso de esa base antes?  Â¿Para quÃ© fecha? El Ãºnico problema de eso es que CREERIA va 6 de agosto. Entonces, deberÃ­a estar actualizando. DeberÃ­an estar ahÃ­ casi todos nuestros pacientes, salvo los que tenemos desde antes del 6 de agosto.  Que podrÃ­as revisarlo, Â¿no?
+
+29:56 - ALONSO Aguila Alarcon
+  Que podrÃ­as revisarlo.
+
+29:57 - Nicolas Borda Silva
+  Tiene margen de... El error... El margen de error ahÃ­ es mano, o nuestra mano. Ahora, mi pregunta es, Â¿es mÃ¡s fÃ¡cil hacer eso y jugÃ¡rnosla a saber si se nos pasa a una persona?  Â¿O es que me imagino que una funciÃ³n de Excel sin mucho problema deberÃ­a poder hacer un SQL o un duplicado de la base de datos que les he enviado?  No sÃ© cÃ³mo hacerlo, pero debe ser fÃ¡cil.
+
+30:22 - ALONSO Aguila Alarcon
+  O sea, en estricto, lo que imputa la base de datos o la llave es el nÃºmero de telÃ©fono. Entonces, revisemos esa base de, Â¿cÃ³mo se llama esto?  Esa base, directorio que tÃº mencionas, y con la base que tenemos, o sea, ustedes salen buscar B, de acuerdo a todos los nÃºmeros de telÃ©fono, de la base que tenemos o que manejamos ahorita y revisen cuÃ¡les no estÃ¡n.  Y en base a eso, impÃºtenlos en la otra y con eso ya tenemos una sola base de datos completa, Â¿no?
+
+30:52 - Nicolas Borda Silva
+  Es buscar B, Â¿quÃ© hace buscar B? Es buscar... O sea, lo que hace es, es una funciÃ³n de Excel que...
+
+31:00 - ALONSO Aguila Alarcon
+  Lo que hace es, tÃº le das una referencia, que en este caso es el nÃºmero de telÃ©fono, y te busca los datos que estÃ¡n asociados a esa referencia en otra tabla o en otra base de datos.
+
+31:12 - Santiago Isaias Zavaleta Ayala (Ulima)
+  ALON, discÃºlpame que te corte, ahÃ­ solo para dejar el insight, si es que se te hace mucho mÃ¡s fÃ¡cil, que de hecho es lo que yo harÃ­a para ahorrar tiempo, es agarrar el Excel que es tu base maestra, que estÃ¡ con este formato que se nos complicaba, llevarlo a un formato Excel, literalmente copiar todo, pegar todo a un formato Excel, ese Excel, mÃ©telo a Claude, dile que te elimine todos los duplicados de todos los clientes, que solo te deje con una fila de cada uno, y si es que tienes un criterio para ver cuÃ¡les son los que estÃ¡n activos ahora, dile, oye, considera los que, por ejemplo, ahorita tienen en la columna tal, activo, o algo asÃ­, me estoy inventando algo, Â¿no?  Pero Claude te lo hace de una, simplemente ponte el Claude 4.5 Opus, mÃ©tele ese Excel.
+
+31:50 - Nicolas Borda Silva
+  El Ãºnico problema de eso es que yo puedo crear un Excel ahorita y no es problema, el problema es que eso no se va a seguir alimentando.  Ya. Los pacientes que tengan maÃ±ana no se van a anexar a esa base de datos. Por eso te digo, creerÃ­a que la forma en la que eso funciona es, si extraigo toda la base de datos con fechas, extraigo la base de datos que te digo que tenemos el 6 de agosto, y le pido al Claude que me haga, le paso la dos excesa a Claude y le pido que haga el matchup, Â¿no?  SÃ­, sÃ­, sÃ­. Yo tambiÃ©n creo que sÃ­.
+
+32:27 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Esa base que mencionas de los acuerdos, yo creo que eso puede ser tranquilamente. Si es que claramente no se va a cambiar de acÃ¡ en un mes, dos meses, y se va a seguir actualizando constantemente, esa puede ser nuestra base maestra, por asÃ­ decirlo.
+
+32:42 - Nicolas Borda Silva
+  No sÃ© si tiene los WhatsApp. Â¿QuÃ© campos tiene esa data?
+
+32:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Les digo cuÃ¡les son los campos que tienen que tener. Nombre, apellido y nÃºmero de telÃ©fono. Si es que tienen alguna otra columna que sea para ver a quienes le hacemos seguimiento o no, tambiÃ©n clave.  Porque Romy va a ir cuando...
+
+33:00 - Nicolas Borda Silva
+  Cuando le hagamos los seguimientos, Romy va a a esa base y va a decir, Â¿no? A ver si tiene plan con seguimiento.
+
+33:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y a esos que tienen plan con seguimiento, les va a hacer el seguimiento ad hoc al seguimiento que se le haya asignado.  SerÃ­a nombre, apellido, nÃºmero de telÃ©fono, si es que se le hace seguimiento, y si es que tienen algÃºn criterio mÃ¡s, colocarlo.  Pero esos cuatro principalmente.
+
+33:23 - Nicolas Borda Silva
+  Creo que lo Ãºnico difÃ­cil es cÃ³mo aÃ±adir a esto de forma no manual, que indique si tiene seguimiento o no.  Porque como esta base de datos que ahorita les mostramos, solo es un registro de datos. SÃ­ tiene lo que nos dices, pero no tiene indicado si es con seguimiento o no.  Â¿DÃ³nde estÃ¡ eso? Ahorita la van a ver, Romy, Â¿puedes mostrarles, por favor, la cÃ¡mara de Romy? Â¿La cÃ¡mara de Romy?  SÃ­. A ver, guardo mi pantalla, entonces. SÃ­. A ver, toque, toque, toque, toque. Ya. Ya.
+
+34:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Voy a ver esto? SÃ­, claro.
+
+34:03 - Nicolas Borda Silva
+  Realmente les enviamos un form y lo llenan, Â¿no? Entonces sale nombre, apellido, estoy de acuerdo, DNI y nÃºmero de telÃ©fono.  NÃºmero de celular. SÃ­, pero ahÃ­ no sale el servicio en cuestiÃ³n, en buena medida porque estas personas muchas veces ni saben que han contratado.  Entonces, podrÃ­a agregar una columna ahÃ­, es mÃ¡s, yo puedo agarrar y llenar una columna mÃ¡s, pedirle a Cloud nuevamente que haga el match entre las dos bases y normal, pero eso no se va a seguir alimentando, ese es el problema.  A menos que yo le dÃ© la orden manualmente a Romy de que actualice eso, pero un poco pierda el sentido, Â¿no?  Entonces, vale la pena, vamos a, parchemos esto de alguna forma, ahÃ­ dejo a Nico que use su criterio, pero sÃ­ necesitamos una soluciÃ³n para que nuestro registro no dependa de esta manualidad, Â¿no?  SÃ­, total. Y como mencionaba...
+
+35:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ah, ALON, tambiÃ©n igual eso lo podemos alinear, como dices, en otra, RaÃºl, porque aquÃ­ lo que queremos es ayudarte a no poner mÃ¡s trabas.  Es ver si dentro de este alcance o si no un alcance micro, por asÃ­ decirlo, hacemos una automatizaciÃ³n simple para que cada vez que se meta un lead dentro de cada sesiÃ³n nueva de un nuevo cliente, automatice o actualice al cliente nuevo dentro de este.  La lÃ³gica se puede construir sÃºper simple y la cosa es eliminar el trabajo manual, pero no me imagino que eso podemos alinear.
+
+35:25 - Nicolas Borda Silva
+  Acabo de creer que como parte de nuestro flujo puede haber una confirmaciÃ³n de, oye, entonces acabas de adquirir tal producto por tal monto y ya pues una vez que se dice y el paciente lo confirma, se registra y listo.  SÃ­, total, se puede, totalmente.
+
+35:41 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eso sÃ­ se puede estar metiendo dentro del alcance. Lo que sÃ­ tengo una observaciÃ³n importante y es el formato en el que estÃ¡ esa tabla.  Hay manera de poder, sÃ­, sÃ­, sÃ­, hay manera de poder llevarlo a no ese formato de tabla dinÃ¡mica que tiene, sin mÃ¡s, simplemente como si fuera una tabla normal, porque creo que ese tipo de...  Formato de forms hace que, bueno, no creo, lo sÃ©, ese formato de forms que tiene hace que RomyBot no puede entrar, literalmente.  Hemos intentado de todo con cÃ³digo, con una guÃ­a, pero es como si hubiera una barrera que no permitiera extraer los datos de ahÃ­, lo Ãºnico.
+
+36:16 - Nicolas Borda Silva
+  O sea, si puedo, o sea, yo puedo intentar jugar con el formato de esta tabla, pero no sÃ© si eso hace o no que se siga alimentando.  No lo sÃ© realmente.
+
+36:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, Â¿cÃ³mo, cÃ³mo, me puedes explicar un poquito cÃ³mo funciona este proceso? Â¿QuÃ© forms tiene?
+
+36:35 - Nicolas Borda Silva
+  Literalmente hay un, tenemos el, Â¿puedes enviar el link de inscripciÃ³n, por favor? Â¿QuÃ© es el link? El link, el el link que me gusta.  Literalmente vamos a enviarle un forms a la persona, con estos campos, lo va llenar y listo. Y obviamente este es el Excel que es alimentado por dicho forms.  Claro, por ejemplo. Pero Nico tiene ahÃ­ el formulario, le da a dar click. No sÃ© si estoy viendo la pantalla, Nico.  SÃ­, sÃ­, sÃ­. Genial. Va a llenar todos los campos que ven ahÃ­, apellidos, nombres, nombres mÃ­, nÃºmero de contacto.  Â¿TÃº creaste esta automatizaciÃ³n, Ale? RÃ¡pidame. Â¿TÃº creaste esta automatizaciÃ³n? No, no, Formos lo hace solito. Ok.
+
+37:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  O sea, Â¿y Formos automÃ¡ticamente creÃ³ ese Excel o es Excel lo que harÃ¡n ustedes?
+
+37:23 - Nicolas Borda Silva
+  No, se creÃ³ automÃ¡ticamente. Ah, ya.
+
+37:26 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, ya, ya. Ok, ok, ok. Yo no fui, honestamente. SÃ­, sÃ­ entiendo. PodrÃ­amos tratar de quitar, o sea, podemos siempre volver con Control-Z, Â¿no?  Pero podrÃ­amos tratar de quitar el formato y probar igual llenando el Forms. Porque aquÃ­ el encuestro que tenemos es el formato de la tabla.  Sin mÃ¡s.
+
+37:49 - ALONSO Aguila Alarcon
+  Lo que sucede con el formato de tabla es que la toma como un todo y no como cada fila.  Exacto. Entonces, al tomarla como un todo no puede diferenciar. potenciar las entradas. Entonces, eso es lo que estÃ¡ causando el problema.
+
+38:06 - Nicolas Borda Silva
+  Ya, ahorita le estoy a apuntarle, realmente le... Ya le di acceso a Nico, ahÃ­ sÃ­, tanto hoy como ellos son medio cinturones blancos en Excel.  AsÃ­ que usted, tÃº dime, ALON, Â¿quÃ© formato te sirve? Simplemente el Excel sencillo.
+
+38:24 - ALONSO Aguila Alarcon
+  El Excel sencillo. O sea, un Excel, lo que en estricto necesitamos es un archivo nuevo y que pongan los tÃ­tulos arriba y vayan llenando cada fila.  Yo creo que sÃ­, pero...
+
+38:35 - Nicolas Borda Silva
+  O es lo importante es... Â¿AsÃ­? Â¿AsÃ­? Exacto, eso es lo que necesitamos.
+
+38:42 - ALONSO Aguila Alarcon
+  Y ahora la volvada es...
+
+38:43 - Nicolas Borda Silva
+  A ver, llena el formos ahora. A ver, la volvada es si se sigue, si se alimenta. A ver, yo soy paciente de...  Con un nombre penejado. No, que ya estÃ¡s ahÃ­. Con un nombre penejado. Ya, exacto. Ya, ponlo Santiago, Â¿eh? Lo que mÃ¡s.  Ya, Santiago, chame, moza. SebastiÃ¡n, no es la mierda. SÃ­. Ya, ya, pon... Â¿Te estÃ¡ suena ahÃ­? No. 745-82569 Tu maridazo agarrÃ³ mi miel.  Santiago estÃ¡ reiniciando su laptop, creo, porque muriÃ³.
+
+39:19 - ALONSO Aguila Alarcon
+  Ahorita vuelve. Creo.
+
+39:21 - Nicolas Borda Silva
+  Â¿De cuÃ¡ndo serÃ¡ esto? Â¿De cuÃ¡ndo serÃ¡ esto? 2003, PBBs. PolÃ­ticas, Â¿te acuerdas? AhÃ­ se la metimos. Ya se pariÃ³, acabo, ya.  Ya. Ahora actualiza la otra huevada y vamos a ver quÃ© pasa. No deberÃ­a ni siquiera actualizarlo, deberÃ­a, ahÃ­ estÃ¡.  SÃ­, segundo. Ah, sÃ­, ponga. Ya, acÃ¡. Ya. A ver, mete el F5 para mirar cliente. Â¿QuÃ© habrÃ¡n sido esas dos entradas iniciales?  Â¿Ah? Que habrÃ¡n sido esas dos FÃ¡cil, mira. Ya, mÃ¡s inmaculado. Hasta el final. Y ahora hay que borrar por eso.  No, dÃ©jate por ahÃ­, por ahÃ­, les pregunto. Ya, eh, Â¿quÃ© es el turno? Lucina Markovic. Â¿QuiÃ©n es Lucina Markovic?  Esto, Jorge Scorza. Ahora es que voy a temprar mi, mi, no lo voy a desescribir. Eh, puso, bueno, Â¿quÃ© tal?  Danos esos dÃ­as, porque estamos viendo los temas de negocio. Interesante. Ah, entonces, pensÃ© que, pensÃ© que, no, ponle eso, pensÃ© que hablas de organizaciÃ³n alimenticia.  Y ponle, no, no, No, yo entendÃ­ plata. Ah, se cojÃ³, no. pensÃ© que era Â¿OrganizaciÃ³n alimenticia? No, sÃ­, ellos ya estaban.  Ya, chicos, disculpen, me voy a estar por el estilo porque puso la computadora en el clasos, pero aquÃ­ estamos.  Ya, lo hemos logrado.
+
+41:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Se solucionÃ³? Â¿Se pudo...?
+
+41:22 - Nicolas Borda Silva
+  Le quitamos el formato de forms. Perfecto, Â¿y se sigue aÃ±adiendo a pesar de llenarlo?
+
+41:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, excelente, excelente, excelente. Ok, sÃ­, imagino el final es un formato que no les va a quitar, o sea, obviamente harÃ­a mÃ¡s valor el hecho de que nos podemos conectar y el no tenerlo no quita nada de valor, asÃ­ que por eso la va estÃ¡ genial.  Ok, chicos, este es el primer punto. Esto ya estÃ¡ solucionado y me alegra porque asÃ­ ya tenemos la biblioteca, literalmente, de los clientes.  ahora, Â¿cÃ³mo funciona esto? Y quiero que se prenda mi computadora para mostrarse mismo. Detalladamente, pero cÃ³mo funciona el leer los planes.  Primero, cuando un nÃºmero escriba, imaginemos Gabriel Luna, lo que automÃ¡ticamente pasa por detrÃ¡s es que Romy Bot identifica el nÃºmero y dice, Â¿este nÃºmero lo tengo en mi biblioteca o no?  Si este nÃºmero no existe en mi biblioteca es porque no es un cliente, sin mÃ¡s. Por eso ahÃ­ Nico, cuando vimos que le escribiste y por ejemplo decÃ­as, hola, no soy Ã©l, pero estoy buscando esta informaciÃ³n, no es que Romy automÃ¡ticamente diga, ah, estÃ¡ bien, entonces voy a hacer esto, sino que la lÃ³gica de Romy es si tu nÃºmero estÃ¡ dentro de la base, que ahora va a ser esta que estÃ¡ mostrando o no.  Si es que estÃ¡ dentro, lo que va a hacer es, va a ir al plan y va a ir a la base que ya ha ido registrando, la que te comentaba que se va a registrar todos los dÃ­as, en mÃ¡s en lo que se converse, para poder conversar contigo de una manera mÃ¡s personalizada y contextualizada, Â¿ok?  Entonces, Â¿cÃ³mo funciona el que vaya a la base? Entra a esta tabla y va a buscar... El nÃºmero de Gabriel Luna.  Busca el nÃºmero, hace match, encuentra el nÃºmero y luego va a ver los nombres y apellidos. Va a agarrar estos nombres y apellidos y luego va a ir a todo tu Google Drive y va a empezar a nadar en todo tu Google Drive a encontrar los que se llamen plan de alimentaciÃ³n, creo que era el nombre por default que tenÃ­an, plan de alimentaciÃ³n de Gabriel Luna.  Esto es lo que va a hacer RomyBot por detrÃ¡s, por eso es que a veces no te diste cuenta, pero cuando te contestaba se demoraba un poco y por mÃ¡s que nosotros hayamos bajado ese timing al mÃ­nimo, hay una operatividad por detrÃ¡s que es toda la que te acabo de describir, que igual nosotros estamos optimizÃ¡ndola para que cada vez sea mucho mÃ¡s pequeÃ±a.
+
+43:36 - ALONSO Aguila Alarcon
+  Pero que en estricto, en estricto y eso sÃ­ es importante, o sea, es como si NicolÃ¡s estuviera detrÃ¡s de la pantalla, agarrara su folder, abrera su, buscara, Â¿cÃ³mo se llama esto?  El plan, chequeara, pensar un ratito, mÃ¡s se va a comer maquis, ahÃ­, ok, y le respondiera, o sea, es parte de la lÃ³gica tambiÃ©n, o sea, que la gente tambiÃ©n demora en responder.  Ah, ya no, o sea, es tarde de la organizaciÃ³n. Exacto. Ok, ok, ok.
+
+44:03 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya nos ha pasado que, por ejemplo, un cliente nos dice, oigan, pero yo pensaba que la IA iba a contestar en 2, 3 segundos, pero veo que se demora 20, 25, pero es importante entender que al final la IA tiene su proceso, Â¿no?  AsÃ­ que, uy, ya se me conecta la computadora. Si voy a andar rÃ¡pido por la computadora para mostrarles cuÃ¡l es el tema del PDF, que esto no es, de hecho, ningÃºn stopper, es tambiÃ©n un tema de mantener el formato.  Solo para alinearlo, entendemos que el plan que va a mandar por cada cliente siempre va a ser el Ãºltimo, Â¿verdad?  SÃ­, justo esa es mi pregunta.
+
+44:41 - Nicolas Borda Silva
+  Â¿CuÃ¡l es la lÃ³gica detrÃ¡s de, por ejemplo, hay personas que tienen segunda consulta, tercera consulta, cuarta consulta, entonces, Â¿cuÃ¡l es la lÃ³gica que sigue RomyBot para usar el Ãºltimo plan?
+
+44:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total. Justo eso es lo que querÃ­amos alinear con ustedes. Ahora voy a entrar a... Y es justo lo mÃ¡s importante, de hecho, y es por eso que tuvimos unos cuantos inconvenientes con el tema de la demo, porque al final nosotros estamos construyendo todo este esqueleto en base a una carpeta que nos han compartido.  Bueno, ahora estamos conectados al drive de Ale, pero antes de salir a producciÃ³n... Â¿Se me escucha? Â¿Hola, hola? SÃ­.  perfecto. Les comparto mi pantalla, entonces. Eso es lo que les querÃ­a mostrar. AquÃ­ vamos a poner Alejandro. Esta es la que se compartiÃ³.  Â¿QuÃ© es lo que va a hacer RomyBot? Y de paso, aprovecho, no sÃ© si Ale estÃ¡ por ahÃ­, pero voy a abrir el N8N para que...  Ya he visto que Ale estÃ¡ que se pone ProPlayer con N8N, asÃ­ que ahÃ­ voy a explicar un poquito mÃ¡s la lÃ³gica.  Igual no quiero ahondar tanto en lo tÃ©cnico, pero igual creo que es importante entender cÃ³mo funciona esto por detrÃ¡s.  Entonces, RomyBot cuando va... Al leer el plan, lo que hace es, como te mencionÃ©, Â¿no? Voy a ir al Excel, que es este Excel que nos acabas de compartir, que ya se arreglÃ³ el formato, a buscar por paciente.  Este paciente existe, siempre tiene que pasar por sÃ­. Si de por sÃ­ ya estÃ¡ usando esta herramienta RomyBot, siempre tiene que pasar por sÃ­.  Esto de aquÃ­ no deberÃ­a utilizarse jamÃ¡s, pero igual se los muestro. Â¿QuÃ© es que va a pasar acÃ¡? Es simplemente un cÃ³digo que estÃ¡ metiendo, no voy a profundizar en esto, para luego ir a tu Drive y traer el folder.  Â¿Ok? Este folder de acÃ¡ es este folder de acÃ¡. Va a encontrar el folder segÃºn el nombre del cliente, que claramente estÃ© en el Excel que nos acabas de mostrar.  Entonces, imaginemos a Gabriel Luna. De hecho, voy a poner una ejecuciÃ³n Ãºltima para hacerlo como ejemplo. A ver quÃ© serÃ¡.  Por ejemplo, encuentra a Gabriel Luna y lo que va a hacer es crear un cÃ³digo para buscar por apellido y por nombre.  Ok. Este cÃ³digo acÃ¡ y encontrÃ³, pues, Â¿no? Copia de tal, que una, no. Un folder que contenga copia y que contenga Luna y Gabriel.  Entonces se va directamente a esta carpeta. Voy a entrar a la de Gabriel. Listo. AquÃ­ es donde empieza lo que tenemos que alinear.  Â¿QuÃ© es lo que hace RomyBot? Va a ver si es que el folder existe. Si es que existe, pasa por acÃ¡.  Si es que no existe, vuelve a buscarlo con otro cÃ³digo mucho mÃ¡s extenso, que es lo mismo, solo que mÃ¡s profundo.  Y aquÃ­ estÃ¡ el tema. Â¿Y quÃ© es lo que pasa? Que Drive no nos permite volver a entrar a otra carpeta de otra carpeta.  No sÃ© si me dejo entender. Es decir que la carpeta madre es esta de acÃ¡, Â¿no? La que se llama copia de Gabriel Luna, que entiendo que esto se debe llamar Gabriel Luna guiÃ³n bajo control sin mÃ¡s.  Â¿O cÃ³mo lo tienen ustedes grabado? El nombre del paciente siempre es el nombre de la carpeta.
+
+47:45 - Nicolas Borda Silva
+  Ok.
+
+47:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces por ese lado no hay ningÃºn problema. Va a agarrar el nombre y va a entrar a esta carpeta madre.  Ahora, yo entiendo que dentro de esta carpeta ustedes tienen otras subcarpetas por consulta. Â¿QuÃ© es lo que pasa acÃ¡ y cuÃ¡l es el stopper?  Que RomyBot no puede entrar a... A otra carpeta de otra carpeta. Â¿Por quÃ©? Simplemente limitaciÃ³n de la API de Drive.  Son fregados sin mÃ¡s. Si se dan cuenta, aquÃ­ este PDF nosotros lo hemos sacado a propÃ³sito suelto porque ahÃ­ sÃ­ nos estÃ¡ permitiendo leer el PDF de Gabriel Luna.  Â¿QuÃ© es lo que yo propongo? Que se mantenga la estructura tal cual ustedes la estÃ¡n usando sin cambiar absolutamente nada, pero siempre se tenga afuera el Ãºltimo PDF de la consulta.  Â¿Eso les genera algÃºn stopper, alguna fricciÃ³n en algo?
+
+48:30 - Nicolas Borda Silva
+  Ok, o sea, como si se hubieran olvidado de crear la carpeta, que de hecho es lo que suele pasar acÃ¡.
+
+48:36 - Santiago Isaias Zavaleta Ayala (Ulima)
+  La falta de apuros. Nos alineamos a la manera en la que trabajan, no mentira. O sea, pueden tenerla en su Ãºltima carpeta, pero igual si hacen una copia y la dejan afuera, serÃ­a genial, sin ningÃºn problema.
+
+48:50 - ALONSO Aguila Alarcon
+  Que en estricto serÃ­a lo mismo que poner como vigente, afuera, histÃ³ricos, atrÃ¡s. Esa serÃ­a la lÃ³gica comercial, Cecilio. Quieren ver de la forma de trabajo.
+
+49:02 - Nicolas Borda Silva
+  Ya, y por ejemplo, si dejÃ¡ramos mÃ¡s de un PDF afuera, Â¿sÃ­ podrÃ­a chocar con la lÃ³gica?
+
+49:10 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, si es que mantiene el nombre de copia de plan de alimentaciÃ³n de Gabriel Luna. Pero si hubiera otro y similar, con un parÃ©ntesis uno, como si fuera un duplicado, ahÃ­ sÃ­ podrÃ­a haber algÃºn tipo de conflicto.  Lo ideal serÃ­a que eso no pase, y si es que pasa, que el que va a estar ahÃ­, que va a ser el plan de Gabriel, tenga un nombre fijo, y lo mismo para todos los clientes, y que solamente cambie claramente el nombre.
+
+49:36 - Nicolas Borda Silva
+  Ok, ok, ok. O sea, lo digo porque lo que tambiÃ©n me he imaginado es que en algÃºn momento fÃ¡cil Aline se le olvida y estÃ¡, no sÃ©, plan de alimentaciÃ³n de Gabriel Luna, cuarta consulta, y plan de alimentaciÃ³n de Gabriel Luna, quinta consulta.  En ese caso, podrÃ­a, o sea, que los dos PDFs, uno de la sesiÃ³n anterior y uno de la... EstÃ©n en la carpeta mÃ¡s externa, Â¿no?  Entonces, Â¿ahÃ­ Romibot chaparÃ­a la que tiene quinta consulta o mejor evitar eso siempre? No, mejor evitar eso siempre.
+
+50:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Por quÃ©? Porque si es que quisiÃ©ramos que Romibot tenga la capacidad de poder diferenciar cuÃ¡l es cuarta, tercera, quinta, tendrÃ­amos que implementar mÃ¡s inteligencia artificial de la que estamos implementando, que podrÃ­amos hacerlo sinceramente, pero al final lo que buscamos es minimizar los costos variables al cero.  Perfecto, perfecto chicos. Eso con respecto a la base de datos y con respecto al plan, ya con esto crÃ©anme que me quedo mÃ¡s tranquilo, quÃ©dense mÃ¡s tranquilos porque Romibot no va a tener fallos con respecto a los planes.  Si es que en el transcurso del dÃ­a ha habido algÃºn tipo de inconveniente con el plan, era porque idealmente es una demo y tenemos que poner el PDF, ponerles a ustedes el nombre para que lo puedan probar sin mÃ¡s.  Entonces, el tercer punto, antes de pasar al tercer punto, sÃºper rÃ¡pido les quiero mostrar. Vamos preguntar rÃ¡pido cuÃ¡les son los flujos que tenemos.  No voy a andar en lo tÃ©cnico nuevamente, pero esto es bÃ¡sicamente lo que ya estÃ¡n teniendo en N8N. Este es el flujo principal.  Ahora voy a entrar solo a este para no agarrarnos con los demÃ¡s. Este es el flujo que va a escalar la conversaciÃ³n.  Este es el flujo que se va a encargar de analizar, perdÃ³n, de registrar todas las comidas o elementos extras o raros, por asÃ­ decirlo, poco frecuente del cliente en esta base de datos.  Futanalytic es literalmente el FITIA que tenemos para WhatsApp, que va a analizar todas las imÃ¡genes. Y el current plan va a ser el navegar al plan del paciente que es el que acabamos de ver.  Este es RomyBot. Creo que no se los habÃ­a mostrado antes, pero hemos hecho un ligero cambio. Y RomyBot de por sÃ­ son dos agentes, Â¿ok?  No es un foro principal. Â¿AlÃ³, no me querÃ­a mencionar algo? Â¿No? Ok. No, no, sorry. No, no quiero profundizar tanto en esto porque igual todo le vamos a dar documentado, pero igual les muestro lo que ya se ha estado construyendo por detrÃ¡s.  Ahora. Voy a dejar de compartir pantalla para hablar sobre la lÃ³gica de los seguimientos automÃ¡ticos. Si es que no lo tenemos claro hoy, no hay ningÃºn problema.  Sin embargo, lo mÃ¡s importante va a ser que prioricemos precisiÃ³n antes que rapidez. Â¿A quÃ© me refiero? Tenemos que tener claro a quiÃ©nes se le va a hacer seguimiento automÃ¡tico.  Si se va a hacer dentro de las 24 horas, si se va a hacer posterior a las 24 horas, si se le va a hacer a los leads, si se le va a hacer a los clientes activos, si se les va a hacer a ambos y en quÃ© momento o quÃ© criterio tienen que cumplir esos clientes activos para hacer ese seguimiento.  Por ejemplo, esta base que nos acaban de mostrar del Forms tendrÃ­a que tener una columna o algo que nos indique que tenemos que hacerle seguimiento a ese paciente.  Entiendo que hay planes con seguimiento y sin seguimiento y eso es lo que Romy Bo tiene que entender para poder hacer, para poder tener bien claro el cÃ³digo, Â¿no?  No sÃ© si de repente quieren evaluar el tema de los criterios y lo vemos en una siguiente REU o si nos quieren ir adelantando algo ahorita.  Pero sÃ­ es importante que lo tengamos bien claro.
+
+53:02 - Nicolas Borda Silva
+  O sea, yo voy a tener que sentarme a pensar cÃ³mo reestructurar de repente las bases de datos de una forma mÃ¡s funcional.  SÃ­, es una sugerencia genial, pero sÃ­, porque ahorita va a depender de que Romy y Romy no robot le metan mano a eso y no quiero que tenga que pasar eso.
+
+53:24 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y bueno, cuando lo hagas, nos avisas y si es que estamos con el hueco disponible, entramos a ayudar. AhÃ­ con IA lo podemos hacer sÃºper, sÃºper rÃ¡pido.  Y entiendo que tal vez esto, si bien no estamos cambiando la manera en la que trabajan, de hecho, estamos actualizando, por asÃ­ decirlo.  Es importante comprender que de repente este pequeÃ±o tiempo manual o este poco tiempo manual que le vamos a meter mano va a tener un gran impacto de cara a ahora todo se va a automatizar.  AsÃ­ que en cualquier momento, Ale, que necesites un arreo o algo, avÃ­same, agendamos y vemos lo que hacemos con Claudio para poder sincerar todo.  Ya.
+
+54:01 - Nicolas Borda Silva
+  Ok, perfecto.
+
+54:03 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, eso con el tema de los seguimientos automÃ¡ticos. Quiero ver que no se me haya pasado absolutamente nada. Bien, y listo.  SerÃ­a eso bÃ¡sicamente, chicos. TambiÃ©n el tema de las preguntas frecuentes, el tema de los testimonios, si es que van a ser en videos, si es van a ser en fotos, nos lo avisan, nos lo pasan Ãºnicamente para agregÃ¡rselo a Romy Bot.  Y otra cosa que es importante aclarar, es que esa tabla de preguntas frecuentes, si es que pudieran ser especÃ­ficos de cara a quÃ© preguntas frecuentes son para clientes y cuÃ¡les serÃ­an para leads, genial.  No sÃ© si de repente aquÃ­ diviramos un poco. Pero no se los hemos compartido todavÃ­a. Ya, o sea, ya estÃ¡ eso.  De hecho, ayer lo acabamos.
+
+54:54 - Nicolas Borda Silva
+  Hay dos excels diferentes, uno para leads y uno para clientes. Ok, perfecto. El de Yuyu ya estÃ¡ listo, el mÃ­o falta que un par de preguntas le responda RodrÃ­guez.  Ya estÃ¡ al 90% dirÃ­a, porque igual son pocas las preguntas que suelen hacer los compradores, o sea, las varias se preguntan muy frecuentemente, pero digamos que no es que hayan 30 diferentes preguntas que puedan hacer.  SÃ­, son mÃ¡s como unas, Â¿quÃ© han sido? Â¿10? Â¿12?
+
+55:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ah, perfecto. Lo chÃ©vere de esto, chicos, es que si en algÃºn momento, acÃ¡ Romy va a tener una habilidad que es chÃ©vere, que es que si le hacen una pregunta que no puede responder con sus instrucciones ni con la tabla de preguntas frecuentes, ella va a agregar esa pregunta como no la pudo responder.  Y ustedes luego en ese Excel van a revisar cuÃ¡l fue, la responden, la actualizan y automÃ¡ticamente con solo ponerla en el Excel ya Romy se actualiza y ya se entrena, solita.  SÃ­, perfecto. Eso serÃ­a bÃ¡sicamente todo por mi lado, chicos. sÃ© si de repente tengan algÃºn comentario o alguna pregunta.  Les mandÃ©, de hecho, el video con... Respecto a Meta, mÃ¡s bien me olvidÃ© mencionar antes de que nos vayamos, ya estÃ¡ programado para que la siguiente semana entremos a producciÃ³n, sin embargo, Â¿quÃ© es lo que yo recomiendo tener fino antes de salir a producciÃ³n?  Porque, ojo, salir a producciÃ³n es perder el WhatsApp web, pero claramente van a tener su CRM conversacional, asÃ­ que por ese lado es un mÃ¡s con un menos, no pasa nada por ese lado, pero salir a producciÃ³n implica tener a Romy funcionando, Â¿ok?  Y para tener a Romy funcionando, lo que yo aconsejo que tengamos sÃ­ o sÃ­ de cara a lo que ya voy entendiendo de su negocio son las preguntas frecuentes que ahora tenemos clean, la base de datos que sÃ­ es crucial porque es la biblioteca donde Romy va a determinar si es que te trata de manera personalizada o te trata como desconocido llevÃ¡ndote a la posible compra y el tema de los planes.  Esos tres pilares yo me enfocarÃ­a en cerrarlos antes de salir a producciÃ³n, pero de igual manera podemos de una vez hacer la sincronizaciÃ³n con la API de Meta para que, Alex, si que tienes alguna automatizaciÃ³n que ir trabajando, lo puedas trabajar porque igual...  les comparto brevemente. Ustedes no van a perder su WhatsApp porque les vamos a dar, creo que sÃ­ se los mostrÃ© en su momento, pero les vamos a dar este CRM conversacional, que de hecho es mucho mejor que WhatsApp porque encima les va a entregar reportes en base a los estados.  Es lo mismo. Y ya cuando tengamos este report, este CRM conversacional, generalmente es lo mismo que WhatsApp. Y ojo, aquÃ­, esto igual se lo voy a mostrar despuÃ©s, pero imaginemos que RomyBot hace una derivaciÃ³n.  Ok, Nico te manda a ti un mensaje y te dice, oye Nico, este paciente que es vegano quiere comer un pedazo de carne.  Entra al toque y le deja de responder. Ok, automÃ¡ticamente Romy lo que va a hacer es aquÃ­ donde dice bot, le va a poner off.  Esto que significa que le va a dejar de responder. Es aquÃ­ donde tÃº entras, intervienes, tomas el poder de la conversaciÃ³n y si ya resolviste tÃº la duda y quisieras que Romy vuelva a tomar la iniciativa, simplemente lo vuelves a on y ya estÃ¡.  Y te retiras. Y ya estÃ¡. Y listo, nuevamente. Si acÃ¡ lo tienen mucho mÃ¡s ordenado y demÃ¡s, pero solo se los muestro para que...  Pierdan cuidado del hecho de conectarnos vÃ­a API oficial, que no se va a perder nada de lo que tenemos.  De igual manera voy a evaluar, perdÃ³n Ale, creo que querÃ­as mencionar algo. SÃ­, hay otra alternativa que es la coexistencia de WhatsApp, que es literalmente meter a RomyBot sin que ustedes pierdan su WhatsApp web ni su WhatsApp celular.  Es como algo nuevo que Meta ha sacado literalmente este aÃ±o porque existÃ­a ese problema, Â¿no? Oye, me conecto a la WhatsApp, pero pierdo mi front-end, pierdo mi visibilidad y ahora Meta ha sacado una nueva alternativa que es la coexistencia.  No es que no la recomiende, pero al tener literalmente un mes en el mercado, a mÃ­ me parece un poquito inestable.  Pero de igual manera estÃ¡ por mi lado revisar bien si es que yo tengo varios colegas que trabajan en lo mismo.  Â¿QuÃ© tal les ha ido con la coexistencia? Les aviso quÃ© tal, asÃ­ no perdemos absolutamente nada del WhatsApp. Lo probamos una semana y si va bien nos quedamos con esa y si vemos que, por ejemplo, no sÃ©, RomyBot deja de responder o algo similar.  Nos pasamos a esa alternativa sin mÃ¡s. La cosa es buscar lo que menos, lo que mÃ¡s les facilita a ustedes.  Pues yo entiendo que es lo de la coexistencia para que no pierdan ni sus aplicaciones, ni WhatsApp web, ni nada.  AsÃ­ que tranqui por ese lado que le vamos a dar la mejor alternativa.
+
+59:13 - Nicolas Borda Silva
+  Yo ya he jugado con el hybrid en como un rato. CreerÃ­a, o sea, ser hÃ­brido implica mantener WhatsApp web y obviamente no tengo, pero el problema realmente ahÃ­ es no tener, si yo me quedo en WhatsApp web, no tengo todas estas funcionalidades chÃ©veres que queremos de automatizar pipelines, pues no.  Entonces, de hecho, esta es una media excusa para tener herramientas mÃ¡s potentes, para automatizar mejor, etc. igual quiero, o sea, igual probÃ©moslo por la manera de transiciÃ³n de repente, pero creo que tengo toda la intenciÃ³n de emigrar, porque de hecho lo que quiero eventualmente es que el CRM, nuevamente esto fue una mala interpretaciÃ³n mÃ­a, porque cuando yo pienso en CRM es todo estÃ¡ ahÃ­, ya me explicaste que no, pero eventualmente.  Quiero que mi CRM pueda gestionar tambiÃ©n la bandeja de TikTok, la bandeja de Instagram, es...
+
+1:00:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Yo te querÃ­a preguntar, Ale, estÃ¡s evaluando pasarte a cÃ³mo, Â¿verdad? No va a terminar la llamada, este...
+
+1:00:11 - Nicolas Borda Silva
+  Ah, sÃ­, sÃ­, sÃ­.
+
+1:00:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Nos pasamos rÃ¡pido a una para cerrar el tema de cÃ³mo, porque es importante. Dale.

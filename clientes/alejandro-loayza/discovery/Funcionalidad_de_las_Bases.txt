@@ -1,0 +1,404 @@
+Impromptu Google Meet Meeting - November 25
+VIEW RECORDING - 329 mins (No highlights): https://fathom.video/share/WJAifehULKp3oGbPC299x4xDuBjrV9XR
+
+---
+
+0:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Clave, todo lo que tÃº me has mostrado, un agente de dÃ­a lo puede hacer mucho mÃ¡s rÃ¡pido, claramente, habiendo sido entrenado en base a cÃ³mo ustedes lo hacen, es lo mÃ¡s importante, pues, Â¿no?  RÃ¡pidamente el contexto que hemos podido evaluar.
+
+0:13 - Alejandro juan Loayza jordan
+  DÃ©jame, dÃ©me medio segundo, dÃ©jame que necesito mi cuaderno. De hecho, lo que te iba a decir es, lo que te acabo de mostrar es lo que ya no quiero hacer.  Lo que te he mostrado es la versiÃ³n artesanal. Ok. Â¿CuÃ¡l serÃ­a tu situaciÃ³n ideal?
+
+0:25 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Que se genere en automÃ¡tico. SÃ­, ya estoy.
+
+0:44 - Alejandro juan Loayza jordan
+  De hecho, lo que te mostraba solo era como que la data para que entiendas. Al final, eso es una matemÃ¡tica bien simple.  Una buena base de datos te ayuda a hacer todo esto en un segundo, Pero ya ahÃ­ lo vemos. SÃ­, total.
+
+0:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mira, bueno, no voy a profundizar tanto en el contexto, pero es bÃ¡sicamente cuÃ¡l es tu situaciÃ³n actual.
+
+0:59 - Alejandro juan Loayza jordan
+  las aguas y las actualidad.,broken.
+
+1:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entendemos que estÃ¡s manejando entre 130 a 150 clientes activos y estÃ¡s recibiendo entre 500 a 600 leads al mes.  Este dato es importante y ahora vamos a ver por quÃ©. Porque esos son los problemas principales que hemos identificado.  Primero que hay respuestas tardÃ­as con los clientes activos por alta carga operativa. Riesgo de dejar mensajes sin atender y casuÃ­sticas nutricionales que requieran respuesta inmediata.  Claramente eso es un poco general. Luego lo podemos desclosar en caso de optes por la implementaciÃ³n para atacar punto por punto.  Pero me gustarÃ­a saber, Alejandro, Â¿hay algÃºn punto mÃ¡s en estos tres bullet points que no habÃ­amos considerado como problema principal que tienes con tus clientes activos hoy en dÃ­a?  Te dirÃ­a que ahÃ­ deberÃ­a entrar, a ver, para el monitoreo si es respuesta tardÃ­a, es riesgo de mesfaces, casuÃ­sticas.
+
+1:47 - Alejandro juan Loayza jordan
+  Ya, eso es en el pilar del monitoreo. DirÃ­a que en el pilar de la sesiÃ³n no hay nada que hacer porque es presencial.  Pero en el pilar de la producciÃ³n de planes creerÃ­a que podrÃ­a entrar por ahÃ­.
+
+2:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, que bÃ¡sicamente es lo que nos acabas de mostrar, Â¿no? Claro, o sea, lo que te he mostrado se hace muy a mano y es muy automatizable, solo que ya tuve una mala experiencia con un programador y etc, etc, y todo malo.
+
+2:14 - Alejandro juan Loayza jordan
+  Claro, me imagino, no te preocupes.
+
+2:17 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Justamente, y gracias por mencionar eso, porque justo nos decÃ­a LÃ³nde lo habrÃ¡ mencionado, pero de por sÃ­ nosotros no somos proveedores como tal.  Nosotros no vamos a darte un programador, no vamos a darte un SaaS que te funcione y te vamos a prometer mil cosas, no.  Nosotros somos partners y queremos acompaÃ±arte a que tÃº cumples los resultados, que con nuestro sistema vamos a permitir que logres, bÃ¡sicamente.  Con respecto a los leads orgÃ¡nicos, entendemos que no hay un sistema de calificaciÃ³n ni seguimiento, las conversaciones se enfrÃ­an en minutos y tenemos pÃ©rdidas de venta directa, pÃ©rdidas de oportunidades de venta directa.  De estos 500 aproximadamente que te llegan al mes, Alejandro, Â¿cuÃ¡ntos crees que llegues a concretar en venta? Ah, justo acÃ¡ tengo chorreando mi...
+
+3:00 - Alejandro juan Loayza jordan
+  Chico de ventas. Â¿CuÃ¡ntas? Este mes, Â¿cuÃ¡ntos? Â¿CuÃ¡ntas habrÃ¡ cerrado en personas? Son como... Casi 40. Claro, son como 20 cada...  Puede haber sido unas 40. Te dirÃ­a que algo entre el 5 y 8% quizÃ¡s. Ok. Unos dÃ­as del mes, entonces ahÃ­, y de meses cuando mÃ¡s.  No, sÃ­, claro, pero dirÃ­a que puede ser un 5% siendo consumador. Ok, perfecto.
+
+3:29 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Esto Ãºnicamente con una persona de atenciÃ³n al cliente o cuÃ¡ntas personas?
+
+3:33 - Alejandro juan Loayza jordan
+  DirÃ­a que ha sido un mix, sobre todo al comienzo, pero en buena medida es Ã©l. Yo tambiÃ©n me he tomado a veces.  Ok, genial.
+
+3:41 - Alonso Aguila
+  ImagÃ­nate, Alejandro, Â¿cÃ³mo se verÃ­an esos 500 leads al mes?
+
+3:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Siendo atendidos en menos de un minuto 24-7 por un Alejandro, pero que se metiÃ³ en tu WhatsApp. Â¿TÃº crees que eso impactarÃ­a directamente en el incremental de ventas?  SÃ­, sÃ­, Â¿no?
+
+3:55 - Alejandro juan Loayza jordan
+  O sea, creerÃ­a que... Estoy en el ignorante. CreerÃ­a que tiene que haber un componente de closing humano, de todas formas, porque para esto yo vendo por audio, ya si me dices que el bot hace mi voz igualita, ya me cagaste, pero estoy intentando no engaÃ±ar a la gente, el sentido de que antes Rodrigo sin querer queriendo decÃ­a que era yo, y como estoy en una etapa de rebranding a marca comercial, como intento desprenderme un poco de eso, entonces, no quiero, o sea, sÃ­ quiero decir, oye, no soy homen, pero una precalificaciÃ³n, uno no la hacemos, muy artesanalmente, y sobre todo me duelen el seguimiento, porque son leads por los que ya paguÃ©, ya me esforcÃ©, y que no hago nada con ellos, no hago email marketing, ni remarketing, nada, nada, entonces, porque no tengo cÃ³mo gestionarlos.
+
+4:53 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total, total, no, es muy importante lo que mencionas, y uno ahÃ­, con todo lo que dijo Alon, sÃ­ se puede, o sea, el Ãºnico lÃ­mite con la inteligencia.  Inteligencia Artificial hoy en dÃ­a es la imaginaciÃ³n y eso es sÃºper loco y es por eso que nos hemos metido en este modelo.  AcÃ¡ te explico un poco mÃ¡s y estoy 100% de acuerdo con lo que tÃº mencionas. DespuÃ©s de todo, no buscamos que la gente por WhatsApp venda como tal.  Y te lo cuento desde la experiencia porque nosotros estamos especializados en el sector inmobiliario y lo Ãºltimo que se vende por WhatsApp es una casa, es una propiedad, un departamento.  No se logra, es imposible. Sin embargo, estÃ¡ lo que tÃº mencionas. Esta gente de IA se encarga de la primera etapa del proceso comercial, la mÃ¡s repetitiva y abrumadora que es filtrar a la gente que me puede comprar de la gente que nunca me va a comprar.  AhÃ­ estÃ¡ la chamba donde la IA entra y te dice, oye, mira, sabes que Alejandro ha llegado a estos tres clientes, de estos 500, 350 no nos van a comprar porque han estado ahÃ­ curiosos y 200 de estos los estamos reactivando porque no se han respondido, pero de estos 500, 100 de ellos se han demostrado intenciÃ³n de compra real y te los voy a derivar porque ya han llegado hasta cierta etapa donde nos han mostrado su interÃ©s.  No sÃ© si me dejÃ© entender. Ese es el fin que la gente debe tener en tu negocio. Entonces, venda?  A diferencia de un e-commerce porque es mucho mÃ¡s fÃ¡cil un producto de retail, Si voy a buscar una zapatilla y le pago proplÃ­n, Ãºnicamente lo hago ya.  Pero es diferente porque tu servicio es diferente, valga la redundancia. Pero solo querÃ­a aclarar eso. Â¿CuÃ¡l es la soluciÃ³n que te estamos proponiendo nosotros?  Un agente conversacional IA247. Este te va a otorgar servicio al cliente, bueno, a tus clientes activos, conversiÃ³n de tus leads orgÃ¡nicos.  O una pregunta, Alejandro, Â¿usas el mismo nÃºmero con tus clientes activos que con los que te llegan orgÃ¡nico por TikTok para prospectarlos?
+
+6:32 - Alejandro juan Loayza jordan
+  SÃ­, literalmente en WhatsApp Business, todos los archivados, tengo 150 archivados.
+
+6:39 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok. Y esos 150 son todos los clientes que pagaron.
+
+6:44 - Alejandro juan Loayza jordan
+  Y los leads estÃ¡n afuera. Perfecto.
+
+6:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eso estÃ¡ genial porque el mismo agente de IA, la manera en la que se va a comunicar con los clientes activos no va ser la misma con los que no son clientes.  A eso querÃ­a llegar. AsÃ­ que esta agente conversacional voy a estar en un mismo nÃºmero sin mayor problema. Â¿QuÃ© mÃ¡s te otorga esta gente?  Registro y administraciÃ³n automÃ¡tica y todo claramente va a ser desde el mismo nÃºmero que es lo que nos acabas de confirmar.  Vamos a desglosar un poquito, Alejandro, y acÃ¡ perdÃ³name por todo el texto, pero siempre es importante la transparencia con la que nosotros te podemos decir, oye, nuestro agente de IA puede hacer esto.  Porque nada sirve que yo te diga, ah, nuestro agente de IA es 24 o 7, te contesta en menos de minuto y te iba con tu proceso comercial.  Pero al momento de la hora yo te puedo decir, no, es que no acordamos en eso, no, nosotros no vamos a hacer eso y te queremos detallar punto por punto quÃ© es lo que puede hacer esta gente.  Por el lado del servicio premium de clientes activos, respuesta inmediata 24 o 7, el tono cercano y coherente a la marca, aquÃ­ o replicamos la manera en la que tÃº escribes o la de los otros chicos, no hay ningÃºn problema, resoluciÃ³n de casuÃ­sticas complejas, equivalencias, ajustes, alternativas fuera de casa, ajuste de calorÃ­as, porciones segÃºn el plan del paciente, asegura que ningÃºn mensaje quede sin responder, reapertura automÃ¡tica de conversiones inconclusas.  Hasta aquÃ­ posiblemente te ayude con unas dudas que ya debes tener. El agente de IA puede hacer todo esto.
+
+8:00 - Alejandro juan Loayza jordan
+  Eso tal y como lo hacemos nosotros.
+
+8:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Por supuesto que sÃ­. Si tÃº en un Google Docs o en un Word me pones el paso a paso de lo que ustedes hacen para calcular las calorÃ­as, para actuar ante ciertas situaciones o utilizar la calculadora en cierto paso, lo Ãºnico que tenemos que hacerle con el agente de IA es decir que haga eso.  BÃ¡sicamente. No, Sandy, es que nosotros tenemos una manera distinta de calcular las calorÃ­as. Se le explicamos al agente de IA.  No hay ningÃºn problema.
+
+8:23 - Alejandro juan Loayza jordan
+  Con respecto a esta funciÃ³n, Â¿tienes alguna pregunta, Alejandro? SÃ­. Â¿DÃ³nde estÃ¡ el...? O sea, a ver, si yo puedo, yo tengo mis procesos redactados hasta cierto punto.  Ok. Y en teorÃ­a yo puedo, voy a llamarle programaciÃ³n clÃ¡sica en la ignorancia, pero con programaciÃ³n clÃ¡sica puedes armar un flujograma de indicaciones que se hagan.  Â¿CuÃ¡l serÃ­a la diferencia entre este IA agent y un chatbot mÃ¡s clÃ¡sico con pathways establecidos? QuÃ© buena pregunta.
+
+8:57 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Muy, muy buena pregunta. Y de hecho... primero, la diferencia entre un chatbot y un agente de IA, me encanta responder esta pregunta porque siempre destruyo los chatbots, pero los chatbots Ãºnicamente van a estar basadas en una lÃ³gica ABAB, es decir, si ocurre esto, pueden pasar estas dos decisiones, nada mÃ¡s.  Entonces, pongÃ¡mosle un caso mÃ¡s aplicado a la realidad. Por favor, dime tu nombre y tu DNI para poder continuar.  Entonces, acÃ¡ si yo le pongo el nombre y le pongo el DNI, pero imaginemos que me equivoco en un dÃ­gito, el chatbot va a entrar en trompo y no va a poder responder y continuar con el proceso.  Por ejemplo, a ver, dame un minuto, Alejandro, por favor. SÃ­, por favor.
+
+9:53 - Alejandro juan Loayza jordan
+  Ya, ahora sÃ­, discÃºlpame.
+
+9:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entiendo que es el binario, bÃ¡sicamente, Â¿no?
+
+9:59 - Alejandro juan Loayza jordan
+  Exacto. El chatbot es binario.
+
+10:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Va a estar establecido en base a un cierto paso a paso. No va a tener la flexibilidad que tienes, por ejemplo, tÃº, que tiene, por ejemplo, tu equipo a responder varias preguntas frecuentes.  No va a tener la flexibilidad de poder responder con un tono amigable. No va a tener la flexibilidad de poder entrar a un Google Sheets, que es un Excel, para revisar quÃ© es lo que ha comido el paciente el dÃ­a de ayer o cuÃ¡l es la meta del paciente.  No va a tener la flexibilidad, por decir una idea, de entrar a tu calendario y revisar la disponibilidad que tÃº tienes para agendar una visita.  No va a tener la flexibilidad que tiene un humano para salirse del WhatsApp e interactuar con distintas plataformas y mantener la conversaciÃ³n por el WhatsApp.  No sÃ© si me...
+
+10:41 - Alonso Aguila
+  AhÃ­, mira, Alejandro, por ejemplo, Â¿no? En mi caso, yo que soy, tengo una categorÃ­a sÃºper alta en la TAM.  Cada vez que yo quiero hablar con el WhatsApp de la TAM, y tienen ellos en el chatbot, tienen buena gente.  Yo, para llegar a un asesor, tengo que bÃ¡sicamente digitar un... NÃºmero telefÃ³nico, o sea, entro, paso uno, paso tres, paso cuatro, opciÃ³n nueve, siete, otros, otros, otros, asesor, y reciÃ©n entra un asesor.  Entonces, al final, como bien decÃ­a Santiago y tÃº, el chatbot es algo binario, es algo que tiene ya un parÃ¡metro, un flujo establecido y que no permite salirte de ese flujo.  El agente, al final, como te dices, Santiago, tambiÃ©n, entra a toda, a este Google Sheet, revisa la informaciÃ³n del paquete, puede tener una lÃ³gica precargada dentro del flujo y la lÃ³gica que tiene.  O al final, accede y tiene una conversaciÃ³n casi al natural, como si fuera una persona, este, y mantiene la coherencia.  Este, es el valor agregado al final del chatbot, Â¿no?
+
+11:50 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, bÃ¡sicamente, y solo para complementar lo que dice Alon Alejandro, no sÃ© si te ha pasado la tÃ­pica llamada que te hace claro Movistar, de marca la opciÃ³n uno para marcar cinco.  SÃ­, Y luego cuando marques esta opciÃ³n te voy a mandar 10 opciones mÃ¡s. Ya, esto es un chatbot y sinceramente es por eso que me dan tanta cÃ³lera.  Lo que te estoy mostrando ahora en pantalla es uno de nuestros clientes activos que tiene un agente de ahÃ­.  Es un inmobiliario. AgradecerÃ­a mucho la confidencialidad. Pero bÃ¡sicamente te voy a mostrar cÃ³mo actÃºa hoy en dÃ­a un agente.  Voy a agarrar, por ejemplo, ese de acÃ¡ que ha citado. AcÃ¡ lo tenemos por etiqueta. Es el CRM que tÃº tendrÃ­as que recalcar con todos los estados que tÃº quieras manejar en tu negocio.  Pero, por ejemplo, miremos este chat de una visita agendada. Cabe recalcar, Alon, que MÃ­a ya ha vendido 7 propiedades este mes en lo que da con cumbres.  Pero te muestro rÃ¡pidamente. Todas las personas empiezan con ese mensaje. Mensaje por default, mensaje cuadriculado. Y el agente empieza a responder asÃ­.  Santi, pero yo siento que esto suena muy chatbot. No me gusta que tenga emojis. No me gusta que lo haga asÃ­.  Perfecto, lo cambiamos. No pasa nada. La inmobiliaria o el cliente decidiÃ³ que salude asÃ­. Esto es totalmente personalizable y cabe recalcar.  Vemos cÃ³mo responde. Soy de Trujillo. AquÃ­ ya tenemos la primera... Esta caracterÃ­stica no estÃ¡ condicionado a responder con una palabra Trujillo o con mayÃºsculas ni nada, no, escribe como una persona normal.  Luego vemos que vuelve a repetir Trujillo porque asÃ­ somos los humanos, escribimos normal, no escribimos tan robotizados y el agente empieza a responder, Â¿no?  Por ejemplo, ese guioncito tambiÃ©n es una caracterÃ­stica que la inmobiliaria le dejado, quieren que se den cuenta que es un asistente virtual, no pasa nada.  Vemos que responde, le pide en este caso el nombre y apellido, le menciona, es obligatorio, pero nos ayudarÃ¡ a atenderte mÃ¡s rÃ¡pido.  Le da el nombre y luego empieza a darle toda la informaciÃ³n sobre el proyecto, Â¿no? Le da la informaciÃ³n, le da la informaciÃ³n, termina de darle informaciÃ³n y acÃ¡ sigue con la conversaciÃ³n, Â¿no?  Si te das cuenta, el agente siempre termina con una pregunta que estÃ¡ orientada al flujo del negocio. Este agente que estÃ¡s viendo en particular estÃ¡ orientado a agendar visitas.  Si tu agente estÃ¡ orientado a agendar una llamada virtual contigo para que tÃº seas el closer, ese es el objetivo que va a tener la gente y va a guiarlo sutilmente a cada prospecto con el que hable, Â¿no?  Mira, le pregunto. Le dicen que quieren conocer el proyecto y sigue hablando, sigue hablando y aquÃ­ como sabe que quiere conocer el proyecto, lo que hace la gente es que tiene que hacer una calificaciÃ³n financiera, que en tu caso serÃ­a la calificaciÃ³n para ver si aplica el programa, no sÃ©, de repente miras presupuestos, si de repente miras edad, los filtros que tÃº tengas para ver si el cliente califica o no califica y empiezan a hablar.  Y algo que es sÃºper gracioso es que el 80% de las personas que han conversado con esta gente de inteligencia artificial creen que es un humano, porque le dicen gracias seÃ±orita al final.  Y eso que estÃ¡ sÃºper todavÃ­a robotizado.
+
+14:30 - Alejandro juan Loayza jordan
+  A lo que voy, Alejandro, es que la diferencia con un chatbot es abismal.
+
+14:34 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Es como si tuviÃ©ramos un Alejandro 24-7 a como tengamos una operadora de Movistar que nos llama a mandarnos 100 opciones y que simplemente nos marea y no nos da soluciones.  Dos preguntas sobre eso, de hecho.
+
+14:47 - Alejandro juan Loayza jordan
+  Una es, Â¿como parte de lo que ustedes hacen, manejan algÃºn tipo de asesoramiento comercial? Pregunto porque finalmente ustedes, o sea, lo que entiendo, el AI en EspaÃ±a.  Es herramienta y al final el flujo se puede conversar, el objetivo se conversa, o sea, da igual si no se puede comer, pero finalmente, de alguna forma, Â¿hace un asesoramiento comercial o eso es algo que tendrÃ­a que ver por mi cuenta?  Porque por ejemplo, repente, por ejemplo, yo cuando vendo en nutriciÃ³n, nunca le voy a soltar el precio a nadie, porque de hecho yo aprendÃ­ a ventas viendo videos de YouTube de High Ticket Closing.  Que estÃ¡s viendo ya mÃ¡s de 40 minutos, una hora, y de ahÃ­ hay objection handling y bla, bla, bla, bla.  Entonces, yo termino haciendo eso sin querer, pero de repente, traducir eso a un bot no es la mejor forma de vender.  A eso me refiero con asesoramiento comercial. De repente me dicen, oye, Alejandro, para lo que estÃ¡s queriendo vender, deberÃ­as cambiar, bla, bla, bla, tu flujo asÃ­, tu proceso, etc.  No sÃ© si hacen eso tambiÃ©n.
+
+15:52 - Santiago Isaias Zavaleta Ayala (Ulima)
+  O sea, bÃ¡sicamente serÃ­a mi fuerte, porque acÃ¡ lo que tendrÃ­amos que hacer es dentro de tu proceso y tu flujo.
+
+16:00 - Alonso Aguila
+  O es tratar de, por lo menos en diferentes escenarios, lo chÃ©vere es que aparte yo soy cliente tuyo, entonces ir conociendo un poco cuÃ¡l es tu pÃºblico objetivo, quÃ© tipo de clientes tienes, si son bastante parecidos a mÃ­ o tienes algÃºn otro tipo de cliente, entonces ir conociendo los diferentes buyers que puedes tener e ir nutriendo a la gente de tal manera en la que al final termine, Ã©l tambiÃ©n entendiendo a quÃ© conversaciÃ³n se estÃ¡ enfrentando, Â¿no?  Para que, digamos, tenga un tipo de respuesta orientada a esa conversaciÃ³n, porque hasta ese nivel nosotros podemos comenzar a entrenar a la gente, Â¿no?  O al final, digamos, yo voy mÃ¡s directo al precio, entonces si al final la primera pregunta que hacen ya es tema de precio, entonces de repente es una negociaciÃ³n un poco mÃ¡s agresiva de tener un tipo de preguntas y respuestas que responder.  Claro, si es un tono mÃ¡s que le expliques primero el procedimiento o demÃ¡s, tambiÃ©n lo podemos llevar por ahÃ­, entonces al final podemos ir tratando de entender la casuÃ­stica.  Que tengas, de tal manera en la que al final terminemos humanizando lo mÃ¡s que se pueda o hasta el grado que tÃº quieras y la gente que te vamos a vender.  Ya, bacÃ¡n, eso me queda clarÃ­simo.
+
+17:10 - Alejandro juan Loayza jordan
+  Lo mismo que iba a decir, dÃ­meme.
+
+17:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, no, eso era para fortalecer lo que dijo Alon, Alejandro, disculpa.
+
+17:17 - Alejandro juan Loayza jordan
+  En la categorÃ­a anterior, ya, el punto de resoluciÃ³n de casuÃ­sticas complejas, equivalencias, etcÃ©tera, va a pasar, y este es un gran dolor de huevos, disculpame el francÃ©s, pero es un gran dolor de huevos.  Que un paciente te pregunta, te manda una foto de algo, Â¿puedo comer esto? No tiene etiqueta, hay muchas cosas de las que nos van a preguntar que no estÃ¡n en una base de datos.  Â¿CÃ³mo funciona el proceso de scraping o de investigaciÃ³n o cÃ³mo maneja respuestas para los que no ha sido entrenado?  BÃ¡sicamente, entrenÃ¡ndola.
+
+17:53 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Si es que nos mandan una foto de una manzana, digamos, y... ... ... ... Y el cliente ya ha ingerido ciertos alimentos.  Â¿CuÃ¡l serÃ­a el proceso? Y te hablo desde mi ignorancia porque al final nos acoplarÃ­amos a cÃ³mo lo manejan ustedes, Â¿no?  El agente de IA irÃ­a a revisar la tabla de ese paciente. Imaginemos que es un Excel y en ese Excel hay distintas columnas y tendrÃ­a que hacer un anÃ¡lisis, un cÃ¡lculo para ver cuÃ¡nto es lo que ha comido y ver si esa manzana puede entrar bien en ese plan, por decir una idea, Â¿no?  Ahora, Â¿cÃ³mo calcula si la manzana tiene las macros correctas y demÃ¡s? Va a depender a cÃ³mo ustedes decÃ­an que tiene que calcularlo.  Si es que nos dan un estimado, por ejemplo, por asÃ­ decirlo, de alimentos con sus respectivas macros, genial. Si es que tienen alguna pÃ¡gina que utilicen ustedes para calcularlo, genial.  El agente de IA sabe que uno de los pasos antes de dar esa informaciÃ³n es ir a esa pÃ¡gina y calcular lo de X alimento.  BÃ¡sicamente es hacer lo que hace un humano, pero como lo hace un agente. TendrÃ­amos que hacer bien especÃ­ficos, Alejandro, con el paso a paso que va a seguir, bÃ¡sicamente.  Si es que tenemos seis fuentes diferentes y de esas seis fuentes el agente tiene que revisarlas antes de dar la respuesta.  Respuesta, las tendrÃ¡ que revisar. Santi, Â¿pero eso va a hacer que se demore mÃ¡s de un minuto en responder?  Posiblemente, pero es mejor atenderlo en un minuto, un minuto y medio, todas las respuestas bien dadas, a que responder cualquier cosa en 45 segundos.  Y clave a todos los clientes.
+
+19:13 - Alonso Aguila
+  AhÃ­ tambiÃ©n con lo que te dice, Santiago, o sea, si bien te ha dado el ejemplo de una manzana, o sea, en mi caso puntual, ya que yo como un menÃº frente a la fÃ¡brica de Onofreo, y le doy un poco de platos mÃ¡s complejos, entonces, al final, este, el agente, si lo entrenamos bien, sÃ­ puede determinar un tipo de imÃ¡genes.
+
+19:36 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, yo le pongo un arroz con pollo al frente, Ã©l sÃ­ puede determinar que es un arroz con pollo, Â¿me entiendes?
+
+19:43 - Alonso Aguila
+  Claro, Entonces, la idea es que, este, Â¿cÃ³mo se llama?, pueda ir entendiendo y analizando en sÃ­, este, lo que se le ponga al frente, y tratando de ir a la tabla que ustedes le precarguen, y poder, como se llama, dar una...
+
+20:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Una respuesta.
+
+20:01 - Alonso Aguila
+  Entonces, es un plato mediano de arroz con pollo. Dentro de las calorÃ­as estÃ¡ en tal sitio.
+
+20:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, si estÃ¡ en plan, ok, prosigue. Claro.
+
+20:09 - Alejandro juan Loayza jordan
+  Sobre todo porque ya hay enlatados o ya hay, este, no sÃ© cÃ³mo se llaman estos packs que descargas en programaciÃ³n, pero ya existe esta tecnologÃ­a donde escaneas con una foto y te dice cuÃ¡ntas calorÃ­as tiene la vaina.  Entonces, si me dices que se puede manejar de esa forma, bacÃ¡n, bacÃ¡n.
+
+20:28 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Sobre todo porque algo que me da mucho miedo es que se inventen datos los agentes.
+
+20:34 - Alejandro juan Loayza jordan
+  Y mucho de lo que hacemos viene de nuestra propia experiencia. Entonces, supongo que va haber un proceso de documentaciÃ³n medio extenso para que esto funcione, pero se puede, me dicen.  SÃ­, totalmente.
+
+20:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  justo eso es lo que mencionas, Alejandro. Es un proceso de documentaciÃ³n y de no estandarizaciÃ³n, sino dejar mapeado cuÃ¡l va a ser ese paso a paso para que la gente pueda entender.  Mira, con respecto a la conversaciÃ³n... PerdÃ³n, a la parte B, que es la conversiÃ³n de leads orgÃ¡nicos, puede ser este mismo nÃºmero, claramente.  AcÃ¡ sÃ­ se equivocÃ³, pero es bÃ¡sicamente respuesta en menos de 60 segundos a todos los prospectos que nos escribÃ­an por informaciÃ³n, por...  Entiendo que no manejas ads, no manejas de pago.
+
+21:18 - Alejandro juan Loayza jordan
+  Ya voy a empezar ahorita, y de hecho, justo quiero poder registrar eso, o sea, ahÃ­ te estoy cortando un poco, sorry, pero justo ahora en Navidad, como es un mes bajo, quiero empezar a usar ads para asegurar mi flujo, y algo que le preguntaba a mi chica que me va a manejar el meta es, oye, Â¿tengo forma de registrar cuÃ¡ntas ventas de tus ads se convierten?  Ella me dice, necesitas algo un poco mÃ¡s potente, y justo te iba a preguntar si el bot puede hacer eso.  Disculpa, la gente.
+
+21:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, mira, de que puede hacerlo, puede hacerlo, pero no lo estamos contemplando. Para este proyecto, Â¿por quÃ©? Y eso es una buena apreciaciÃ³n.  Primero que siempre tÃº tienes que mencionarnos quÃ© es lo que mÃ¡s te generarÃ­a impacto en el siguiente mes y en base a eso tendrÃ­amos que atacarlo para que recibas los resultados mÃ¡s rÃ¡pido.  Pero este alcance que nosotros estamos mostrando ahora es lo que mÃ¡s te va a generar resultados de acÃ¡ en el primer o segundo mes.  Es por eso que estamos empezando con esto.
+
+22:21 - Alejandro juan Loayza jordan
+  De que puede hacerlo, puede hacerlo, pero no lo hemos incluido acÃ¡. Entiendo a quÃ© te refieres, Â¿no?
+
+22:25 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Me llegan mil leads por mis campaÃ±as y yo quisiera saber de esos mil cuÃ¡ntos son detectados. Â¿CuÃ¡ntos Â¿CuÃ¡ntos son de Facebook?  Â¿O cuÃ¡ntos son de Instagram? Â¿A eso te refieres a la trazabilidad de las campaÃ±as?
+
+22:36 - Alejandro juan Loayza jordan
+  SÃ­, a trazabilidad, pero, o sea, te lo digo porque si yo quiero hacer mi estadÃ­stica de cuÃ¡nto mi ROI, de cuÃ¡ntos soles de ads estoy obteniendo, por cada sol de ads, cuÃ¡nta plata estÃ¡ entrando, para saber eso tengo que saber el revenue total que estoy obteniendo de venta solo de los leads de los ads, no los orgÃ¡nicos.  Entonces, yo ahorita le voy a decir, este mes le voy a decir a Rodri, o escÃºchame, cuando vendas algo, sube en el chat.  A ver, esto, si vino de ads o no, porque te sale. Ah, si te sale, si es que te sale, Â¿por quÃ© te sale?
+
+23:07 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Porque mandan un mensaje por default, me imagino.
+
+23:09 - Alejandro juan Loayza jordan
+  No, porque sale un, o sea, aparte, te sale como un, como un template, como si lo enviaras en como, en un CRM clÃ¡sico, te sale como un template de que le han dado click a tu ad.  Ok, si es que sale eso, sÃ­, se puede tener otra seguridad.
+
+23:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  En el mismo CRM que tenga la gente, ahÃ­ va, podemos poner una columna, Â¿no? Ad, o campaÃ±a, o por dÃ³nde vino, y lo colocamos, y tÃº vas a ver cuÃ¡nta conversiÃ³n tuvo esos de ahÃ­, en el caso se opte por llegar a esa dimensiÃ³n.  Pero sÃ­, todo se puede personalizar. Lo Ãºnico que no puede hacer la idea, Alejandro, yo estoy seguro que lo sabes, es conectar con las personas y transmitir.  Es lo Ãºnico que no puede hacer la idea. Y nada, ver, siguiendo por acÃ¡, es el manejo de objeciones, calificaciÃ³n automÃ¡tica segÃºn interÃ©s y necesidad, conversaciÃ³n persuasiva con avances a la venta directa, que aquÃ­, por lo que nos menciona, serÃ­a mÃ¡s que todo al agendamiento o a esa llamada.  Donde tÃº harÃ­as el closing. DerivaciÃ³n automÃ¡tica, links de pago. Esto aquÃ­ se eliminarÃ­a porque ya no harÃ­amos eso. Y la reactivaciÃ³n lÃ³gica solo si la conversaciÃ³n quedÃ³ pendiente.  Â¿A quÃ© se refiere esto? Si un lead nos deja de contestar por A o B motivo, en una hora el mismo agente de IGA le vuelve a mandar un mensaje para saber si sigue por ahÃ­ o simplemente para retomar la conversaciÃ³n.  AsÃ­ de simple. Esta simple funcionalidad cambia las reglas del juego porque ningÃºn lead se va a quedar sin respuesta y vamos a estar insistiendo hasta que respondan.  Sin embargo, cabe recalcar a Alejandro que esto ya es un poco mÃ¡s tÃ©cnico, pero si es que estos seguimientos automÃ¡ticos se salen de las 24 horas, Meta nos cobra.
+
+24:39 - Alejandro juan Loayza jordan
+  Y es 0.07 por mensaje. BÃ¡sicamente, solo para aclararlo. Igual que en el CRM, Â¿no? O sea, el API de WhatsApp que te cobra por conversaciÃ³n y una conversaciÃ³n cierra las 24 horas y bla, bla, bla.  Totalmente. Â¿EstÃ¡n manejando algÃºn CRM ustedes ahora?
+
+24:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, de hecho, la razÃ³n por el viernes yo me iba a meter a jugar con Como, pero como...
+
+25:00 - Alejandro juan Loayza jordan
+  Como hablÃ© con Alonso, me dijo, pero fÃ¡cil, puedes hacer eso con nosotros, y yo le dije, antes me aguanto un toque.  Claro. De hecho, falta un puntito ahÃ­ que era el de, o de repente estÃ¡ ahÃ­ y no lo he entendido, el follow up a lead, solo que mÃ¡s arriba estÃ¡ redacto diferente.  A ver, MÃ¡s arriba incluso, antes de las funciones. Â¿QuÃ© te, quÃ© te, quÃ© en seguimiento, el tÃ©rmino seguimiento, mÃ¡s abajo.  Con el seguimiento de leads. Esos leads que te escriben y de repente lanzaste el precio y nunca te escribieron, etcÃ©tera, Â¿no?  Ya. El punto de leads orgÃ¡nicos, el segundo punto del primer bullet. El segundo punto del primer bullet.
+
+25:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Leads orgÃ¡nicos, tiene tres bullets.
+
+25:47 - Alejandro juan Loayza jordan
+  Ok. Sin sistema de calificaciÃ³n ni seguimiento. La palabra seguimiento para mÃ­ es clave. Sin sistema de calificaciÃ³n ni seguimiento.  Son todos esos leads. O sea, te decÃ­a que abajo en la lista de funciones. En realidad es, no me quedaba tan claro cuÃ¡l era lo competente a seguimiento.
+
+26:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eso, esa era la pregunta.
+
+26:07 - Alejandro juan Loayza jordan
+  ReactivaciÃ³n de referencia.
+
+26:10 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, porque me imagino que eso se puede explayar mÃ¡s, pero ya.
+
+26:13 - Alejandro juan Loayza jordan
+  SÃ­, totalmente. Â¿Y de quÃ© manera se puede explayar asÃ­ a grosso modo?
+
+26:16 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Imaginemos que tÃº manejas cinco estados, Â¿no? Salud inicial, el lit tibio, el lit caliente, el lit frÃ­o, etc. Dependiendo en quÃ© estado se haya quedado ese prospecto, el agente le va a mandar un mensaje automatizado para reactivar.  AsÃ­ es no se ha dejado de responder claramente. Es decir, que si nos dejÃ³ de responder cuando el lit ya estÃ¡ caliente, ahÃ­ tiene que haber una plantilla, que va a una plantilla de meta, para mandar justo a ese tipo de clientes que estÃ¡n con ese estado.  Si es que se quedÃ³ en saludo y no nos dijo nada mÃ¡s, le mandamos una plantilla que diga, oye, vi que nos saludaste, si eres interesado, etc, etc, etc.  BÃ¡sicamente asÃ­. Perfecto. Y con respecto, sÃ­, menciona. No, ya, perfecto, perfecto. Con respecto a lo operativo, el registro automÃ¡tico, y esto cabe recalcar, y te quiero saber.  Es que si bien nosotros te podemos dar un CRM, que es una base de datos, donde tÃº vas a tener toda la informaciÃ³n de tus clientes, e inclusive te vamos a dar un CRM conversacional, que es como el que viste de la inmobiliaria, porque cuando te linkeas de frente a Meta, me imagino que sabes que pierdes la trazabilidad de tu celular o de WhatsApp web.  Te vamos a dar ese CRM conversacional para que tengas lo mismo ahÃ­, que tambiÃ©n lo puedes tener en celular o en la web, bÃ¡sicamente.  Ahora, Â¿por quÃ© te menciono esto? Porque si es que tÃº por A o B, maÃ±ana mÃ¡s tarde, quieras optar por COMO, COMO nunca va a reemplazar lo que nosotros estamos dando, porque lo mismo que ya te estoy explicando y te has dado cuenta del dimensionamiento.  Sin embargo, nosotros nos podemos integrar a COMO, nos podemos integrar a cualquier esperanza, Ãºnicamente, perdÃ³n, a cualquier CRM, Ãºnicamente para dimensionarlo, en el caso de que en un momento quieras optar por un CRM como tal, pero despuÃ©s de todo, nosotros tambiÃ©n te vamos a dar esa base de datos conversacional, como la vista que te puede dar un COMO con toda la tabla de tus clientes, como un Google Sheets, pero mÃ¡s Prime, por asÃ­ decirlo, bÃ¡sicamente.  Bueno, la trazabilidad completa de cada... La vas a tener ahÃ­. ActualizaciÃ³n por etapas, que es lo que te mencionaba, el estado del prospecto.  El panel simple con las mÃ©tricas operativas, que mÃ¡s que simple va a depender de las KPIs que tÃº quieras imaginar.  Y las automatizaciones vÃ­a N8N, que es la plataforma que utilicemos como backend, pero eso es un poco mÃ¡s tÃ©cnico y no importa.  BÃ¡sicamente, Â¿cuÃ¡les serÃ­an los resultados que nosotros esperarÃ­amos de acÃ¡ 60 dÃ­as? Â¿QuÃ© es lo que dura la implementaciÃ³n, Alejandro?  En los primeros 30 dÃ­as, eliminar el trabajo manual de seguimiento. Es lo mÃ¡s importante por lo que tengo entendido.  Las respuestas inmediatas a clientes activos, por lo menos las mÃ¡s bÃ¡sicas, las mÃ¡s primeras, las mÃ¡s principales, disculpa, y la conversiÃ³n inmediata de leads entrantes.  Ojo, 30 dÃ­as desde que acabÃ³ la implementaciÃ³n, no es desde que inicia. 45 dÃ­as, ya buscarÃ­amos o verÃ­amos ese aumento de conversiones sin inversiÃ³n en publicidad.  Claramente, esto va a depender de la pauta publicitaria. Lo que nosotros vamos a ofrecerte es el sistema que va a permitir que tÃº puedas potenciar tus conversiones.  Entonces, la trazabilidad completa del proceso comercial y mejor experiencia percibida y mÃ¡s adherencia en los planes, bÃ¡sicamente. Y finalmente, cuando ya habÃ­amos tenido esos primeros resultados...  Â¡Gracias! Â¡Gracias! Â¡Gracias! Simplemente tener un sistema estable y operativo a escala, mayor capacidad de atenciÃ³n sin contratar mÃ¡s personal y un flujo comercial completamente automatizado.  Y este serÃ­a bÃ¡sicamente el plan de implementaciÃ³n. No voy a andar tanto en punto por punto, pero sÃ­ es importante para que dimensionemos los tiempos, Â¿no?  La primera fase serÃ­a de configuraciÃ³n, que serÃ­a en dos semanas. AcÃ¡ te cuento un poco mÃ¡s. La primera semana, solo la primera semana, es una semana mÃ¡s de auditorÃ­a, donde vamos a conversar mÃ¡s contigo, conversar con tu equipo, entender bien cÃ³mo funciona tu negocio y despuÃ©s de esa semana empezamos con la construcciÃ³n de la gente alineado a lo que ustedes necesitan.  La fase 2 serÃ­a el entrenamiento, empezar a entrenar a la gente y en la semana 5 serÃ­a la activaciÃ³n para ver cÃ³mo la gente funciona en producciÃ³n, que serÃ­a la primera semana en la que ya va a entrar en la cancha.  La semana 4, eso no lo mencionÃ©, serÃ­an pruebas internas para que tu equipo lo pruebe con un nÃºmero demo para ver cÃ³mo estÃ¡ funcionando la gente.  Y finalmente, las Ãºltimas semanas serÃ­an Ãºnicamente de optimizaciÃ³n y entrenamiento a tenerlo alineado al 100%. Pero lo mÃ¡s cercano a lo que tÃº necesites.  Y digo no 100% Â¿por quÃ©? Porque cuando un producto o servicio llega al 100% es porque ya muriÃ³. Y bÃ¡sicamente esto va a ser una mejora continua y la gente va a estar mejorÃ¡ndose constantemente.  Y bueno, un poco mÃ¡s del stack tecnolÃ³gico, que igual luego te voy a mandar este PDF para el detalle.  Y con respecto a la inversiÃ³n, nosotros manejamos la modalidad de implementaciÃ³n y fin mensual. AcÃ¡ quiero hacer hincapiÃ© en algo.  La implementaciÃ³n incluye el desarrollo de la gente, la configuraciÃ³n del sistema, la conexiÃ³n a WhatsApp, el entrenamiento, la documentaciÃ³n, pruebas ajustes y acompaÃ±amiento por 60 dÃ­as.  Esta documentaciÃ³n, Alejandro, en esta documentaciÃ³n vas a tener desde cÃ³mo se construyÃ³ el agente y cÃ³mo ustedes tienen que utilizarlo, manejarlo en el caso quieran modificar alguna instrucciÃ³n.  No, que no me gusta que la gente estÃ© hablando de esta manera, quiero ponerle mÃ¡s jergas. Ustedes van a saber cÃ³mo hacerlo porque le vamos a documentar a ustedes el paso a paso de quÃ© tocar, quÃ© no tocar, cuando quieran hacer ciertas acciones.  Â¿Para quÃ©? Para que ustedes a largo plazo no siempre dependan de nosotros, porque al final nosotros como partners lo que buscamos es la independencia de nuestros clientes, porque no somos proveedores.  Sin embargo, siempre ofrecemos la mensualidad, que es el fin mensual, para hacerles el mantenimiento y estas correcciones por ustedes y lo mÃ¡s importante, el acompaÃ±amiento, bÃ¡sicamente.
+
+31:22 - Alejandro juan Loayza jordan
+  Â¿Por quÃ©?
+
+31:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Porque este agente de WhatsApp que te estoy mostrando, Alejandro, y tÃº te vas a dar cuenta cuando empecemos esta implementaciÃ³n, que es el primer paso.  Â¿Por quÃ© no colocar un agente en TikTok o un agente en Instagram o de repente un dashboard que me muestre quÃ© estÃ¡n haciendo mis agentes, mis campaÃ±as, etcÃ©tera, etcÃ©tera?  Esto es solo una soluciÃ³n de las muchas que se pueden hacer y es por eso que al final este acompaÃ±amiento es a largo plazo, mÃ¡s que todo.  Y claramente la garantÃ­a es que si no generamos los resultados medibles, o mejor dicho, no te entregamos algo funcional dentro de los primeros 60 dÃ­as, continuamos trabajando sin costo adicional hasta que ya la soluciÃ³n estÃ© 100% entregada y completa, bÃ¡sicamente.  Ya, perfecto.
+
+32:01 - Alejandro juan Loayza jordan
+  Tengo, Â¿cuÃ¡nto tiempo tienes todavÃ­a, este, Santiago? No, tÃº no te preocupes por eso, todavÃ­a me queda un ratito mÃ¡s para, para conversar, sin problema.  Ya, tengo un, hola. Â¿QuÃ©? Â¿QuÃ©? Oye, cagones. SÃ­, pero lo mismo, que cagones mi torta. Ya, este, ya, ok, ya, primera pregunta, el, hace un ratito cuando hablamos del dashboard del CRM y me hablaste del API clÃ¡sico, eso normalmente matan el celular, o sea, mata un nÃºmero.  LÃ¡pido, meta. Claro. En este caso, Â¿necesito hacer eso? O sea, pregunto para, para proyectar un poquito a eso. SÃ­.  Â¿Tengo que sacrificar un nÃºmero?
+
+32:50 - Santiago Isaias Zavaleta Ayala (Ulima)
+  MÃ¡s que sacrificarlo, porque no se muere, perderÃ­as la visibilidad que te da WhatsApp y WhatsApp web. Y pasarÃ­as a ver lo mismo, pero mediante una aplicaciÃ³n lo mismo.  Nosotros vamos a dar que se llama Chatwood, que vas a ver lo mismo que veÃ­as en WhatsApp, solo que lo vas a ver con otra aplicaciÃ³n e inclusive lo vas a ver, y te lo muestro rÃ¡pidamente, sÃ© si ya lo he decidido por acÃ¡ porque tambiÃ©n justo estÃ¡bamos revisando esto hace unos dÃ­as, lo vas a ver de esta manera, con etiquetas por estado.  Â¿De quÃ© me sirven estas etiquetas, Santiago? Que luego tÃº vas a poder sacar informes y revisar cÃ³mo estÃ¡n tus KPIs.  Imaginemos, Â¿no? Si tienes cuÃ¡ntos citados en los Ãºltimos siete dÃ­as. Ah, tengo siete, genial. Ah, quiero exportarlo. Ah, lo exporto, genial.  BÃ¡sicamente es como tener un WhatsApp, versiÃ³n CRM.
+
+33:32 - Alejandro juan Loayza jordan
+  Claro, esta pregunta es menos importante, pero Â¿puedo ver las etiquetas en vista? O sea, en los CRM se puede normalmente ver los funnels, las fases del funnel en esta vista, Â¿quÃ© se puede hacer?  El pipeline, como que por estado.
+
+33:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, este CRM no te da esta visibilidad. Sin embargo, eso es algo que te mencionaba, que en algÃºn futuro podemos hacer un dashboard especÃ­ficamente para tu negocio, tal cual como tÃº lo necesitas, que estÃ© alimentado.
+
+33:58 - Alejandro juan Loayza jordan
+  Con todos estos agentes. Con
+
+34:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  La informaciÃ³n de tu negocio y la informaciÃ³n de tus clientes, etcÃ©tera, etcÃ©tera.
+
+34:04 - Alejandro juan Loayza jordan
+  Igual esto parece mÃ¡s amigable para transicionar de, lo que la gente que trabaja aquÃ­ es muy joven realmente, y no son particularmente tecnolÃ³gicos a pesar de que son jÃ³venes, esto se ve mÃ¡s amigable para transicionar de WhatsApp a CRM, Â¿no?
+
+34:21 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, total, ademÃ¡s, perdÃ³name que te corte, algo interesante, si tÃº ves acÃ¡ hay una funcionalidad que se llama bot, que si pudiera eso lo cambiarÃ­a a gente, disculpa mi odio hacia los bots, pero acÃ¡ siempre va a estar en on, porque la gente les va a estar respondiendo, Â¿quÃ© pasa si uno de tus chicos estÃ¡ revisando que esta comportaciÃ³n es importante y necesitan intervenir ya?  AutomÃ¡ticamente lo pueden poner en off e intervenir y la gente va a dejar de responder. El agente de por sÃ­ automÃ¡ticamente se pone en off cuando ocurra cierto evento, en tu caso puede ser cuando lleguen a cierta etapa en la que ustedes tengan que intervenir para agendar la llamada o si ya se ha agendado, digamos.  Se van a tener el control del 100% de sus clientes Ãºnicamente potenciados con un asistente de guÃ­a. Por ejemplo, tÃº podrÃ­as cortar la intervenciÃ³n de la gente cuando ya sea un tema netamente de pago, Â¿me entiendes?
+
+35:13 - Alonso Aguila
+  Entonces, oye, Â¿cÃ³mo se llama? Ya agendÃ©, pero para confirmar la cita, necesito que me confirmes el pago dentro de las horas.  Entonces, te manda el yapeo y la gente ahÃ­ ya espera que entre alguien del equipo para que valide el pago y ya, si es que no, se puede automatizar directamente con el link de pago, Â¿no?
+
+35:34 - Alejandro juan Loayza jordan
+  Claro, te iba a preguntar, Â¿el sistema de etiquetados se automatiza tambiÃ©n? O sea, yo puedo ver como, no sÃ©, si me manda un pantallazo de un yape que automÃ¡ticamente pase de registrado a etiqueta pagada, Â¿de repente o eso es lo que tengo que hacer manualmente?  Mira, Â¿quÃ© es lo que nosotros te recomendamos?
+
+35:57 - Santiago Isaias Zavaleta Ayala (Ulima)
+  O sea, de que se puede, se puede, porque la gente va a leer comprobantes. Ahora, para evitar que algÃºn chistoso te mande un yape de la semana pasada, claramente toda la gente le dice, Â¿no?  Oye, cuando te manden un yape, verifica la fecha, que sea mayor al hoy, que no sea un cÃ³digo que se repita con otros yapes, pero nunca va a ser un 100% seguro que te valide el pago, porque para eso tendrÃ­amos que conectarnos directamente a la API de yape, la cual no estÃ¡ habilitada.  Pero podemos ponerle ciertos criterios, por lo menos, para que confirme el pago y te avise y que ya alguien haga una validaciÃ³n humana, pero de que se puede, se puede.  Simplemente querÃ­a recalcar eso. MÃ¡s que el ejemplo del pago, lo digo porque, no sÃ©, me invento ya.
+
+36:35 - Alejandro juan Loayza jordan
+  ImagÃ­nate que una persona llegÃ³ hasta, hay cinco fases en el flujo de venta, una persona llegÃ³ al cuatro y delimitamos o personalizamos que la fase cuatro empieza cuando pregunta X cosa, o cuando yo le digo X cosa.  Y mis etiquetas son fase uno, cuatro, cinco. Se migra, o sea, puede darse cuenta, oye, esta conversaciÃ³n ya llegÃ³ a la fase cuatro, entonces la etiqueta se va a cambiar automÃ¡ticamente.  Buena pregunta, sÃ­. Â¿A foto? Â¿Lit, por ejemplo? Â¿PerdÃ³n? O sea, que dicen como que ya avanzamos a esta parte de la conversaciÃ³n, esta persona deberÃ­a hacer un hotlit y quiero que tenga la etiqueta hotlit, pero Â¿esa etiqueta se modifica sola en base a criterios o lo tengo que hacer yo?  No, no, no, el agente lo puede hacer, por supuesto.
+
+37:16 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claramente el agente, mientras mÃ¡s funcionalidades tenga, va a ser mÃ¡s complejo y va a ser mÃ¡s robusto, pero sÃ­, sÃ­ se puede hacer, sÃ­, por supuesto.
+
+37:24 - Alejandro juan Loayza jordan
+  Santiago, bacÃ¡n. Eso, tengo entendido, Â¿no estÃ¡ considerada esa funcionalidad especÃ­fica en el presupuesto que me acabas de dar? Â¿La de los estados?
+
+37:35 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AjÃ¡. SÃ­, sÃ­ estÃ¡ considerada. Ya, bacÃ¡n.
+
+37:39 - Alejandro juan Loayza jordan
+  Podemos volver al, de hecho, si me pasas el Notion, creo que lo puedo hacer mÃ¡s rÃ¡pido incluso. O no sÃ© si es privado.  mencionar?
+
+37:47 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Lo que no estÃ¡ considerado, seguro que te habÃ­a comentado, Santiago, es el dashboard que incluye a todos los KPIs, y paneles y grÃ¡ficos?
+
+37:57 - Alonso Aguila
+  Eso no estÃ¡ incluido.
+
+37:59 - Alejandro juan Loayza jordan
+  No estÃ¡ incluido. Bueno, esta propuesta.
+
+38:01 - Alonso Aguila
+  Igual te vamos a mandar el costo adicional para que lo vayas evaluando, y si hubies algÃºn otro requerimiento extra, lo escuchamos.
+
+38:17 - Santiago Isaias Zavaleta Ayala (Ulima)
+  EstÃ¡ perfecto. Alejandro, por si necesitas hablar mÃ¡s en profundidad. SÃ­, estoy viendo.
+
+38:27 - Alejandro juan Loayza jordan
+  Oh, no, espÃ©reme. A ver, sÃ­ puedo. Es que no, este, no hablo un chat de esto hace mucho tiempo, de chat de, es enviar links por el MIT, no lo hace mucho tiempo.  Ya, anÃ¡lisis de modelo de servicio. Ya, a ver, acÃ¡ con toda la transparencia del mundo, dentro de este presupuesto, Â¿quÃ© nos incluye de lo que hemos visto?  Te pregunto porque, si me haces un CRM, me lo puedes dar con toda la funcionalidad de chat, y el adicional del que me habla son las grÃ¡ficas del KPI nomÃ¡s.
+
+38:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  A ver, la gente, Â¿quÃ© es la buena pregunta? Â¿QuÃ© es lo que incluye? Esta propuesta con respecto al CRM.  Te vamos a dar un CRM conversacional que fue como el que te mostrÃ©. Las etiquetas que tÃº quieras colocar en ese CRM van a estar incluidas dentro de este presupuesto.  Es decir, si tÃº quieres cinco etiquetas porque tienes cinco etapas comerciales, lo hacemos. Claramente, si nos mencionas que tienes 100 etapas, definitivamente tenemos que volver a recotizarlo porque son horas de desarrollo.  Pero no hay ningÃºn problema por ese lado. Incluye tambiÃ©n la base de datos que va a ser la que la gente va a utilizar para guardar a todos esos prospectos que le estÃ¡n escribiendo.  Entiendo que si le estÃ¡n escribiendo van a haber muchos que no estÃ¡n registrados, por los cuales tiene que verificar que estÃ©n o no en una base de datos.  Esa es una buena pregunta, Alejandro. Cuando te escriben al WhatsApp, Â¿se registran automÃ¡ticamente en algÃºn CRM o lugar o todos se registran por el WhatsApp?  Nada. No registro nada, desgraciadamente.
+
+39:47 - Alejandro juan Loayza jordan
+  O sea, tengo los chats ahÃ­ eternos y les pongo etiquetas a mano de WhatsApp Business, pero... Hasta ahÃ­ llega mi gestiÃ³n.  Ok. No, la gente...
+
+39:57 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, eso estÃ¡ incluido acÃ¡. AsÃ­ que por ese lado... No te preocupes, la gente puede registrar a todas las personas con las que voy hablando, claramente siempre y cuando una de las fases de tu proceso comercial sea el registro de datos, claramente.  Pero sÃ­, eso lo vas a tener. Vas a tener una base de datos interna y una base, un WhatsApp conversacional.  Eso es lo que estÃ¡ incluyendo, eso lo puedes. SÃ­, pero a ver, tengo entonces esta implementaciÃ³n de la nuestra modelo y mis entregables.
+
+40:26 - Alejandro juan Loayza jordan
+  El stack tecnolÃ³gico son los entregables que me van a dar, Â¿cierto?
+
+40:31 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Es, no, el, bueno, con entregables te refieres a la gente como tal, no te entendÃ­ muy bien la pregunta, puse por una ambulancia, disculpa.
+
+40:39 - Alejandro juan Loayza jordan
+  No te preocupes, o sea, ver, tengo entendido, el producto tangible final de esta fase de implementaciÃ³n del primer mes, bÃ¡sicamente, es un chatbot ya funcional dentro de mi WhatsApp, linkeado a un CRM con el dashboard que me muestras, tengo entendido sin grafiquitos bonitos, porque eso es adicional.  AjÃ¡.
+
+40:59 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eh. Y ya, y que dicho chatbots, todos los entregables, Alejandro, son al culminar el proyecto de 60 dÃ­as. Pero claramente nosotros te vamos a ir documentando todo, nosotros te vamos a crear tu propio centro de Controlling Notion, donde vas a terminar todos los avances semana por semana, mes por mes, lo que vayamos documentando lo vamos a dejar ahÃ­.  Â¿Por quÃ© menciono que la documentaciÃ³n es al final? Porque no tendrÃ­a sentido documentar un MVP en los 30 dÃ­as, cuando en los 60 dÃ­as pueden haber ocurrido mil cambios de entrenamiento.  BÃ¡sicamente por eso. Â¿Y desde cuÃ¡ndo es funcional?
+
+41:35 - Alejandro juan Loayza jordan
+  De lo que vi en la fase 3 ya funciona, Â¿no? Desde la fase 5 ya es funcional. PerdÃ³n, semana 5, fase 3.  AsÃ­ es. Claro, ya. Por eso, o en teorÃ­a yo, si empezÃ¡ramos hoy, en enero, tengo un demo que ya hace cosas.  Totalmente.
+
+41:54 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Totalmente, totalmente. Ya.
+
+41:58 - Alejandro juan Loayza jordan
+  Ya tengo el bot que... Â¿QuÃ© es eso? Â¿El ajuste? Â¿Esto? Claro, aquÃ­ incluye el desarrollo de la gente, configuraciÃ³n del sistema, la conexiÃ³n de WhatsApp, el entrenamiento, la documentaciÃ³n, pruebas, ajustes y el acompaÃ±amiento.  Â¿Este acompaÃ±amiento por 60 dÃ­as se refiere a durante los 60 dÃ­as de producciÃ³n o se refiere a post-entrega del producto?  Â¿PodrÃ­as, por favor, repetirme la pregunta? Al final de la cotizaciÃ³n donde dice, incluye acompaÃ±amiento por 60 dÃ­as. Te pregunto, Â¿ese acompaÃ±amiento por 60 dÃ­as se refiere al periodo de desarrollo o se refiere a donde se ha entregado el producto?  No es despuÃ©s de entregado el producto. No, no es despuÃ©s de entregado el AhÃ­ empieza a correr la mensualidad, me imagino.  AsÃ­ es. Ya, y esta mensualidad me permite, tÃº me dijiste que en la documentaciÃ³n hay detalle a detalle para que yo mismo pueda hacer modificaciones si quisiese.  SÃ­, total.
+
+42:48 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, eso, si quiero que eso lo hagan ustedes, Â¿eso se puede hacer durante la mensualidad?
+
+42:56 - Alejandro juan Loayza jordan
+  Claro, a ver, creo que aquÃ­, sÃ­, sÃ­, creo que aquÃ­ no me deje entender.
+
+42:59 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Imaginemos que durante... El mes uno, tÃº me dices, Santiago, la gente no me gustarÃ­a que responda sÃ­, quisiera que siempre se despida con un cuÃ­date mucho, una configuraciÃ³n que tendrÃ­amos que hacer de desarrollo.  Eso estÃ¡ incluido dentro del fin mensual. Esas mejoras mÃ­nimas, que igual lo detallarÃ­amos en el alcance claramente, sÃ­ estarÃ­amos nosotros constantemente apoyÃ¡ndote con eso.  Por ese lado, no te preocupes. A lo que nosotros Ã­bamos es que si en algÃºn momento tÃº optas por dejar de pagar esa mensualidad, en la documentaciÃ³n va a estar lo necesario y suficiente para que tÃº puedas aprender a cÃ³mo hacerlo.  Pero claramente nosotros optamos por esa mensualidad porque al final lo Ãºltimo que nosotros queremos darte a ti es mÃ¡s carga operativa.  Esperamos que con el tiempo esta delegaciÃ³n de conocimiento, esa transferencia de conocimiento sea, bÃ¡sicamente. Ok, dale.
+
+43:52 - Alonso Aguila
+  Creo que no tengo ninguna pregunta.
+
+43:55 - Alejandro juan Loayza jordan
+  Mi Ãºnica pregunta es... Con respecto a su capacidad, para esto, no sÃ© si esto lo estoy trabajando con, ahÃ­ sÃ­ me aclaras esto Alonso y Santi, son una, entiendo que son partners, pero lo manejan como una marca personal, hay una empresa de por medio, como esos formalismos, Â¿cÃ³mo funcionan?  Buena, buena pregunta.
+
+44:18 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De hecho, bueno, la marca como tal de la empresa soy yo, ahÃ­ luego te voy a pasar mi Instagram, y la empresa con la que nosotros estamos haciendo todos los servicios es nuestra agencia y consultora Fix UAI.  AsÃ­ que sÃ­, hay una empresa por detrÃ¡s, te voy a pasar ahÃ­ todos los, pensÃ© que Alonso lo habÃ­a pasado, pero me imagino que ahÃ­ ya despuÃ©s de este reuniÃ³n te los voy a pasar.  Ya, bacÃ¡n.
+
+44:38 - Alejandro juan Loayza jordan
+  Y en tÃ©rminos de tu propia, de tu negocio, tu capacidad operativa, Â¿es posible lanzar, atender esto y a la vez potencialmente avanzar el otro problema?  Â¿CuÃ¡l es el otro problema, perdÃ³n? La producciÃ³n, el cuello de botella en producciÃ³n de planes.
+
+45:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mira, aprovechemos que estamos en esta llamada, nos puedes detallar o contar brevemente cÃ³mo se conecta este desarrollo de planes con el agente de IA, quÃ© es lo que harÃ­a la gente con estos desarrollos, o este desarrollo es independiente y serÃ¡ una automatizaciÃ³n que lo mande por correo, si nos cuentas un poco mÃ¡s sobre esto.
+
+45:21 - Alejandro juan Loayza jordan
+  Te lo puedo explicar en tres minutos, dale, porque lo he hecho varias veces ya, solo que necesito, tÃº tienes el poder, Santi, necesito que te dejes compartir para hacerlo.  Ah no, yo sigo compartiendo, soy un mongolo, disculpa, ya, entonces, bueno, te mostrÃ©, ya te habÃ­a mostrado esto, Â¿cierto?  Que bÃ¡sicamente un plan es una combinatoria de inputs numÃ©ricos con texto, Por Ãºltimo, esto se podrÃ­a multiplicar y podrÃ­a decir dos tajadas de pandemol, etc.  Entonces, una serie de indicaciones numÃ©ricas textuales por una persona. Esto, ahorita, yo lo puedo meter a un cloud, que es un programa que tengo, que yo he diseÃ±ado y, por ejemplo, te hago una cosa asÃ­.  Que es lo mismo que has visto en la tabla, pero en vez de que tengas que hacer la matemÃ¡tica, ya tiene un desplegable, tiene un scrollbar que es visible, en los carbohidratos, ya te hace la multiplicaciÃ³n, la porciÃ³n es de media pago, por ejemplo, pero acÃ¡, como veis, ya te hace la multiplicaciÃ³n y abajo te sugiere hasta unas combinatorias que son equivalentes, etc.  Y tiene un pequeÃ±o modal desplegable para opciones de la calle. Y tienes un barrito de buscador, pones chifa y no nada, pones hamburguesa y, ah, ya, mira, tienes todo esto, etc.  Entonces, este es un MVP que yo he diseÃ±ado. Pero que realmente no me automatiza nada, porque en mi limitaciÃ³n, yo literalmente ingreso el plan que te acabo de mostrar, que es este, y a partir de esto me hace una versiÃ³n un poquito mÃ¡s chÃ©vere, que es este, que estÃ¡s viendo acÃ¡.
+
+47:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, sÃ­ me escuchaste.
+
+47:20 - Alejandro juan Loayza jordan
+  SÃ­, sÃ­, sÃ­, sÃ­ escuchÃ©. El tema es que esto realmente no me ahorra nada de tiempo, esto es solo mÃ¡s un producto un poco mÃ¡s bonito.  Lo que yo necesitarÃ­a, en lo que yo necesito ayuda es en dos fases previas. Yo tengo una fase donde, de recopilaciÃ³n de data, donde bÃ¡sicamente, esto es lo importante bÃ¡sicamente, donde el paciente me cuenta, y esto lo llenamos a mano en consulta, mira, de lunes a viernes, este, desayuno a estas horas, como esto, como a estas horas, como esto, suelo comer tal, tal, tal, tal, tal, y ya.  Entonces me dato un reporte textual, que yo escribo a mano, de lo que esa persona come. Gracias. Con mucha experiencia y maÃ±as y cÃ¡lculos, determinamos los nutrientes de la persona y se termina traduciendo en esta matriz que ves acÃ¡.  Que bÃ¡sicamente es una combinatoria. Ya he hecho un intento de automatizar este proceso, lo tengo documentado, fue infructÃ­fero realmente.  al final lo que terminamos...
+
+48:24 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿QuÃ© utilizaste o quÃ© utilizaste para automatizarlo?
+
+48:27 - Alejandro juan Loayza jordan
+  O sea, intentamos hacer un programa que tomaba el registro de... Â¿Lo puedo mostrar? Porque sÃ­ existe, eso lo que no es funcional.  Tenemos un programa que reporta... Â¿QuÃ© es este? Reporta lo que el paciente come. Es parecido al Excel en horas, tiempos, hay una descripciÃ³n.  Nosotros mismos tenemos que traducir la equivalencia de lo que la persona come si me dice panes. Entonces, yo tengo que decir, ah, ya, un pan equivale a cuatro porciones de este grupo alimenticio.  Y asÃ­ con... Todas las comidas, Â¿no? Hay una traducciÃ³n que yo tengo que hacer y luego el programa identifica esa traducciÃ³n en porciones, que es lo que ves acÃ¡, son nÃºmeros simplemente, y autogenera una matriz como la que te mostrÃ©, que serÃ­a, creo una, genera una matriz similar a que viste en el Excel, Â¿no?  Que en principio te das cuenta que es lo mismo. SÃ­, total. Tiempo de comida, grupos alimenticios. Es a partir de esto, nosotros sabemos que cada uno de estos grupos alimenticios tiene una lista de Ã­tems especÃ­ficos.  Un almidÃ³n puede ser tanto de pan, tanto de avena, tanto de esto, tanto de esto. Como es el proceso ahorita, nosotros chapamos esto, sea en el programa o en el Excel, esta matriz, y a partir de eso es que a mano se genera esto.  Al final lo que estÃ¡s viendo aquÃ­ es el mismo nÃºmero de porciones que viste en la matriz, dos porciones de opano rÃ¡pido.  Dita o Avena, solo que del entregable estamos traduciendo este nÃºmero y estamos enlistando las opciones que podrÃ­a tener este grupo alimenticio.  Y de ahÃ­ es una multiplicaciÃ³n, Â¿no? Un almidÃ³n puede ser tanto de pan, tanto de avena, tanto de esto, y eso es lo que se plantea en un entregable.
+
+50:17 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro.
+
+50:19 - Alejandro juan Loayza jordan
+  Eso... Entiendo mÃ¡s el proceso, sÃ­, te escuchan. Esa traducciÃ³n de lo que reporta el paciente a algo automatizable que pueda autogenerarme esta matriz es el dolor de huevos.  Porque al final, a partir de esta matriz, si yo tengo una base de datos que me diga quÃ© puede ser un almidÃ³n, solo es una multiplicaciÃ³n entre cualquier cosa de una base de datos gigante y la cantidad de porciones que le toca.  Claro. Pero este proceso, que es un poco enredado de diagnosticar, como te das cuenta, yo quiero automatizarlo. Y te digo todo esto y sorry que le he apachurrado porque es medio enredado.
+
+50:54 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, sÃ­, sÃ­, no te preocupes, ha sido lo suficiente para dimensionar. Mira, te voy a hacer 100% transparente. Y te mentirÃ­a si te digo dos cosas.  Primero que lo mÃ¡s Ã³ptimo es hacerlo en paralelo porque que podemos, podemos, pero no lo recomendamos porque lo que nosotros buscamos es darte resultados inmediatos, enfocar nuestros recursos como empresa y tiempo en darte resultados inmediatos.  Â¿Y quÃ© es lo que mÃ¡s resultados inmediatos te va a dar? Va a ser un agente de IA. Â¿Por quÃ©?  Porque es mÃ¡s rÃ¡pido que acerque ese dashboard y vas a ver resultados desde el dÃ­a uno cuando ya empieces a interactuar con tus clientes, bÃ¡sicamente.
+
+51:31 - Alejandro juan Loayza jordan
+  Â¿QuÃ© es lo que yo te recomiendo?
+
+51:33 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Que tengamos una breve reuniÃ³n rÃ¡pida de 20 minutos despuÃ©s de esta exclusivamente para que me expliques ese proceso y tambiÃ©n darte una propuesta.  Pero lo que tambiÃ©n recomiendo es que avanzar con esa propuesta o a la mitad del proyecto inicial que te estamos mostrando o ir conversando para ver cÃ³mo estamos de carga operativa para encontrar el momento mÃ¡s Ã³ptimo.  Porque de que se puede realizar y se puede sincronizar con los agentes y con todo tu ecosistema, lo hacemos sin ningÃºn problema.
+
+52:00 - Alejandro juan Loayza jordan
+  Ya, no hay otro problema, de hecho, BacÃ¡n, Â¿eso lo quieres hacer ahora a las 6? Â¿O a quÃ© hora quieres hacerlo?
+
+52:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Hoy sÃ­ la tengo sÃºper complicada, Alejandro. MaÃ±ana volvamos a la misma hora, Â¿te parece 20 minutos? Dame un segundazo.
+
+52:14 - Alejandro juan Loayza jordan
+  De paso, te puedo tener todo bien ordenadito para explicarte el flujo. Dale, serÃ­a genial eso. Eso es miÃ©rcoles 26 a las 5, Â¿puedo hacerlo 5 y media?  5 y media, ya, estÃ¡ bien, perfecto, sin problema.
+
+52:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, dÃ©jame apuntar eso al toque antes de que se me pase.
+
+52:38 - Alejandro juan Loayza jordan
+  Y sobre... Ya, y sobre el otro, mira, con total honestidad, el presupuesto se ve que me funciona, el costo de mantenimiento tambiÃ©n me parece bien razonable, si incluye todos los detalles que creo que...  Y de hecho podemos cerrar eso maÃ±ana, tÃº dime cuÃ¡ndo podrÃ­amos empezar, porque no tengo la liquidez y quiero hacer eso, y quisiera, si puedo tenerlo listo, funcional, aunque sea el beta para enero, estÃ¡ perfecto, que creo que por la fecha, no sÃ© si Navidad nos retrasa un poquito, pero creo que como que me calzan.  Dale, perfecto, no hay ningÃºn problema, acÃ¡ lo mÃ¡s Ã³ptimo serÃ­a avanzar lo mÃ¡s rÃ¡pido posible, asÃ­ que sin problema.  Ya, me mandaste el Notion, me mandaste, si te pedirÃ­a la cuenta de la empresa, si puedes el RUC, etcÃ©tera, temas formalistas, y ya, y me dices cÃ³mo, no sÃ© si usas Venmo, no sÃ© quÃ© plataforma usas para Pan.
+
+53:50 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, Frank, no te preocupes que todos los detalles ahÃ­ te los voy a alcanzar con Alon, igual le voy a pedir a Alon que me pase tu nÃºmero para estar en contacto.  Hacemos un grupo en WhatsApp y ahÃ­ estamos corriendo todos internamente. Ya, estÃ¡ perfecto. Te has contado por maÃ±ana a cinco y media, entonces.
+
+54:04 - Alejandro juan Loayza jordan
+  Dale. Y ya, eso, Alonso. Queda atento esa info para cerrar y empezar, pues. Perfecto.
+
+54:10 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Dale.
+
+54:11 - Alejandro juan Loayza jordan
+  Gracias, Alonso, por facilitar todo esto y... Nada. Pregunta importante, Â¿ustedes trabajan en la misma empresa de la que me hablaste o...?  O sea, somos socios.
+
+54:21 - Alonso Aguila
+  En Fix UBI somos socios, Santiago es el CEO. Este, yo me encargo de ver toda la parte financiera. Este, pero Santiago, hoy hemos trabajado en Donofre juntos.
+
+54:32 - Alejandro juan Loayza jordan
+  Entonces, ahÃ­ nos conocemos.
+
+54:34 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total. Bravazo. Bravazo, bravazo.
+

@@ -1,0 +1,307 @@
+Impromptu Google Meet Meeting - October 22
+VIEW RECORDING - 26 mins (No highlights): https://fathom.video/share/bvppcJCqMrxQu_eieZAjscxaahXFmKQK
+
+---
+
+0:00 - dacodeperu
+  Y hay varios registros en los cuales no hay nada. sea, estÃ¡n los datos del cliente, pero en el estado propiamente no hay.  Entonces, yo te enviÃ© un correo con una data de prueba de mÃ¡s o menos cÃ³mo deberÃ­a ser el formato o la forma como deberÃ­a enviarlo.  Los estados que se van a manejar son cuatro. Uno es el saludo. Un poco te mostrÃ© cÃ³mo deberÃ­a ser el estado de saludo, quÃ© es lo que va enviando.
+
+0:36 - Santiago Isaias Zavaleta Ayala (Ulima)
+  En primera instancia, ahÃ­ no lo tiene porque no hay ningÃºn dato registrado. Denis, una consulta. Para ir punto por punto y dejar claro punto por punto, Â¿me podrÃ­as compartir o si no lo tienes en la mano, te comparto las filas que estÃ¡n vacÃ­as?  Â¿SÃ­? Para poder explicar a quÃ© se debe, quÃ© falta de repente corregir ahÃ­ para que no... Â¿QuÃ© a pasar?  Â¿O en quÃ© situaciones ocurren? Porque no es que hay un error, creo que ya sÃ© cuÃ¡l es el punto en el cual te refieres y quiero ahÃ­ estar.  muestro primero la data que te enviÃ©. SÃ­. A ver, dame un segundito. Que sÃ­, sÃ­, ahÃ­ le revisÃ© el correo, creo que solo aÃ±adiste el tema del medio y modalidad, que ahÃ­ no comprendÃ­a bien eso.
+
+1:21 - dacodeperu
+  Ya, sÃ­, es que justamente tambiÃ©n me detuve a hablar tambiÃ©n con Leonel acerca de eso.
+
+1:27 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y la verdad, Â¿cÃ³mo se llama?
+
+1:30 - dacodeperu
+  Necesita tenerlo claro yo tambiÃ©n.
+
+1:33 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, columna por columna, pues no, fecha, hora, DNI, creo que check. Ya, mira, fecha, hora, mÃ¡s que claro.
+
+1:41 - dacodeperu
+  Pero, ojo, es muy distinto a tu archivo que creo que habÃ­a una que era fecha de creaciÃ³n y fecha de Ãºltima actualizaciÃ³n, si mal no recuerdo.  SÃ­, pide la actualizaciÃ³n, SÃ­, ahÃ­ solo es creaciÃ³n, la del sistema.
+
+1:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AjÃ¡.
+
+1:55 - dacodeperu
+  O sea, no hay creaciÃ³n, sino la fecha del sistema. Ya. Ah, ok. Vamos a entrar. Primero los que estÃ¡n en estado de saludo.  A ver, los estados de saludo, ya, no van a tener nivel de interÃ©s, ya, es simplemente cuando el cliente simplemente dice hola, por ponerle un ejemplo, Â¿no?  Ok. Y una consulta, perdÃ³name que te corte, o para no marearnos, Â¿no?
+
+2:26 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Llegaste a revisar el CRM conversacional que les pasÃ©, donde estÃ¡n todas las conversaciones?
+
+2:32 - dacodeperu
+  A ver, espÃ©rate.
+
+2:35 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AhÃ­ les pasÃ© los accesos y todo, por WhatsApp tambiÃ©n.
+
+2:39 - dacodeperu
+  A ver, espÃ©rate, dame un segundito. SÃ­, sÃ­, sÃ­, no te preocupes.
+
+2:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Si no, en todo caso, te lo comparto yo, para mostrarte algo en particular, que quiero entender bien. Y a ver, te comparto entonces, Â¿no?  SÃ­, te comparto, te comparto. Ya estÃ¡. Toda la pantalla, compartir, por aquÃ­ estÃ¡. O sea, bueno, cuando ya entres tÃº en otro momento y tengas mÃ¡s tiempo, vas a ver esto de acÃ¡.  Es bÃ¡sicamente como ver la interfaz de WhatsApp, solo que aÃºn se resignas. Inicialmente, se habÃ­a quedado en estas etiquetas.  Primero por proyecto, para saber. Ya, eso sÃ­. AjÃ¡, eso queda. EstÃ¡ genial. Ahora, inicialmente se le habÃ­an puesto estos cuatro estados.  Datos registrados, primer contacto, esto es cuando solicitan atenciÃ³n directa con el asesor, y esto es cuando agendan una visita.  Ahora, mi pregunta es, Â¿esto de aquÃ­ lo mantenemos o lo cambiamos? Porque, Â¿quÃ© es lo que pasa? Si tenemos estados en el CRM conversacional, o podemos tener unos estados acÃ¡ y otros estados en el Esperant, pero yo creo que lo mejor serÃ­a tener los mismos estados.  O tal vez esto que estÃ©n acÃ¡ simplemente sirva como visibilidad y no sea ningÃºn problema. Esa era mÃ¡s que todo mi duda.  Estos estados que tenemos, que ya venÃ­an como parte del alcance del primer servicio, Â¿se mantienen?
+
+3:57 - dacodeperu
+  A ver, el primer contacto... Â¿En quÃ© momento se da ese evento de primer contacto?
+
+4:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Apenas mandan un mensaje. Apenas mandan un mensaje, sea que la gente responda o no, se pone como primer contacto.
+
+4:10 - dacodeperu
+  Ya, ese primer contacto, para mÃ­, en el archivo de Excel que envÃ­as, no aparecen en todos, porque hay una opciÃ³n que dice solicitÃ³ atenciÃ³n.  Entonces, Â¿yo asumo de que ese primer contacto es solicitÃ³ atenciÃ³n?
+
+4:29 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, el solicitÃ³ atenciÃ³n es cuando piden que un asesor los atienda personalmente, sea, bueno, personalizadamente, no que pidan atenciÃ³n humana.  Ya. AjÃ¡, Â¿me dices que el primer contacto Â¿SerÃ­a el equivalente mÃ­o al...
+
+4:44 - dacodeperu
+  Â¿cÃ³mo se llama esto? Al saludo. saludo.
+
+4:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AjÃ¡, es el equivalente. SÃ­. Ok, entonces manejamos esa equivalencia, Ãºnicamente para no perder la trazabilidad acÃ¡ en el CRM.  Â¿No? SÃ­.
+
+4:54 - dacodeperu
+  Ok, primer contacto solo como saludo, porque justamente hoy dÃ­a lo vimos con Lonel, porque yo tampoco, yo querÃ­a entender...  Tener un poco el flujo, Â¿no? Entonces, lo que me dice es, primero es el saludo, en lo cual todavÃ­a no hay ningÃºn dato registrado.  Segundo, se le pide la informaciÃ³n al usuario para que ingrese sus datos. Ese serÃ­a un segundo estado, que es el estado de registrado, cuando ingresa sus datos personales, correo.  Â¿No estÃ¡ bien mantenerlo como datos registrados?
+
+5:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AhÃ­ es cuando deja todo y ya se le manda la informaciÃ³n. Es el equivalente, ya, estÃ¡ bien, serÃ­a el equivalente.  Ya, no hay problema. serÃ­a el equivalente, perdÃ³n? Â¿Datos registrados a cuÃ¡l serÃ­a el equivalente, al tuyo? Ah, registrado. Registrado.  Ok, esto va, esto irÃ­a, Â¿en quÃ© parte? Uy, acÃ¡ no tengo el correo, aquÃ­ estÃ¡. Este equivalente, porque lo que yo coloco va acÃ¡, pues, Â¿no?  O tÃº me colocaste. Ah, no, primer contacto no.
+
+5:42 - dacodeperu
+  Eso de ahÃ­ sÃ­, esa fue la primera vez que enviÃ©, Â¿no? Pero esos estados cambian, Â¿no? Porque acÃ¡, arriba te lo puse, Â¿no?  Saludo, registrado, precalificado y citado. Esos son los estados que se...
+
+5:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, entonces, en este CRM conversacional... Yo lo dejo normal asÃ­ como estÃ¡, pero de cara al reporte pongo la equivalencia segÃºn lo que ustedes manejan.  Ya, estÃ¡ bien. SÃ­, o si no, lo lineamos todo uno sin problema, sin problema, sin problema, solo para dejarlo en claro.  Ahora, sorry que me pongo un poco pesado con esto. Dennis, disculpa, el tema del lead scoring, que es este score para clasificar al lead, es parte como que de la cotizaciÃ³n que les hice.  Yo lo voy a poner de igual manera, pero para que, bueno, es parte de la relaciÃ³n socio-estrategia que tenemos, pero igual solo lo menciono, que es parte de esta cotizaciÃ³n, pero lo vamos a ir avanzando en paralelo, porque hay que hacer un cambio en el prom de la gente, explicarle cuÃ¡ndo colocarlo y un poquito de tecnicismo y que no tiene sentido mencionarlo.  Simplemente son horas de desarrollo que se tienen que implicar. Nada, solo te lo menciono para que ahÃ­, por favor, ayudes contemplÃ¡ndolo de cara a la cotizaciÃ³n.  Yeah, ya estÃ¡ bien. SÃ­. Pero, nada, primer contacto equivale a saludo, datos registrados equivale a... Registrado.
+
+7:11 - dacodeperu
+  A registrado. Hay que ponerle una descripciÃ³n, en la descripciÃ³n hay que ponerle ahÃ­ en equivalencia quÃ© es, Â¿no? Un poco para que se entienda.
+
+7:22 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ah, ya, ok, en la descripciÃ³n aquÃ­ mismo me dices en el CRM, pues no, no te preocupes, eso lo vamos a actualizar.  Bueno, lo hacemos una vez creo, primer contacto serÃ­a cuando el prospecto saluda, saluda, por primera vez, claramente, por primera vez.  Saluda. Punto. Saluda. Listo.
+
+7:44 - dacodeperu
+  Listo. Ok.
+
+7:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Es datos registrados, se registran los datos del prospecto. Ok. Ahora, Â¿cuÃ¡l es el siguiente estado que tenÃ­a? Ok. Â¿PerdÃ³n?
+
+8:01 - dacodeperu
+  Ya, de ahÃ­ viene, Lenel me comentÃ³ de que ahÃ­, despuÃ©s de que registra su informaciÃ³n, viene lo que es el tema de la modalidad.  Por eso es que lo agreguÃ©. La verdad, no entendÃ­a mucho esa parte. Claro, yo un poco lo entendÃ­a. sentido que la IA, un poco que te precalifica, por decirlo de alguna forma.  Claro, o sea, depende de, la IA puede hacer lo que sea.
+
+8:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  El tema es en que cÃ³mo va a precalificar. O sea, quÃ© criterio va a utilizar.
+
+8:29 - dacodeperu
+  Bueno, hasta donde lo que me comentÃ³, Leonel, era cÃ³mo es que pensaba hacer el financiamiento del departamento. Creo que la IA pregunta eso o no.  SÃ­, sÃ­, sÃ­, sÃ­, la IA llega hasta ese punto.
+
+8:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Es mÃ¡s, acÃ¡ tengo, estÃ¡ en mi pantalla. Pero en la IA se hace todo este proceso de calificaciÃ³n financiera.  La IA pregunta, bueno, hace preguntas, Â¿no? Â¿La compra serÃ¡ el financiamiento bancario o pago? El contado. Si es un banco, entonces preguntar tal, tal, tal.  AquÃ­ me imagino que hay un estado mÃ¡s, o mÃ¡s que un estado de la modalidad.
+
+9:07 - dacodeperu
+  Cuando empieza a, cuando responde ya a estas preguntas, se llenan los campos que vendrÃ­a a ser modalidad, Â¿no? Si es pago al contado, bueno, contado, si es financiamiento, habrÃ­a que...  Hipotecario, ahorro, ya no importa. Bueno, no solo. Pero ya al menos... serÃ­a claro definir esto acÃ¡, pues, Â¿no?
+
+9:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Para... Me imagino que eso, o lo veremos en esta reuniÃ³n, o ya vas a consultar ahÃ­ con el equipo para ver bien quÃ© estados poner de cara al proceso de calificaciÃ³n.
+
+9:43 - dacodeperu
+  Ya, en el caso del estado del LEED, cambiarÃ­a a... aparece un estado, que es el estado de precalificado.
+
+9:52 - Santiago Isaias Zavaleta Ayala (Ulima)
+  sea, que en el... Precalificado.
+
+9:54 - dacodeperu
+  Claro, el cual, el cliente ya respondiÃ³ esto, de calificaciÃ³n financiera, ya respondiÃ³. Ya, ok.
+
+10:02 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, al cliente responder eso, entonces... Precalificado, Â¿no? No, precalificado.
+
+10:10 - dacodeperu
+  Ok.
+
+10:14 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿AlgÃºn color en particular, Denis, para este estado? Sin problema. No, porque no hay problema. El precalificado respondiÃ³ preguntas de calificaciÃ³n financiera.  AjÃ¡. Ok. Ya. DespuÃ©s, bueno, despuÃ©s viene el agendamiento de visita, pues, Â¿no? Â¿CÃ³mo es...? El citado. lo que tÃº dices...  Citado. AjÃ¡, el citado. Ok. Vamos a ponerlo acÃ¡. Entonces, sÃ­... Uy, no. Mejor no lo voy a cambiar todavÃ­a, porque si no, la gente va a empezar a rayarse.  Ok, eso lo voy a hacer despuÃ©s, en un momento de menos flujo.
+
+10:56 - dacodeperu
+  Estas opciones de datos registrados y primer contacto, sÃ­ se puede cambiar el estado. Â¿Todo como te dije o no se puede decir?  SÃ­, sÃ­, o sea, de que se puede hacer, se puede hacer.
+
+11:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  El tema estÃ¡ en que no serÃ­a Ã³ptimo tener unos estados acÃ¡ y que en el Esperant aparezcan otros diferentes, por mÃ¡s que tengamos la equivalencia.
+
+11:13 - dacodeperu
+  Lo que pasa es que para el Esperant todos se suben de una misma forma, o sea, no es que el estado de acÃ¡ va a cambiar.  Por esa parte no te preocupes, Â¿no? Yo sÃ­ me encargo. Lo que queremos mÃ¡s o menos nosotros dentro de tu CRM es tener mapeado y crear un embudo.  Por eso es que estamos creando esos estados, Â¿no?
+
+11:34 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, ok. Pero me dices que el nombre no necesariamente tiene que ser el mismo que los del Esperant, Â¿sÃ­?  Â¿TÃº quÃ© prefieres? No, no, no. Lo que estamos poniendo nosotros ahorita es suficiente. Ok.
+
+11:44 - dacodeperu
+  Ya si en algÃºn momento se llega a relacionar, ya se verÃ¡ en ese momento cÃ³mo se harÃ­a. Pero ahorita, por lo pronto, en lo que es el estado, serÃ­a, como te digo, en primera instancia, saludo, y segundo serÃ­a el...  O sea, el primer contacto, ya se lo que...
+
+12:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Un saludo y el segundo serÃ­a... Datos registrados, claro. Luego empieza el precalificado, pues, Â¿no?
+
+12:07 - dacodeperu
+  Ahora, este solicita atenciÃ³n, Â¿en quÃ© momento se da?
+
+12:11 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Esto, hay buena pregunta. Esto es cuando, o sea, lo que pasa es que el prospecto, hay, no sÃ©, de 100 casos, han habido, bueno, a lo mejor dicho de 10, han habido uno o dos, que dicen, por favor, quiero contactarme con un asesor.  Y ahÃ­, automÃ¡ticamente, la gente cierra la conversaciÃ³n y, asÃ­ como cuando agenda una visita, le manda un mensaje al asesor diciendo que han agendado, cierra la conversaciÃ³n y le manda un mensaje al asesor diciendo que estÃ¡n pidiendo comunicarse personalmente con un asesor.  Ahora, es una buena pregunta la que me haces porque nosotros podemos ver si es que el que estÃ¡ solicitando atenciÃ³n la solicita de frente o si ya pasÃ³ por ciertas partes del embudo.  Pues, no, mira, por ejemplo, acÃ¡ pasÃ³ primer contacto, datos registrados y le puso proyecto. Datos registrados, bueno, primer contacto, datos registrados, proyecto.  Primer contacto, primer contacto, primer contacto. Y acÃ¡, aprovechando el sitio para que se lo comuniques al equipo. O Dennis, la gente lo estÃ¡ haciendo sÃºper, sÃºper bien, pero falta el complemento de los seguimientos automÃ¡ticos.  Si te das cuenta, la gente ya no sigue. Y empezar con eso serÃ­a lo mÃ¡s Ã³ptimo porque ahÃ­ ya completamos la interacciÃ³n al 100%.  Ya estarÃ­amos insistiendo, insistiendo hasta que sigan a conectar. Porque sÃ­ responden despuÃ©s de tiempo, pero hay muchos que se quedan ahÃ­, como me imagino que les pasa a ustedes.  El tema serÃ­a estar haciendo esos seguimientos para mantener caliente al lead, pues, Â¿no? Pero sÃ­, lo estÃ¡ haciendo bien.  De hecho, creo que han dado tres visitas.
+
+13:30 - dacodeperu
+  Claro, justamente al momento de manejar estos estados, yo puedo ver ahÃ­, Â¿no? Â¿QuÃ© clientes se quedaron en saludo? Total.  sÃ© que el nÃºmero de celular es cÃ³digo Ãºnico para mÃ­, es mi IPK. Entonces, por ahÃ­ de repente yo puedo, Â¿cÃ³mo se llama esto?  Hacerle seguimiento, Â¿no? A esos que se quedaron.
+
+13:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, claro, claro, claro. SÃ­, total, total, O sea, independientemente de que la gente vaya, o sea, ah, bueno, no sÃ©, eso es...  Imagino que va a depender mÃ¡s del equipo en general, pero si se opta por la implementaciÃ³n del seguimiento automÃ¡tico, acÃ¡ saldrÃ­a, pues no, por ejemplo, seguimiento automÃ¡tico realizado, o follow up, o seguimiento, para que se sepa que ya se le hizo el seguimiento tambiÃ©n.  Eso sÃ­, sÃ­.
+
+14:18 - dacodeperu
+  Claro, pero eso implicarÃ­a de que hubiera un, tendrÃ­a que crear un campo que sea seguimiento, en el cual tengo que poner cuÃ¡ntas veces, o contabilizar cuÃ¡ntos seguimientos se le estÃ¡ haciendo, como para tener un, un, Â¿cÃ³mo se llama esto?  Tienen una idea de cÃ³mo estÃ¡.
+
+14:36 - Santiago Isaias Zavaleta Ayala (Ulima)
+  O sea, podrÃ­amos darle esa visibilidad, nosotros podrÃ­amos darle esa visibilidad, Â¿no? Oye, se le hizo follow, o sea, que el estado sea, o seguimiento automÃ¡tico, o que la otra columna que diga seguimiento, si no salga cero, si no se le hizo, y que salga uno, si no hizo uno, y asÃ­, se hace cuenta y es sin problema.
+
+14:51 - dacodeperu
+  Claro, para tenerlo tabulado esa parte. Total, mira, encima, ahorita estamos viendo en vivo cÃ³mo responde.
+
+14:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Todos mandan ese mensaje por default. Pero responden asÃ­. Y un punto en que dejan de responder y ya, bueno, me imagino que luego vuelen o algunos se olvidan, pues, Â¿no?  Y otra cosa que te mencionÃ©, Denis, cuando entres acÃ¡, si tÃº quieres cancelar la conversaciÃ³n Palin, acÃ¡ solo tienes que darle off y la gente deja de responder.  Nada mÃ¡s. Pero ya. Con respecto a los estados, Â¿hay alguna observaciÃ³n mÃ¡s? Me ha quedado clarÃ­simo el tema de los que me mencionas.  Â¿El de solicito atenciÃ³n quedÃ³ claro? SÃ­. Â¿O de repente cambiaron el otro nombre?
+
+15:26 - dacodeperu
+  No, no, no, no. Yo al punto que voy es, el solicito atenciÃ³n, Â¿se da despuÃ©s de saludo, registrado, precalificado?
+
+15:37 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿En quÃ© momento se da ese evento? Buena pregunta. Para este estado, si no hay un orden en especÃ­fico, para este estado va ser cuando el prospecto quiera, cuando quiera atenciÃ³n, cuando simplemente quiera que un asesor lo atienda directamente.  Yo creerÃ­a que la mayorÃ­a de solicito atenciÃ³n van a estar despuÃ©s del primer contacto, definitivamente, por lÃ³gica. Pero no sÃ© si todos...  Van a dar sus datos o simplemente cuando le pidan sus datos dicen, mira, Â¿sabes quÃ© quiero hablar con un asesor?  O va a ser muy variable, eso va a depender ya del mismo aspecto.
+
+16:09 - dacodeperu
+  lo tranquilo tranquilamente se puede mandar sin datos. Va a depender del comportamiento del cliente, sÃ­.
+
+16:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ahorita, Â¿cÃ³mo estÃ¡?
+
+16:17 - dacodeperu
+  Â¿QuÃ© tantos casos tienes de eso? A ver. Revisamos.
+
+16:21 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Vamos a...
+
+16:22 - dacodeperu
+  O en la lÃ³gica, Â¿cÃ³mo lo han programado esa parte? Porque se supone que de alguna forma, si Ã©l quiere conversar con un asesor, de todas maneras tiene que pedirle datos.  Al menos el nombre y... O los datos bÃ¡sicos...
+
+16:36 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Buena observaciÃ³n. Podemos ponerlo como requisito, Â¿no? Oye, para poder pasar... Es que no necesariamente, porque ya con el nÃºmero de telÃ©fono podrÃ­a hacerlo.  Pero podemos ponerlo como requisito, oye, para poder derivar tu tensiÃ³n, por favor, dame tu nombre, correo y DNI. Pero no sÃ© quÃ© tanta fricciÃ³n que es, o me imagino que eso ya se tiene que coordinar.  Pero mira, solicitÃ³ tensiÃ³n, hemos tenido tres hasta ahora. De un total... Pero en los conversos con Ã©l... De un total de 137 conversaciones.  O sea, es un 1%. SÃ­, casi a...
+
+17:10 - dacodeperu
+  Es un 1% aproximadamente.
+
+17:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eso va a depender de quÃ© tan humano perciba que es el cliente de la gente, que hasta ahora creo que estÃ¡ sÃºper bien.
+
+17:20 - dacodeperu
+  En todo caso, de alguna forma, dentro de la programaciÃ³n de la IA, serÃ­a, para hacerlo mÃ¡s amable, no decirle, Â¿no?  Para poder hacer una... Para poder llevarte a un cliente, por favor, te solicitamos, nos puedas brindar esto y el asesor se comunicarÃ¡ contigo o algo asÃ­.  SÃ­, sÃ­, claro.
+
+17:37 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Se lo puede poner como requisito, Â¿no? Oye, para cada vez que alguien quiera... Bueno, cada vez que un prospecto te pide hablar con un agente o un asesor, mejor dicho, tambiÃ©n mencionarle que parte de los requisitos son sus datos.  Ahora, Â¿sabes quÃ© me he dado cuenta? Que tambiÃ©n pocos, Â¿ah? Pocos como que te dicen, no quisiera pasar mis datos todavÃ­a.  AsÃ­ que ahÃ­ tambiÃ©n podrÃ­a ser, Â¿no? Oye, no quiero pasarte mis datos y por eso quiero hablar como una...  Y para hablar con un asesor me estÃ¡ pidiendo mis datos. Como que es cuestiÃ³n de ver cÃ³mo gestiona la I a estos clientes.  Conocer el comportamiento del cliente. La mejor manera de eso es dejar a la gente en producciÃ³n una semanita mÃ¡s, dos, tal vez.  Y luego que el equipo interno revise las conversaciones en este CRM, pues, Â¿no? Ya, estÃ¡ bien.
+
+18:21 - dacodeperu
+  Y asÃ­ de repente, creo que todo, claro, Â¿no?
+
+18:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Solo el tema de los estados y nada, me agradecerÃ­a que me confirmen el tema de la cotizaciÃ³n, Dennis, para poder, igual como te menciono, vamos a ir avanzando con esto de los estados, pero serÃ­a genial si me lo pudieran confirmar mÃ¡ximo maÃ±ana para poder ir coordinando con el equipo el desarrollo de los seguimientos automÃ¡ticos.
+
+18:41 - dacodeperu
+  A ver, dÃ©jame ver eso, dame un segundo. SÃ­.
+
+18:50 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Gracias.
+
+19:02 - dacodeperu
+  Santiago, me comentan que eso todavÃ­a lo van a ver el dÃ­a de maÃ±ana.
+
+19:07 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, ok, no hay problema. Estoy al pendiente. De igual manera, como te menciono, voy actualizando el tema de los datos, pero esto sÃ­ entrarÃ­a como parte de la nueva cotizaciÃ³n.  Solo que, bueno, por eso no vamos a avanzar con eso. AsÃ­ que igual lo vamos desarrollando. Ya, una consulta, Santiago.
+
+19:24 - dacodeperu
+  Lo que pasa es que todavÃ­a no adelantamos nada de la nueva cotizaciÃ³n. Ahora, Â¿eso que te he pedido implica mucho cambio?  SÃ­, hay que...
+
+19:35 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Es que es bÃ¡sicamente tocar la lÃ³gica de la gente. Yo esperarÃ­a que si lo empezamos hoy, eso pueda estar para mÃ¡ximo el dÃ­a viernes.  Ya, y si lo mantienes con los...
+
+19:46 - dacodeperu
+  A ver, bueno, yo lo que puedo hacer es... A ver, visita agendada, agendada... Con alguna lÃ³gica me dices...
+
+19:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, no, no.
+
+19:57 - dacodeperu
+  Sino que simplemente son nombres, o sea... Tampoco no es que yo veo un mundo, yo puedo aceptar el nombre que tÃº pongas, no hay problema por esa parte.  Porque al final son equivalencias, a los finales. Claro. Lo que sÃ­ he visto es por quÃ© en algunos, a pesar de que el dato ya estÃ¡, o sea, por ejemplo, el archivo del dÃ­a de hoy, no sÃ© si puede ver la fila 15, Â¿no?  En el drive.
+
+20:26 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Me lo puedes compartir, por favor? Ya, A ver, vamos a ver.
+
+20:36 - dacodeperu
+  Mira, por ponerte un caso, en la fila 15, yo veo que la persona ya agregÃ³ sus datos. Ya. Ya, pero su estado estÃ¡ vacÃ­o.  EstÃ¡ actualizado hoy, Â¿verdad?
+
+20:48 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Hoy, Â¿cuÃ¡ndo es? SÃ­, este es el de hoy. Es el de hoy. No, su dato estÃ¡ vacÃ­o. el de hoy.  Y no solo es ese, hay varios, mira, acÃ¡ hay otro,
+
+21:00 - dacodeperu
+  Y otro conjunto. SÃ­ deberÃ­an aparecer como registrados. SÃ­.
+
+21:06 - Santiago Isaias Zavaleta Ayala (Ulima)
+  O bueno, no sÃ© quÃ© nombre creo que es el dato registrado. No, sÃ­, sÃ­, claro, deberÃ­a aparecer en esa fila.  AhÃ­ estÃ¡ habiendo un error, un error tÃ©cnico. No te preocupes, eso lo corregimos hoy mismo.
+
+21:16 - dacodeperu
+  Ya, lo siguiente es, en el caso de los que tienen cita, que son estos de acÃ¡, ya, algunos veo que dicen visita agendada y otros dicen agendada.
+
+21:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ah, ya, Â¿cuÃ¡ntos hay de agendada, perdÃ³n, Denise? Bueno, ahorita solo he visto uno nada mÃ¡s.
+
+21:36 - dacodeperu
+  Ah, dos.
+
+21:36 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Hay dos. Ok, voy a revisar ese margen de error. Imagino que debe ser como la misma IA es la que asigna estos estados, nuevamente, Â¿no?  Antes no habÃ­a una tecnologÃ­a que podÃ­a hacerlo y definitivamente la IA siempre tiene un margen de error de un 1%, pero vamos a ir, sÃ­, sÃ­, vamos a minimizarlo al mÃ¡ximo.
+
+21:55 - dacodeperu
+  Para afinar, es mÃ¡s que todo afinamiento. SÃ­, de ahÃ­ lo siguiente era... Â¿Por quÃ© se dan estos registros? Eso es lo que quisiera saber.  Esto es en blanco. Buena pregunta.
+
+22:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AhÃ­, nuevamente, ahÃ­ me falta actualizar el estado, pero ese de ahÃ­ se estÃ¡ dando por los que mandan el mensaje automÃ¡tico, ese de, hola, estoy interesando un proyecto, y no vuelven a mandar ningÃºn mensaje mÃ¡s.  AhÃ­ lo Ãºnico que faltarÃ­a actualizar que falta es que diga primer contacto o en este caso saludo, pues, Â¿no?
+
+22:30 - dacodeperu
+  Pero ahÃ­ los estÃ¡ llenando porque claramente la gente no estÃ¡ llegando a registrar los SÃ­, pero ahÃ­ hay un error tambiÃ©n, SebastiÃ¡n, porque si bien es cierto falta el estado, asumo que son los de los que vendrÃ­a a ser primer contacto, saludo, bueno, ya, pero al menos deberÃ­a mandar el mÃ³vil.  SÃ­, sÃ­, sÃ­, eso lo vamos a revisar.
+
+22:51 - Santiago Isaias Zavaleta Ayala (Ulima)
+  EstÃ¡ bien que no haya ningÃºn otro dato.
+
+22:54 - dacodeperu
+  Ahora, en el caso del DNI, creo que se habÃ­a puesto que sea autogenerado, sin caso no envÃ­a nada. Para el caso de...  El primer contacto o saludo, no, en el caso del DNI tendrÃ­a que ir la fecha y la hora, como DNI provisional.  Ya cuando se registre, ese dato se reemplaza por el DNI que el usuario registre. O sea, me estÃ¡ diciendo que hay un nÃºmero genÃ©rico si es que estÃ¡ vacÃ­o.
+
+23:20 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, en la plantilla estaba.
+
+23:25 - dacodeperu
+  Valor por defecto si en caso estÃ¡ en blanco.
+
+23:28 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, ya, estÃ¡ bien.
+
+23:31 - dacodeperu
+  Eso sÃ­ estaba en la plantilla inicial. SÃ­, estÃ¡ bien.
+
+23:35 - Santiago Isaias Zavaleta Ayala (Ulima)
+  EstÃ¡ bien, estÃ¡ bien. Vamos a realizar esos cambios, ahora que me estÃ¡s mencionando. Igual, nada, serÃ­a bueno que no solo me menciones esto, sino que mapees cuÃ¡l es todo el universo de correcciones que se tienen que hacer.  Porque, bueno, parte del alcance es que estar invirtiendo horas en detallitos, al final nos desenfocan en tal vez construir algo que se aporte valor cuando es un tema de formato.  Gracias. Gracias. Gracias. Y hay que evaluar bien lo mÃ¡s completo, cuÃ¡les son todos estos cambios que tienen que hacer, para luego no tener otra reuniÃ³n donde veamos detalles que quitan tiempo, igual que podemos enfocar a seguir avanzando la otra soluciÃ³n, por ejemplo.  Pero nada, voy a corregir con el equipo esas filas vacÃ­as y el tema del Estado y el tema del DNI y apenas estÃ© listo, te avisamos.
+
+24:19 - dacodeperu
+  SÃ­, porque, sÃ­, lo que pasa es, como te digo, Santiago, eso sÃ­ estaba en la solicitud inicial, en la solicitud que te enviÃ©, eso sÃ­ estaba.  El tema de los nombres, eso sÃ­, bueno, eso sÃ­ cambiÃ³ un poco, pero se puede mantener el nombre del primer contacto, como tÃº dices, el tema de, con datos registrados, si mal no recuerdo, visita agendada, lo que faltarÃ­a serÃ­a agregar el tema de precalificado nada mÃ¡s, si es que pudiera, si es que se pudiera, Â¿no?  SÃ­, sÃ­, totalmente de acuerdo.
+
+24:51 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AhÃ­ lo voy a corregir con el equipo y apenas estÃ© listo, les avisamos. Y me confirmas, por favor, es que al final el tema del lead scoring, es este cambio de estados con la lÃ³gica...  La respectiva va o no va, cosa que o les mando la cotizaciÃ³n actualizada o si no me avisan de esa cotizaciÃ³n que es lo Ãºnico que va a cubrir para poder avanzar lo mÃ¡s rÃ¡pido posible.
+
+25:11 - dacodeperu
+  Ya estÃ¡ bien, voy a conversarlo.
+
+25:14 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Dale, genial. Entonces, Â¿todo claro? SÃ­. Perfecto, Denis. Que tengas muy buenas tardes y ya nos estamos viendo pronto. Ya, listo, Santiago.  Nos vemos entonces. Nos vemos, cuÃ­date.
+
+25:24 - dacodeperu
+  Ok, listo. Chao, chao. Chao, chao.

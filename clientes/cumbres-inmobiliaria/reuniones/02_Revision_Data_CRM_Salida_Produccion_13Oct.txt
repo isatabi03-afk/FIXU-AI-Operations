@@ -1,0 +1,268 @@
+Impromptu Google Meet Meeting - October 21
+VIEW RECORDING - 46 mins (No highlights): https://fathom.video/share/2xrNTKbRxZFeYCg2-K83Wu-wqmmnYPtG
+
+---
+
+0:04 - Lyonel Rodriguez Garcia
+  Hola, hola Santiago Hola equipo, Â¿quÃ© tal?
+
+0:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿CÃ³mo estÃ¡n? Â¿Se me escucha bien?
+
+0:18 - Lyonel Rodriguez Garcia
+  SÃ­, sÃ­, sÃ­ Genial, Â¿quÃ© tal yo? Â¿CÃ³mo estÃ¡s? Â¿QuÃ© tal Denis? imagino Bueno, buenas Hola, Â¿cÃ³mo estÃ¡n? No, Denis Â¿CÃ³mo Oscar?  Â¿CÃ³mo estÃ¡, Oscar? Hola, Oscar, buenas tardes Hola, Â¿quÃ© tal?
+
+0:48 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿QuÃ© tal equipo? Â¿CÃ³mo estÃ¡n? Â¿QuÃ© tal, Oscar? Un gusto Â¿QuÃ© tal? Creo que estÃ¡n metiendo... SÃ­, hay una guÃ­a que estÃ¡ Centrando Centrando  Todo claro. Â¿Estamos completos equipo para empezar con la presentaciÃ³n?
+
+1:04 - Lyonel Rodriguez Garcia
+  A ver, pero Â¿quÃ© vamos a ver ahorita, Santiago, para saber un poco la agenda y tambiÃ©n mostrarte un poco nuestra problemÃ¡tica actual y que nos pueda brindar la alternativa si es que la tiene?  SÃ­.
+
+1:20 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, primero la agenda para esta reuniÃ³n era principalmente para poder conocer mÃ¡s ese problema, pero podemos mostrar rÃ¡pidamente cÃ³mo estÃ¡ funcionando la gente de inteligencia artificial, si es que ya lo han usado.  No sÃ© si de repente tengo alguna duda con respecto a la gente, porque ya lo habÃ­amos revisado todo en la Ãºltima reuniÃ³n.
+
+1:37 - Lyonel Rodriguez Garcia
+  Una consulta, yo sÃ­ tengo una duda, temprano estuve interactuando, ya, y dos veces me mandÃ³ informaciÃ³n, ya, lo que serÃ­a recomendable es que revise la conversaciÃ³n, si previamente la enviÃ³, para que...  Saber si es que es necesario o no volver a reenviar, porque no es que yo le haya pedido, sino que seguro son los tiempos, los tiempos de respuesta y tiempos de preguntas que se cruzan.
+
+2:17 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, seguramente, no te preocupes, vamos a centrar tu conversaciÃ³n, Leo, para poder revisar en quÃ© momento fue que hace ese duplicado de conversaciones y lo corregimos de cara a los siguientes mensajes.  Que, de hecho, no la he estado repitiendo, no he estado cometiendo esa oportunidad de mejora, pero igual lo vamos a revisar para ir reduciendo ese margen de error.  No te preocupes. Entonces, equipo, bueno, brevemente ya habÃ­a conversado con Giuseppe y con Denis con respecto al problema o a la oportunidad de mejora que estaban teniendo, Leo.  No sÃ© si de repente me puedas llevar complementando mÃ¡s la informaciÃ³n, porque ya tengo una propuesta para presentarles y quÃ© tal si les comparto mi pantalla.  Mientras te voy comentando, Â¿ya?
+
+2:57 - Lyonel Rodriguez Garcia
+  Ok. A ver. ver. Al parecer, Meta estÃ¡ ajustando y obligando al uso de certificaciones o certificar cuentas a hora de WhatsApp.  Y eso implica que nuestro equipo de ventas que utiliza mucho WhatsApp comienza a tener restricciÃ³n de uso. Ok. dÃ­as, 30 dÃ­as, 45 dÃ­as, inclusive, que te restringe el uso, porque al parecer estamos utilizando de manera masiva o mensajes repetitivos y el algoritmo lo toma como que son un paciente campaÃ±as masivas, Â¿no?  Y lÃ³gico, va a querer que le pagues, que por eso seguro que estÃ¡ teniendo esta restricciÃ³n. SÃ­. El 80%, 70% o 80% de nuestros leads llegan a travÃ©s del...  Y el 30 o 20% de los otros leads son los que se atreven a interactuar directamente con el agente de inteligencia artificial que tenemos operando actualmente, con MIMA.  Ok. El gran problema es ese grueso de leads que dejan datos y que nuestro equipo tiene que gestionar y hacer seguimiento.  Totalmente. Ese no es el problema hacer seguimiento. El problema es que nos estÃ¡n baneando las cuentas. Entonces, no queremos eso, Â¿no?  Queremos que podamos alquilar alguna alternativa que no nos baneen y que nuestros asesores o reciban informaciÃ³n mÃ¡s precisa o un link mÃ¡s modificado.  O sea, y para eso se necesitarÃ­a algo mÃ¡s proactivo que reactivo, Â¿no?
+
+4:58 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Totalmente. Ese es el problema. SÃ­. Mira, LÃ­o, te comento. No, les comento. En general voy a empezar a compartir mi pantalla.  Primero que lo que me mencionas no es la primera vez que lo estoy escuchando. De hecho, Â¿quÃ© es lo que nosotros solemos hacer con nuestros clientes y cÃ³mo implementamos estos agentes de IA?  Lo que mencionabas. Lo que ahora ya tenemos es que MIA, el agente de Cumbres, responde reactivamente. Nos escriben un mensaje al nÃºmero de WhatsApp y lo que el agente de IA va a hacer, porque estÃ¡ programado para hacerlo, es responder.  Un momento voy a admitir, creo que alguien estÃ¡ entrando. Eso. Lo que hace el agente de IA es responder reactivamente en menos de un minuto.  Pero lo que tÃº me comentas es quÃ© pasa con este 70% de leads que me escriben, o mejor dicho, dejan su informaciÃ³n y yo tengo que comunicarme el momento.  Al final la problemÃ¡tica es la misma, Â¿no? Responder al momento, pero no solo responder con un mensaje automatizado, sino mantener la conversaciÃ³n ahÃ­ mismo para nuevamente lograr agendar esa visita, filtrar el lead y derivarlo directamente.  No, no. Al asesor inmobiliario. Entonces, equipo, le he preparado esta presentaciÃ³n para comprender un poquito mÃ¡s este flujo. Y es que hay dos maneras en las que nosotros recibamos mensajes de prospectos.  La primera que ya tenemos automatizada con el agente de IA, que es el contacto directo. Y la segunda es mediante formularios que pueden estar en campaÃ±as o en portales inmobiliarios, que en este caso me imagino que todo lo manejamos con campaÃ±as, Â¿verdad?  No sÃ© si de repente me pueden dar visibilidad de eso.
+
+6:28 - Lyonel Rodriguez Garcia
+  AhÃ­ estÃ¡ Giuseppe. Giuseppe nos puede aclarar cÃ³mo capta esos links a travÃ©s de las redes sociales. Ok. Lo que querÃ­a decir, Santiago.
+
+6:42 - Oscar AlcÃ¡zar
+  SÃ­, quÃ© tal, buenas tardes.
+
+6:44 - Giuseppe Quiroz
+  SÃ­, todos los formularios, como te expliquÃ© el dÃ­a de ayer, Santiago, todos los formularios que hacemos en Facebook, Instagram, Google Ads, Tito, bueno, lo que es este...  Los portales inmobiliarios ya no estamos tanto, pero sÃ­ en alguna ocasiÃ³n estamos, o alguna base de datos externa que nos brinden y la subamos al CRM, va directa al mismo, al CRM.  O no es que manejemos un sistema aparte, Â¿no? O sea, alimentamos el CRM con todos los datos que te dejan en los formularios.
+
+7:27 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, eso es bÃ¡sicamente, Â¿no?
+
+7:30 - Giuseppe Quiroz
+  El tema de Google Ads puede ir directamente con contacto directo o a travÃ©s de dejar un formulario dentro de la web, Â¿no?
+
+7:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, me queda clarÃ­simo. Entonces, equipo, Â¿quÃ© es lo que se tiene que hacer en este momento? Es ese bloque de leads que estÃ¡n dejando los datos en un formulario tienen que ser conectados al mismo agente de guÃ­a.  sea, esa gente no va a hacer que se desconecten los formularios del Esperant, ni mucho menos nada que ver, todo se va a seguir llenando automÃ¡ticamente.  La Ãºnica diferencia es que cuando estos formularios sean llenados, al igual que cuando nos escriben, el agente en menos de un minuto de haber sido llenado el formulario, le va a mandar un mensaje al prospecto.  Entonces, Â¿quÃ© pasa si el prospecto contesta este mensaje? Lo mismo que estÃ¡ haciendo el agente ahora. Se va a encargar de mediante la calificaciÃ³n de leads o agendar la visita o transferir Ãºnicamente los prospectos mÃ¡s cualificados.  Â¿QuÃ© pasa si no le contestan al agente? El agente lo que va a hacer, va a hacer un seguimiento automÃ¡tico.  Mandarle un mensaje las primeras dos horas que no tengamos respuesta. Si no nos contestan en esas dos horas, lo pueden mandar a las 23, a las 12, a las 16.  Va a depender de ustedes y de cÃ³mo estÃ©n manejando ese proceso. BÃ¡sicamente, lo que harÃ­amos es darle la capacidad a MIA de no solo responder, sino iniciar conversaciones cuando ocurra cierto evento.  Este evento serÃ­a el llenado de un formulario, bÃ¡sicamente. Hasta aquÃ­, Â¿tienen alguna duda con respecto a la integraciÃ³n? Â¿QuÃ© permisos necesitarÃ­amos?  De repente, si tienen que... Â¿Quieren saber un poco mÃ¡s cÃ³mo se harÃ­a esta integraciÃ³n? Â¿Todo claro? Bueno, entonces, bÃ¡sicamente.  Por mi parte, todo claro.
+
+9:15 - Giuseppe Quiroz
+  No sÃ© si...
+
+9:17 - dacodeperu
+  Sigue.
+
+9:19 - Giuseppe Quiroz
+  O sea, lo que se busca aquÃ­, como bien dijo Santiago, es ese bolsÃ³n de leads que ahorita representa el 80% de leads, Â¿no?  Este, en general, este, de los proyectos, sean atendidos por este agente IA para evitar o reducir al mÃ­nimo la posibilidad de bloqueo para los...  Â¿Hay algÃºn micro, creo que estÃ¡ abierto? AllÃ¡. Este, que puedan ser bloqueados, Â¿no? Entonces, la idea es de que ya el asesor tenga, este, o sea, uno, el...  El beneficio de poder atender a los proyectos mÃ¡s calientes o mejor perfilados, o que tengan un interÃ©s, que hayan completado un interÃ©s con respecto al tema de la visita, Â¿no?  Y por ende puedan hacer un mayor seguimiento a estos clientes, Â¿no? Entonces, y por el otro lado, el beneficio de evitar el tema del bloqueo, Â¿no?  Entonces, no sÃ© si hasta aquÃ­ tengan alguna duda, bÃ¡sicamente lo que se hablÃ³ con Santiago ayer es de que el mismo grupo que hace la gente cuando recibe por contacto directo a travÃ©s de WhatsApp, donde le haga la pregunta, le dÃ© informaciÃ³n y su objetivo sea el tema de la cita, sea lo mismo para estos leads, pero ya no de una manera receptiva como lo es en el flujo de contacto directo, sino ya de una manera activa, Â¿no?  La gente sale a... A contactar a esos clientes para poderlo perfilar mejor, Â¿no? Totalmente.
+
+11:06 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y de hecho, ahora que lo mencionas, Giuseppe, aquÃ­ creo que es importante declarar equipo que nosotros no les vamos a ofrecer un software enlatado, algo estÃ¡ndar.  Nosotros les vamos a ofrecer algo a medida. Por ejemplo, cada vez que se viene un formulario, lo que va a hacer MIA es con esa informaciÃ³n del formulario personalizar el mensaje al lead.  Si es que en el formulario dejan que estÃ¡n buscando de X proyecto o X habitaciones o X baÃ±os, etcÃ©tera, la IA con esa informaciÃ³n va a iniciar su conversaciÃ³n.  Y con esa informaciÃ³n va a estar haciendo los seguimientos automÃ¡ticos adecuados, no como una automatizaciÃ³n que simplemente manda un mensaje con el nombre del prospecto y queda ahÃ­ hasta que un asesor responda.  En el momento que pasen mÃ¡s de cinco minutos, la conversiÃ³n puede caer en un 80%. Lo que estamos buscando acÃ¡ es automatizar absolutamente todo el contacto, porque manejamos una tasa de contactabilidad del 98% y en esos seguimientos automÃ¡ticos...  o en esas respuestas reactivas y proactivas, vamos a filtrar a quienes nos van a comprar, de quienes en verdad no nos van a comprar, para que, como mencionÃ³ Giuseppe, los asesores empiecen a atacar Ãºnicamente al bloque de los mÃ¡s cualificados.  Ese es el objetivo principal de esta integraciÃ³n. Y como acÃ¡ menciona, nos podemos integrar tanto al CRM, cualquier o cualquier otro software que ustedes estÃ©n manejando.  Por ahora lo estamos manejando con Dennis, con un formato externo que Ã©l se encarga de alimentar, pero de cara a largo plazo, lo mÃ¡s Ã³ptimo serÃ­a tambiÃ©n integrarnos al Esperant, cosa que cada vez mÃ¡s las tareas manuales que ustedes manejan se vayan reduciendo y se vayan delegando a la inteligencia artificial para que ese tiempo que ustedes tengan disponible lo puedan dedicar a generar simplemente mÃ¡s valor para Cumbres.  Ese es el objetivo principal de implementar este agente de inteligencia artificial. Ahora, Â¿cuÃ¡les son el tema de precios? Nuevamente, esto no es un enlatado, lo que seguimos haciendo acÃ¡ es que sobre lo que ya se tiene, que es AMIA, vamos a aÃ±adirle la capacidad de poder hacer seguimiento.  ...seguimientos automÃ¡ticos. Esta infraestructura, esta soluciÃ³n es de cumples, no es algo que se copie y pegue, es plenamente de ustedes.  Entonces, esta mejora de seguimientos automÃ¡ticos estarÃ­a siendo de mil dÃ³lares para poder darle esa capacidad mÃ­a. Estos mil dÃ³lares no significa que lo va a hacer este mes y el mes siguiente otros mil dÃ³lares mÃ¡s, no.  Es un pago Ãºnico para que la gente ya tenga la capacidad permanente de tanto responder como iniciar conversaciones. Esto bÃ¡sicamente incluye, como ya mencionÃ©, darle esa capacidad.  El fin mensual, nosotros estamos trabajando un fin mensual de 200 dÃ³lares. El fin mensual aumentarÃ­a a 250 por el volumen de leads.  Sin embargo, esto es un estimado muy conservador, ya que al ser un 80%, lo que va a entrar, si sacamos una proporciÃ³n de lo que ya estÃ¡ recibiendo mÃ­a hoy en dÃ­a, que es considerable, posiblemente el variable sea mÃ¡s.  Yo siempre, bueno, nosotros siempre recomendamos que los costos variables ustedes lo manejen directamente para evitar cualquier tipo de malentendimiento.  Incongruencia, ya que al final ustedes van a tener la visibilidad de lo que se estÃ¡ gastando por lo que sea por parte de Meta o por parte de la inteligencia artificial.  Sin embargo, nosotros podemos manejar ese variable sin ningÃºn problema y en caso de un excedente con el reporte respectivo y mostrÃ¡ndole las cifras correctas, se puede liquidar sin ningÃºn problema.  Hasta el momento no sÃ© si tienen alguna duda. Santiago, sÃ­.
+
+14:24 - Giuseppe Quiroz
+  A ver, para recapitular, nosotros ya tenemos un costo por el, por la mensajerÃ­a o el contacto directo, por asÃ­ decirlo.  Estos mil dÃ³lares entiendo que, bueno, el desarrollo serÃ­a aparte y los 250 dÃ³lares serÃ­a aparte de lo que ya se va a cobrar mensualmente por el FIDE, el contacto directo, o se convierte en uno solo.  Se convierte en uno solo.
+
+14:53 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De 200 pasarÃ­a a ser 250. Igual serÃ­a bueno, Giuseppe, gracias por mencionarlo, que en el primer mes... Mejor dicho, en este mes que ya estÃ¡ en producciÃ³n, evaluemos cuÃ¡l es ese comportamiento variable e ir ajustando un variable o, mejor dicho, un fee mensual Ã³ptimo para que no estemos teniendo mÃ¡rgenes de mÃ¡s o mÃ¡rgenes de menos.  Al final va a depender del comportamiento de sus clientes y es mÃ¡s que todo por eso que estamos actuando bajo una visiÃ³n conservadora, ya que al final de mes es donde vamos a evaluar en verdad cuÃ¡nto es lo que se estÃ¡ gastando, ver si ustedes se encargan netamente de este fee o nosotros seguimos haciÃ©ndonos responsables de esto.
+
+15:32 - Giuseppe Quiroz
+  Ok, entonces entiendo de que el costo de desarrollo es mil dÃ³lares, de 200 pasamos a 250 pero previa evaluaciÃ³n dependiendo del flujo de la cantidad de leads y ya se convierte en un solo gasto para todo en general, el tema del fee mensual y lo que es variable, bueno, esto incrementa porque obviamente no es lo mismo atender al 20% que al 100%.  Gracias. Totalmente claro. Respecto al tema del variable, sÃ­ te habÃ­a comentado que nosotros sÃ­ necesitamos un tema de factura, porque sÃ­ es complicado, entiendo la transparencia que se necesita, pero sÃ­ es complicado a nivel contable porque uno, se tendrÃ­a que dejar una tarjeta de crÃ©dito, no hay una factura como tal, es una factura o un documento del extranjero para ser mÃ¡s claro.  Y lo que aquÃ­ serÃ­a bÃ¡sicamente serÃ­a un detallado de cuÃ¡ntas conversaciones serÃ­an, que esto serÃ­a homologado en este caso por Dennis, y en base a eso poder cerrar el costo.  TÃº no mandas de ser aprobada tu propuesta, la cantidad de conversaciones o el costo que en este caso implicarÃ­a, se colegia con Dennis y sobre eso...  Se hace la orden de servicio y el pago, Â¿no?
+
+17:03 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, totalmente de acuerdo, Giuseppe. Como mencionabas ahÃ­, el plan de acciÃ³n, o lo que se espera, es poder ver el comportamiento del agente de IA cuando ya estÃ© en este escenario de un volumen alto de leads.  Hoy puede ser 250 dÃ³lares y de repente, despuÃ©s de un mes de haber analizado ese volumen, a lo mejor queda corto, a lo mejor queda excedente, a lo mejor vuelve a bajar a 200, porque hasta ahora no estamos teniendo ningÃºn problema.  Y al final, nuevamente, quiero aclararnos, si es que algo se acumula de lo que no se basÃ³ en un mes, eso es para el siguiente mes.  Se va acumulando y todo el control se los he dejado en la documentaciÃ³n, asÃ­ que por ese lado no hay ningÃºn problema.  Pero es cuestiÃ³n de evaluar el comportamiento real de los mismos clientes de Cumbres y luego, en base a eso, ir ajustando y llevar todo con una buena trazabilidad.
+
+17:50 - Giuseppe Quiroz
+  Me consultaba el tema de ese fin mensual, Santiago, tendrÃ­amos que tener un rango para que... Oscar y Leonel lo tengan claro, Â¿no?  O sea, ahorita estamos hablando de un flujo, como te digo, que explica el 20% o 25% y del otro es un 75%, Â¿no?  Pero la idea tampoco es que no tenga tope, Â¿no? O sea, Â¿cuÃ¡l serÃ­an los parÃ¡metros o los rangos que se tendrÃ­an a grosso modo a nivel de cantidad de leads?  Porque sabemos ahorita, a grosso modo, cada proyecto cuÃ¡ntos leads reciben al mes, Â¿no? Entonces, sÃ­ serÃ­a bueno que al menos nos puedas indicar cuÃ¡les serÃ­an los rangos para que Oscar y Leonel tengan en cuenta el tema del costo mensual que va a ser fijo.  El variable es un problema, Â¿no? Porque es dependiendo cuÃ¡nto hables, Â¿no? Eso estÃ¡ mÃ¡s que claro. Pero sÃ­ el tema del fin mensual para que puedan tomar la decisiÃ³n.
+
+18:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, lo que pasa, Giuseppe, es que el fin mensual, y gracias por la observaciÃ³n... En mensual de 250, Â¿quÃ© es lo que estÃ¡ incluyendo?  15.000 a 20.000 mensajes sin afectar la calidad de respuesta. decir, lo que estÃ¡ haciendo MIA, pero hasta 20.000 veces.  Es decir, que todavÃ­a hay mucho margen, definitivamente. Cada mensaje cuenta como un mensaje de un lead y un mensaje de la IA.  Eso cuenta como un solo mensaje. Pero no son 20.000 contactos, sino 20.000 mensajes.
+
+19:22 - Giuseppe Quiroz
+  Exacto. Exacto.
+
+19:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No son 20.000 contactos, son 20.000 mensajes como especifica acÃ¡. Aparte, incluimos 350 y 400 mensajes salientes. Es decir, que ahÃ­ sÃ­ podrÃ­amos decir que van a ser 400 veces que rellenen el formulario.  DespuÃ©s, si se excede estos 15.000 o 20.000 mensajes y se excede este rango, ahÃ­ reciÃ©n se empezarÃ­a a cobrar ese variable, ya que en nuestro fin mensual lo que estamos incluyendo es esta cantidad de acÃ¡.  Claro.
+
+19:51 - Giuseppe Quiroz
+  que pasa es que, mira, tÃº pones ahÃ­ 350, 400 mensajes salientes con seguimiento automÃ¡tico. El problema es que nosotros...  Tenemos mÃ¡s, entonces por eso te decÃ­a mÃ¡s o menos los rangos, porque si tÃº me dices, oye, por, no sÃ©, me estoy inventando, por 350 dÃ³lares vas a poder atender a 2 mil leads salientes o mensajes salientes y voy a poder hablar hasta 50 mil mensajes, porque al fin y al cabo el nÃºmero que te manda es el de abajo, mÃ¡s que el de arriba, Â¿no?  Porque es muy variable, pueden haber personas que te digan un hola y te digan ya, ok, maÃ±ana voy, o hay otros que te hablen todo el dÃ­a, Â¿no?  O eso no lo vamos, no es controlable, mejor dicho. Total. De abajo, sÃ­ es mÃ¡s controlable porque son mensajes salientes, o mejor dicho, atenciones a leads.  Entonces hoy, hoy por hoy, el 80% no es 400, no es mucho mÃ¡s. Â¿CuÃ¡nto es aproximadamente, Giuseppe? MÃ¡s o menos, como te decÃ­a el ejemplo.  ejemplo, en Vilanova Monumental son cerca de 2.000 lits o 2.500. Si sumamos Trujillo, que son mÃ¡s o menos 1.500, estamos hablando ahÃ­ de 3.000, 4.000.  En Arequipa no hay nada de momento, pero en el caso de Chancay es un producto nuevo, es una plaza nueva, estimando los lits mÃ¡s cercanos, que es Valle Grande, mÃ¡s o menos tienen entre 3.000 a 4.000.  Pero pongÃ¡moslos en un escenario conservador o al mÃ­nimo, yo creo que pongÃ¡mosle 2.500 o ya 3.000. Entonces estamos hablando de cerca de 7.000.  Si eso les contamos el 25% que vendrÃ­an a ser por contacto directo, estamos hablando de... Un segundo... Â¿Ok?
+
+22:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mientras seamos mÃ¡s precisos con los nÃºmeros, yo voy a sincerar y les voy a decir, miren, por este bloque de mensajes, esta es la cifra.  Y ya lo juntamos todo como un mismo fin mensual.
+
+22:12 - Giuseppe Quiroz
+  Mira, mÃ¡s o menos estamos hablando entre 5.300 leads, aproximadamente. 5.300 leads que llenan el formulario, o sea, los cuales tenemos que mandarle estos seguimientos.  SÃ­, o sea, lo que pasa es que puede que ser menos, Â¿no? Pero yo es como 5.000 entre todos los proyectos, este, porque el grueso va a ser el proyecto de este chupropio, Â¿no?  Claro. mÃ¡s o menos, puede que sea 4.000, puede ser que 5.000, pero yo me pondrÃ­a en ese escenario para que Oscar, Leonel, tengan en cuenta el nÃºmero y el rango, porque estÃ¡ mÃ¡s que claro que si estamos hablando de los mensajes automÃ¡ticos, son 0.7, 0.07.  Estamos hablando ahÃ­ de 367 dÃ³lares. Claro, por 5 millones de Por mensaje. Entonces, puede que sea por 2 o por 3.  Son 735 dÃ³lares, pongamos que sea por 2. y mÃ¡s tu fin mensual, estamos hablando de 250, pero que en este rango, que podrÃ­a ser mÃ¡s en el otro rango, mÃ¡s o menos estamos hablando de mÃ¡s de 1.000 dÃ³lares al mes.  SÃ­, sÃ­, hablando Ãºnicamente de lo variable.
+
+23:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AsÃ­ es. Sumando fin mensual mÃ¡s variable, ojo.
+
+23:44 - Giuseppe Quiroz
+  SÃ­, sÃ­, totalmente.
+
+23:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mire equipo, entonces, Â¿quÃ© les parece si con estos nÃºmeros que me estÃ¡ dando Giuseppe, yo ahora mismo me pongo a revisar un paquete para que puedan tener mÃ¡s claridad sobre los mensajes que vamos a tener al mismo?
+
+23:56 - Oscar AlcÃ¡zar
+  Claramente, seguirÃ­amos contando con la implementaciÃ³n.
+
+23:58 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Voy a tratar de minimizar este monto para que... Que sea lo mÃ¡s justo y podamos, porque nuevamente, esto es a largo plazo.  Y apenas acabe esta reuniÃ³n, yo les mando la propuesta actualizada, no solo con la implementaciÃ³n, ya sea actualizado para que lo puedan dimensionar, y que es todo lo que incluye el FII.  Porque recordemos que tambiÃ©n estÃ¡ el servidor y el servicio de mantenimiento y consultorÃ­a, que nuevamente esto ya estÃ¡ dentro de este monto.  Solo faltarÃ­a actualizar en base a los nÃºmeros que me estÃ¡ dando Giuseppe, para que ya podemos darle el go.  Â¿QuÃ© opinas? Santiago, consulta.
+
+24:29 - Giuseppe Quiroz
+  Â¿CÃ³mo se quedÃ³ en ver si se podÃ­a enlazar los nÃºmeros de los asesores en automÃ¡tico con el agente?
+
+24:39 - Oscar AlcÃ¡zar
+  Â¿Pudiste ver ello?
+
+24:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, lo pudimos revisar y aquÃ­ sÃ­ me gustarÃ­a que tengamos una reuniÃ³n independiente para poder explicarles esto. A dÃ­a de hoy no podemos hacerlo y les voy a explicar por quÃ©.  Justo como mencionÃ³ Lionel, Meta ha actualizado todas sus condiciones. Â¿Y cÃ³mo es que trabajan estos softwares que hoy en dÃ­a hacen que te manden mensajes automatizados desde nÃºmeros independientes?  Con APIs no oficiales, que es bÃ¡sicamente lo que hace que te baneen mucho los nÃºmeros. Y hoy en dÃ­a no estamos trabajando con APIs no oficiales, asÃ­ que por el momento no estamos ofreciendo automatizaciones de nÃºmeros externos.  Sin embargo, estamos trabajando la manera de poder alinearlo a su portfolio comercial para que esos nÃºmeros puedan enviar las mismas plantillas que enviarÃ­a MIA, por ejemplo.  Pero a dÃ­a de hoy no recomendamos hacer uso de esos softwares, ya que van a estar baneÃ¡ndole los nÃºmeros constantemente, por lo menos hasta que Meta actualice sus condiciones.  Ya.
+
+25:34 - Lyonel Rodriguez Garcia
+  No sÃ© si hay otra pregunta ahÃ­, Giuseppe. Pasemos para hacer las preguntas que tengo pendientes. No, por mi parte ya estÃ¡.  Es tal cual lo que hemos conversado ya con Santiago.
+
+25:43 - Giuseppe Quiroz
+  Ya con eso puedan tener un estimado real de cuÃ¡nto es lo que van a estar. Y no haya costos ocultos, Â¿no?  O sea, que van a aparecer despuÃ©s, Â¿no? Mejor dicho. Ok, Santiago. Quedamos a la espera de tu churro de cotizaciÃ³n.
+
+25:59 - Oscar AlcÃ¡zar
+  Gracias. Yo tengo un producto nuevo para nosotros.
+
+26:08 - Lyonel Rodriguez Garcia
+  Santiago, lo que sÃ­ necesito saber, esto va a ser una especie de un call center, Â¿no? Que no llama, sino que manda los mensajes.  Igual esto nos va a dar un archivo para que Dennis tambiÃ©n lo trabaje a travÃ©s de lo que estÃ¡ creando Dennis y lo suba a nuestro CRM, porque igual tienen que ir a nuestro CRM todos estos links.  Nuestro CRM tiene una configuraciÃ³n en cuanto a estatus, es como que el embudo que tiene el Espera, Â¿no? Para calificar a esos links.  Y que de acuerdo a ese estatus, a ese embudo, es que nuestros asesores le ponen mÃ¡s o menos gestiÃ³n.  Por ejemplo, un cliente caliente. Este es aquel que ya por lo menos agendÃ³ una cita o es un cliente tibio que ya agendÃ³ una cita o etcÃ©tera, Â¿no?  Un cliente frÃ­o es aquel que se quedÃ³ en mitad de camino, pero mÃ¡s o menos esos son los estatus.  Â¿Podemos adecuar estos estatus de acuerdo a parÃ¡metros para que venga en el archivo que va a recibir Dennis y lo suba y no tenga inconveniente el espera en leerlo?
+
+27:25 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, claro. Â¿Te refieres al nombre del formato como tal?
+
+27:29 - Lyonel Rodriguez Garcia
+  Al estatus de cada lead gestionado por MIGO. Ok. Â¿CuÃ¡ntos estatus estÃ¡n manejando ustedes hoy en el CRM, Lio?
+
+27:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Tenemos los...
+
+27:43 - Lyonel Rodriguez Garcia
+  Los primeros que no son los no atendidos, los frÃ­os, los tibios, los calientes, compra y no compra.
+
+27:53 - Oscar AlcÃ¡zar
+  Ok.
+
+27:54 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Y cuÃ¡les son los estatus que ustedes necesitan que MIGA les entregue? Claro. AhÃ­ viene.
+
+28:00 - Lyonel Rodriguez Garcia
+  Tema, pues, necesitamos que MIA sea tan inteligente, artificialmente, para que nos diga, oye, estos sÃ­ estÃ¡n calientes o estÃ¡n tibios, para que le den prioridad, estos se quedaron a mitad del embudo y estÃ¡n tibios o estÃ¡n frÃ­os, y estos nunca respondieron por mÃ¡s de que les mandÃ© informaciÃ³n, frÃ­os, etc.  Y esto no puede atender porque el nÃºmero de telÃ©fono no es el correcto, etc. Ok.
+
+28:29 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AquÃ­ lo que se necesitarÃ­a, Lio, y si gustan, yo lo puedo complementar con la implementaciÃ³n de los seguimientos automÃ¡ticos, una propuesta cÃ³moda, es un lead scoring.  Es decir, lo que MIA hace hoy en dÃ­a es que, en ciertas etapas del proceso comercial, le asigne una etiqueta.  Pero, por lo que me comentas, entiendo que lo que tÃº quieres es que MIA haga un anÃ¡lisis de la conversaciÃ³n, y en base a dÃ³nde se quedÃ³, que analice quÃ© estatus es el que tiene en verdad.  Por ahÃ­ va la situaciÃ³n. Es correcto.
+
+29:04 - Lyonel Rodriguez Garcia
+  Â¿Por quÃ©? Porque lo que es probable, como toda esta data se va a subir a la espera, es que los chicos van a tener que gestionar.  Lo primero que van a hacer es ver, oye, estos clientes estÃ¡n tibios, estÃ¡n calientes porque han agendado una cita o porque ya han comenzado a dar informaciÃ³n y se muestran interesados.  Perfecto. Pero los que estÃ¡n frÃ­os, para que no nos sigan baneando, porque vamos a seguir usando el WhatsApp, los que van a seguir utilizando el WhatsApp, estos frÃ­os que no respondieron, por mÃ¡s de que MIA tratÃ³ de interactuar, ya le decimos a Giuseppe que haga una campaÃ±a con ellos y ya coordinarÃ¡ contigo o lo verÃ¡ por otro lado, etc.  Entonces ya marketing se carga de ellos. Por eso ese estatus es importante, porque los tibios y los calientes van a ser menos y va a haber menos riesgo de que nos sigan baneando o restituyendo el WhatsApp a travÃ©s de Meta.  Claro. Claro, entiendo, entiendo.
+
+30:02 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, definitivamente ahÃ­ lo que se necesita es un lead scoring. Nuevamente, Â¿no? Seguimos completando el ecosistema. Ya no solo tenemos un agente reactivo, ahora vamos a tener que este agente tambiÃ©n es proactivo y ademÃ¡s va a tener la capacidad de poder analizar las conversaciones para asignarle un estado.  Porque ahorita lo que hace es asigna estado segÃºn la etapa en la que estÃ¡ la conversaciÃ³n, pero no hace un anÃ¡lisis de la conversaciÃ³n segÃºn los criterios de cumbres para colocarle un estado.  Creo que por ahÃ­ va lo que tÃº estÃ¡s necesitando. Definitivamente lo podemos integrar, sÃ­, pero sÃ­ serÃ­a un servicio aparte ya que es, como te digo, lead scoring.  Es puntuaciÃ³n del lead en base a un criterio especÃ­fico. como les menciono, lo puedo incluir en esta propuesta que les estoy mencionando y hacer un paquete para poder presentarlo hoy a mÃ¡s tardar para que tengan claro todos los nÃºmeros tambiÃ©n.  Ya, Giuseppe estÃ¡ levantando la mano.
+
+30:58 - Lyonel Rodriguez Garcia
+  SÃ­.
+
+30:59 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Yo tambiÃ©n.
+
+31:02 - Giuseppe Quiroz
+  Primero, primero, Denis, levanta esta, levanta la mano.
+
+31:06 - dacodeperu
+  SÃ­, Santiago, lo que pasa es que ahorita estÃ¡ viendo el archivo que estÃ¡ generando la guÃ­a, todavÃ­a no tiene los datos que se habÃ­an quedado, no estÃ¡ bajo la misma, la plantilla que se habÃ­a quedado, entonces, si se piensa en integrar estas opciones adicionales, entonces, dentro del archivo tambiÃ©n tendrÃ­a que haber la discriminaciÃ³n del medio, Â¿no?, para saber si viene por WhatsApp, por Facebook, por quÃ© red social.  Entonces, ahorita estaba viendo la data que estÃ¡ emitiendo la guÃ­a y no hay desinformaciÃ³n, hay bastante informaciÃ³n que falta, bueno, algunas informaciones que faltan respecto a la plantilla que te enviÃ©.  Entonces, querÃ­amos, bueno, en mi caso, yo querÃ­a saber cÃ³mo es el tema de la data, porque la data ahorita sÃ­ la necesito, ya.  Para ver, como ya estÃ¡ en producciÃ³n, el archivo si necesito, con la informaciÃ³n que se requiere para el esperamos.  SÃ­, totalmente de acuerdo, Denis. Denis, una consulta.
+
+32:14 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Primero, con respecto al canal por donde viene el lead, para mÃ­ actualmente el Ãºnico canal es WhatsApp, porque le van a escribir directamente.  Si nosotros estuviÃ©ramos conectados a los formularios, como es lo que se plantea hacer, vamos a poder determinar de quÃ© campaÃ±a viene ese lead, que eso tambiÃ©n se puede adicionar.  Pero al agente, ahora ser reactivo, no hay manera de determinar cuÃ¡l es el canal por el cual estÃ¡ viviendo el lead, ya que escriben directamente por el nÃºmero.  TendrÃ­amos que estar conectados a los formularios, que es lo que se estÃ¡ proyectando hacer, solo para aclarar ese punto.  Con respecto al formato, Denis, Â¿me podrÃ­as por favor decir cuÃ¡les son los datos que estÃ¡n faltando y los que son de mÃ¡s para corregirlo hoy mismo?  SÃ­, te...
+
+33:00 - dacodeperu
+  te... EnviÃ© la plantilla porque ahÃ­ estÃ¡n justamente los datos en columnas y en el orden que tienen que estar.  Ok.
+
+33:11 - Santiago Isaias Zavaleta Ayala (Ulima)
+  EspecÃ­ficamente como estÃ¡ la plantilla, entonces lo dejamos. SÃ­.
+
+33:16 - dacodeperu
+  Incluso la plantilla actualmente solo contemplaba la parte de la columna de medio que enviÃ© como WhatsApp. O sea, sÃ­ lo contemplaba como tal.  Y ahora como se piensa agregar esta funcionalidad adicional, serÃ­a bueno que en esa parte un poco ya no envÃ­e solo WhatsApp, sino envÃ­e en realidad de quÃ© medio viene.  Â¿No? Ahora, creo que tambiÃ©n estÃ¡ hablando de los estados.
+
+33:47 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, en el tema de estado, creo que ahorita por WhatsApp habÃ­amos visto que habÃ­a primer contacto, visita agendada y todo eso.
+
+33:58 - dacodeperu
+  Entonces, hay que ver que no se cruce. Esta informaciÃ³n de estos estados con lo adicional que se quiera agregar de los formularios.  Ok, con esto adicional de los formularios, Â¿a quÃ© te refieres, perdÃ³n? O sea, el tema de la informaciÃ³n que va a venir dentro del campo estado va a cambiar si se agrega la opciÃ³n de formularios, porque asÃ­ como va, se va a agregar en el campo medio, ya no va a salir solo WhatsApp, sino va a salir otros medios.  TikTok. En el caso del estado, para los formularios, Â¿va a cambiar o se piensa mantener? No, no tiene por quÃ© cambiar.
+
+34:44 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eso va a depender netamente de ustedes cÃ³mo lo tengan que manejar. Por ejemplo, si es que un lead nos escribe, sea por un formulario, perdÃ³n, si es que nosotros escribimos a un prospecto, sea que empieza MIA, o sea que MIA responde, al final el estado serÃ­a aÃºn el primer contacto.  No sÃ© si de repente... Â¿Estamos alineados o yo estoy perdiÃ©ndome en algo?
+
+35:04 - Oscar AlcÃ¡zar
+  Ya.
+
+35:04 - dacodeperu
+  En el tema del score, que tÃº lo tienes, que te estaba comentando, Leonel, dentro de la partida que te enviÃ© hay una opciÃ³n que se llama interÃ©s.
+
+35:15 - Lyonel Rodriguez Garcia
+  AhÃ­ irÃ­a ese valor que dice, Â¿no?
+
+35:18 - dacodeperu
+  De frÃ­o, tibio, caliente y todos los demÃ¡s estados que quieren mantener para el tema del score. Pero ya estÃ¡ contemplado, Â¿no?
+
+35:30 - Lyonel Rodriguez Garcia
+  El tema tambiÃ©n del medio de captaciÃ³n ya estÃ¡.
+
+35:32 - dacodeperu
+  Por eso te decÃ­a, Â¿no? Esa informaciÃ³n, por ejemplo, no la veo en la plantilla que estÃ¡ en producciÃ³n.
+
+35:41 - Lyonel Rodriguez Garcia
+  Lo que a Denis le preocupa es que, uno, el reporte seguro no ve el estatus o el embudo que tiene Vitamia y, dos, es, lo que dice Leonel es que necesitamos nuevos estatus.  Ya no va a ser el primer embudo que tiene ahorita, sino va ser otro distinto. PodrÃ­amos manejar los dos, pero los dos necesitamos un especÃ­fico para poder interactuar directamente como ventas.  Claro. Â¿Saben quÃ© tendrÃ­amos que hacer aquÃ­, equipo?
+
+36:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  O despuÃ©s de esta reuniÃ³n me queda el pendiente de mandarles las propuestas actualizadas en base a lo que acabamos de conversar y en base a lo que estÃ¡n solicitando.  Y quedarÃ­a pendiente por su lado y agradecerÃ­a muchÃ­simo que me manden cuÃ¡les son estos estados y la descripciÃ³n exacta de los estados para poder decirle a mÃ­, oye, cuando ocurra esto, cerciÃ³rate bien que se estÃ© cumpliendo esto con el prospecto para reciÃ©n asignarle esto.  Esto es lo que les menciono en Lead Scoring, que es aÃ±adiendole unas, es un poco mÃ¡s tÃ©cnico, pero es aÃ±adiendo el ecosistema, simplemente mejorando mÃ¡s en la automatizaciÃ³n.
+
+36:48 - Lyonel Rodriguez Garcia
+  SÃ­, estÃ¡ bien. Mientras vemos ese tema, lo analizamos, tÃº primero lo preparas. Si hay que darle el material a Dennis, Â¿de ahorita cÃ³mo va a quedar?  O sea, MIA ahorita tiene un estatus y estÃ¡ operando. AsÃ­ es. necesitamos que ese reporte o ese archivo que tiene que recibir Denis lo reciba bien para que a partir de ahÃ­ ya analicemos la segunda fase que es lo que nos vas a presentar.  Ok, correcto, 100% de acuerdo.
+
+37:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eso lo sinceramos hoy dÃ­a y ademÃ¡s tarde maÃ±ana en la maÃ±ana ya estÃ¡ alineado para que justo el reporte que te va a llegar maÃ±ana Denis, es mÃ¡s, si lo culminamos hoy dÃ­a lo vamos a actualizar para que hoy te llegue ya con ese formato corregido.  Perfecto. Perfecto equipo. No sÃ© si de repente tienen alguna duda mÃ¡s con respecto a la gente, a la funcionalidad, al CRM.  SÃ­, yo tenÃ­a una duda.
+
+37:42 - Giuseppe Quiroz
+  HabÃ­amos quedado tambiÃ©n, Santiago, y ahÃ­, gracias, Fernando, por la precisiÃ³n, el tema de los leads de trios que bien mencionabas, Â¿no?  habÃ­amos comentado tambiÃ©n hacer un tema de remarketing a esos clientes a travÃ©s de IA, casualmente para evitar que los agentes, perdÃ³n, los asesores...  Que tengan el tema de posibilidad de baneo, Â¿no? O sea, que en vez de que el trabajo, el asesor 1-1, sea el mismo agente quien haga este sistema porque es bÃ¡sicamente recontactar, Â¿no?  Eso tambiÃ©n que hablamos ayer para que puedas confirmar el dÃ­a de hoy, Santiago.
+
+38:20 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, me imagino que aquÃ­, Giuseppe, el proceso es el siguiente, Â¿no? Ustedes manejan una base de leads muertos, bien llamados, y en base a esa base, ustedes quieren mandar estos mensajes de reactivaciÃ³n.  Â¿Hasta aquÃ­ estamos bien?
+
+38:32 - Giuseppe Quiroz
+  Correcto, y que sea el mismo agente de dÃ­a quien los haga, haga el perfilamiento, los reactive, para que disminuye la carga, uno, laboral a los asesores, y dos, el tema de posibilidad de baneo, Â¿no?  Que era lo que estaba mencionando, Leonel. Que lo habÃ­amos conversado ayer. SÃ­, totalmente de acuerdo.
+
+38:53 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Consulta, Giuseppe, esta base, Â¿tendrÃ¡s tÃº el aproximado de cuÃ¡ntos son y si es que se va actualizando? Porque al final, como son mensajes salientes...  Entonces, mensajes, estas reactivaciones que va a hacer el prospecto de la gente de IAMIA, van a salir dentro del paquete de mensajes salientes y lo incluimos en el fin mensual sin mayor problema.  La misma capacidad de mandar mensajes automÃ¡ticos va a servir tanto para responder cuando llenen un formulario como para reactivar leads, solo que en diferentes eventos, Â¿no?  Pero al final la capacidad es la misma, solo tendrÃ­amos que ajustar el variable de mensajes salientes segÃºn la cantidad de leads que necesites reactivar.  Yo creo que puedes estimar entre 3.500 a 4.000 por mes, Â¿no?
+
+39:31 - Giuseppe Quiroz
+  O sea, porque no es que hagamos todos de porrazos, sino de repente lo podemos hacer escalonadamente, Â¿no? SÃ­, es lo mejor.  Â¿Tienes alguna duda, Lyonel, o observaciÃ³n en ese sentido? No, no, no, no.
+
+39:45 - Lyonel Rodriguez Garcia
+  Estaba pensando en implementar pues la secuencia 3, 7, 15, 30, Â¿no? Cada 3 dÃ­as un mensaje, cada 7 dÃ­as otro mensaje, 15 dÃ­as, y despuÃ©s del pasado mes y no responde, pues ya no tiene sentido seguir.  Gracias.
+
+40:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, totalmente de acuerdo. Una consulta, equipo, aquÃ­ lo que querÃ­a saber era, bueno, mÃ¡s que saber comentarles, es que voy a tambiÃ©n sincerar la cantidad de mensajes salientes que podemos hacer por mes, porque no podemos, asÃ­ como hay limitaciones para los manos, para los que no son de meta, tambiÃ©n hay limitaciones para el propio meta, porque por mÃ¡s que para meta ya estÃ© verificado, igual no por eso voy a mandar muchos mensajes.  porque igual te pueden maner el nÃºmero, la diferencia es que el riesgo es de un 0.001, pero igual lo menciono para que lo tengamos claro, y no mandemos mil mensajes por dÃ­a, sino a lo mejor el lÃ­mite es mandar 50, 100, etc.  SÃ­, estÃ¡ bien, estÃ¡ bien, porque tampoco es que tengamos, no sÃ©, pues, muchos leaks todos los dÃ­as, Â¿no? Total, total, total.  No se preocupen que todo lo voy a sincerar en el envÃ­o del correo despuÃ©s de esta reuniÃ³n. Â¿Ok?
+
+41:00 - Lyonel Rodriguez Garcia
+  Â¿Listo?
+
+41:01 - dacodeperu
+  Entonces, Santiago, te estoy enviando un correo con la plantilla porque hay una solo modificaciÃ³n de agregar el medio porque el medio no estaba, el interÃ©s sÃ­ estaba, que es lo que tÃº catalogas como escritor, ya te lo estoy enviando ahorita para que lo tengas en consideraciÃ³n.  Ya para el archivo de Excel que ahorita estÃ¡. Creo que me habÃ­as quedado de confirmar tambiÃ©n si puede generar automÃ¡ticamente el CCV con lo indicado ayer.
+
+41:31 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, al final la plataforma o la herramienta que estÃ¡bamos usando, Denis, no nos permite generar directamente el CCV, solo nos permite generar el Excel que al final, como te mencionaba, solo tienes que descargarlo y te lo da en CCV.
+
+41:43 - dacodeperu
+  Ya, listo. Genial. Perfecto, equipo.
+
+41:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Muchas gracias por su tiempo y cualquier cosa, bueno, ahÃ­ hemos armado un grupo en WhatsApp para que puedan hablarme directamente y les estoy mandando el correo ya en la siguiente hora.  Ah, listo. Listo. SÃ­.
+
+41:58 - Oscar AlcÃ¡zar
+  Â¿Hablamos, Lionel? Â¿Terminando la reuniÃ³n? SÃ­. Listo. Gracias. Hasta luego, gracias. Hasta luego, Oscar. gusto. Que tengas buen dÃ­a. Gracias.  Hasta luego.
+
+42:47 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Wow, va a ser una huevada cara, huevada. No, que no se los puedo, que tengo que delegar, LÃ³pez. Gracias.  Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias por Gracias. MÃºsica Gracias. Gracias por Fathom, Fathom, Fathom.

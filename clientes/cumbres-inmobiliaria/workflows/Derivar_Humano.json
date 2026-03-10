@@ -1,0 +1,327 @@
+{
+  "name": "FAQs",
+  "nodes": [
+    {
+      "parameters": {
+        "workflowInputs": {
+          "values": [
+            {
+              "name": "nombre_proyecto"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.executeWorkflowTrigger",
+      "typeVersion": 1.1,
+      "position": [
+        -208,
+        64
+      ],
+      "id": "52652e0c-bf9e-4445-9920-7462ccfbbc61",
+      "name": "Llamado a FAQs"
+    },
+    {
+      "parameters": {
+        "rules": {
+          "values": [
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "leftValue": "={{ $json.nombre_proyecto }}",
+                    "rightValue": "Villanova 5",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals"
+                    },
+                    "id": "f40110ef-88db-4a21-8080-26538493abb2"
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "Villanova 5"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "a6c1fdd8-62be-4c42-a031-031822e90947",
+                    "leftValue": "={{ $json.nombre_proyecto }}",
+                    "rightValue": "AndalucÃ­a",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "AndalucÃ­a"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "ec826176-0ad5-418c-9d38-dd805f651e42",
+                    "leftValue": "={{ $json.nombre_proyecto }}",
+                    "rightValue": "Villa del Puerto 1",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "Villa del Puerto 1"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "31c7f85b-44fa-4443-abc1-cfb5ae783dc3",
+                    "leftValue": "={{ $json.nombre_proyecto }}",
+                    "rightValue": "Villa Monumental A",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "Villa Monumental A"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "1bcd6d83-eaf1-4844-8f6f-8c4858211fb7",
+                    "leftValue": "={{ $json.nombre_proyecto }}",
+                    "rightValue": "Villanova 5, Villa Monumental A, AndalucÃ­a, Villa del Puerto 1",
+                    "operator": {
+                      "type": "string",
+                      "operation": "notEquals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "No especifica"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 3.3,
+      "position": [
+        16,
+        16
+      ],
+      "id": "63f35323-2f72-429c-ad72-20b2a3fbaa34",
+      "name": "Â¿Que proyecto?"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "602a7f0f-5688-46a5-b3e4-eb1e3ee75e5b",
+              "name": "respuesta",
+              "value": "El cliente ha consultado sobre un proyecto que **no coincide** con los activos de Cumbres Inmobiliaria.  IndÃ­cale amablemente que los proyectos disponibles actualmente son:  - Villanova 5 (Callao)   - Villa Monumental A (Callao)   - AndalucÃ­a (Trujillo)   - Villa del Puerto 1 (Chancay)  Si el cliente solicita informaciÃ³n de otro proyecto o no estÃ¡ seguro, ofrece **derivarlo con un asesor humano** para brindarle atenciÃ³n personalizada.",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        256,
+        160
+      ],
+      "id": "4bcceb2b-6509-4004-94b3-43ec340ecdd1",
+      "name": "No especifica"
+    },
+    {
+      "parameters": {
+        "content": "## FAQs - PREGUNTAS FRECUENTES\n\n### Responde dudas especÃ­ficas consultando la base de conocimiento de cada proyecto en Google Sheets.",
+        "height": 496,
+        "width": 848,
+        "color": 6
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -320,
+        -192
+      ],
+      "id": "c1441731-3ac8-40cd-bfcb-06ad50bdf98a",
+      "name": "Sticky Note"
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "value": "1sTHHexFU-f3wqHyLI5wGeGa-mJr_4v6_VmXcDW7tUOk",
+          "mode": "list",
+          "cachedResultName": "Matriz_Entrenamiento_IA_Cumbres_Completa_v2",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1sTHHexFU-f3wqHyLI5wGeGa-mJr_4v6_VmXcDW7tUOk/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "={{ $('Llamado a FAQs').first().json.nombre_proyecto }}",
+          "mode": "name"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        272,
+        -48
+      ],
+      "id": "f1694f74-dcaf-479c-94b5-ab2772f8e10b",
+      "name": "FAQs",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "BR0oHGUuraEDCfKs",
+          "name": "Google Sheets account 2"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "content": "##  HERRAMIENTA: FAQs\n### FLUJO:\n### 1. MIA identifica una pregunta especÃ­fica del cliente\n### 2. Llama a esta herramienta con el nombre del proyecto\n### 3. Switch verifica quÃ© proyecto es (Villanova 5, AndalucÃ­a, etc.)\n### 4. Consulta Google Sheets: \"Matriz_Entrenamiento_IA_Cumbres\"\n### 5. Busca en la pestaÃ±a del proyecto correspondiente\n### 6. Retorna las respuestas relevantes a MIA",
+        "height": 272,
+        "width": 848,
+        "color": 7
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -320,
+        320
+      ],
+      "id": "00648acd-d9fe-4980-a8ad-e276a1702307",
+      "name": "Sticky Note1"
+    }
+  ],
+  "pinData": {
+    "Llamado a FAQs": [
+      {
+        "json": {
+          "nombre_proyecto": "Villa del Puerto 1"
+        }
+      }
+    ]
+  },
+  "connections": {
+    "Llamado a FAQs": {
+      "main": [
+        [
+          {
+            "node": "Â¿Que proyecto?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Â¿Que proyecto?": {
+      "main": [
+        [
+          {
+            "node": "FAQs",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "FAQs",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "FAQs",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "FAQs",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "No especifica",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "FAQs": {
+      "main": [
+        []
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "4b4b376c-9897-4096-a315-b0ccebd84f28",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "a1482c693993e2c65a8d1b24a48eaf225c151d7521bd59633885d334e8df5f40"
+  },
+  "id": "wXf0oWGymnldrE00",
+  "tags": []
+}

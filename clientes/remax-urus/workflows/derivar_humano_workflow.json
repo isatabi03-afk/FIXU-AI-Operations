@@ -1,0 +1,861 @@
+{
+  "updatedAt": "2026-03-02T19:34:44.000Z",
+  "createdAt": "2026-01-07T11:31:50.656Z",
+  "id": "mub8w5R56POehUsO",
+  "name": "derivar_humano",
+  "description": null,
+  "active": true,
+  "isArchived": false,
+  "nodes": [
+    {
+      "parameters": {
+        "operation": "get",
+        "tableId": "advisors",
+        "filters": {
+          "conditions": [
+            {
+              "keyName": "full_name",
+              "keyValue": "={{ $('When Executed by Another Workflow').first().json.asesor_asignado }}"
+            }
+          ]
+        }
+      },
+      "id": "0b2df51b-549c-4784-8847-f354a579de43",
+      "name": "Informacion Asesor",
+      "type": "n8n-nodes-base.supabase",
+      "typeVersion": 1,
+      "position": [
+        240,
+        432
+      ],
+      "alwaysOutputData": true,
+      "credentials": {
+        "supabaseApi": {
+          "id": "84e1OdJ92RfHnnos",
+          "name": "Supabase Cloud"
+        }
+      },
+      "disabled": true
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "=https://chatwoot.remaxurus.online/api/v1/accounts/1/conversations/{{ $('When Executed by Another Workflow').item.json.id_chatwoot }}/custom_attributes",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "api_access_token",
+              "value": "Eh59KUYpWMWurHENc4HkSd3A"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"custom_attributes\": {\n    \"bot_status\": \"off\"\n  }\n}\n ",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        896,
+        160
+      ],
+      "id": "7ce01fd7-76d8-4e70-8d50-9595744e0f5a",
+      "name": "bot_off"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "=https://chatwoot.remaxurus.online/api/v1/accounts/1/conversations/{{ $('When Executed by Another Workflow').first().json.id_chatwoot }}/labels",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "api_access_token",
+              "value": "Eh59KUYpWMWurHENc4HkSd3A"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"labels\": [\n      \"primer_contacto\",\n       \"derivado\" \n  ]\n}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        720,
+        160
+      ],
+      "id": "e7e24ab2-e643-4b3c-86b3-be29dc83b116",
+      "name": "solicito_atención"
+    },
+    {
+      "parameters": {
+        "mode": "raw",
+        "jsonOutput": "{\n  \"mensaje_agente\": \"✅ Se ha derivado correctamente a su asesor! 🎉 Le hemos notificado, él se pondrá en contacto contigo para coordinar los detalles. Gracias por confiar en Cumbres 🏡. Mi atención por el momento ha culminado, te deseo lo mejor enocontrando el hogar de tus sueños!\"\n}\n",
+        "options": {}
+      },
+      "id": "aebb07c0-8ed8-4d04-9166-e04f55d6f339",
+      "name": "Respuesta Derivación",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        2032,
+        208
+      ]
+    },
+    {
+      "parameters": {
+        "content": "## Derivar Humano\nEscala la conversación del bot al asesor humano cuando el cliente necesita atención personalizada o Anthu no puede resolver su consulta.\n\nAnthu se despide → Asesor recibe alerta → Asesor continúa manualmente",
+        "height": 512,
+        "width": 1920
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        0,
+        -160
+      ],
+      "id": "797a1af8-627f-4f50-b895-70b80d9e843e",
+      "name": "Sticky Note"
+    },
+    {
+      "parameters": {
+        "content": "## FLUJO COMPLETO:\n### 1. Anthu detecta que debe derivar (pregunta compleja, horario no disponible, etc.)\n### 2. Activa la tool que llama a este subworkflow y gestiona todos los datos del cliente y motivo\n### 3. Se busca la información del asesor asignado\n### 4. Se actualiza el estado del lead a \"solicitó_atención\"\n### 5. Se etiqueta la conversación en Chatwoot\n### 6. Se DESACTIVA el bot (bot_off) en esa conversación\n### 7. Se envía alerta al asesor por WhatsApp con datos del cliente\n### 8. Anthu confirma la derivación y se despide del cliente",
+        "height": 288,
+        "width": 1872,
+        "color": 7
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        0,
+        352
+      ],
+      "id": "62469570-4c10-4fa6-ab09-9ab727e77b4d",
+      "name": "Sticky Note1"
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "databaseId": 1,
+        "tableId": 1,
+        "rowId": "={{ $json.id }}",
+        "fieldsUi": {
+          "fieldValues": [
+            {
+              "fieldId": 16,
+              "fieldValue": "derivado"
+            },
+            {
+              "fieldId": 17,
+              "fieldValue": "={{ DateTime.fromISO($now.toISO(), { zone: \"utc\" }).toLocal().toFormat(\"yyyy-MM-dd | HH:mm\") }}"
+            },
+            {
+              "fieldId": 2,
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.nombres.toTitleCase() }}"
+            },
+            {
+              "fieldId": 3,
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.apellidos.toTitleCase() }}"
+            },
+            {
+              "fieldId": 14,
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.id_propiedad }}"
+            },
+            {
+              "fieldId": 7,
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.tipo_cliente }}"
+            },
+            {
+              "fieldId": 13,
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.motivo_derivación }}"
+            },
+            {
+              "fieldId": 21,
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.dni }}"
+            },
+            {
+              "fieldId": 7,
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.tipo_cliente }}"
+            },
+            {
+              "fieldId": 15,
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.tipo_propiedad }}"
+            },
+            {
+              "fieldId": 10,
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.presupuesto }}"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.baserow",
+      "typeVersion": 1,
+      "position": [
+        528,
+        160
+      ],
+      "id": "dc8a93ac-1487-4f03-ae3c-77f63cb72bed",
+      "name": "update_lead_data",
+      "retryOnFail": true,
+      "maxTries": 2,
+      "waitBetweenTries": 5000,
+      "credentials": {
+        "baserowApi": {
+          "id": "VtbB4ZxCw1srZgKL",
+          "name": "Baserow (Fixu)"
+        }
+      },
+      "onError": "continueErrorOutput"
+    },
+    {
+      "parameters": {
+        "databaseId": 1,
+        "tableId": 1,
+        "returnAll": true,
+        "additionalOptions": {
+          "filters": {
+            "fields": [
+              {
+                "field": 4,
+                "value": "={{ $('When Executed by Another Workflow').first().json.numero_lead }}"
+              }
+            ]
+          }
+        }
+      },
+      "type": "n8n-nodes-base.baserow",
+      "typeVersion": 1,
+      "position": [
+        368,
+        160
+      ],
+      "id": "afe65642-ac15-4a0c-a4e4-f23a61c8f179",
+      "name": "get_lead_data",
+      "alwaysOutputData": true,
+      "retryOnFail": true,
+      "maxTries": 2,
+      "waitBetweenTries": 5000,
+      "credentials": {
+        "baserowApi": {
+          "id": "VtbB4ZxCw1srZgKL",
+          "name": "Baserow (Fixu)"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "workflowInputs": {
+          "values": [
+            {
+              "name": "session_id"
+            },
+            {
+              "name": "nombres"
+            },
+            {
+              "name": "apellidos"
+            },
+            {
+              "name": "numero_lead"
+            },
+            {
+              "name": "asesor_asignado"
+            },
+            {
+              "name": "id_chatwoot"
+            },
+            {
+              "name": "id_propiedad"
+            },
+            {
+              "name": "motivo_derivación"
+            },
+            {
+              "name": "tipo_cliente"
+            },
+            {
+              "name": "nombre_wp"
+            },
+            {
+              "name": "dni"
+            },
+            {
+              "name": "tipo_propiedad"
+            },
+            {
+              "name": "distrito"
+            },
+            {
+              "name": "presupuesto"
+            },
+            {
+              "name": "link_chatwoot"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.executeWorkflowTrigger",
+      "typeVersion": 1.1,
+      "position": [
+        128,
+        160
+      ],
+      "id": "63ef3df6-4935-4d78-985d-d245a81e6253",
+      "name": "When Executed by Another Workflow"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [
+        736,
+        384
+      ],
+      "id": "13c639ff-812a-4984-bd7d-fffa5e8e8d9a",
+      "name": "ENVIAR MENSAJE A ANTHUANE (ADVERTENCIA)"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "053eb0ef-1375-4d5a-af2c-0302739dd07a",
+              "leftValue": "={{ $('When Executed by Another Workflow').first().json.motivo_derivación.toLowerCase().trim() }}",
+              "rightValue": "validación dni",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            },
+            {
+              "id": "edf0e71d-db98-4e83-8ecc-13df39fd9c49",
+              "leftValue": "={{ $('When Executed by Another Workflow').first().json.motivo_derivación.toLowerCase().trim() }}",
+              "rightValue": "validacion dni",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            },
+            {
+              "id": "85366463-18dd-4275-8cac-eb6b9b84c27f",
+              "leftValue": "={{ $('When Executed by Another Workflow').first().json.motivo_derivación.toLowerCase().trim() }}",
+              "rightValue": "evaluación crediticia",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            },
+            {
+              "id": "138e9308-9241-4d21-9daa-e0eccf90e068",
+              "leftValue": "={{ $('When Executed by Another Workflow').first().json.motivo_derivación.toLowerCase().trim() }}",
+              "rightValue": "evaluacion crediticia",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            },
+            {
+              "id": "c46a51b9-cadc-42b3-85ad-1cfd25927ca0",
+              "leftValue": "={{ $('When Executed by Another Workflow').first().json.motivo_derivación.toLowerCase().trim() }}",
+              "rightValue": "credito",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            },
+            {
+              "id": "6a63f7e6-d021-41fe-9490-ca564bfe7698",
+              "leftValue": "={{ $('When Executed by Another Workflow').first().json.motivo_derivación.toLowerCase().trim() }}",
+              "rightValue": "crédito",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            },
+            {
+              "id": "e703734b-f48d-42cc-904d-50378399f04f",
+              "leftValue": "={{ $('When Executed by Another Workflow').first().json.motivo_derivación.toLowerCase().trim() }}",
+              "rightValue": "dni",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            }
+          ],
+          "combinator": "or"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        1104,
+        160
+      ],
+      "id": "99a5fc52-291c-41a0-8e7a-84a94d3c769d",
+      "name": "dni_validation?"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "=https://graph.facebook.com/v18.0/921516881049247/messages",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "Bearer EAAWis4yg4FQBQbdV7HFhgnkGkLGt1mnkW1pKlOApJqIXjdqL9xjZBZBYyYuJ4Slijr7wTOrVbc11u7CDWMbaZBIO7wwq4npXlhaaUK5yjMe0TcnrAO0hywBPgapXjTdKoJHsoEEi1ZBiCe2IzjHZAcpTkvGj9kCPOzHpwvvp1C0OZAAb3AZBMQzniusUpN8NgZDZD"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"messaging_product\": \"whatsapp\",\n  \"to\": \"51906856627\",\n  \"type\": \"template\",\n  \"template\": {\n    \"name\": \"anthu_derivacion_dni_v1\",\n    \"language\": { \"code\": \"es_PE\" },\n    \"components\": [\n      {\n        \"type\": \"body\",\n        \"parameters\": [\n          { \"type\": \"text\", \"text\": \"{{ $('When Executed by Another Workflow').first().json.nombres.toTitleCase() }} {{ $('When Executed by Another Workflow').first().json.apellidos.toTitleCase() || ''}}\" },\n          { \"type\": \"text\", \"text\": \"{{ $('When Executed by Another Workflow').first().json.tipo_cliente }}\" },\n          { \"type\": \"text\", \"text\": \"{{ $('When Executed by Another Workflow').first().json.dni || 'Sin DNI'}}\" },\n          { \"type\": \"text\", \"text\": \"{{ $('When Executed by Another Workflow').first().json.tipo_propiedad || 'No especificado'}}\" },\n          { \"type\": \"text\", \"text\": \"{{ $('When Executed by Another Workflow').first().json.distrito || 'No especificado'}}\" },\n          { \"type\": \"text\", \"text\": \"{{ $('When Executed by Another Workflow').first().json.presupuesto || 'No especificado' }}\" },\n          { \"type\": \"text\", \"text\": \"{{ $('When Executed by Another Workflow').first().json.link_chatwoot || 'NO_LINK'}}\" }\n        ]\n      }\n    ]\n  }\n}\n",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        1504,
+        -64
+      ],
+      "id": "1d3bd2dc-9b41-47f8-8698-851a22ccf799",
+      "name": "send_meta_template"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "bef42999-36b7-41cb-8421-1b5f40e26602",
+              "leftValue": "={{ $('When Executed by Another Workflow').first().json.motivo_derivación.toLowerCase().trim() }}",
+              "rightValue": "queja",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            },
+            {
+              "id": "959ecc0d-30cb-48bf-aee9-f0e4211d37e3",
+              "leftValue": "={{ $('When Executed by Another Workflow').first().json.motivo_derivación.toLowerCase().trim() }}",
+              "rightValue": "=resistencia",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            },
+            {
+              "id": "a91ebe7d-d276-4709-bdde-93b34f788076",
+              "leftValue": "={{ $('When Executed by Another Workflow').first().json.motivo_derivación.toLowerCase().trim() }}",
+              "rightValue": "reclamo",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            }
+          ],
+          "combinator": "or"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        1392,
+        192
+      ],
+      "id": "94a1fa0a-4b7f-4e30-8b76-d96bdae49928",
+      "name": "resistance"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "=https://graph.facebook.com/v18.0/921516881049247/messages",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "Bearer EAAWis4yg4FQBQbdV7HFhgnkGkLGt1mnkW1pKlOApJqIXjdqL9xjZBZBYyYuJ4Slijr7wTOrVbc11u7CDWMbaZBIO7wwq4npXlhaaUK5yjMe0TcnrAO0hywBPgapXjTdKoJHsoEEi1ZBiCe2IzjHZAcpTkvGj9kCPOzHpwvvp1C0OZAAb3AZBMQzniusUpN8NgZDZD"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"messaging_product\": \"whatsapp\",\n  \"to\": \"51906856627\",\n  \"type\": \"template\",\n  \"template\": {\n    \"name\": \"anthu_derivacion_quejas_v1\",\n    \"language\": { \"code\": \"es\" },\n    \"components\": [\n      {\n        \"type\": \"body\",\n        \"parameters\": [\n          { \"type\": \"text\", \"text\": \"{{ $('When Executed by Another Workflow').first().json.nombres.toTitleCase() }} {{ $('When Executed by Another Workflow').first().json.apellidos.toTitleCase() || ''}}\" },\n          { \"type\": \"text\", \"text\": \"{{ $('When Executed by Another Workflow').first().json.tipo_cliente }}\" },\n          { \"type\": \"text\", \"text\": \"{{ $('When Executed by Another Workflow').first().json.dni || 'Sin DNI'}}\" },\n          { \"type\": \"text\", \"text\": \"{{ $('When Executed by Another Workflow').first().json.tipo_propiedad || 'No especificado'}}\" },\n          { \"type\": \"text\", \"text\": \"{{ $('When Executed by Another Workflow').first().json.distrito || 'No especificado'}}\" },\n          { \"type\": \"text\", \"text\": \"{{ $('When Executed by Another Workflow').first().json.presupuesto || 'No especificado' }}\" },\n          { \"type\": \"text\", \"text\": \"{{ $('When Executed by Another Workflow').first().json.link_chatwoot || 'NO_LINK'}}\" }\n        ]\n      }\n    ]\n  }\n}\n",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        1888,
+        -32
+      ],
+      "id": "1b7a2acb-f884-4bcf-88c1-0835e30e6bfd",
+      "name": "send_meta_template1"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+      "typeVersion": 1.4,
+      "position": [
+        0,
+        0
+      ],
+      "id": "e6a06efd-ae54-4ca4-8daf-9529f6810353",
+      "name": "When chat message received",
+      "webhookId": "20a8b49f-cb5b-4084-9c1a-018be79a1de2"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.limit",
+      "typeVersion": 1,
+      "position": [
+        1312,
+        64
+      ],
+      "id": "41d16948-7a49-4565-9a1f-0255c6acc47f",
+      "name": "Limit"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.limit",
+      "typeVersion": 1,
+      "position": [
+        1632,
+        96
+      ],
+      "id": "c68ea1bb-6087-4925-9c25-cf4a5282bcae",
+      "name": "Limit1"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "=https://graph.facebook.com/v18.0/921516881049247/messages",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "Bearer EAAWis4yg4FQBQbdV7HFhgnkGkLGt1mnkW1pKlOApJqIXjdqL9xjZBZBYyYuJ4Slijr7wTOrVbc11u7CDWMbaZBIO7wwq4npXlhaaUK5yjMe0TcnrAO0hywBPgapXjTdKoJHsoEEi1ZBiCe2IzjHZAcpTkvGj9kCPOzHpwvvp1C0OZAAb3AZBMQzniusUpN8NgZDZD"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"messaging_product\": \"whatsapp\",\n  \"to\": \"51906856627\",\n  \"type\": \"template\",\n  \"template\": {\n    \"name\": \"alerta_derivacion_generica\",\n    \"language\": { \"code\": \"es\" },\n    \"components\": [\n      {\n        \"type\": \"body\",\n        \"parameters\": [\n          {\n            \"type\": \"text\",\n            \"text\": \"{{ $('When Executed by Another Workflow').first().json.nombres }} {{ $('When Executed by Another Workflow').first().json.apellidos || '' }}\"\n          },\n          {\n            \"type\": \"text\",\n            \"text\": \"{{ $('When Executed by Another Workflow').first().json.numero_lead }}\"\n          },\n          {\n            \"type\": \"text\",\n            \"text\": \"{{ $('When Executed by Another Workflow').first().json.motivo_derivación || 'Derivación general' }}\"\n          },\n          {\n            \"type\": \"text\",\n            \"text\": \"{{ $('When Executed by Another Workflow').first().json.tipo_cliente || 'No especificado' }}\"\n          },\n          {\n            \"type\": \"text\",\n            \"text\": \"{{ $('When Executed by Another Workflow').first().json.link_chatwoot || 'NO_LINK' }}\"\n          }\n        ]\n      }\n    ]\n  }\n}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        1712,
+        224
+      ],
+      "id": "d4ed8826-0f74-4df1-9f0f-537291037c26",
+      "name": "send_meta_template2"
+    }
+  ],
+  "connections": {
+    "bot_off": {
+      "main": [
+        [
+          {
+            "node": "dni_validation?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Informacion Asesor": {
+      "main": [
+        []
+      ]
+    },
+    "solicito_atención": {
+      "main": [
+        [
+          {
+            "node": "bot_off",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "When Executed by Another Workflow": {
+      "main": [
+        [
+          {
+            "node": "get_lead_data",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "get_lead_data": {
+      "main": [
+        [
+          {
+            "node": "update_lead_data",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "update_lead_data": {
+      "main": [
+        [
+          {
+            "node": "solicito_atención",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "ENVIAR MENSAJE A ANTHUANE (ADVERTENCIA)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "ENVIAR MENSAJE A ANTHUANE (ADVERTENCIA)": {
+      "main": [
+        [
+          {
+            "node": "solicito_atención",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "dni_validation?": {
+      "main": [
+        [
+          {
+            "node": "Limit",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "resistance",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "send_meta_template": {
+      "main": [
+        [
+          {
+            "node": "Respuesta Derivación",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "resistance": {
+      "main": [
+        [
+          {
+            "node": "Limit1",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "send_meta_template2",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "send_meta_template1": {
+      "main": [
+        [
+          {
+            "node": "Respuesta Derivación",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "When chat message received": {
+      "main": [
+        [
+          {
+            "node": "get_lead_data",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Limit": {
+      "main": [
+        [
+          {
+            "node": "send_meta_template",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Limit1": {
+      "main": [
+        [
+          {
+            "node": "send_meta_template1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "send_meta_template2": {
+      "main": [
+        [
+          {
+            "node": "Respuesta Derivación",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": true
+  },
+  "staticData": null,
+  "meta": {
+    "templateCredsSetupCompleted": true
+  },
+  "pinData": {
+    "When Executed by Another Workflow": [
+      {
+        "json": {
+          "session_id": "51906856627",
+          "nombres": "Anthu",
+          "apellidos": "",
+          "numero_lead": "+51906856627",
+          "id_chatwoot": "5962",
+          "id_propiedad": "1169171",
+          "motivo_derivación": "Recursos propios - visita para propiedad ID 1169171",
+          "tipo_cliente": "Comprador",
+          "nombre_wp": "Anthu",
+          "dni": "",
+          "tipo_propiedad": "Departamento",
+          "distrito": "San Martín de Porres",
+          "presupuesto": "55000",
+          "link_chatwoot": "https://chatwoot.remaxurus.online/app/accounts/1/conversations/5962"
+        }
+      }
+    ]
+  },
+  "versionId": "a533941a-c59a-4012-a664-df64e51a6f48",
+  "versionCounter": 73,
+  "triggerCount": 1,
+  "shared": [
+    {
+      "updatedAt": "2026-01-07T11:31:50.660Z",
+      "createdAt": "2026-01-07T11:31:50.660Z",
+      "role": "workflow:owner",
+      "workflowId": "mub8w5R56POehUsO",
+      "projectId": "47JEv0QD11rfSHbm",
+      "project": {
+        "updatedAt": "2026-01-06T21:42:17.457Z",
+        "createdAt": "2026-01-06T21:40:23.140Z",
+        "id": "47JEv0QD11rfSHbm",
+        "name": "Remax Urus <remaxuruspe14@gmail.com>",
+        "type": "personal",
+        "icon": null,
+        "description": null,
+        "projectRelations": [
+          {
+            "updatedAt": "2026-01-06T21:40:23.140Z",
+            "createdAt": "2026-01-06T21:40:23.140Z",
+            "userId": "4af18976-2c9d-4bc0-b347-830bef1918fa",
+            "projectId": "47JEv0QD11rfSHbm",
+            "user": {
+              "updatedAt": "2026-03-10T04:00:26.000Z",
+              "createdAt": "2026-01-06T21:40:22.374Z",
+              "id": "4af18976-2c9d-4bc0-b347-830bef1918fa",
+              "email": "remaxuruspe14@gmail.com",
+              "firstName": "Remax",
+              "lastName": "Urus",
+              "personalizationAnswers": {
+                "version": "v4",
+                "personalization_survey_submitted_at": "2026-01-06T21:42:34.475Z",
+                "personalization_survey_n8n_version": "1.121.2",
+                "companyType": "personal",
+                "reportedSource": "youtube"
+              },
+              "settings": {
+                "userActivated": true,
+                "easyAIWorkflowOnboarded": true,
+                "firstSuccessfulWorkflowId": "GsOHXk4rmLjpZcKr",
+                "userActivatedAt": 1767992707879,
+                "npsSurvey": {
+                  "responded": true,
+                  "lastShownAt": 1769629234576
+                }
+              },
+              "disabled": false,
+              "mfaEnabled": false,
+              "lastActiveAt": "2026-03-10",
+              "isPending": false
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,283 @@
+Impromptu Google Meet Meeting - February 07
+VIEW RECORDING - 48 mins (No highlights): https://fathom.video/share/fHZKYzPajcpCd77yrghxcEKdmGu1aLxb
+
+---
+
+0:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Empezamos bien el fin de.
+
+0:04 - Nicolas Borda Silva
+  Hecho con WebScript nuestra base, creerÃ­a que tiene todo lo que necesito. Ahorita Nico te va a mostrar que nuestra base maestra, en la nuestra, hay una hoja, comparte con Ã©l, Hay una hoja que tiene, extrae data del formulario, que se va a seguir autoalimentando, el cÃ³digo de Apps Script deberÃ­a actualizar cada 5.000, y jala de la base maestra en la pÃ¡gina que se llama AsesorÃ­a Soles, le puedo comprar el nombre, pero creo que si le cambiÃ© el nombre, he acabado varias cosas y clic con Ã©l.  Ah, quÃ© chÃ©vere, lo han centralizado bien.
+
+0:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bien centralizado.
+
+0:47 - Nicolas Borda Silva
+  SÃ­, eso se alimenta solo, entonces no cambia nuestro flujo de trabajo. Hay un par de columnas nuevas, que es, o sea, tiene la lÃ³gica que fecha, plana, entrega es...  El Ãºltimo plan entregado de esta persona y gestiona si ese cliente tiene seguimiento o no, si es que el Ãºltimo plan que tiene es con seguimiento y considerando 28 dÃ­as de la entrega de dicho plan, segÃºn la entrada de asesorÃ­a a solos.  Porque lo hice con Claude todo esto y me dijo, puede que la cabeza si tienes un paciente que tiene un programa sin seguimiento, no seguimiento y le reservamos sin seguimiento, Â¿cÃ³mo contabilizamos si le toca o no?  Y ahÃ­ la lÃ³gica es, oye, si contrato un plan sin seguimiento, eso no modifica el timer, Â¿no? Simplemente es el...
+
+1:35 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, perfecto. SÃ­, sÃ­, lo veo clarÃ­simo, de hecho. Â¿Les parece si revisamos columna por columna sÃºper rÃ¡pido para validar Ãºnicamente?  el lado de WhatsApp, esa es clave, de hecho esa es la columna mÃ¡s importante porque en base al nÃºmero vamos a poder identificar al cliente, sin mÃ¡s.  DNI, clave, apellido, nombre, sin problema, email tambiÃ©n para en algÃºn futuro, Alex, si de repente nos mencionas que quieres hacer algÃºn tipo de...  AutomatizaciÃ³n o hacer que Romy mande informaciÃ³n por correo, su plan, etc. Simplemente el hecho ya de tener el correo ya nos da una funcionalidad mÃ¡s de otro canal, asÃ­ que por ese lado, genial.  Fecha de nacimiento, si en algÃºn momento queremos personalizar saludos por cumpleaÃ±os, etc. TambiÃ©n estÃ¡ sÃºper bien. Fecha, plan de entrega, dÃ­as restantes, el estado activo.  Solo para quedar claro, equipo, cuando nosotros leemos la base para validar que es un cliente, claramente primero el nÃºmero tiene que estar en la base, pero tambiÃ©n tenemos que revisar si el estado es activo, Â¿verdad?  SÃ­, correcto. Perfecto. Cuando queremos hacerle seguimiento, solo a los que dicen sÃ­.
+
+2:42 - Nicolas Borda Silva
+  Ok, genial.
+
+2:43 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ahora, ok, luego lo demÃ¡s estÃ¡ genial. Perfecto, creo que es lo que con respecto a la base es lo que necesitamos.  De hecho, estÃ¡ sÃºper, sÃºper centralizada, hay bastante claridad. Â¿Les parece si antes de pasar? O sea, quiero preguntarles primero la lÃ³gica de los seguimientos.  No sÃ© si lo tengan hoy dÃ­a. Si no, no hay ningÃºn problema porque el objetivo de esta reuniÃ³n es validar todo lo que habÃ­amos quedado pendiente en la anterior.  Si no, ya lo vemos la siguiente semana sin problema. Pero perfecto, Miguel, hicimos lo de la base. Esta base estÃ¡ dentro de su Google Drive, Â¿verdad?  Como base maestra, sin mÃ¡s. Correcto. SÃ­, Perfecto, genial. Â¿Y quÃ© tal, chicos? Â¿CÃ³mo les ha ido con el tema de los testimonios, el tema de las FAQs?  Correcto, testimonios, Romy.
+
+3:26 - Nicolas Borda Silva
+  EstÃ¡n creciendo bastante. Tenemos, dÃ©jame ver realmente cuÃ¡ntos tenemos ahorita grabados. Tenemos cinco o siete testimonios grabados. Hoy dÃ­a probablemente se grabe uno mÃ¡s o dos mÃ¡s, lo cual ya terminarÃ­a siendo como algo de ocho o siete, perdÃ³n, ocho o nueve testimonios, pero ya hay siete grabados.  Las FAQs estÃ¡n casi casi que listas, me parece. Lo Ãºnico que faltaba era un par de preguntitas que tenÃ­a que ayudarme el chico de ventas, pero vamos a ver si pudo llegar a hacerlo, si no, para apurarlo hoy dÃ­a.  Y no, los testimonios siguen creciendo, cada vez tenemos mÃ¡s personas que, la gente que suma, normalmente, hasta ahora no hay ninguna persona que nos haya dicho como no, no le hago.
+
+4:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, genial, genial, quÃ© bueno por ese lado, y me alegra mucho equipo. Nico, una consulta, el tema de las facts, creo que sÃ­ me lo habÃ­as mencionado, pero igual vuelvo a preguntar por si acaso.  Estamos dividiendo bien las facts que van a ser para Romy que atiende leads, como tanto para Romy que atiende clientes, Â¿verdad?  SÃ­, correcto, correcto. Son dos bases separadas. Ah, genial, genial, por ese lado, por ese lado genial. Con respecto a los testimonios, creo que Ale habÃ­a mencionado algo similar, yo creo que es aplicable, se puede hacer, de repente podrÃ­a hacerse mÃ¡s adelante, no tomÃ© mucho tiempo, pero igual lo pregunto.  Ale, tÃº nos habÃ­as mencionado... Algo sobre que serÃ­a chÃ©vere que Romy, en base al tipo de cliente o potencial cliente con el que estÃ© hablando, le mande un testimonio en especÃ­fico.  Â¿A quÃ© me refiero? Si es que al final Romy detecta que estÃ¡ hablando con una persona que quiere entrar con su pareja, va a entrar en los testimonios y va a encontrar el video de, por ejemplo, alguna pareja que haya pasado por tu consultorio, algo asÃ­.
+
+5:22 - Alejandro juan Loayza jordan
+  Se puede, de hecho hasta para agilizar un poco el flujo, para agilizar un poco el flujo, incluso podemos poner como arquetipos, como buyers, y decirle como que, oye, quisiera ver un testimonio de perfil A, B, C, D, y ya la persona puede, Â¿quieres testimonio?  SÃ­, ok, tenemos testimonios, tenemos cientos de testimonios, mentira, tenemos cientos de testimonios, tenemos algunos perfiles, Â¿cuÃ¡l de ellos te gustarÃ­a ver?  Y obviamente acÃ¡ tenemos un framework de preguntas para extraer como el value percibido de las personas. De los testimonios y que estÃ¡ segmentado y que nuestro editor ya tiene como que, si ya tenemos como que la carpeta de cliente ABCD y dentro de la carpeta hay como que fragmento P1, P2, P3, P4, P9, lo Ãºnico que faltarÃ­a es, creo que hay dos opciones, Â¿no?  O es que la automatizaciÃ³n permita preguntarle como que, oye, Â¿quÃ© quisieras saber, no? Quisieras saber cuÃ¡l es el valor de tal, no sÃ©, por ejemplo, quisieras saber cuÃ¡les son los cambios que se ven y la I agarra y dice, ok, tienes el cliente A, la P9, para tal, Â¿no?  Â¿Se puede hacer eso? O quizÃ¡ como una forma un poco artÃ­stica, eventualmente pueda pedirle a mi chico que haga un edit bonito de solo esa pregunta.  Por ejemplo, la pregunta, Â¿cuÃ¡les son los mejores cambios, los mejores cambios que has visto? Y que me diga, ok, tengo este edit que responde esa pregunta, la P6, el cliente ABC.  TDEFG y te hago un edit asÃ­ de 30 segundos, ponte.
+
+7:03 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, chÃ©vere.
+
+7:04 - Alejandro juan Loayza jordan
+  Listo, con musiquita, y ya.
+
+7:07 - Santiago Isaias Zavaleta Ayala (Ulima)
+  ChÃ©vere, chÃ©vere. No, sÃ­, estÃ¡, es totalmente adaptable, factible y ideal, asÃ­ que por ese lado, genial. Perfecto, perfecto. EstÃ¡ bien.  Entonces, chicos, todo check con respecto a la base maestra, todo check con respecto a los testimonios, todo check con respecto a las facts.  Ya cerramos este punto, solo estamos a la espera del envÃ­o de las Ãºltimas facts y el envÃ­o de los testimonios, o mÃ¡s que el envÃ­o de los testimonios que nos digan en quÃ© carpetita de Drive van a guardar todos los videos para que podamos conectar a RomyBot, Â¿ok?  Â¿QuÃ© es lo que vamos a hacer nosotros con esta informaciÃ³n ahora, una vez que nos confirmen estos tres puntos?  Vamos a entrenar a Romy. Ya, bÃ¡sicamente, como Romy ha estado actuando, perdÃ³n, Ale, creo que querÃ­as mencionar algo.
+
+7:45 - Alejandro juan Loayza jordan
+  SÃ­, te decÃ­a el, o sea, el fact, la tabla de fact ya estÃ¡ hecha, simplemente van a haber un par de preguntas que creo, hay una o dos preguntas que estÃ¡n en blanco simplemente, pero la tabla ya estÃ¡ hecha.
+
+7:59 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, ya. Â¿Se puede usar eso para enchufar?
+
+8:01 - Alejandro juan Loayza jordan
+  Â¿Y la tabla de...? Â¿Y la tabla de pacientes? Claro, la tabla de eso ya estÃ¡, y lo que nos dijo ahorita de testimonios, la carpeta ya existe.
+
+8:12 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Genial.
+
+8:13 - Alejandro juan Loayza jordan
+  Ahora, el Ãºnico tema es que sÃ­ hay carpeta dentro de carpeta.
+
+8:17 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, voy a...
+
+8:19 - Alejandro juan Loayza jordan
+  Esto es un problema para los PDFs, no sÃ© si es un problema acÃ¡ tambiÃ©n, porque lÃ³gicamente hay toda una organizaciÃ³n, Â¿verdad?
+
+8:25 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AjÃ¡. Voy a revisar, te mentirÃ­a ahora, porque cuando nosotros encontramos el problema con los planes, fue entrando a los planes, voy a revisar con el tema de los videos, yo esperarÃ­a que no, pero lo reviso hoy mismo, lo valido y cualquier cosa te aviso.  Si no, lo que se podrÃ­a hacer es simplemente copiar esa base que es de ustedes, que no se toque, es la original, y tener una base que sea Ãºnicamente para Romy, para que no se les desordene toda la informaciÃ³n que ya estÃ¡n estructurando bien.  Pero dÃ©jame validÃ¡rtelo hoy dÃ­a para ver cÃ³mo podemos accionar con eso.
+
+8:53 - Alejandro juan Loayza jordan
+  SÃ­, porque si es el caso, vamos a tener que... nuevamente, se puede crear un... un Apps Script simple. Que vaya alimentando una base de datos exclusiva de Romy y ya, para que no me desordene nada.  SÃ­, total, total. Pero sÃ­, pero fÃ¡cil, tambiÃ©n serÃ­a interesante que todo lo que tÃº has enchufado de la automatizaciÃ³n estÃ¡, no a nuestra base de datos originales, estÃ¡ a las copias que yo te he ido dando.
+
+9:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, actualmente sÃ­, sin embargo, ahora que ya tienes la base maestra, ahora que ya vas a tener las FACs, nos vamos a conectar directamente a lo que nos estÃ¡s mostrando en tu drive.  O que vamos a estar conectados al original. Solo que porque tenemos de demos y demÃ¡s, si ahora hemos estado en copias.  Â¿Y quÃ© mÃ¡s necesitamos entonces? Ahorita nada, sinceramente nada, Ãºnicamente por mi lado validarte que podemos entrar a ver los videos sin problema, aÃºn asÃ­ estÃ©n en carpetas.  Nos vamos a conectar a la base maestra, nos vamos a conectar a las FACs. Cabe recalcar, chicos, que si es que por A.O.B.  tienen ustedes dos preguntas en blanco, no pasa absolutamente nada. Romy va a estar entrenada para que... Si es que le hacen una pregunta que no estÃ¡ ni en sus instrucciones, Ergo el prompt o en las FAQs, automÃ¡ticamente, bueno, ahÃ­ tenemos que aliviar un poquito, Â¿no?  Â¿CÃ³mo va a responder? Oye, no sÃ© cÃ³mo responderte esto y automÃ¡ticamente que le mando un mensaje a Nico o a Romy, dependiendo si es Lito o potencial cliente.  AsÃ­ que, nada, por ese lado, si es que van surgiendo mÃ¡s preguntas, ustedes solo lo actualizan en el Cheats y en vivo a los 5 segundos a Romy ya se le actualiza en la cabeza, literal.  AsÃ­ que por ese lado estÃ¡ genial. Lo que vamos a hacer y vamos a incluir es que cuando le hagan una pregunta que no pueda responder, que cree otra hojita en ese mismo Google Sheets, que ponga preguntas en responder y que vaya ahÃ­ colocando todo lo que no supo responder para que luego en su momento ustedes evalÃºen cuÃ¡l serÃ­a la respuesta y asÃ­ vayamos entrenando mÃ¡s a Romy hasta que ya sepa mucho mÃ¡s que nosotros.  BacÃ¡n. Â¿Sabes quÃ© te iba a pedir, Santi?
+
+10:49 - Alejandro juan Loayza jordan
+  Que creo que es importante porque hay un componente de actualizaciÃ³n humano que tenemos que gestionar. Â¿Crees que me puedas facilitar una lista de todos los...?  Â¿Archivos, documentos que Romy necesita para operar? SÃ­, claro, por supuesto, por supuesto, por supuesto.
+
+11:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Te refieres a todas las bases de las cuales las vamos a alimentar?
+
+11:08 - Alejandro juan Loayza jordan
+  SÃ­, tal cual, porque si hay una base, porque yo ya sÃ© que hay FAQ, cliente, FAQ, lead, hay base maestra con lista de clientes, o hay varias cosas y no necesariamente lo que yo te di a ti como copia estÃ¡ tan ordenado y no necesariamente nosotros mismos lo tenemos todo ordenado.  Entonces, de hecho, me valdrÃ­a la pena que yo mismo reorganice un poco mis carpetas, porque te imaginarÃ¡s, no estÃ¡ nada clean, para que puedas reorganizar, y de ahÃ­ enchufes todo bien para salir a producciÃ³n, porque si ya sales a producciÃ³n y estÃ¡s cambiando el orden de las carpetas, me imagino que eso puede cagar la direcciÃ³n a la sede del botes, Â¿no?
+
+11:49 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, total, no te preocupes, terminamos esa llamada, yo me encargo de mandarte cuÃ¡l es la lista de las bases que nosotros tenemos, cuÃ¡les son los nombres que nosotros tenemos, y ahÃ­ tÃº ya me ayudas a...  Y validar si todo estÃ¡ conforme con eso. Perfecto, chicos. Entonces, antes de pasar al tema de la lÃ³gica de seguimiento, si es que lo tenemos hoy, les voy a explicar quÃ© es lo que vamos a hacer nosotros para salir a producciÃ³n.  Algo que pasa bastante con Meta, y es que Meta te dice, oye, si te vas a conectar, y creo que eso, si es que vieron el video lo van entender, pero Meta te dice, si te vas a conectar a mi API oficial, si quieres hacer automatizaciones, si quieres hacer algÃºn asistente, si quieres hacer lo que sea con mi API oficial, vas a perder el WhatsApp web y vas a perder tu WhatsApp app.  Â¿CuÃ¡l es la soluciÃ³n que nosotros damos para eso? Es un CRM conversacional, sin mÃ¡s. Es como un WhatsApp, pero con la posibilidad de tener etiquetas, con la posibilidad de poder ver reportes sin mÃ¡s.  Entonces, Â¿quÃ© es lo que nosotros tenemos que ahorita tener primero validado antes de salir a producciÃ³n? Es conectar estas bases que ya ustedes alinearon, probarlo una vez mÃ¡s de manera interna, no hacer cambios sÃºper drÃ¡sticos, no hacer cambios sÃºper complejos, por asÃ­ decirlo, simplemente...  Probar para ver que la base funciona, que estÃ¡ respondiendo con las fax, que manda el testimonio, que funciona de manera bÃ¡sica, por asÃ­ decirlo.  Â¿Por quÃ©? Porque cuando nosotros salgamos a producciÃ³n, es ahÃ­ en verdad cuando nosotros vamos a hacer los cambios reales, porque Romy va a empezar a actuar a como en verdad funciona su buyer persona.  Imaginemos que de repente le empiezan a escribir algunos clientes o algunos potenciales clientes y digamos que Romy en ciertos casos no responde como deberÃ­a responder.  Estoy inventando un escenario. Eso es exactamente lo que tiene que pasar, porque en base a eso vamos a moldear el comportamiento de Romy a su buyer persona, a su ICP, a su cliente ideal.  Es lo que tenemos que hacer. Â¿Ok? Entonces, Â¿cuÃ¡les son los siguientes pasos bÃ¡sicamente? Nosotros hacemos estos cambios de las bases que ustedes nos acaban de dar.  Claramente nos ayudan a validar despuÃ©s de esta reuniÃ³n. Y el dÃ­a lunes lo probamos internamente. Tanto a Romy Leeds como a Romy.  Â¡Gracias! Y el dÃ­a martes o miÃ©rcoles en base a las correcciones que veamos el lunes, imagÃ­nense que ustedes me dicen, Santi, no, esto estÃ¡ genial, pero creo que deberÃ­a ser de esta manera.  Ok, lo corregimos, el martes volvemos a bailar rÃ¡pidamente y salimos el miÃ©rcoles, porque tampoco buscamos la perfecciÃ³n antes de salir a producciÃ³n, porque la perfecciÃ³n se va a encontrar en la cancha, con el verdadero comportamiento de los clientes.  Ok, asÃ­ que, Â¿cÃ³mo lo vamos a hacer? BÃ¡sicamente nosotros le vamos, serÃ­a bueno tener una llamada, voy a conversar con Manu, porque Ã©l estÃ¡ en Argentina y son dos horas ahÃ­, es no complicado, pero es cuestiÃ³n de coordinar la hora en la que lo vamos a hacer.  Â¿QuÃ© es lo que tenemos que hacer? Lo que tienen que hacer ustedes es eliminar, igual tengo unas cuantas preguntas antes de hablarles sobre esto, pero les cuento cÃ³mo se hace la migraciÃ³n al app.  Van a tener que eliminar la cuenta de WhatsApp, o si es que tienen el celular, van a ir a eliminar WhatsApp y nosotros, apenas ustedes la eliminen, vamos a conectarnos vÃ­a API oficial.  Cuando nos conectemos vÃ­a API oficial, les vamos a entregar su, les voy a compartir en pantalla para que puedan compartir un poquito mejor.  Les vamos a compartir su CRM conversacional. Es decir, ustedes desconectan WhatsApp, eliminan WhatsApp Web, eliminan WhatsApp App, y lo que nosotros hacemos automÃ¡ticamente es traer el alma de WhatsApp e introducirla dentro de este CRM que estÃ¡n viendo.  Y es, como les mencionaba, lo mismo que WhatsApp, la diferencia es que van a tener etiquetas y van a poder tener reportes.  Es decir, como si fuera un WhatsApp Prime de alguna u otra manera. Pero antes de llegar a esto, me gustarÃ­a hacerles una pregunta.  Â¿QuÃ© es lo que pasa con la API de WhatsApp? Cuando nosotros migramos a la API oficial, WhatsApp te dice, oye, pierdes tu WhatsApp App, pierdes tu WhatsApp Web, y vas a perder todas las conversaciones que has tenido porque vas a empezar de cero en un nuevo portal.  Estas conversaciones que ustedes ya han tenido, que tienen, Â¿consideran que es de mayor relevancia para no perderlas, para guardarlas y poder empezar con Romy, con todo este historial ya visible?  Â¿O no habrÃ­a ningÃºn problema con empezar de cero otra vez? No, sÃ­, sÃ­ hay que rescatarlo.
+
+15:58 - Nicolas Borda Silva
+  PerdÃ³n, perdÃ³n. SÃ­ hay que respetar las conversaciones en Santiago al 100%. Â¿Son clave?
+
+16:07 - Alejandro juan Loayza jordan
+  SÃ­, pero de cierta forma hay historial de pagos, de pedidos, o sea, hay mucho. Que es una de las razones por las que no me emigrÃ© a un CRM antes, de hecho.  Ok, perfecto, me queda clarÃ­simo.
+
+16:22 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, si eso es tan importante, chicos, no voy a, no quiero obligarlos o empujarlos a usar el CRM conversacional.  Hay otra opciÃ³n que es lo mismo, no es compleja ni nada, que es la de coexistencia. Es fÃ¡cil de ahÃ­ investigarnos, reciÃ©n se han encontrado el concepto, pero Â¿quÃ© es coexistencia?  Es bÃ¡sicamente lo mejor de ambos mundos. Usar la API oficial de WhatsApp, pero no pierdes tu WhatsApp app y no pierdes tu WhatsApp web.  Esto lo han sacado reciÃ©n hace dos meses, mÃ¡s o menos, mes y medio, meta por este mismo problema, Â¿no?  Que la gente se quejaba, oye, yo quiero implementar un asistente de inteligencia artificial, pero se me pone como condiciÃ³n, no solo para dar mi WhatsApp, sino para dar mi historial.  Gracias. Es un stopper, Â¿ya? Y justamente por esta situaciÃ³n se ha creado la coexistencia que de hecho estÃ¡ pagando.
+
+17:07 - Alejandro juan Loayza jordan
+  Pregunta, Santi, pero Â¿no se puede solo backupear WhatsApp Business y ya? Â¿No se puede quÃ©, perdÃ³n? Backupear, o sea que haga un backup de las conversaciones de WhatsApp Business y ya lo tengo ahÃ­, Â¿no?
+
+17:28 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Se puede hacer el backup de las cuentas de WhatsApp Business, pero al momento de introducirlo en el CRM conversacional no se puede.  Es parte de las restricciones que te pone meta si es que usas la API oficial como tal. Pero como te menciono, Ale, la mejor alternativa es usar la coexistencia, que es lo mismo que como estÃ¡n ustedes ya actuando ahorita, tal cual como ustedes ya estÃ¡n actuando, pero con Romy atendiendo tambiÃ©n en el mismo WhatsApp.  TÃº literalmente vas a estar viendo cÃ³mo atienden WhatsApp, cÃ³mo gestiona tanto a leads y a clientes, o sea, es absolutamente lo mismo.  Pero no voy a usar CRM, entonces. No, si es que optamos por priorizar el historial de conversaciones, no se optarÃ­a por el CRM.  SÃ­, es verdad. Â¿CuÃ¡l es la otra opciÃ³n? Empezar con el CRM, pero hacer el backup a todas las conversaciones para de por sÃ­ tenerlas guardadas ante cualquier tipo de informaciÃ³n que se necesite.  Eso es, por ejemplo, lo que yo hice con un Ãºltimo cliente que tambiÃ©n era prioritario en las conversaciones. Pero bueno, parte de las restricciones de meta es que se tiene que empezar de cero, entre comillas.  Y ellos hicieron un backup de sus conversaciones y empezaron nuevamente de cero. Y bueno, empiezan otra vez con el historial, Â¿no?  Pero el... Preguntas sobre eso.
+
+18:43 - Alejandro juan Loayza jordan
+  O dos preguntas. Uno es, Â¿quÃ© tan nunca he leÃ­do o intentado leer un backup de WhatsApp Business o de WhatsApp en general?  Â¿Es muy difÃ­cil de leer? O sea, Â¿se me genera un Excel, se me genera un Word Eterno? Â¿CÃ³mo es el interfaz de eso?
+
+18:58 - Santiago Isaias Zavaleta Ayala (Ulima)
+  mira, sinceramente... Es que nosotros exportamos las conversaciones de WhatsApp. TÃº no vas a poder leer algo como tal porque es algo encriptado.  Literalmente es un cÃ³digo encriptado que luego te va a llevar a donde estÃ¡n todas tus conversaciones. Es decir, que no es que guardes el historial y ya tengas en un Excel o en un blog de notas todas las conversaciones que has tenido.  Es como un cÃ³digo encriptado que luego te va a servir para volver a meter en tu WhatsApp y que te aparezca absolutamente todo lo que ya tenÃ­as.  Pero no es que lo puedas tÃº visualizar y leer como tal.
+
+19:29 - Alejandro juan Loayza jordan
+  Â¿Pero lo podrÃ­as hacer con otro nÃºmero en teorÃ­a y recuperar todo eso? SÃ­, sÃ­, por supuesto que sÃ­.
+
+19:36 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y no solo con otro nÃºmero. Si es que en algÃºn momento tÃº quisieras volver con el mismo nÃºmero, volviendo otra vez al WhatsApp Business y al nuevo API oficial, vas a volver a tener todas las conversaciones desde el momento en que las exportas.
+
+19:46 - Alejandro juan Loayza jordan
+  No, pero o sea, digamos que yo tengo el nÃºmero A. Este nÃºmero A es el de la empresa, me iba al CRM y todo, pero hago un backup de todo este nÃºmero A.
+
+19:58 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Yo puedo agarrar el...
+
+20:00 - Alejandro juan Loayza jordan
+  Mientras tengo el CRM, Â¿yo puedo usar este backup de WhatsApp y meterlo a un nÃºmero Z? SÃ­, claro, por supuesto.
+
+20:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Hay una opciÃ³n en WhatsApp que te manda para restablecer conversaciones y es simplemente poner el cÃ³digo en criptado. Ya, bacÃ¡n.
+
+20:17 - Alejandro juan Loayza jordan
+  Esa es una pregunta. La segunda es, de hecho son tres preguntas. La segunda es, si yo hago este acto de migraciÃ³n a este CRM, si yo quiero migrar despuÃ©s a otro CRM, Â¿voy a tener el mismo problema?  O como ya estoy en el API oficial, ya... Por ejemplo, Â¿cÃ³mo?
+
+20:37 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Por ejemplo, o algo mÃ¡s potente, quÃ© sÃ© yo. Ok, si tÃº quisieras salirte de este CRM, de hecho, no tendrÃ­as que desconectarte de este CRM, ya no es necesario.  Porque la condiciÃ³n de que tÃº te desconectes de todo y elimines todo es cuando estÃ¡s en WhatsApp Business y quieres pasarte a la API oficial.  PodrÃ­as tener tanto cÃ³mo, como mantener este CRM, pero cuando... Si pases a cÃ³mo, no se te va a visualizar nada de lo que ya tenÃ­as en este CRM.  Es una limitante de la API. Entonces, cuando migras entre CRM, Â¿cuÃ¡l es la prÃ¡ctica?
+
+21:13 - Alejandro juan Loayza jordan
+  Porque me imagino que las empresas que tienen mucha mÃ¡s data que yo, Â¿cÃ³mo hacen cuando tienen que migrar de un CRM a otro?
+
+21:21 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mira, te lo cuento desde mi experiencia personal con inmobiliarias, que encima son un poquito especiales, de hecho, con el tema de las conversaciones.  Primero, se bajan el backup de todas las conversaciones, Â¿ya? Y de hecho, Ale, si te soy sincero, creo que en tu caso es mucho mÃ¡s importante poner las conversaciones que las inmobiliarias.  Pero ellos se descargan un backup de todas las conversaciones, migran al CRM, claramente ellos se los mencionan, Â¿no? Oye, vamos a parar las conversaciones, utilizamos el CRM y la API oficial, y ellos mencionan, ok, no hay ningÃºn problema.  Y simplemente migran, y si en algÃºn momento quieren volver a tener las conversaciones con el historial de los clientes, borran la API oficial.  Lo vuelven en gritar o hacen lo que tÃº me mencionaste de ponerlo en otro nÃºmero. Te soy sincero, hasta ahora no hemos tenido ningÃºn problema con respecto a recuperaciÃ³n de informaciÃ³n anterior, pero es bÃ¡sicamente porque en tu caso la informaciÃ³n es oro.  Estamos hablando del historial del cliente, pero con respecto a la migraciÃ³n del CRM y la API es simplemente guardar backup de las conversaciones y empezar el historial de cero a partir de ese CRM.  Porque si te das cuenta, no es que estemos reiniciando de cero todo, sino que ahora es un nuevo comienzo, por asÃ­ decirlo.  Toda tu informaciÃ³n se va a centralizar acÃ¡ y aquÃ­ va a estar mucho mÃ¡s ordenado que en un WhatsApp.  O despuÃ©s de todo, lo principal es tener el CRM conversacional y la Ãºnica manera de no parar las conversaciones es haciÃ©ndole un backup.  Pero poder integrar todas las conversaciones en el CRM, eso es imposible por limitante de meta.
+
+22:56 - Alejandro juan Loayza jordan
+  Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Â¿Se puede scrapear un, o sea, me imagino que cuando, como no tengo un API oficial, no tengo cÃ³mo conectar, no tengo cÃ³mo conectar automatizaciones acÃ¡, pero, Â¿se puede scrapear conversaciones de WhatsApp para que me extraiga texto?  O sea, sin tener API. Â¿Puede scrape conversaciones de WhatsApp?
+
+23:22 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Por ejemplo, yo le digo, oye, entra al chat de Jessy que es una automatizaciÃ³n, no hago que entro chat por chat y me extraiga toda la conversaciÃ³n, Â¿me mencionas?  SÃ­. CreerÃ­a que no, Vale. CreerÃ­a que no. No lo he intentado, pero creerÃ­a que no por las mismas limitantes de WhatsApp.  Igual te lo voy a confirmar ahorita, pero estoy casi seguro que no. DÃ©jame revisar. SÃ­, no, no se puede.  Si hay meta, se puede poner un poquito especial, por asÃ­ decirlo, pero eso sÃ­, no se puede. Ya, voy a ver quÃ© va ahÃ­.  De igual manera, como te menciono, Ale, lo que es clave es bÃ¡sicamente que este es literalmente el nuevo comienzo para tu operaciÃ³n.  Es volver a tener ordenado todo, tener todo centralizado, todo con la trazabilidad, que esto nunca mÃ¡s se te vuelva a perder o nunca mÃ¡s se...  Se vuelva a desorganizar de alguna u otra manera, por asÃ­ decirlo. AsÃ­ que es bÃ¡sicamente eso, es bÃ¡sicamente eso.  Y claramente el backup es clave, es crucial, pero despuÃ©s de utilizar este CRM, todos esos... Igual creo que no era un inconveniente, pero si es que habÃ­a algÃºn inconveniente por orden de trazabilidad o historial, eso ya nunca mÃ¡s va a pasar porque encima el CRM te permite exportar las conversaciones e inclusive estas exportaciones sÃ­ son en texto.  Es decir, que esto sÃ­ te va a exportar en chat como tal. Gracias. Gracias. Gracias. Alejandro hablÃ³ con Nico, la hora tal, eso sÃ­ te puede dejar exportar.  WhatsApp tambiÃ©n te puede dejar exportar eso, pero tendrÃ­as que hacer chat por chat, chat por chat, chat por chat, chat por chat, chat por chat.  Ahora, Â¿quÃ© es lo que yo tambiÃ©n sÃ­ recomiendo? Antes que se me olvide, es exportar las conversaciones con los clientes mÃ¡s importantes, por ejemplo.  Si es que hay unos 5 clientes que pueden ser muy especiales o tienen informaciÃ³n en el WhatsApp que es muy importante, exportarlas.  Priorizar cuÃ¡les son los importantes como tal. Pero una vez que estemos en el CRM, eso se puede exportar sin ningÃºn problema y se puede mandar todo a tu correo, toda la transcripciÃ³n.  AsÃ­ que por eso no hay ningÃºn problema y nunca mÃ¡s se va a apartado. BacÃ¡n.
+
+25:37 - Alejandro juan Loayza jordan
+  Mi Ãºltima pregunta era, Â¿quÃ© pasa? Se supone que todo el CRM estÃ¡ anclado a un chip de WhatsApp o a un chip de telefonÃ­a, Â¿no?  Que en este caso, hoy por hoy ya solo son virtuales, son eSIMs. Mi pregunta es, Â¿quÃ© pasa si ese eSIM deja de...?  Â¿Tengo que seguir pagando esa eSIM? O sea, un plan...
+
+27:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Porque al final es literalmente pagar una vez y creo que pagar, claro, por ejemplo, te dice ya, estÃ¡ bien, toma tu chip de 3 soles y solo en un aÃ±o trata de meterle un sol, creo, 2 soles y no te lo van a bloquear.  Por ese lado no ningÃºn problema, tendrÃ­a que ser un chip prepago. El chip que tienes acÃ¡, el de Romy, Â¿es prepago o pospago?  No, es pospago.
+
+27:18 - Alejandro juan Loayza jordan
+  Siempre ha sido pospago. O sea, no sÃ© si el prepago o pospago estÃ¡ asociado al chip como tal, realmente, te mentirÃ­a.  No sÃ© si puedo agarrar ese nÃºmero y decir, a ver, quiero que se vuelva prepago. Ya.
+
+27:29 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, serÃ­a cuestiÃ³n de preguntarle a la empresa, pero igual no habrÃ­a ningÃºn problema. Â¿EstÃ¡s contemplando dejar ese nÃºmero?
+
+27:38 - Alejandro juan Loayza jordan
+  Esperen, chip. No, simplemente estoy pensando si puedo no tener que pagar mensualmente de 50 lucas para mantener un nÃºmero.
+
+27:52 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Pero, o sea, por 50 lucas no me voy a hacer bolas, Â¿no? Pero si se puede, general.
+
+27:55 - Alejandro juan Loayza jordan
+  Si es problema, mejor lo mantengo. No busco el plan mÃ¡s barato, simplemente ya. SÃ­, entiendo, entiendo.
+
+28:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De igual manera, creo que ahÃ­ podrÃ­as consultar, si es que te lo pueden pasar a un prepago, yo creo que no habrÃ­a problema, pero bueno, es cuestiÃ³n ahÃ­ de que te mencionen eso.  AdemÃ¡s, hacemos agentes de voz, si es que en algÃºn momento tambiÃ©n llegan a contemplarlo, asÃ­ que estÃ¡ bien interesante tambiÃ©n por eso.  Â¿Son los que responden llamadas? SÃ­, sÃ­, sÃ­. Y los que hacen llamadas tambiÃ©n, para hacer seguimientos. ChÃ©vere. SÃ­, sÃ­.  Pero bueno, eso serÃ­a bÃ¡sicamente con respecto al CRM. Ale, entiendo que pueden haber unas cuantas dudas con respecto al tema del WhatsApp, asÃ­ que molÃ©stame a 24-7 para cualquier duda.  No te preocupes, que ya hemos pasado, crÃ©eme que hemos pasado por los peores huecos de meta, app y business, y ya conocemos todo.  Y puede que meta sea un poquito ambiguo, porque a veces no se entiende, hay meta business, meta developers, hay API de meta, hay meta oficial, o hay un montÃ³n de cosas.  AsÃ­ que cualquier duda que tengas, nos preguntas sin ningÃºn problema, no te preocupes que te vamos a acompaÃ±ar en todo el traslape de la informaciÃ³n para que no se pierda absolutamente nada.  Eso con respecto al CRM y por otro lado, chicos, si esto ya era lo Ãºltimo, no sÃ© si lo tengan ahorita, con respecto a los seguimientos automÃ¡ticos, esto entiendo que va a ser Ãºnicamente para los clientes que tengan el plan con seguimiento, pero aparte, no sÃ© si de repente me puedan ayudar compartiendo la base maestra, habÃ­a otra columna que estaba al costado de los seguimientos automÃ¡ticos, que creo que mencionaba el tipo de seguimiento, es decir, era bÃ¡sico o complejo en los tÃ©rminos que estaban utilizando, pero, ajÃ¡, ahÃ­ estÃ¡.  A eso querÃ­a preguntar, Â¿tenemos la lÃ³gica hoy de los tipos de seguimiento que tenemos que hacerle a los clientes segÃºn si son bÃ¡sicos o el otro tipo de plan?  Y tambiÃ©n nos pueden contar un poquito acerca de los planes para entender bien la terminologÃ­a. SÃ­, o sea, hay...
+
+30:02 - Alejandro juan Loayza jordan
+  O sea, la lÃ³gica de si tiene seguimiento o no es si el plan tiene una C slash S, tiene seguimiento.
+
+30:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Perfecto.
+
+30:14 - Alejandro juan Loayza jordan
+  O sea, en general los planes tienen dos elementos para su nomenclatura, Â¿no? La primera refiere bÃ¡sico, estÃ¡ndar o intensivo, que por ahÃ­ vas encontrar algunos, refieren a la frecuencia de sesiones.  Ok. Y el CS o SS es la nomenclatura de si requiere o no, con seguimiento o sin seguimiento. CS, SS, literal.  La lÃ³gica tambiÃ©n dice que hay algunos planes antiguos. Â¿Puedes darle clic a Producto Ãšnico? O sea, pero al filtro.  Ah, scroll up. Hay algunos planes antiguos como es estÃ¡ndar 2 o por ahÃ­ deberÃ­a haber algo premium, premium 2, que son nomenclaturas antiguas que usamos, que no se ciÃ±en a lo que te acabo de explicar.  Pero por default, por lÃ³gica, yo he puesto que esos planes antiguos que todos tenÃ­an seguimiento... Ok, ok, perfecto.
+
+31:06 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ale, Â¿hay alguna diferencia? Estos seguimientos que tÃº les haces a tus clientes, Â¿es para recordarles sesiones? Â¿Es para saber simplemente cÃ³mo estÃ¡n?  Â¿Es para saber quÃ© han comido? Â¿CuÃ¡les son estos tipos de seguimientos que haces? Â¿A quiÃ©nes se los haces y a quiÃ©nes no?
+
+31:25 - Alejandro juan Loayza jordan
+  Actualmente, son varias cosas, Â¿no? Un cliente... Ay, sÃ­, Diego, tÃº puedes explicarle en quÃ© consiste el seguimiento, bÃ¡sicamente.
+
+31:34 - Nicolas Borda Silva
+  Ya, normalmente el seguimiento atiende tanto a preguntas que pueda tener la persona sobre su plan, como tambiÃ©n siempre le decimos que lo mejor es que puedan mandar, mientras mÃ¡s preguntas y mÃ¡s fotos puedan mandar, mejor.  Porque una de las fotos terminan siendo un registro, un tipo de agenda, registro de lo que ha comido la persona y tambiÃ©n...  Nos da chance a nosotros poder dar un feedback sobre esa foto, Â¿no? Si es que la persona nos manda su plato, tenemos chance de poder decirle, oye, eso lo pesaste, lo llevaste a medir o solamente te serviste.  Ah, solamente me servÃ­. Y le decimos, ok, ya mÃ¡s o menos vemos tanta cantidad de comida, lo cual cuadra o no cuadra con lo que tenemos mÃ¡s o menos mapeado.  Y en base a eso, dar alguna sugerencia o alguna modificaciÃ³n en el dÃ­a. Eso es parte del seguimiento, parte del responder preguntas tambiÃ©n y tambiÃ©n solucionar problemas del dÃ­a a dÃ­a que pueden suceder como cambios de rutina, Â¿no?  Por ejemplo, si alguien se va a ir a, no sÃ©, a tanta o a algÃºn restaurante en noche y en su plan tenÃ­a una comida mucho mÃ¡s ligera, el seguimiento tiende a la pregunta de, oye, si hoy dÃ­a me voy a tanta, Â¿quÃ© puedo comer ahÃ­?  O quÃ© plato podrÃ­a cuadrar? O si, no sÃ©, si alguien me dice, oye, me gusta de tanta el lomo saltado, Â¿quÃ© puedo hacer en mi dÃ­a?  Gracias. O para que el lomo soltado cuadre y no me perjudique. Perfecto. Es bÃ¡sicamente lo que ya hemos estado revisando antes con Romy, Nico?
+
+33:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Con respecto a cÃ³mo te he estado respondiendo. No, perdÃ³n, todavÃ­a no lo probamos con comidas, Â¿no? SÃ­, sÃ­.
+
+33:13 - Nicolas Borda Silva
+  Y tambiÃ©n el seguimiento lo que deberÃ­a tener es un mensaje cada dos dÃ­as a la semana, lo que hacemos ahorita manualmente.  Lo hacemos pidiendo que se pueda mandar un mensaje los martes y viernes a todas las personas. SÃ­, los martes y viernes, sÃ­.
+
+33:33 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Absolutamente a todos sus clientes?
+
+33:35 - Nicolas Borda Silva
+  A todas las personas, a todas las personas con seguimiento. Con seguimiento, ok. A todas las personas con seguimiento se les manda un mensaje martes y viernes.  Siempre obviamente haciendo mÃ¡s Ã©nfasis en personas que no han conversado o no se suelen comunicar. Pero se la mandamos a todos por si acaso.  Ok, perfecto.
+
+33:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Este mensaje que ustedes van a mandar dos veces a la Â¿Tienen alguna plantilla? Â¿Quieren que nosotros, en base a lo que nos digan, les demos una opciÃ³n?  Â¿O ustedes nos lo van a mandar despuÃ©s? Â¿CÃ³mo quieren trabajar esto? Es un mensaje sÃºper simple.
+
+34:09 - Nicolas Borda Silva
+  Es un, hola, comÃ©ntanos cÃ³mo te estÃ¡ yendo con tu plan. Ok, perfecto.
+
+34:14 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Dos mensajes.
+
+34:16 - Nicolas Borda Silva
+  Ojo, Santi, que sÃ­ creerÃ­a que justamente una meta de personalizaciÃ³n que tenemos es, Â¿te acuerdas que te dije como que la manera de, que una variable mÃ¡s que se le pueda asignar a un cliente es la frecuencia de contacto intrÃ­nseco?  decir, independientemente de que esta persona nos hable, que se le pueda mandar un horario, un recordar y su mensaje, y a cierta hora.  Entonces, porque hay pacientes que dicen, que son pocos, pero creo que abre una puerta a retener a ciertos clientes, que dicen, no, puta, que yo, este, yo quiero que me hablen todos los dÃ­as.  Claro. Una Ã©poca yo me puse sÃºper... Fidel con esa guada y tambiÃ©n le ha causado daÃ±o mental a mucha gente porque hay un overengineering medio grave, Â¿cierto?  Para la gente que siente culpa por comer o por ser mal, etc. Entonces, sÃ­ quiero poder personalizar una frecuencia, configurar una frecuencia y una hora.  Eso serÃ­a importante. Eso serÃ­a clave, Ale.
+
+35:18 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De hecho, si quieres, o sea, me queda clarÃ­simo lo que me menciona Nico con respecto al mensaje de dos veces por semana, pero si quieres, si gustas, en otra reuniÃ³n podemos tambiÃ©n revisar bien el alcance de los seguimientos personalizados que necesitas, Â¿no?  La frecuencia, cÃ³mo intensiar al paciente sin que de repente violemos ese lÃ­mite de estar molestÃ¡ndolo, estar haciendo que se siente mal.  Podemos personalizarlo. De hecho, es parte de los seguimientos personalizados que tenemos que hacer, Â¿no? Â¿A quÃ© tipo de clientes, por ejemplo?  Me voy a inventar una regla, Â¿no? No, Santi, a los intensivos tienes que de repente ser un poquito mÃ¡s duros con los seguimientos.  Con los bÃ¡sicos, pregÃºntaselo de una manera mucho mÃ¡s tranquila, mÃ¡s simpÃ¡tica. Me estoy inventando. Esa frecuencia, esa personalizaciÃ³n serÃ­a clave medirla para que Romy sepa que no solo tiene que mandar un mensaje, dos mensajes a la semana, sino que sepa que tiene que estar mandando mensajes para X personalizaciÃ³n que necesite el tipo de cliente.
+
+36:19 - Nicolas Borda Silva
+  Puede ser dos dÃ­as, puede ser un dÃ­a o puede ser cinco dÃ­as a la semana. Y ahÃ­ es donde tambiÃ©n entran los mensajes de, oye, faltan X dÃ­as para que acabe tu plan, y sÃ­.  SerÃ­a bueno que podamos ir agendando tu siguiente consulta, que son cosas que ahorita estÃ¡n siendo de forma manual, pero que la idea es que sea automatizado, sobre todo porque ya ha sido medio que un patrÃ³n, Â¿no?  Ya obviamente si la persona nos dice o nos comenta, y ahÃ­ probablemente la idea tenga que detectarlo, nos comenta como, oye, en el momento no voy a, por el momento no voy a poder pagarlo, o no voy a poder hacerlo, por X motivo, pero sÃ­ se interesaban pagarlo, pero que en ese momento...  Entonces no puede hacerlo por gasto de mÃ¡s, etcÃ©tera, que se pueda reagendar o que se pueda ya derivar aquÃ­ la manualidad por nosotros, que asumimos un mensaje en X tiempo, Â¿no?  En una semana, semana y media, cosas asÃ­.
+
+37:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, perfecto, me queda clarÃ­simo. EstÃ¡ genial. Eso lo podemos ver en otra regua aparte para dimensionar bien el alcance, pero me estoy llevando de esta regua del Insight de que Romy va a hacer seguimientos a la semana dos veces a todos los clientes que tengan seguimiento, simplemente para preguntarle cÃ³mo ha venido con su plan, quÃ© tal estÃ¡, si es que tiene alguna duda, cÃ³mo lo podemos ayudar si es que si fuera necesario.  Sin mÃ¡s, una revisiÃ³n para que el cliente sepa que estamos ahÃ­ y que estamos con Ã©l, bÃ¡sicamente. Y nada, chicos, quÃ©date atento con respecto a analizar bien este nuevo sistema de seguimientos, que bÃ¡sicamente, como decÃ­as, Nico, va a ser replicar lo que todas habÃ­an hecho como equipo de manera manual, entender la lÃ³gica y poner la automÃ¡tica para que solo corra, sin mÃ¡s.  Ahora, lo que sÃ­ quiero ir afinando es el tema de las sesiones. Â¿PodrÃ­amos definir hoy o de repente en otro momento cada cuÃ¡nto tiempo tenemos que recordar al cliente que se acerca a su sesiÃ³n?  Â¿CuÃ¡ntos dÃ­as antes de la sesiÃ³n? Â¿CÃ³mo quieren manejar esta lÃ³gica? Â¿O prefieren analizarlo primero antes de darme el insight?
+
+38:21 - Nicolas Borda Silva
+  Dos semanas previas a la sesiÃ³n, Â¿se les recuerda? Se les recuerda como 10 dÃ­as antes, 3 dÃ­as antes y el Ãºltimo dÃ­a.  Se les suele recordar siempre 10 dÃ­as antes como primer recuerdo, despuÃ©s 3 dÃ­as antes y un dÃ­a antes de la sesiÃ³n.
+
+38:42 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, genial, perfecto. Nico, una consulta. Este seguimiento para las sesiones, las alertas, Â¿es tanto para los clientes que tienen seguimiento y no o solo para los que tienen seguimiento?  El recordar las sesiones. SÃ­, es para...
+
+39:00 - Nicolas Borda Silva
+  Porque eso ya no es parte del seguimiento. BÃ¡sicamente recordar o que la persona pueda recontratar o que pueda asistir a su sesiÃ³n.  TendrÃ­a que ser uno para recordarle que pueda hacer el pago nuevamente, si quiere continuar con nosotros. Y la otra sÃ­ deberÃ­a ser algo automÃ¡tico, que es sÃºper simple, que es el dÃ­a de la sesiÃ³n deberÃ­a tambiÃ©n recordÃ¡rsele, o el dÃ­a anterior probablemente, deberÃ­a recordÃ¡rsele y confirmar la asistencia a la sesiÃ³n.  Que es algo que de nuevo hacemos ahora, pero que deberÃ­a ser automÃ¡tico, Â¿no? Porque al final la base de datos va a estar registrada hoy en tal dÃ­a, en tal fecha va a tener la sesiÃ³n esta persona.  Entonces, deberÃ­a haber alguna lÃ³gica mÃ¡s o menos de, oye, si la cita es en la maÃ±ana, o de nueve de la maÃ±ana, el recordar deberÃ­a ser, no sÃ© si en la noche o un poquito antes de la cita.  AhÃ­ sÃ­ no sÃ© quÃ© serÃ­a mÃ¡s cÃ³modo para la persona realmente, pero... SÃ­, deberÃ­a haber un recordario de, oye, tu sesiÃ³n es, ahorita, confÃ­rmanos si es que vas a vender.  Ok, perfecto, estÃ¡ genial, me queda clarÃ­simo.
+
+40:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De hecho, Romy va a tener la funcionalidad, y aquÃ­ aprovecho para comentarles que esto ya tambiÃ©n lo hablamos desde la primera semana del proyecto, es que va a tener la capacidad de agendar en un Google Calendar.  Este Google Calendar que se va a utilizar, va a tener de repente alguna restricciÃ³n, por asÃ­ decirlo, van a ser en horarios especÃ­ficos, va a ser el horario de Ale, Â¿a quÃ© me refiero con esto?  De repente, por ejemplo, yo Santiago Zabaleta quiero, mi sesiÃ³n me toca a las 11, digamos, o tengo espacio para las 11, viajando a las 11, pero luego viene el paciente Alonso y tambiÃ©n quiere a las 11.  Como ya hay una atenciÃ³n a las 11, no deberÃ­a usar ese hueco, de repente sÃ­ porque otra persona lo va a atender, esa lÃ³gica ya la tienen seteada, Â¿cÃ³mo lo podrÃ­amos manejar?
+
+40:52 - Nicolas Borda Silva
+  Por el momento, como lo estamos manejando ahorita, creo que Ale, eventualmente si quiere hacer doble... SesiÃ³n a la vez, una virtual y una presencial, pero por el momento, como se maneja ahorita, es un paciente por hora.  Ok, perfecto, genial.
+
+41:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Nico, acabas de mencionar algo clave. Las sesiones que vamos a hacer, por las cuales vamos a hacer alerta, son virtuales, son presenciales, y Â¿cÃ³mo verificamos que sean alguna de las dos, segÃºn la tabla de la base?  Eh, segÃºn, en la base maestra sale si es virtual o presencial?
+
+41:26 - Nicolas Borda Silva
+  Eso sale ahÃ­, mira, sigo compartiendo, sÃ­. AcÃ¡ en la parte de... No, no, no, no, no estÃ¡. Ok, ya, en la general sale si el paciente es nuevo, perdÃ³n, es presencial o virtual, estÃ¡ mÃ¡s abajo, Â¿Crees que nos va a ayudar pasÃ¡ndolo a la base original, Nico?
+
+41:48 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Genial. sÃ­, sÃ­. Vamos a pasarlo a la original. Eso ya estÃ¡ muy grande.
+
+41:52 - Nicolas Borda Silva
+  Cosa que tenga la distinciÃ³n. Y, eh, si es que es virtual, una vez que agende... Bueno, si la agenda lo va a hacer la misma Ronebot, deberÃ­a tambiÃ©n autogenerar un link de Google Meet.  Ok, perfecto.
+
+42:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Que se lo mande por correo o solo por WhatsApp estÃ¡ bien? Por WhatsApp es lo que lo...
+
+42:13 - Nicolas Borda Silva
+  Si se lo puede por ambos, por ambos. Por WhatsApp creo que lo que mÃ¡s usa la agenda, pero creo que no estÃ¡ de mÃ¡s si lo podemos mandar por ambos lados.  SÃ­, la cosa es que no se nos escape, no por ninguna vÃ­a.
+
+42:25 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, perfecto, me queda clarÃ­simo. Bueno, entonces creo que esas son todas las dudas que tenÃ­a con respecto al seguimiento.  Me llevo el insight de hacer las alertas dos veces por semana, hacer las alertas diez dÃ­as antes de la sesiÃ³n, siete dÃ­as antes de la sesiÃ³n me mencionaste, Nico, y luego tres dÃ­as, Â¿verdad?  No, perdÃ³n, tres dÃ­as y un dÃ­a. SÃ­, correcto. Ok, perfecto. Entonces, no se olviden, equipo, que en el momento que tengan un tiempo para poder alinear bien esta frecuencia de seguimientos para los otros tipos, si es que hubiera alguna otra lÃ³gica, nos la mencionan y lo vamos conversando de acuerdo al...  Gracias. Gracias por ver el video. Gracias por ver el video. AsÃ­ que nada chicos, ya me estoy comunicando, igual podemos coordinar la reuniÃ³n hoy mismo si es que tienen el hueco, si es que no nos pueden avisar, no cÃ³mo estÃ©n de espacio.
+
+44:09 - Nicolas Borda Silva
+  Una pregunta Santi, Â¿es necesario pre-setear o pre-configurar categorÃ­as de frecuencia de contacto y seguimiento para los pacientes? O sea, lo digo porque me invento ya, imagÃ­nate que un hueÃ³n, o sea, puedo, hay dos opciones, o que la data, o que la frecuencia de contacto se registre como una variable numÃ©rica, que sea 1 al 7 dÃ­as por semana, o que se registre como una variable categÃ³rica donde tenga la categorÃ­a 1, 3, 5, 7, Â¿no?  sea, tengo que reportarlo categÃ³ricamente, tengo que hacerlo pre-fixiado, pero puedo solo inventarme las 7 categorÃ­as y listo. Pero mi pregunta es, Â¿tengo esa versatilidad de solo poner todas?  O sea, tener mi columna de, oh, esta persona quiere una vez por semana, esta, dos.
+
+45:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Yo creo que eso serÃ­a lo mÃ¡s simple y personalizado, vale, de manera categÃ³rica. Tal vez se pueda tomar mÃ¡s tiempo encontrar la forma numÃ©rica, esa variable numÃ©rica, que podrÃ­a ser, al final, es lo que sea mÃ¡s escalable.  Esa es la palabra. Tenemos que hacerlo de manera que sea mÃ¡s escalable. Si para ustedes es mÃ¡s fÃ¡cil, por ejemplo, poner una categorÃ­a, me voy a inventar un concepto, Â¿no?  Paciente ansioso, por ejemplo. A este paciente sÃ­ escrÃ­bele cinco veces por semana con seguimientos, Â¿ok? Todos los que entren en paciente ansioso, tÃº vas a poner Santiago Isaias Zavaleta, Alonso Ãguila, y ya sabe Romy que ese tipo de paciente le tiene que hacer seguimientos cinco veces por semana.  Independientemente de los dos seguimientos que ya nos hablÃ³ Nico, de los de avisar cÃ³mo estÃ¡, o si no, los podemos incluir ahÃ­ como parte es cuestiÃ³n de estandarizar, e independientemente de los avisos para las sesiones.  Luego me invento otra categorÃ­a, ya, paciente malhumorado, una vez a la semana, algo asÃ­. AhÃ­ meto a Nico, por ejemplo.  Sabe que tiene que hacerle un seguimiento a la semana. Y el evaluador, Â¿puedo solo llamarle categorÃ­a 5 y listo?
+
+46:06 - Nicolas Borda Silva
+  O sea, independientemente del nombre, Â¿no?
+
+46:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, pero serÃ­a clave definir a quÃ© te refieres con esa categorÃ­a. Simplemente para que en algÃºn momento solo vayas llenando bases, sin mÃ¡s.  Mientras, para que sea escalable. Y aparte, cabe recalcar que en la base maestra, no esta de acÃ¡, sino la que Romy va a llenar, por cliente de Romy va a poner nÃºmeros de seguimientos, todos los seguimientos que le ha hecho, para que ustedes tengan la trazabilidad y que se estÃ¡ haciendo lo correcto, y cuÃ¡ntos seguimientos le lleva haciendo desde el inicio de la plaza de Romy, Â¿no?
+
+46:37 - Nicolas Borda Silva
+  Y vale la pena fÃ¡cil que tenga horarios. O sea, porque me imagino, yo me estoy asumiendo, obviamente, de ahÃ­ sÃ­ serÃ­a un poco pendejo que existen categorÃ­as con cada hora posible, porque va a dar 24 grupos.  Pero yo sÃ­ creo que fÃ¡cilmente podemos identificar 3, 4 horarios potenciales a los que la gente querrÃ­a que les creamos, puta, 7 de la noche, al despertar y etc.  Esto es mucho mÃ¡s fÃ¡cil, Â¿no? SÃ­, total, definitivamente.
+
+47:02 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mientras mÃ¡s especÃ­ficos seamos con eso, mucho mejor. Porque imagÃ­nate, le mandamos un seguimiento a las 3 de la maÃ±ana para ver si ya se no, o sea, no tenÃ­a sentido.  SerÃ­a ponerle los bloques. SÃ­, total.
+
+47:14 - Nicolas Borda Silva
+  Â¿Te puedo pedir que me mandes el Fathom de esta conversaciÃ³n, por favor? SÃ­, por supuesto.
+
+47:18 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Al grupito, para tenerlo.
+
+47:20 - Nicolas Borda Silva
+  Y yo tengo que hacerme la costumbre, me olvidÃ© de perder mi granola. Es maravilla.
+
+47:24 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, tranqui, no te preocupes. AquÃ­ te lo mando. Y tambiÃ©n en un ratito, en unos 15 minutos, les estoy mandando el tema de las bases.  CÃ³mo nosotros tenemos las bases hoy dÃ­a y con quÃ© nombre. Y ahÃ­ para que nos inseren si son las bases que estamos ahÃ­.  Igual, para estar alineados. Dale, perfecto. Perfecto, chicos. Que tengan un excelente fin de semana. Gracias por su tiempo. Cualquier cosa, molestenme por WhatsApp, por favor.  Lo que vemos es que ahorita la transiciÃ³n a Romy sea lo mÃ¡s rÃ¡pido y fÃ¡cil posible para que ya estemos aprovechando cada oportunidad.  De venta, que ya estamos viendo que estÃ¡n creciendo bastante en redes, asÃ­ que por ese lado, felicitaciones. Gracias, Santi.  Nos vemos. Saludos, nos vemos bien.

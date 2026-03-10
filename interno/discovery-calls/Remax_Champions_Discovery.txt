@@ -1,0 +1,295 @@
+Impromptu Google Meet Meeting - October 13
+VIEW RECORDING - 28 mins (No highlights): https://fathom.video/share/qKVUQkBsUSgapteMQ9px8cd2DqYuDya2
+
+---
+
+0:00 - Dennis Nomberto
+  Â¿CÃ³mo estÃ¡s, Santiago? Â¿QuÃ© tal? Â¿Todo bien, todo bien? Â¿CÃ³mo van las ventas? Â¿QuÃ© tal? PerdÃ³n, disculpa. Santiago, creo que conmigo sÃ­ tienes unas temitas pendientes, Â¿no?
+
+0:18 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AsÃ­ es, Â¿van a entrar Lyonel y Giuseppe?
+
+0:22 - Dennis Nomberto
+  Asumo que sÃ­.
+
+0:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, a ver si nos esperamos.
+
+0:27 - Dennis Nomberto
+  Ya. Â¿Te acuerdas que inicialmente te habÃ­a dado una direcciÃ³n?
+
+0:33 - Lyonel Rodriguez Garcia
+  Â¿Un drive? Â¿Una direcciÃ³n?
+
+0:36 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, sÃ­, sÃ­, sÃ­. Sobre esa no mÃ¡s trabaja, amigo.
+
+0:40 - Dennis Nomberto
+  SÃ­, todo estÃ¡ ahÃ­.
+
+0:42 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, entonces. De hecho, si revisas el drive ahora, vas a ver que he creado una carpeta especÃ­ficamente para los proyectos.  PerdÃ³n, para el proyecto de inteligencia artificial.
+
+0:57 - Dennis Nomberto
+  A ver, dame un segundito. Mira, aprovecho y...
+
+1:02 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿QuÃ© tal, Lyon? Â¿CÃ³mo estÃ¡s? Hola, hola, Santiago.
+
+1:06 - Lyonel Rodriguez Garcia
+  Â¿quÃ© A ver, este, aquÃ­...
+
+1:14 - Dennis Nomberto
+  Darles un par de pantalla... A ver, un momento, dÃ©jenme les comparto. Eh, no veo archivos, a ver, soluciones IA, CREA...  Ah, has creado una carpeta llamada soluciones IA. AjÃ¡.
+
+1:42 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Porque habÃ­an tres carpetas que, a ver, hay cuatro, estoy compartiendo mi pantalla justo ahora. Yo creÃ© esta carpeta de acÃ¡, porque luego tenÃ­a esta que no sabÃ­a de quÃ© era, luego esta tampoco sabÃ­a de quÃ© era, y una tercera que decÃ­a Esperant, que me imagino...  No, bueno, no sÃ©, como ninguna tenÃ­a un nombre referencial, no querÃ­a tocar nada, pues, Â¿no? Para no desacomodar nada y he creado eso.
+
+2:07 - Dennis Nomberto
+  AsÃ­ a grosso modo. La carpeta import es donde iban a llegar tus archivos CSV. Al momento de procesarlo, ya, o empezar a leer el archivo, antes de leerlo, genera una copia del original que tÃº envÃ­as, por cualquier cosa que pueda pasar, ya.  esa copia se va a ir a beca import. Y luego, lo que va generar la aplicaciÃ³n que estoy haciendo, se va a ir a la carpeta espera.  Nada mÃ¡s, o sea, eso era su funcionalidad.
+
+2:43 - Lyonel Rodriguez Garcia
+  A ver, me dices que el reporte necesitas que estÃ© en la carpeta import.
+
+2:49 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­. Ya. Y en la carpeta de backup import, que hay una copia.
+
+2:55 - Lyonel Rodriguez Garcia
+  Yo, gracias. Gracias.
+
+2:58 - Dennis Nomberto
+  Gracias. Gracias.
+
+3:00 - Lyonel Rodriguez Garcia
+  Creo que no se te escucha muy bien ahÃ­, perdÃ³n, Dennis.
+
+3:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, no, escucho.
+
+3:05 - Lyonel Rodriguez Garcia
+  Ahora sÃ­, como que se escucha un poquito distorsionado. Pero no tengo micro, nada.
+
+3:12 - Dennis Nomberto
+  QuÃ© raro. QuÃ© raro, ahora sÃ­ te escucho mejor.
+
+3:15 - Lyonel Rodriguez Garcia
+  Mira, Â¿te parece si vemos en orden el tema de la agenda de la reuniÃ³n, hasta llegar al punto del formato para revisarlo juntos?
+
+3:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya sÃ©, ya sÃ©. SÃ­, genial. Me imagino que esperamos a Yusef, Â¿verdad? Este, Â¿podemos ir avanzando el tema de los puntos con Dennis?  SÃ­, sÃ­, sÃ­, ya, equipo. Entonces, primero, para revisar el comportamiento de la gente, bÃ¡sicamente este es el reporte que tenemos, estas son las mÃ©tricas.  Cabe recalcar que la gente se soltÃ³ el viernes en la tarde aproximadamente, hasta el domingo en la tarde. O sea, que es un fin de semana prÃ¡cticamente, ha sido sÃºper corto este tiempo de producciÃ³n.  Gracias. Gracias. Que hemos tenido y ahora les voy a explicar por quÃ©. Pero primero, bÃ¡sicamente las estadÃ­sticas que tenemos son las siguientes.  Hemos tenido 36 conversaciones, interacciones, mejor dicho. Estos son los mensajes recibidos. Este CRM que yo les estoy mostrando ahora, les voy a mandar el acceso despuÃ©s de esta llamada junto a los usuarios que los tengo acÃ¡, para que ustedes puedan ingresar y puedan revisar lo mismo que les estoy mostrando.  Van a tener todos los datos mÃ¡s importantes, pero los que iban a importar sobre todo van a estar en la parte de etiquetas.
+
+4:27 - Dennis Nomberto
+  Â¿Por quÃ©?
+
+4:28 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Porque en etiquetas nosotros vamos a poder revisar las estadÃ­sticas por las etiquetas que nosotros hemos establecido. Primero, los de Proyecto AndalucÃ­a, donde tenemos, ahora se marcÃ³, tenemos tres conversaciones, 51 mensajes recibidos, enviados, el tiempo de respuesta que al menos de un minuto cabe recalcar.  Luego tenemos de igual manera con el primer contacto, el VÃ­a Monumental y el Proyecto Villanova. Y la visita agendada, que es ese KPI mÃ¡s sensible y mÃ¡s importante.  Eso es bÃ¡sicamente las estadÃ­sticas que hemos tenido hasta el momento con respecto a cÃ³mo ha estado interactuando este agendado.  Perfectamente. Hasta acÃ¡, Dennis, Â¿de repente saliÃ³ una consulta con respecto al formato, al acceso, a algÃºn KPI en particular?  No, no, no, estÃ¡ bien lo que estoy mirando hasta ahorita.
+
+5:12 - Dennis Nomberto
+  Como te digo, ya de aquÃ­ es cosa de entrar y empezar a ver toda la informaciÃ³n que puede votar.  Ok. Hola, Giuseppe, Â¿quÃ© tal?
+
+5:25 - Lyonel Rodriguez Garcia
+  Entonces, eso es...
+
+5:27 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿QuÃ© tal, quÃ© tal?
+
+5:28 - Dennis Nomberto
+  Â¿Todo bien?
+
+5:30 - Lyonel Rodriguez Garcia
+  SÃ­, sÃ­, todo bien, todo bien.
+
+5:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  QuÃ© bueno, genial. Y nada, les estaba mostrando inicialmente el CRM que ya les he creado los accesos para que puedan manejarlos.  Tienen un acceso total, como si fueran una administrador mÃ¡s, no un invitado en el absoluto, tienen el acceso total.  Las conversaciones, y esta parte es importante, equipo, porque justo ahora vamos a tocar el punto de la verificaciÃ³n de meta.  Cuando se haga esa verificaciÃ³n con el nÃºmero, vamos a perder el acceso a WhatsApp web. Es decir, que no van a poder ver los conversaciones...  Ni por WhatsApp Web, por la computadora o por el celular. Â¿Por quÃ©? Porque es parte de una restricciÃ³n que puso Meta y me imagino que ya les ha pasado con SendPulse.  La diferencia es que segÃºn lo que me comentÃ³ Giuseppe no tenÃ­a un CRM conversacional. Ahora lo tenemos. Van a poder visualizar todo lo que viene en WhatsApp con las etiquetas respectivas y demÃ¡s y va a ser sÃºper importante para que vean cÃ³mo estÃ¡ respondiendo el agente.  Ahora, ese es el primer punto. El segundo punto, con respecto a la base de datos que justo estaba conversando con Dennis, que me habÃ­as comentado, Dennis, que el archivo iba a ser almacenado en import.
+
+6:37 - Dennis Nomberto
+  Ok.
+
+6:39 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ahora, acÃ¡ tenÃ­a una pequeÃ±a observaciÃ³n porque Dennis, me habÃ­as comentado que lo que tÃº necesitabas era que esta informaciÃ³n por cliente se almacene fila por fila dependiendo al estado o a la interacciÃ³n que vayan teniendo los prospectos con el agente.  Ya, y bueno. Definitivamente se va a ver asÃ­. Esto solo se exporta y se descarga como un CSV, como mencionaste.  Pero se van a ir acumulando y van a ver claramente duplicados, triplicados, cada uno con su diferente estado. Por ejemplo, acÃ¡ tenemos una visita agendada y luego mÃ¡s adelante tenemos el nombre sin la visita agendada.  Esto se va a ir acumulando. Por otro lado, he creado una pestaÃ±a donde se van a acumular en una sola fila y solo se va a actualizar lo que en este caso serÃ­a el estado o la fecha de visita, hora de visita o el asesor asignado en caso alguien quiera cambiar de proyecto, lo cual dudo.  Pero esto va a ser Ãºnicamente para que tengan una versiÃ³n de donde lo vean con una sola fila y no se vea tan desordenado, por asÃ­ decirlo, porque me imagino que al final ese es el formato que necesitas para poder pasarlo al Esperanto.  Tengo una consulta aquÃ­, Denis. AcÃ¡ hay una columna que dice nombre WhatsApp. Â¿Esta columna necesitas que lo oculte? Porque aquÃ­ no siempre estÃ¡ el nombre del prospecto.  A veces se pone un nÃºmero, a veces se pone el nombre de la empresa. Â¿Deseas que la mantenga o lo prefieres que lo ocultemos?  Lo menciono por... Es un tema de orden.
+
+8:01 - Dennis Nomberto
+  No, no te preocupes por eso, porque a las finales, como en dos esportal, no lo considero y no va a el de los ideas.  No te preocupes. Lo que sÃ­ estaba observando de que hay campos, perdÃ³n, dentro de la columna que dice Estado, hay algunos que estÃ¡n vacÃ­os.  Â¿De quÃ© son? Porque creo que habÃ­amos quedado en primer contacto, Â¿quÃ© mÃ¡s era? Era primer contacto, datos registrados y cita agendada.  Gracias. SÃ­, justo a ese punto querÃ­a llegar, y era que estamos ahora en el proceso de las iteraciones.
+
+8:35 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Hemos detectado en quÃ© puntos nos estÃ¡ completando cierta etiqueta. En este caso nos estÃ¡ completando en la parte del estado del Excel, pero se estÃ¡ completando el Chatwood.  Simplemente son iteraciones y mejoras que vamos a hacer justo en esta semana para ya dejar pulida la soluciÃ³n. Es parte de la mejora continua, mÃ¡s bien ya hemos detectado esa oportunidad de mejora, pero gracias por mencionarlo.  Por mencionarlo, no te preocupes que eso ya va a cambiar. Ahora. Eso con respecto al formato, creo que no habÃ­a nada mÃ¡s.  Entiendo que ahora lo Ãºnico que tenemos pendiente es la actualizaciÃ³n de los estados.
+
+9:11 - Dennis Nomberto
+  El dato que estÃ¡ en tipo de documento tambiÃ©n estÃ¡ vacÃ­o.
+
+9:16 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, me habÃ­as mencionado que al final no se llenaba esto porque iban a ser puros DNIs. Ya, bacÃ¡n.
+
+9:22 - Dennis Nomberto
+  Esto estÃ¡, te habÃ­a mandado una plantilla de cÃ³mo se tenÃ­a que enviar esa informaciÃ³n en el CCB. SÃ­, estÃ¡ tal cual la plantilla.
+
+9:35 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Solo que creo que no deberÃ­a estar el nombre de WhatsApp, por eso te lo mencionaba. Ni tipo de documento.
+
+9:39 - Dennis Nomberto
+  Bueno, con el tema de ese campo no hay problema, pero con respecto al orden creo que sÃ­, porque primero era la...  Ah, hablas del orden. SÃ­, Ok. Ok, guÃ­a. Si te refieres al orden de las columnas, bueno, eso ahÃ­ en sÃ­ lo vamos a cambiar.
+
+9:57 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, sÃ­, me imagino que tiene que ser idÃ©ntico al del Esperan para que pueda... Hacer la exportaciÃ³n inmediata. Ya, estoy bien.  Igual me podrÃ­as apoyar a ir reenviÃ¡ndome ese correo porque sÃ­ lo tengo ahÃ­ bloqueado. SÃ­, No te preocupes, lo voy a buscar y te lo he reenviado.
+
+10:09 - Dennis Nomberto
+  Ya, genial. Entonces, eso por el lado del formato.
+
+10:14 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ahora, orden de columnas. Ahora, por el lado de las iteraciones equipo, por el lado de nuestro equipo, hemos detectado las iteraciones mÃ¡s importantes de cara a cÃ³mo se desenvuelve la gente.  Primero es que la gente no estaba derivando al humano cuando el cliente lo solicitaba y solo hubo una conversaciÃ³n en la que pasÃ³ esto.  BÃ¡sicamente, pidieron atenciÃ³n humana y la gente no lo derivÃ³ y hemos detectado la oportunidad de mejora. Ya sabemos cÃ³mo corregirlo, ya lo estamos corrigiendo.  Nuevamente, esas iteraciones son parte del proceso y estÃ¡ bien que ocurran porque a partir de ahora va a funcionar de manera mucho mÃ¡s adecuada el proceso de cÃ³mo en verdad se desenvuelve ese cliente.  No, el cliente de cumbres. Segundo, hemos corregido un tema del agendamiento que se estaba realizando. Todo en el calendario de Marleste.  Ya lo estamos corrigiendo para que se agende de acuerdo al calendario de cada asesor. La tercera iteraciÃ³n que hemos revisado es que, y aquÃ­ Lio me pudo ayudar con esta visibilidad, y es que cuando se agendaba una visita, el cliente, perdÃ³n, el agente de IA, no mandaba los datos del prospecto al asesor.  Simplemente le mencionaba que habÃ­an agendado una visita, pero faltaba mandar el nÃºmero de telÃ©fono y, si mal no recuerdo, el correo.  Eso ya tambiÃ©n se estÃ¡ corrigiendo para que mande toda la informaciÃ³n completa. Y finalmente, y esto es importante, querÃ­a consultarse los equipos, ahÃ­ revisando las conversaciones, nos escribiÃ³ una persona que era de Chile, nacionalidad chilena.  No sÃ© si lo tengo por acÃ¡, pero aquÃ­ querÃ­a preguntarles, con respecto al formato de telÃ©fono, va a ser internacional, Â¿verdad?  No necesariamente tiene que ser de PerÃº.
+
+11:58 - Lyonel Rodriguez Garcia
+  SÃ­, sÃ­, no hay problema.
+
+12:00 - Giuseppe Quiroz
+  necesariamente que que SÃ­, o sea, cualquier formato, cualquier nÃºmero de telÃ©fono.
+
+12:04 - Dennis Nomberto
+  SÃ­, porque hay personas que escriben de otro paÃ­s. Ok.
+
+12:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, estÃ¡ bien. Entonces, Santiago, una consulta, por favor.
+
+12:15 - Dennis Nomberto
+  No sÃ© si se tocÃ³ en el tema, pero, por ejemplo, al inicio yo observÃ© que habÃ­a clientes que te daban, ok, pero no el bot o el agente no como que le repreguntaba y todo.  Â¿Eso ya se llegÃ³ a solucionar? PerdÃ³n, Giuseppe, Â¿podrÃ­as repetirlo nuevamente?
+
+12:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  EscÃºchame un poquito de eco ahÃ­.
+
+12:38 - Dennis Nomberto
+  Â¿EstÃ¡ hablando? Le bajÃ© el volumen.
+
+12:42 - Lyonel Rodriguez Garcia
+  Santiago, perdÃ³n, Giuseppe, Santiago quiere que repitas porque se estaba... SÃ­, porfa, se escuchÃ³ un poquito entrecortado con eco.
+
+12:50 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Me escuchas ahora sÃ­?
+
+12:52 - Dennis Nomberto
+  SÃ­, ahora sÃ­. No, te decÃ­a que al inicio cuando activamos el agente, habÃ­a clientes que le... Dejaban sumercer toda la informaciÃ³n del bot, como la gente, pero no, no le quedaba la conversaciÃ³n.  Y eso se le va a SÃ­. Totalmente, Â¿no?
+
+13:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  El agente se encarga de guiar, ya no va dar solo respuestas por responder, sino siempre va a terminar la frase guiando a la visita, Â¿no?  Si es que todavÃ­a no le pasÃ³ los datos, es, me podrÃ­as pasar tus datos para agendar, o si ya les pasÃ³, te gustarÃ­a agendar una visita, o cuÃ©ntame sobre la calificaciÃ³n financiera etc, etc.  Ahora la gente estÃ¡ guiado para seguir el proceso, no solo responder y que quede ahÃ­, porque sÃ­ queda muy al aire y muy en las manos del prospecto.  SÃ­, se solucionÃ³ ese tema. Y de hecho, eso lo podemos comprobar y la verdad es que son unas mÃ©tricas interesantes, si bien faltan muchos mÃ¡s nÃºmeros porque solo se han puesto en tres dÃ­as y ahora vamos a llegar a ese punto la gente en producciÃ³n, pero logrÃ³ la agenda tener  Es cuatro visitas y nos han escrito 10 personas, si es que mal no recuerdo, asÃ­ que sÃ­ es interesante esa mÃ©trica por el hecho de que sÃ­ he estado guiando muy bien y mÃ¡s aÃºn con las correcciones que se va a hacer, o sea, la tasa de visitas van a aumentar mucho mÃ¡s.  Ahora, es importante tambiÃ©n, y eso quiero poner una conversaciÃ³n en un momento de ejemplo, para ver si las visitas se estÃ¡n realizando de manera correcta, porque el punto es que las visitas sean cualificadas, Â¿no?  De cualquiera agenda una visita. Si bien es cierto que no cualquiera que no tenga interÃ©s va a agendar una visita, es importante que igual revisemos ese proceso comercial.  Mi pregunta iba enfocada en, Â¿el proceso de calificaciÃ³n financiera es el Ãºnico filtro para poder determinar si se va a agendar una visita o no?
+
+14:48 - Lyonel Rodriguez Garcia
+  No, no, no, El proceso de calificaciÃ³n financiera simplemente nos da luces de la persona o del grupo que estÃ¡ interactuando con el agente o con los...  Otro, en todo caso. Ok. Pero no limita una visita, siempre hay que preguntarle.
+
+15:05 - Dennis Nomberto
+  Ok.
+
+15:06 - Santiago Isaias Zavaleta Ayala (Ulima)
+  MÃ¡s que todo para tener visibilidad y en caso se agende ya vayan con la informaciÃ³n, me imagino. Es correcto.  Ok. Genial, genial. Me queda clarÃ­simo por ese lado.
+
+15:15 - Lyonel Rodriguez Garcia
+  Lo que sÃ­, lo que sÃ­, Santiago, es que los chicos me comentaron, no sÃ© si se corrigiÃ³, que ahora, que perdÃ³n, que no salÃ­a ni la fecha, no les llegaba a ellos la fecha y la hora, Â¿no?  AjÃ¡. SÃ­.
+
+15:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­. Justo eso fue lo que estaba mencionando, LÃ­o, que ahora ya se corrigiÃ³ y ahora les va a llegar tanto la fecha de la visita, la hora de la visita y toda la informaciÃ³n del prospecto.  Justo era uno de los puntos que estaba exactamente acÃ¡, que ya se estÃ¡n iterando. Ahora, equipo, con respecto a, bueno, les mencionaba que ya les he creado los accesos para el CRM conversacional.  Cualquier duda que tengan con respecto a cÃ³mo revisar las conversaciones, cÃ³mo segmentar, cÃ³mo revisar por etiquetas, etc., me la pueden hacer en...  No hay ningÃºn problema, yo en la medida que pueda responder rÃ¡pido los voy a responder. Y nada, bÃ¡sicamente este es el CRM.  AhÃ­ les voy a mandar por el correo junto al acta de la reuniÃ³n los accesos. Y finalmente he dejado el punto, bueno, nuestra situaciÃ³n actual, ahora querÃ­a tocar el punto de lo de meta, y es que ahora estarÃ­amos esperando a que, justo tengo el meta business acÃ¡ abierto, a que estas dos cuentas del portfolio comercial ya estÃ©n eliminadas.  Y me imagino que ahÃ­ justo Giuseppe me estaba comentando que estaba acelerando el proceso de que SendPulse pudiera desincronizar el mÃ©todo de pago o algo asÃ­.  Una vez que estas dos cuentas ya estÃ©n eliminadas del portfolio comercial, yo aquÃ­ he creado una nueva cuenta, vamos a poder sincronizar ese nÃºmero a esta cuenta para que no haya ningÃºn problema.  Porque aquÃ­ es lo que ha pasado el fin de semana, que ahÃ­ justo conversaba con Giuseppe sobre el baneo que recibiÃ³ el nÃºmero.  Y es que como meta, tiene registrado dos cuentas con un mismo nÃºmero, como ha detectado otra cuenta que ha enviado...  En este caso, los asesores con el mismo nÃºmero, pero que no estÃ¡ registrado con este porfolio comercial, lo ha baneado.  Simplemente ha sido como una restricciÃ³n de meta. Por eso, para evitar estas situaciones, ahora que ya tenemos esta cuenta creada, que fue parte de lo que estaba en revisiÃ³n, ya estÃ¡ aprobado, ahora ya podemos sincronizarlo sin problema y una vez que entremos a producciÃ³n, ya vamos a actuar 100% oficialmente bajo los tÃ©rminos de meta, pudiendo aÃ±adir los seguimientos automÃ¡ticos, teniendo a gente mucho mÃ¡s completo.  No sÃ© si con respecto a meta, tengan alguna pregunta u observaciÃ³n, que es todo un tema, los requisitos y las restricciones que pone WhatsApp.
+
+17:37 - Giuseppe Quiroz
+  Hola Santiago, sÃ­, yo como ya te habÃ­a comentado y te lo puse por correo, necesito para yo poder eliminar esas dos cuentas de ahÃ­.
+
+17:46 - Dennis Nomberto
+  O ahorita ya a nivel samples no hay nada, o sea, no hay un tema en general de si es que falta algo o demÃ¡s, Â¿no?  Entonces, en ese sentido, lo que...
+
+18:02 - Giuseppe Quiroz
+  En este caso, lo que faltarÃ­a es que puedas tener saldo cero para yo poder eliminar el cuenta de SEMPUL, pero ahorita ya con SEMPUL no hay nada, ya yo he revisado, es justo eso tambiÃ©n te comentÃ© en la maÃ±ana, no hay ya nada pendiente, pues en el caso de SEMPUL, mÃ¡s que eliminar esto de aquÃ­, pero para yo eliminar y te lo puse por correo, necesito de que no haya ningÃºn saldo pendiente por parte de ustedes, Â¿no?  De la cuenta de GUSHUB, Â¿no? Porque lo otro sÃ­ ya no hay nada que pagar, en SEMPUL serÃ¡ todo prepagado.
+
+18:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, y UCEP, una consulta, cuando me dices saldo pendiente por parte de GUSHUB, Â¿a quÃ© te refieres con eso?  Porque nosotros no hemos ingresado ninguna lÃ­nea de crÃ©dito de GUSHUB, si te refieres a esto de acÃ¡, absolutamente... AÃºn, porque tenemos que colocar un mÃ©todo de pago, no hemos colocado ningÃºn mÃ©todo de pago.  O estas dos cuentas acÃ¡, ajÃ¡.
+
+19:07 - Giuseppe Quiroz
+  Si le das clic en Sempulse, trata de eliminar Sempulse, ajÃ¡.
+
+19:11 - Santiago Isaias Zavaleta Ayala (Ulima)
+  A ver. Vamos a eliminar cuenta. Bueno, acÃ¡ se me va a dar... Â¿Ves? Ya, ya, acÃ¡ los vamos a apoyar.  Pero esto ya es algo independiente de Sempulse, o sea, ya no... Como te vuelvo a repetir con... Nosotros no hemos tenido cuenta con nadie mÃ¡s que con Sempulse.
+
+19:31 - Giuseppe Quiroz
+  Y si tÃº vas la cuenta de Sempulse, no tienes nada por pagar. SÃ­, Entonces, por eso, cuando lo vimos con Sempulse, me indicaron de que al momento de ustedes tener alguna tarjeta de crÃ©dito o algo afiliado directamente, hace de que casualmente no se pueda borrar porque tienes un tema de pago pendiente.
+
+19:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, no, definitivamente no hemos ingresado por nuestro lado ningÃºn... Saldo pendiente, debe ser algÃºn tipo de bug o algÃºn tipo de error tardÃ­o con el que se ha quedado el mÃ©todo de pago anterior, pero no se preocupen, con el equipo vamos a revisarlo, si lo vamos a apoyar con esto, pero solo para aterrizar el equipo, no hemos tocado ningÃºn mÃ©todo de pago todavÃ­a, porque sÃ­ vamos a tener que hacerlo para el tema de los seguimientos automÃ¡ticos.  AsÃ­ que no se preocupen, voy a revisarlo con el equipo a ver cÃ³mo lo desincronizamos y apenas tengamos la respuesta.
+
+20:25 - Giuseppe Quiroz
+  Porque mira, si te das cuenta en Sempool, ponle en Sempool, por favor.
+
+20:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, aquÃ­ estÃ¡.
+
+20:36 - Giuseppe Quiroz
+  Por eso te decÃ­a, no tiene mÃ©todo de pago porque era prepagado.
+
+20:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, o sea, hasta hoy dÃ­a en la maÃ±ana, esto todavÃ­a estaba similar a esto, pero me imagino que ya se actualizÃ³ y ya lo deben haber quitado.  Y estos dos portfolios, perdÃ³n, esas dos cuentas de WhatsApp, ambas son de Sempools porque estÃ¡n con el mismo mÃ©todo.
+
+20:56 - Giuseppe Quiroz
+  Pero como les digo, debe ser algÃºn tipo de error de meta que se ha quedado con el mÃ©todo anterior.
+
+21:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No se preocupen que vamos a revisarlo y vamos a ver ahÃ­ cÃ³mo lo aceleramos o cÃ³mo lo podemos limpiar.  Ahora, ejemplo, ese de ahÃ­ de Inmobiliaria Cumbres, Â¿no lo puedes eliminar? No, no, no, me parece rarÃ­simo. Ese es el mismo que el de Sempulse porque estÃ¡ con una moneda de la India y acÃ¡ ya no estÃ¡, ya no sale, pero ahora vamos a intentarlo en vivo.  Uy, ojalÃ¡, bien. Excelente. Ok.
+
+21:36 - Giuseppe Quiroz
+  SÃ­, sÃ­, me voy a eliminar, lo voy a probar rÃ¡pidamente con el de acÃ¡.
+
+21:39 - Santiago Isaias Zavaleta Ayala (Ulima)
+  A lo mejor ya borrando el anterior nos deja. Porque ayer no nos dejaba. Ya, acÃ¡ sÃ­ tengo que revisar quÃ© es lo que estÃ¡ pasando.
+
+21:48 - Giuseppe Quiroz
+  A lo mejor se ha quedado un poco de saldo en alguna billetera y es lo que puede estar generando la demora.
+
+21:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Pero no se preocupen, eso no lo vamos a ver en la reuniÃ³n porque si no vamos a perder demasiado tiempo.  Eso ya lo vamos a revisar con el... Y apenas se elimine esta cuenta de WhatsApp, ya vamos a poder sincronizar el nÃºmero a una nueva cuenta, que es la que hemos creado especÃ­ficamente para estos proyectos de inteligencia artificial.  AsÃ­ que, nada, creo que esos eran los puntos mÃ¡s importantes, equipos. Yo apenas tengo una respuesta para esta limpieza de meta.  Se los confirmo a mÃ¡s tardar maÃ±ana en la maÃ±ana para salir de producciÃ³n, si es posible, el jueves, porque ahorita vamos a depender de quÃ© tan rÃ¡pido se actualice meta.  Ahora, nuevamente, Â¿podrÃ­amos salir a producciÃ³n? SÃ­, pero si lo hacemos sin meta, al momento de que la gente envÃ­e estos mensajes a los asesores cuando se atenden visitas, corremos el riesgo de que nos baneen.  Y esto era lo que les comentaba sobre cuando hagamos los seguimientos automÃ¡ticos, es decir, cuando la gente ya empiece con los mensajes, tenemos que tener sÃ­ o sÃ­ la verificaciÃ³n de meta.  Y lo mismo es con el aviso a los asesores. Si no existieran estas cuentas, que me entiendo que ya se estÃ¡n borrando, no habrÃ­a ningÃºn problema.  Pero nuevamente... No se preocupen, lo vamos a revisar y vamos a darles la visibilidad lo mÃ¡s rÃ¡pido posible para volver a salir a producciÃ³n antes de este jueves.  Y ya no habrÃ­a despuÃ©s ningÃºn problema ni reproceso. Nos dice hasta el momento.
+
+23:12 - Giuseppe Quiroz
+  Entonces ahÃ­ nos confirma, porfa, que ya todo ok para ya poder empezar porque ahorita los chicos necesitan leads y no puedo hacer campaÃ±as de WhatsApp casualmente por el tema de que aÃºn no estamos al 100%, Â¿no?  SÃ­, sÃ­, no te preocupes.
+
+23:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AhÃ­ lo vamos a revisar y apenas tenga la respuesta de lo de meta, les mando un correo y si es que hoy mismo estÃ¡, genial, salimos a producciÃ³n maÃ±ana, que lo Ãºnico que falta es conectar el nÃºmero sin mÃ¡s.
+
+23:41 - Giuseppe Quiroz
+  Ok, ojo que ya estuve, el nÃºmero ya se puede hacer, ya se puede sincronizar a WhatsApp, le han levantado la observaciÃ³n.  Ok, genial.
+
+23:54 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Miren, aquÃ­ voy a, para ser prÃ¡cticos, nuevamente, no sÃ© si de repente fui claro con lo de los envÃ­os automÃ¡ticos.  Nosotros con la sincronizaciÃ³n de QR que hicimos la vez pasada, Giuseppe, podemos salir a producciÃ³n ahora mismo, si podemos.  Â¿CuÃ¡l es el tema? Es que si el agente empieza a mandar mensajes salientes, que es el aviso a los asesores, puede que corramos ese riesgo.  Es decir, que para salir a producciÃ³n ahora, tendrÃ­amos que quitarle la capacidad de enviarle los mensajes a los agentes, y no creo que sea lo mejor.  Lo mejor es salir con la soluciÃ³n completa, y es por eso que recomiendo que esperemos a que estÃ© listo lo de meta para antes del jueves o antes de maÃ±ana, si es posible.  Y empezar a salir ya con la API de meta oficial, sin ningÃºn problema y cero riesgo de banco. Ok, por mi parte, todo claro.
+
+24:38 - Giuseppe Quiroz
+  No sÃ© si Leonel y Denis tienen alguna duda o consulta. Yo sÃ­.
+
+24:50 - Lyonel Rodriguez Garcia
+  SÃ­, siento que estamos aquÃ­ coordinando una cosita.
+
+24:52 - Dennis Nomberto
+  Ya, mira, Santiago, lo que quisiera es revisar un poco mÃ¡s el tema de la data. Ya voy a revisar bien ese archivo que hace mi...  Y mÃ¡s o menos ver cÃ³mo es que se estÃ¡ generando algunas cosas. Bueno, solo voy a a perspectiva y no sÃ© si contigo me puedo reunir maÃ±ana para ver netamente especÃ­ficas en todo lo que tenga que ver con data.
+
+25:14 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, sÃ­, sÃ­, sÃ­ es que es posible, porfa, puedes llegar con ya la informaciÃ³n bien puntual sobre quÃ© cambios hacer, quÃ© no hacer, quÃ© dejar.
+
+25:23 - Dennis Nomberto
+  hacerme el archivo que me estÃ¡s enviando para ver en quÃ© casos se estÃ¡n dando los registros que estÃ¡s generando aquÃ­.  Ya, perfecto, perfecto, Dennis.
+
+25:34 - Lyonel Rodriguez Garcia
+  Ya, yo sÃ­ tengo una pregunta para dejar presentado lo que hemos visto. SÃ­, Lio. Â¿El agente va a seguir interactuando o todavÃ­a os queda suspendido?
+
+25:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  El agente por el momento queda suspendido, hasta que Meta pueda limpiar lo que dejÃ³ de alguna u otra manera las pÃ¡ginas de Samples, por asÃ­ decirlo.  Correcto.
+
+25:56 - Lyonel Rodriguez Garcia
+  Dennis, Â¿tÃº vas a poder cargar los leaks de una vez? Porque es... No sÃ© si hay algo en el aire que tenemos que ir redireccionando al Esperant por mientras.  Lo que pasa es que la data, hay varios campos o registros que estÃ¡n bien vacÃ­os, entonces, con Santiago quiero revisar a fondo a quÃ© se deben estos casos.  Claro, mientras se regulariza ese tema, pero si ya tenemos una data como para ir subiendo al Esperant. Claro, va a haber varios registros que sÃ­ van a pasar, pero tambiÃ©n hay varios registros que van a salir, por decirlo de alguna forma.  Subamos, no de una vez, porque tenemos que darle materia prima a los chicos mientras afinamos esto. O sea, la gestiÃ³n del equipo tiene que ir sÃ­ o sÃ­ como se viene haciendo y en paralelo ir afinando el tema de la aplicaciÃ³n y la producciÃ³n de la gente.  Entonces, mientras solucionamos los temas de la gente, denis tu apoyo subiendo todo lo que se pueda de leads para que tengan los...  Chicos, en este mes, Â¿sÃ­? Ya estÃ¡ bien, Nen, pÃ¡salo.
+
+27:06 - Dennis Nomberto
+  Listo, entonces. dÃ­a de hoy voy a subir la informaciÃ³n de, pero lo voy a clasificar por dÃ­a, en base a la fecha y hora de creaciÃ³n.
+
+27:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, equipo, perfecto. Muchas gracias por su tiempo y cualquier cosa no duden en escribirme.
+
+27:22 - Dennis Nomberto
+  Listo, entonces, muchas gracias.
+
+27:24 - Lyonel Rodriguez Garcia
+  Gracias a todos. Ok, listo.
+
+27:26 - Dennis Nomberto
+  Ok, equipo, nos vemos. Hasta luego.
+
+27:28 - Lyonel Rodriguez Garcia
+  Ok, chao, chao. Hasta luego, hasta luego.

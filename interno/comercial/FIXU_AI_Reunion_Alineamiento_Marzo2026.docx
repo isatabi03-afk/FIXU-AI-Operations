@@ -1,0 +1,368 @@
+**FIXU AI --- Reunión de Alineamiento Interno**
+
+Documento interno \| Marzo 2026 \| **CONFIDENCIAL**
+
+1\. Contexto de esta Reunión
+
+Este documento tiene como objetivo presentar de manera objetiva la
+situación actual de FIXU AI, incluyendo el estado de clientes,
+estructura financiera, y los procesos operativos que actualmente
+gestiono como CEO. El propósito es que, con esta información, puedan
+identificar cómo sus perfiles y conocimientos pueden aportar valor a la
+empresa.
+
+*No es un documento para impresionar. Es un documento para alinear.*
+
+2\. Estructura Actual del Equipo
+
+  ------------------ ---------------------- -----------------------------
+  **Rol**            **Persona**            **Perfil / Especialización**
+
+  **CEO**            Santiago Zavaleta      AI, Estrategia Comercial,
+                                            Operaciones
+
+  **CFO (20%)**      Alonzo                 Finanzas, Comercial/Ventas
+
+  **CTO (10%)**      Lucho                  Ing. Industrial, Procesos,
+                                            Ex-Oracle, Infraestructura
+  ------------------ ---------------------- -----------------------------
+
+3\. Situación Actual de Clientes
+
+3.1 Cumbres --- ACTIVO
+
+  -------------------------- --------------------------------------------
+  **Estado**                 Activo --- Único cliente generando MRR
+
+  **Setup cobrado**          USD 1,000 + IGV
+
+  **Fee mensual**            USD 200 + IGV (pendiente ajuste a \$250)
+
+  **Resultados               3,773 conversaciones \| 185 citas \| 25
+  (Nov25-Feb26)**            cierres \| \~\$2.75M facturación generada
+
+  **Situación actual**       Objetaron cotización comparativa con Mantra.
+                             Pendiente resolver.
+  -------------------------- --------------------------------------------
+
+*⚡ Punto clave: Relación valor/fee = 5x mínimo. El pricing actual está
+por debajo del valor capturado.*
+
+3.2 Alejandro (RRHH) --- PENDIENTE ACTIVACIÓN
+
+  -------------------------- --------------------------------------------
+  **Estado**                 Pendiente activación de fee mensual
+
+  **Setup cobrado**          USD 2,000 (neto, sin IGV)
+
+  **Fee mensual              USD 200 (neto)
+  planificado**              
+
+  **Costo desarrollador**    USD 100/mes (costo fijo activo)
+  -------------------------- --------------------------------------------
+
+**Situación detallada:**
+
+Hubo retrasos en desarrollo por mala estimación de tiempo de
+implementación. Se produjeron reprocesos. El cliente envió un reporte
+extenso pidiendo cambios que equivalían a un desarrollo enterprise fuera
+del alcance original. Se corrigió la lógica, pero sigue pidiendo ajustes
+más profundos no contemplados inicialmente.
+
+**Decisión pendiente: Comenzar a cobrar fee mensual desde la siguiente
+semana.**
+
+3.3 REMAX URUS --- PENDIENTE PRODUCCIÓN
+
+  -------------------------- --------------------------------------------
+  **Estado**                 Pendiente salida a producción
+
+  **Setup cobrado**          USD 2,000 + IGV
+
+  **Fee mensual              USD 200
+  planificado**              
+
+  **Costo servidor**         \~USD 35/mes (mayor que otros clientes)
+  -------------------------- --------------------------------------------
+
+**Situación detallada:**
+
+No hubo demoras técnicas significativas (a lo mucho una semana). El
+problema fue que los gerentes de URUS estuvieron \~2 semanas en un
+evento de Remax en Las Vegas y no se pudo tomar la decisión para salir a
+producción. Resultado: quemamos \~2 meses de mantenimiento pagándole al
+desarrollador (Manu) sin generar ingresos.
+
+**Decisión pendiente: Comenzar a cobrar fee mensual desde la siguiente
+semana para estabilizar caja.**
+
+4\. Pricing Structure 2026
+
+*Esta estructura de precios está diseñada para marzo 2026 en adelante.*
+
+4.1 Setup (Pago Único)
+
+  -------------------------- --------------------------------------------
+  **Precio**                 USD 2,500 -- 3,000
+
+  **Incluye**                Arquitectura completa, integración CRM,
+                             configuración GoHighLevel, automatizaciones,
+                             personalización, fase de optimización
+                             inicial (45 días)
+
+  **Justificación**          Compensa riesgo, onboarding técnico, y fase
+                             de alta carga operativa
+  -------------------------- --------------------------------------------
+
+4.2 Fee Mensual
+
+  -------------------------- --------------------------------------------
+  **Precio de entrada**      USD 400/mes (válido por 6 meses)
+
+  **Desglose interno**       GoHighLevel \$200 + Mantenimiento dev
+                             \$100 + Margen operativo \$100
+
+  **Incluye**                Gestión funnel automatizado, ajustes
+                             mensuales, monitoreo, integración CRM,
+                             reporte mensual
+
+  **Margen bruto/cliente**   \~USD 280 (70%)
+  -------------------------- --------------------------------------------
+
+4.3 Costos Variables (Pass-through al cliente)
+
+Estos costos NO están incluidos en el fee mensual y son asumidos
+directamente por el cliente:
+
+  ----------------------------------- -----------------------------------
+  **Concepto**                        **Modalidad**
+
+  Servidor dedicado                   Variable según cliente
+
+  Consumo IA (tokens GPT-4.1-mini)    Variable según uso
+
+  Meta / WhatsApp API                 Variable según volumen
+  ----------------------------------- -----------------------------------
+
+5\. Costos Fijos Mensuales
+
+5.1 Costos Fijos de la Empresa
+
+  --------------------------------------------- -------------------------
+  **Concepto**                                  **USD/mes**
+
+  ChatGPT                                       \$23
+
+  Claude                                        \$20
+
+  VPS FIXU                                      \$25
+
+  Loom (si activo)                              \$10
+
+  CapCut                                        \~\$8
+
+  GoHighLevel (desde marzo)                     \$110
+
+  **TOTAL ESTIMADO**                            **\~\$218**
+  --------------------------------------------- -------------------------
+
+5.2 Costos Variables por Cliente
+
+  --------------------------------------------- -------------------------
+  **Concepto**                                  **USD/mes**
+
+  Servidor (Cumbres/Alejandro)                  \~\$25
+
+  Servidor (URUS)                               \~\$35
+
+  Desarrollo/optimización por cliente           \~\$100
+  --------------------------------------------- -------------------------
+
+6\. Break-Even y Sostenibilidad
+
+  ------------------------------------- ---------------------------------
+  **Métrica**                           **Valor**
+
+  MRR Actual (hoy)                      USD 200 (solo Cumbres)
+
+  MRR Potencial inmediato               USD 650 (si se activan los 3)
+
+  Costos fijos empresa                  \~USD 218/mes
+
+  Clientes mínimos p/ estabilidad       5 activos
+
+  Zona saludable                        6-7 activos (cubre fijos +
+                                        remuneración CEO)
+  ------------------------------------- ---------------------------------
+
+**⚠️ Nivel de riesgo financiero inmediato: MODERADO --- MRR insuficiente
+vs costos estructurales.**
+
+7\. Procesos Actuales bajo Gestión del CEO
+
+*Esta sección detalla objetivamente los procesos que actualmente
+gestiono. El propósito es que identifiquen dónde sus perfiles pueden
+aportar.*
+
+7.1 Área Comercial / Ventas
+
+  ----------------------------------- -----------------------------------
+  **Proceso**                         **Estado Actual**
+
+  Discovery calls con prospectos      100% CEO
+
+  Auditorías de ventas (diagnóstico)  100% CEO
+
+  Elaboración de propuestas           100% CEO
+  comerciales                         
+
+  Negociación y cierre                100% CEO
+
+  Follow-up de prospectos             100% CEO
+
+  Definición de pricing               100% CEO (con input de este doc)
+  ----------------------------------- -----------------------------------
+
+7.2 Área Técnica / Producto
+
+  ----------------------------------- -----------------------------------
+  **Proceso**                         **Estado Actual**
+
+  Arquitectura de agentes IA          100% CEO
+
+  Configuración GoHighLevel           100% CEO
+
+  Integración CRM (Sperant)           100% CEO
+
+  Flujos conversacionales             100% CEO
+
+  Coordinación con desarrollador      100% CEO
+  (Manu)                              
+
+  QA y testing                        100% CEO
+
+  Roadmap de producto                 100% CEO
+  ----------------------------------- -----------------------------------
+
+7.3 Área de Operaciones
+
+  ----------------------------------- -----------------------------------
+  **Proceso**                         **Estado Actual**
+
+  Onboarding de clientes              100% CEO
+
+  Soporte post-venta                  100% CEO
+
+  Monitoreo de agentes                100% CEO
+
+  Reportes mensuales a clientes       100% CEO
+
+  Gestión de incidencias              100% CEO
+  ----------------------------------- -----------------------------------
+
+7.4 Área Financiera
+
+  ----------------------------------- -----------------------------------
+  **Proceso**                         **Estado Actual**
+
+  Control de costos                   100% CEO (manual)
+
+  Facturación                         100% CEO
+
+  Tracking de MRR                     100% CEO (sin sistema formal)
+
+  Análisis de unit economics          100% CEO (Internal Report)
+
+  Proyecciones financieras            No formalizado
+  ----------------------------------- -----------------------------------
+
+7.5 Área de Marketing / Contenido
+
+  ----------------------------------- -----------------------------------
+  **Proceso**                         **Estado Actual**
+
+  LinkedIn content (autoridad)        100% CEO
+
+  Casos de estudio                    100% CEO
+
+  Posicionamiento de marca            100% CEO
+  ----------------------------------- -----------------------------------
+
+8\. Preguntas para Reflexión Individual
+
+*Antes de la reunión, les pido que reflexionen sobre estas preguntas. No
+hay respuestas correctas o incorrectas; el objetivo es identificar cómo
+pueden aportar.*
+
+8.1 Para Alonzo (CFO --- Finanzas/Comercial)
+
+**Dado tu perfil financiero y comercial:**
+
+1\. ¿En qué procesos de la Sección 7 ves oportunidad de aportar con tu
+expertise financiero?
+
+2\. ¿Qué estructura de tracking financiero recomendarías implementar
+para tener visibilidad real de cash flow?
+
+3\. ¿Cómo podríamos formalizar el proceso de cobranza y seguimiento de
+fees mensuales?
+
+4\. Desde el lado comercial: ¿cómo te ves participando en el proceso de
+ventas (discovery, cierre, negociación)?
+
+5\. ¿Qué métricas financieras deberíamos trackear semanalmente?
+
+6\. ¿Cuántas horas semanales puedes comprometer de manera consistente?
+
+8.2 Para Lucho (CTO --- Procesos/Infraestructura)
+
+**Dado tu perfil de ingeniería industrial y experiencia en Oracle:**
+
+1\. ¿En qué procesos de la Sección 7 ves oportunidad de aportar con tu
+expertise en optimización?
+
+2\. ¿Qué procesos actuales consideras que tienen mayor potencial de
+estandarización?
+
+3\. ¿Cómo podríamos documentar y sistematizar los procesos de onboarding
+de clientes?
+
+4\. Desde tu experiencia en infraestructura: ¿qué mejoras ves para la
+arquitectura técnica actual?
+
+5\. ¿Qué herramientas o sistemas implementarías para mejorar eficiencia
+operativa?
+
+6\. ¿Cuántas horas semanales puedes comprometer de manera consistente?
+
+9\. Decisiones Pendientes para esta Reunión
+
+  -------- ---------------------------------- ---------------------------------
+  **\#**   **Decisión**                       **Impacto**
+
+  1        ¿Cobramos fee mensual a Alejandro  Estabilización de caja
+           desde la siguiente semana?         
+
+  2        ¿Cobramos fee mensual a URUS desde Estabilización de caja
+           la siguiente semana?               
+
+  3        ¿Cómo respondemos a la objeción de Retención de cliente activo
+           Cumbres sobre Mantra?              
+
+  4        ¿Validamos el pricing de           Estandarización comercial
+           \$400/mes + setup \$2,500?         
+  -------- ---------------------------------- ---------------------------------
+
+10\. Próximos Pasos
+
+1\. Revisar este documento antes de la reunión
+
+2\. Reflexionar sobre las preguntas de la Sección 8
+
+3\. Venir preparados para discutir participación en procesos
+
+4\. Definir compromisos concretos de tiempo y entregables
+
+**--- Santiago Zavaleta \| CEO, FIXU AI**
+
+Marzo 2026

@@ -1,0 +1,677 @@
+import { useState } from "react";
+
+const COLORS = {
+  dark: "#0F172A",
+  primary: "#0EA5E9",
+  primaryDark: "#0284C7",
+  accent: "#10B981",
+  accentDark: "#059669",
+  warning: "#F59E0B",
+  rose: "#F43F5E",
+  surface: "#1E293B",
+  surfaceLight: "#334155",
+  text: "#F8FAFC",
+  textMuted: "#94A3B8",
+  textDim: "#64748B",
+  border: "#475569",
+  white: "#FFFFFF",
+};
+
+const tabs = ["Resultados Fase 1", "Ecosistema Fase 2", "ProyecciÃ³n"];
+
+function MetricCard({ value, label, sub, color = COLORS.primary, small }) {
+  return (
+    <div style={{
+      background: COLORS.surface, borderRadius: 12,
+      padding: small ? "14px 16px" : "20px 24px",
+      borderLeft: `4px solid ${color}`, flex: 1, minWidth: small ? 140 : 180,
+    }}>
+      <div style={{ fontSize: small ? 28 : 36, fontWeight: 800, color, lineHeight: 1 }}>{value}</div>
+      <div style={{ fontSize: small ? 12 : 14, color: COLORS.text, marginTop: 6, fontWeight: 600 }}>{label}</div>
+      {sub && <div style={{ fontSize: 11, color: COLORS.textMuted, marginTop: 2 }}>{sub}</div>}
+    </div>
+  );
+}
+
+function FunnelBar({ label, value, total, color, pct }) {
+  const width = Math.max((value / total) * 100, 8);
+  return (
+    <div style={{ marginBottom: 10 }}>
+      <div style={{ display: "flex", justifyContent: "space-between", marginBottom: 4 }}>
+        <span style={{ fontSize: 13, color: COLORS.text, fontWeight: 500 }}>{label}</span>
+        <span style={{ fontSize: 13, color: COLORS.textMuted }}>
+          {value.toLocaleString()} <span style={{ fontSize: 11 }}>({pct})</span>
+        </span>
+      </div>
+      <div style={{ background: COLORS.surfaceLight, borderRadius: 6, height: 28, overflow: "hidden" }}>
+        <div style={{
+          width: `${width}%`, height: "100%", background: color, borderRadius: 6,
+          display: "flex", alignItems: "center", paddingLeft: 10, transition: "width 0.8s ease",
+        }}>
+          <span style={{ fontSize: 12, fontWeight: 700, color: COLORS.white }}>{value.toLocaleString()}</span>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// â”€â”€â”€ FLOW NODE â”€â”€â”€
+function FlowNode({ icon, title, desc, color, isNew, small, style: extraStyle }) {
+  return (
+    <div style={{
+      background: COLORS.surface,
+      border: `2px solid ${color}`,
+      borderRadius: 12, padding: small ? "10px 14px" : "16px 18px",
+      position: "relative", minWidth: small ? 130 : 180,
+      ...extraStyle,
+    }}>
+      {isNew && (
+        <div style={{
+          position: "absolute", top: -10, right: -10,
+          background: COLORS.accent, color: COLORS.white,
+          fontSize: 9, fontWeight: 700, padding: "2px 8px",
+          borderRadius: 10, letterSpacing: 0.5,
+        }}>FASE 2</div>
+      )}
+      <div style={{ fontSize: small ? 18 : 22, marginBottom: 4 }}>{icon}</div>
+      <div style={{ fontSize: small ? 12 : 14, fontWeight: 700, color: COLORS.text, marginBottom: 3 }}>{title}</div>
+      <div style={{ fontSize: small ? 10 : 11, color: COLORS.textMuted, lineHeight: 1.4 }}>{desc}</div>
+    </div>
+  );
+}
+
+function Arrow({ direction = "right", label }) {
+  const isDown = direction === "down";
+  return (
+    <div style={{
+      display: "flex", flexDirection: "column",
+      alignItems: "center", justifyContent: "center",
+      padding: isDown ? "4px 0" : "0 6px", color: COLORS.textDim, flexShrink: 0,
+    }}>
+      <span style={{ fontSize: 18 }}>{isDown ? "â†“" : "â†’"}</span>
+      {label && <span style={{ fontSize: 9, color: COLORS.textDim, marginTop: 1 }}>{label}</span>}
+    </div>
+  );
+}
+
+// â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+// TAB 1: RESULTADOS
+// â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+function ResultadosTab() {
+  return (
+    <div>
+      <div style={{ display: "flex", gap: 16, flexWrap: "wrap", marginBottom: 28 }}>
+        <MetricCard value="3,001" label="Conversaciones" sub="Nov 2025 â€“ Feb 2026" color={COLORS.primary} />
+        <MetricCard value="48 seg" label="Tiempo de respuesta" sub="Promedio primera respuesta" color={COLORS.accent} />
+        <MetricCard value="24/7" label="Disponibilidad" sub="Incluido feriados y fines de semana" color={COLORS.warning} />
+        <MetricCard value="17" label="Separaciones" sub="Cierres reales Novâ€“Ene" color={COLORS.rose} />
+      </div>
+
+      <div style={{ background: COLORS.surface, borderRadius: 14, padding: 24, marginBottom: 24 }}>
+        <div style={{ fontSize: 16, fontWeight: 700, color: COLORS.text, marginBottom: 4 }}>
+          Embudo de conversiÃ³n MIA â€” Canal digital (20% del volumen)
+        </div>
+        <div style={{ fontSize: 12, color: COLORS.textMuted, marginBottom: 18 }}>
+          Noviembre 2025 â€“ Febrero 2026 | Solo leads de WhatsApp entrante
+        </div>
+        <FunnelBar label="Total conversaciones" value={3001} total={3001} color={COLORS.primary} pct="100%" />
+        <FunnelBar label="Registraron datos" value={2037} total={3001} color="#38BDF8" pct="67.9%" />
+        <FunnelBar label="Precalificados" value={188} total={3001} color={COLORS.warning} pct="6.3%" />
+        <FunnelBar label="Citados (visita agendada)" value={141} total={3001} color={COLORS.accent} pct="4.7%" />
+        <FunnelBar label="Separaciones (cierres)" value={17} total={3001} color={COLORS.rose} pct="12.4% de citados" />
+      </div>
+
+      <div style={{ display: "flex", gap: 16, flexWrap: "wrap" }}>
+        <div style={{
+          flex: 1, minWidth: 280, background: "rgba(245,158,11,0.08)",
+          border: `1px solid ${COLORS.warning}`, borderRadius: 12, padding: 20,
+        }}>
+          <div style={{ fontSize: 14, fontWeight: 700, color: COLORS.warning, marginBottom: 8 }}>
+            âš¡ Oportunidad detectada
+          </div>
+          <div style={{ fontSize: 28, fontWeight: 800, color: COLORS.text }}>1,031 leads</div>
+          <div style={{ fontSize: 13, color: COLORS.textMuted, marginTop: 4, lineHeight: 1.5 }}>
+            Se quedaron en "saludo" sin avanzar (35% del total). Con seguimientos automÃ¡ticos, una fracciÃ³n significativa se reactivarÃ­a y avanzarÃ­a en el embudo.
+          </div>
+        </div>
+        <div style={{
+          flex: 1, minWidth: 280, background: "rgba(16,185,129,0.08)",
+          border: `1px solid ${COLORS.accent}`, borderRadius: 12, padding: 20,
+        }}>
+          <div style={{ fontSize: 14, fontWeight: 700, color: COLORS.accent, marginBottom: 8 }}>
+            âœ“ MIA filtra calidad
+          </div>
+          <div style={{ fontSize: 28, fontWeight: 800, color: COLORS.text }}>648 derivados</div>
+          <div style={{ fontSize: 13, color: COLORS.textMuted, marginTop: 4, lineHeight: 1.5 }}>
+            Leads derivados a atenciÃ³n humana. MIA solo escala los que requieren asesor, protegiendo el tiempo del equipo comercial para enfocarse en cerrar.
+          </div>
+        </div>
+      </div>
+
+      <div style={{ background: COLORS.surface, borderRadius: 14, padding: 24, marginTop: 24 }}>
+        <div style={{ fontSize: 16, fontWeight: 700, color: COLORS.text, marginBottom: 16 }}>
+          Rendimiento mensual
+        </div>
+        <div style={{ display: "grid", gridTemplateColumns: "1fr 100px 100px 100px", gap: 0 }}>
+          <div style={{ padding: "8px 0", fontSize: 12, color: COLORS.textDim, fontWeight: 600 }}>Mes</div>
+          <div style={{ padding: "8px 0", fontSize: 12, color: COLORS.textDim, fontWeight: 600, textAlign: "center" }}>Leads</div>
+          <div style={{ padding: "8px 0", fontSize: 12, color: COLORS.textDim, fontWeight: 600, textAlign: "center" }}>Citados</div>
+          <div style={{ padding: "8px 0", fontSize: 12, color: COLORS.textDim, fontWeight: 600, textAlign: "center" }}>Tasa</div>
+          {[
+            { mes: "Noviembre 2025", leads: "966", citados: "54", tasa: "5.6%" },
+            { mes: "Diciembre 2025", leads: "954", citados: "31", tasa: "3.2%" },
+            { mes: "Enero 2026", leads: "983", citados: "52", tasa: "5.3%" },
+            { mes: "Febrero 2026 (parcial)", leads: "61", citados: "5", tasa: "8.2%" },
+          ].map((r, i) => (
+            <div key={i} style={{ display: "contents" }}>
+              <div style={{ padding: "10px 0", fontSize: 13, color: COLORS.text, borderTop: `1px solid ${COLORS.surfaceLight}` }}>{r.mes}</div>
+              <div style={{ padding: "10px 0", fontSize: 13, color: COLORS.textMuted, textAlign: "center", borderTop: `1px solid ${COLORS.surfaceLight}` }}>{r.leads}</div>
+              <div style={{ padding: "10px 0", fontSize: 13, color: COLORS.primary, textAlign: "center", fontWeight: 600, borderTop: `1px solid ${COLORS.surfaceLight}` }}>{r.citados}</div>
+              <div style={{ padding: "10px 0", fontSize: 13, color: COLORS.accent, textAlign: "center", borderTop: `1px solid ${COLORS.surfaceLight}` }}>{r.tasa}</div>
+            </div>
+          ))}
+        </div>
+        <div style={{ marginTop: 12, fontSize: 12, color: COLORS.textDim, fontStyle: "italic" }}>
+          * Diciembre con tasa menor por temporada de fiestas. Febrero parcial muestra tendencia de recuperaciÃ³n.
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+// TAB 2: ECOSISTEMA (REDISEÃ‘ADO)
+// â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+function EcosistemaTab() {
+  const nodeStyle = (color) => ({
+    background: COLORS.surface, border: `2px solid ${color}`,
+    borderRadius: 12, padding: "12px 16px",
+  });
+  const labelStyle = { fontSize: 13, fontWeight: 700, color: COLORS.text, marginBottom: 2 };
+  const descStyle = { fontSize: 10, color: COLORS.textMuted, lineHeight: 1.4 };
+  const tagNew = (
+    <span style={{
+      background: COLORS.accent, color: COLORS.white,
+      fontSize: 9, fontWeight: 700, padding: "1px 6px",
+      borderRadius: 8, marginLeft: 6, verticalAlign: "middle",
+    }}>FASE 2</span>
+  );
+
+  return (
+    <div>
+      {/* â”€â”€â”€â”€ FASE 1 â”€â”€â”€â”€ */}
+      <div style={{ marginBottom: 36 }}>
+        <div style={{
+          display: "inline-block", background: COLORS.primary, color: COLORS.white,
+          fontSize: 12, fontWeight: 700, padding: "4px 14px", borderRadius: 20, marginBottom: 18,
+          letterSpacing: 0.5,
+        }}>FASE 1 â€” HOY EN PRODUCCIÃ“N</div>
+
+        {/* Flow: Entry â†’ MIA â†’ Outputs */}
+        <div style={{ display: "flex", alignItems: "flex-start", gap: 10, flexWrap: "wrap" }}>
+          {/* Entry */}
+          <div style={{ ...nodeStyle(COLORS.primary), minWidth: 160 }}>
+            <div style={{ fontSize: 20, marginBottom: 4 }}>ðŸ“±</div>
+            <div style={labelStyle}>Lead escribe por WhatsApp</div>
+            <div style={descStyle}>Canal digital (20% del volumen)</div>
+          </div>
+
+          <Arrow />
+
+          {/* MIA central */}
+          <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 0 }}>
+            <div style={{
+              ...nodeStyle(COLORS.primary), minWidth: 240, textAlign: "center",
+              background: "linear-gradient(135deg, #1E293B, #253349)",
+              borderWidth: 3,
+            }}>
+              <div style={{ fontSize: 24, marginBottom: 4 }}>ðŸ¤–</div>
+              <div style={{ ...labelStyle, fontSize: 15 }}>MIA responde en 48 seg</div>
+              <div style={descStyle}>Saludo â†’ Proyecto â†’ Datos â†’ Precalifica</div>
+            </div>
+            <Arrow direction="down" label="" />
+            <div style={{
+              ...nodeStyle(COLORS.textDim), minWidth: 180, textAlign: "center",
+              borderStyle: "dashed", padding: "8px 14px",
+            }}>
+              <div style={{ fontSize: 16, marginBottom: 2 }}>ðŸ—„ï¸</div>
+              <div style={{ fontSize: 12, fontWeight: 600, color: COLORS.textMuted }}>Registro en CRM</div>
+              <div style={{ fontSize: 10, color: COLORS.textDim }}>Trazabilidad y exportaciÃ³n</div>
+            </div>
+          </div>
+
+          <Arrow />
+
+          {/* Outputs */}
+          <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
+            <div style={{ ...nodeStyle(COLORS.accent), minWidth: 170 }}>
+              <div style={{ fontSize: 18, marginBottom: 2 }}>ðŸ“…</div>
+              <div style={labelStyle}>Agenda visita</div>
+              <div style={descStyle}>Lead calificado â†’ cita con asesor</div>
+            </div>
+            <div style={{ ...nodeStyle(COLORS.warning), minWidth: 170 }}>
+              <div style={{ fontSize: 18, marginBottom: 2 }}>ðŸ‘¤</div>
+              <div style={labelStyle}>Deriva a asesor</div>
+              <div style={descStyle}>Caso especial o solicitud directa</div>
+            </div>
+          </div>
+        </div>
+
+        <div style={{
+          background: "rgba(14,165,233,0.06)", border: `1px dashed ${COLORS.primary}`,
+          borderRadius: 10, padding: 14, marginTop: 16, fontSize: 12, color: COLORS.textMuted,
+        }}>
+          Resultado Fase 1 (3 meses): 3,001 conversaciones â†’ 141 citas â†’ <strong style={{ color: COLORS.rose }}>17 separaciones</strong>. Solo con el 20% del volumen total.
+        </div>
+      </div>
+
+      {/* â”€â”€â”€â”€ FASE 2 â”€â”€â”€â”€ */}
+      <div>
+        <div style={{
+          display: "inline-block", background: COLORS.accent, color: COLORS.white,
+          fontSize: 12, fontWeight: 700, padding: "4px 14px", borderRadius: 20, marginBottom: 18,
+          letterSpacing: 0.5,
+        }}>FASE 2 â€” ECOSISTEMA EXPANDIDO</div>
+
+        {/* Architecture */}
+        <div style={{
+          background: COLORS.surface, borderRadius: 14, padding: 24, position: "relative",
+        }}>
+
+          {/* Row 1: Entry channels â†’ MIA â†’ Outputs */}
+          <div style={{ display: "flex", alignItems: "flex-start", gap: 10, flexWrap: "wrap" }}>
+
+            {/* LEFT: Entry channels */}
+            <div style={{ display: "flex", flexDirection: "column", gap: 12, minWidth: 200 }}>
+              {/* Conversational */}
+              <div style={{
+                border: `1px solid ${COLORS.primary}`, borderRadius: 10, padding: 14,
+                background: "rgba(14,165,233,0.04)",
+              }}>
+                <div style={{ fontSize: 11, fontWeight: 700, color: COLORS.primary, marginBottom: 8, letterSpacing: 0.5 }}>
+                  CANALES CONVERSACIONALES
+                </div>
+                <div style={{ display: "flex", gap: 8, flexWrap: "wrap" }}>
+                  {[
+                    { icon: "ðŸ“±", name: "WhatsApp", c: COLORS.accent },
+                    { icon: "ðŸ“¸", name: "Instagram", c: COLORS.rose, isNew: true },
+                    { icon: "ðŸ“˜", name: "Facebook", c: COLORS.primary, isNew: true },
+                  ].map((ch, i) => (
+                    <div key={i} style={{
+                      background: COLORS.dark, borderRadius: 8, padding: "8px 12px",
+                      border: `1px solid ${COLORS.border}`, textAlign: "center", minWidth: 70, position: "relative",
+                    }}>
+                      {ch.isNew && <span style={{
+                        position: "absolute", top: -6, right: -6,
+                        background: COLORS.accent, color: COLORS.white,
+                        fontSize: 7, fontWeight: 700, padding: "1px 4px", borderRadius: 6,
+                      }}>NEW</span>}
+                      <div style={{ fontSize: 18 }}>{ch.icon}</div>
+                      <div style={{ fontSize: 10, color: COLORS.text, fontWeight: 600 }}>{ch.name}</div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Proactive */}
+              <div style={{
+                border: `1px solid ${COLORS.accent}`, borderRadius: 10, padding: 14,
+                background: "rgba(16,185,129,0.04)",
+              }}>
+                <div style={{ fontSize: 11, fontWeight: 700, color: COLORS.accent, marginBottom: 8, letterSpacing: 0.5 }}>
+                  CANALES PROACTIVOS {tagNew}
+                </div>
+                <div style={{
+                  background: COLORS.dark, borderRadius: 8, padding: "10px 14px",
+                  border: `1px solid ${COLORS.border}`,
+                }}>
+                  <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+                    <span style={{ fontSize: 18 }}>ðŸ“</span>
+                    <div>
+                      <div style={{ fontSize: 11, fontWeight: 700, color: COLORS.text }}>Formularios web</div>
+                      <div style={{ fontSize: 10, color: COLORS.accent }}>MIA inicia contacto en menos de 1 min</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Arrow converge */}
+            <div style={{ display: "flex", flexDirection: "column", justifyContent: "center", alignSelf: "center" }}>
+              <Arrow />
+            </div>
+
+            {/* CENTER: MIA */}
+            <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 0 }}>
+              <div style={{
+                background: "linear-gradient(135deg, #1E293B, #253349)",
+                border: `3px solid ${COLORS.primary}`, borderRadius: 14,
+                padding: "18px 22px", textAlign: "center", minWidth: 220,
+                boxShadow: "0 0 20px rgba(14,165,233,0.15)",
+              }}>
+                <div style={{ fontSize: 28, marginBottom: 4 }}>ðŸ¤–</div>
+                <div style={{ fontSize: 16, fontWeight: 800, color: COLORS.text }}>MIA</div>
+                <div style={{ fontSize: 11, color: COLORS.primary, fontWeight: 600 }}>Mismo cerebro, mismas reglas</div>
+                <div style={{ fontSize: 10, color: COLORS.textMuted, marginTop: 4 }}>Califica â†’ Filtra â†’ Agenda</div>
+              </div>
+
+              {/* Seguimientos loop */}
+              <div style={{
+                marginTop: 8, display: "flex", alignItems: "center", gap: 6,
+              }}>
+                <div style={{
+                  background: "rgba(245,158,11,0.08)", border: `1px dashed ${COLORS.warning}`,
+                  borderRadius: 10, padding: "8px 14px", display: "flex", alignItems: "center", gap: 8,
+                }}>
+                  <span style={{ fontSize: 14 }}>ðŸ”„</span>
+                  <div>
+                    <div style={{ fontSize: 11, fontWeight: 700, color: COLORS.warning }}>Seguimientos automÃ¡ticos</div>
+                    <div style={{ fontSize: 9, color: COLORS.textDim }}>Loop: si no responde â†’ reintenta (1h, 3h, 18h)</div>
+                    <div style={{ fontSize: 9, color: COLORS.textDim }}>Post 24h selectivo a precalificados</div>
+                  </div>
+                </div>
+              </div>
+
+              {/* CRM layer */}
+              <Arrow direction="down" />
+              <div style={{
+                border: `1px dashed ${COLORS.textDim}`, borderRadius: 10,
+                padding: "8px 16px", textAlign: "center", minWidth: 180,
+              }}>
+                <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 6 }}>
+                  <span style={{ fontSize: 14 }}>ðŸ—„ï¸</span>
+                  <div>
+                    <div style={{ fontSize: 12, fontWeight: 600, color: COLORS.textMuted }}>CRM (Sperant)</div>
+                    <div style={{ fontSize: 9, color: COLORS.textDim }}>Registro automÃ¡tico + sincronizaciÃ³n</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Arrow to outputs */}
+            <div style={{ display: "flex", flexDirection: "column", justifyContent: "center", alignSelf: "flex-start", marginTop: 30 }}>
+              <Arrow />
+            </div>
+
+            {/* RIGHT: Outputs */}
+            <div style={{ display: "flex", flexDirection: "column", gap: 10, alignSelf: "flex-start", marginTop: 10 }}>
+              <div style={{
+                background: COLORS.dark, border: `2px solid ${COLORS.accent}`,
+                borderRadius: 10, padding: "12px 16px", minWidth: 170,
+              }}>
+                <div style={{ fontSize: 18, marginBottom: 2 }}>ðŸ“…</div>
+                <div style={{ fontSize: 13, fontWeight: 700, color: COLORS.accent }}>Agenda visita</div>
+                <div style={{ fontSize: 10, color: COLORS.textMuted }}>Lead calificado â†’ cita</div>
+              </div>
+              <div style={{
+                background: COLORS.dark, border: `2px solid ${COLORS.warning}`,
+                borderRadius: 10, padding: "12px 16px", minWidth: 170,
+              }}>
+                <div style={{ fontSize: 18, marginBottom: 2 }}>ðŸ‘¤</div>
+                <div style={{ fontSize: 13, fontWeight: 700, color: COLORS.warning }}>Deriva a asesor</div>
+                <div style={{ fontSize: 10, color: COLORS.textMuted }}>Solicitud directa</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* ReactivaciÃ³n */}
+        <div style={{
+          display: "flex", gap: 16, flexWrap: "wrap", marginTop: 16,
+        }}>
+          <div style={{
+            flex: 1, minWidth: 280, background: COLORS.surface, borderRadius: 14, padding: 20,
+          }}>
+            <div style={{ fontSize: 14, fontWeight: 700, color: COLORS.rose, marginBottom: 8 }}>
+              ReactivaciÃ³n de leads {tagNew}
+            </div>
+            <div style={{ fontSize: 12, color: COLORS.textMuted, lineHeight: 1.6 }}>
+              Carga bases histÃ³ricas (Sperant, Drive) y MIA contacta proactivamente <strong style={{ color: COLORS.text }}>leads "muertos"</strong>, reingresÃ¡ndolos al flujo activo.
+            </div>
+          </div>
+          <div style={{
+            flex: 1, minWidth: 280, background: COLORS.surface, borderRadius: 14, padding: 20,
+          }}>
+            <div style={{ fontSize: 14, fontWeight: 700, color: COLORS.primary, marginBottom: 8 }}>
+              IntegraciÃ³n Sperant {tagNew}
+            </div>
+            <div style={{ fontSize: 12, color: COLORS.textMuted, lineHeight: 1.6 }}>
+              SincronizaciÃ³n automÃ¡tica MIA â†” CRM. <strong style={{ color: COLORS.text }}>Elimina la carga manual</strong> de data, reduce tiempos operativos y permite escalar sin impacto.
+            </div>
+          </div>
+        </div>
+
+        {/* Vision */}
+        <div style={{
+          marginTop: 20, background: "linear-gradient(135deg, rgba(14,165,233,0.1), rgba(16,185,129,0.1))",
+          border: `1px solid ${COLORS.primary}`, borderRadius: 14, padding: 18, textAlign: "center",
+        }}>
+          <div style={{ fontSize: 15, fontWeight: 700, color: COLORS.text }}>
+            NingÃºn lead se pierde, ninguno se desaprovecha
+          </div>
+          <div style={{ fontSize: 12, color: COLORS.textMuted, marginTop: 4 }}>
+            Todos se nutren, se filtran y se empujan hacia la visita calificada â€” 24/7, en todos los canales.
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+// TAB 3: PROYECCIÃ“N (2 ESCENARIOS)
+// â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+function ProyeccionTab() {
+  return (
+    <div>
+      {/* Base metrics */}
+      <div style={{
+        background: COLORS.surface, borderRadius: 14, padding: 20, marginBottom: 24,
+      }}>
+        <div style={{ fontSize: 14, fontWeight: 700, color: COLORS.text, marginBottom: 12 }}>
+          Base de la proyecciÃ³n (tasas reales demostradas)
+        </div>
+        <div style={{ display: "flex", gap: 24, flexWrap: "wrap" }}>
+          {[
+            { v: "5,000/mes", l: "Volumen total Cumbres", c: COLORS.primary },
+            { v: "46/mes", l: "Citados Fase 1 (20%)", c: COLORS.accent },
+            { v: "4.7%", l: "Tasa Lead â†’ Citado", c: COLORS.warning },
+            { v: "12.4%", l: "Tasa Citado â†’ SeparaciÃ³n", c: COLORS.rose },
+          ].map((m, i) => (
+            <div key={i} style={{ minWidth: 130 }}>
+              <div style={{ fontSize: 22, fontWeight: 800, color: m.c }}>{m.v}</div>
+              <div style={{ fontSize: 11, color: COLORS.textMuted }}>{m.l}</div>
+            </div>
+          ))}
+        </div>
+        <div style={{
+          marginTop: 14, fontSize: 12, color: COLORS.textDim, padding: "10px 14px",
+          background: COLORS.dark, borderRadius: 8,
+        }}>
+          Ambos escenarios usan factor x3 (no x5 lineal) para escalar al 100%. Esto descuenta la fricciÃ³n natural por diferencias entre canales, curva de aprendizaje y variabilidad del lead segÃºn origen.
+        </div>
+      </div>
+
+      {/* Two scenarios side by side */}
+      <div style={{ display: "flex", gap: 16, flexWrap: "wrap", marginBottom: 24 }}>
+        {/* Escenario A */}
+        <div style={{
+          flex: 1, minWidth: 300, background: COLORS.surface, borderRadius: 14, overflow: "hidden",
+        }}>
+          <div style={{
+            padding: "14px 20px", background: COLORS.dark,
+            borderBottom: `2px solid ${COLORS.primary}`,
+          }}>
+            <div style={{ fontSize: 12, fontWeight: 700, color: COLORS.primary, letterSpacing: 0.5 }}>ESCENARIO A</div>
+            <div style={{ fontSize: 16, fontWeight: 700, color: COLORS.text }}>Realista</div>
+            <div style={{ fontSize: 11, color: COLORS.textMuted }}>Conservador defendible. Solo escalamiento de volumen, sin mejora operativa.</div>
+          </div>
+          <div style={{ padding: 20 }}>
+            <div style={{ display: "flex", gap: 16, marginBottom: 16 }}>
+              <div>
+                <div style={{ fontSize: 28, fontWeight: 800, color: COLORS.primary }}>~140</div>
+                <div style={{ fontSize: 11, color: COLORS.textMuted }}>citados/mes</div>
+              </div>
+              <div>
+                <div style={{ fontSize: 28, fontWeight: 800, color: COLORS.primary }}>~17</div>
+                <div style={{ fontSize: 11, color: COLORS.textMuted }}>separaciones/mes</div>
+              </div>
+            </div>
+            <div style={{
+              background: COLORS.dark, borderRadius: 8, padding: 14, textAlign: "center",
+            }}>
+              <div style={{ fontSize: 11, color: COLORS.textDim }}>En 6 meses</div>
+              <div style={{ fontSize: 32, fontWeight: 900, color: COLORS.primary }}>~100</div>
+              <div style={{ fontSize: 12, color: COLORS.textMuted }}>separaciones</div>
+            </div>
+            <div style={{ marginTop: 12, fontSize: 11, color: COLORS.textDim, lineHeight: 1.5 }}>
+              Asume: mismas tasas de conversiÃ³n actuales, sin optimizaciÃ³n de seguimientos ni canales adicionales. Ãšnicamente mÃ¡s volumen con fricciÃ³n de escalamiento.
+            </div>
+          </div>
+        </div>
+
+        {/* Escenario B */}
+        <div style={{
+          flex: 1, minWidth: 300, background: COLORS.surface, borderRadius: 14, overflow: "hidden",
+          border: `1px solid ${COLORS.accent}`,
+        }}>
+          <div style={{
+            padding: "14px 20px", background: "rgba(16,185,129,0.08)",
+            borderBottom: `2px solid ${COLORS.accent}`,
+          }}>
+            <div style={{ fontSize: 12, fontWeight: 700, color: COLORS.accent, letterSpacing: 0.5 }}>ESCENARIO B</div>
+            <div style={{ fontSize: 16, fontWeight: 700, color: COLORS.text }}>Esperado</div>
+            <div style={{ fontSize: 11, color: COLORS.textMuted }}>Fase 2 bien ejecutada. Seguimientos, formularios proactivos y RRSS operando correctamente.</div>
+          </div>
+          <div style={{ padding: 20 }}>
+            <div style={{ display: "flex", gap: 16, marginBottom: 16 }}>
+              <div>
+                <div style={{ fontSize: 28, fontWeight: 800, color: COLORS.accent }}>~200</div>
+                <div style={{ fontSize: 11, color: COLORS.textMuted }}>citados/mes</div>
+              </div>
+              <div>
+                <div style={{ fontSize: 28, fontWeight: 800, color: COLORS.accent }}>~25</div>
+                <div style={{ fontSize: 11, color: COLORS.textMuted }}>separaciones/mes</div>
+              </div>
+            </div>
+            <div style={{
+              background: "rgba(16,185,129,0.06)", borderRadius: 8, padding: 14, textAlign: "center",
+              border: `1px solid rgba(16,185,129,0.2)`,
+            }}>
+              <div style={{ fontSize: 11, color: COLORS.accent }}>En 6 meses</div>
+              <div style={{ fontSize: 32, fontWeight: 900, color: COLORS.accent }}>~150</div>
+              <div style={{ fontSize: 12, color: COLORS.textMuted }}>separaciones</div>
+            </div>
+            <div style={{ marginTop: 12, fontSize: 11, color: COLORS.textDim, lineHeight: 1.5 }}>
+              Asume: misma base x3, mÃ¡s la mejora operativa de Fase 2 (seguimientos que recuperan leads en saludo, formularios que acortan tiempo de contacto, RRSS que amplÃ­an superficie).
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* ComparaciÃ³n visual */}
+      <div style={{
+        background: COLORS.surface, borderRadius: 14, padding: 24, marginBottom: 24,
+      }}>
+        <div style={{ fontSize: 14, fontWeight: 700, color: COLORS.text, marginBottom: 16 }}>
+          La diferencia entre escenarios
+        </div>
+        <div style={{ display: "flex", alignItems: "center", gap: 16, flexWrap: "wrap" }}>
+          <div style={{ textAlign: "center", flex: 1, minWidth: 120 }}>
+            <div style={{ fontSize: 36, fontWeight: 900, color: COLORS.primary }}>17</div>
+            <div style={{ fontSize: 11, color: COLORS.textMuted }}>sep. reales (3m, 20%)</div>
+          </div>
+          <div style={{ fontSize: 20, color: COLORS.textDim }}>â†’</div>
+          <div style={{ textAlign: "center", flex: 1, minWidth: 120 }}>
+            <div style={{ fontSize: 36, fontWeight: 900, color: COLORS.primary }}>~100</div>
+            <div style={{ fontSize: 11, color: COLORS.textMuted }}>Escenario A (6m)</div>
+          </div>
+          <div style={{ fontSize: 20, color: COLORS.textDim }}>â†’</div>
+          <div style={{ textAlign: "center", flex: 1, minWidth: 120, padding: "12px 0", background: "rgba(16,185,129,0.06)", borderRadius: 10, border: `1px solid ${COLORS.accent}` }}>
+            <div style={{ fontSize: 36, fontWeight: 900, color: COLORS.accent }}>~150</div>
+            <div style={{ fontSize: 11, color: COLORS.textMuted }}>Escenario B (6m)</div>
+          </div>
+        </div>
+        <div style={{
+          marginTop: 14, fontSize: 12, color: COLORS.textMuted, textAlign: "center",
+        }}>
+          La diferencia de <strong style={{ color: COLORS.accent }}>+50 separaciones en 6 meses</strong> viene de la efectividad operativa de Fase 2, no de cambiar tasas ni de supuestos agresivos.
+        </div>
+      </div>
+
+      {/* ROI */}
+      <div style={{
+        background: COLORS.surface, borderRadius: 14, padding: 20,
+      }}>
+        <div style={{ fontSize: 14, fontWeight: 700, color: COLORS.text, marginBottom: 14 }}>
+          Eficiencia de inversiÃ³n
+        </div>
+        <div style={{ display: "flex", gap: 16, flexWrap: "wrap" }}>
+          <MetricCard value="$695" label="Fee mensual (100% vol)" sub="OperaciÃ³n + IA + Meta" color={COLORS.primary} small />
+          <MetricCard value="~$28" label="Costo por separaciÃ³n (Esc. B)" sub="Fee Ã· ~25 separaciones/mes" color={COLORS.accent} small />
+          <MetricCard value="24/7" label="Sin tiempos muertos" sub="IA opera feriados, noches, fines de semana" color={COLORS.warning} small />
+        </div>
+        <div style={{
+          marginTop: 16, fontSize: 12, color: COLORS.textMuted, lineHeight: 1.6,
+          padding: "12px 16px", background: COLORS.dark, borderRadius: 8,
+        }}>
+          ProyecciÃ³n basada en el canal digital (20%). Con el 100% del volumen, que incluye leads de formularios, RRSS y otros canales, el alcance real puede ser mayor. La integraciÃ³n con Sperant reduce significativamente los tiempos operativos manuales que hoy demanda la gestiÃ³n de data.
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+// MAIN APP
+// â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+export default function MIAEcosystem() {
+  const [activeTab, setActiveTab] = useState(0);
+
+  return (
+    <div style={{
+      background: COLORS.dark, minHeight: "100vh",
+      fontFamily: "'Inter', -apple-system, BlinkMacSystemFont, sans-serif",
+      color: COLORS.text,
+    }}>
+      <div style={{ padding: "28px 32px 0", borderBottom: `1px solid ${COLORS.surfaceLight}` }}>
+        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 20 }}>
+          <div>
+            <div style={{ fontSize: 11, fontWeight: 700, color: COLORS.primary, letterSpacing: 2, marginBottom: 4 }}>
+              FIXU AI Ã— CUMBRES
+            </div>
+            <div style={{ fontSize: 24, fontWeight: 800, color: COLORS.text }}>
+              MIA â€” Ecosistema de IA Comercial
+            </div>
+            <div style={{ fontSize: 13, color: COLORS.textMuted, marginTop: 4 }}>
+              Resultados, arquitectura y proyecciÃ³n | Febrero 2026
+            </div>
+          </div>
+        </div>
+        <div style={{ display: "flex", gap: 4 }}>
+          {tabs.map((tab, i) => (
+            <button
+              key={i}
+              onClick={() => setActiveTab(i)}
+              style={{
+                padding: "10px 22px", fontSize: 13,
+                fontWeight: activeTab === i ? 700 : 500,
+                color: activeTab === i ? COLORS.primary : COLORS.textMuted,
+                background: activeTab === i ? "rgba(14,165,233,0.1)" : "transparent",
+                border: "none",
+                borderBottom: activeTab === i ? `2px solid ${COLORS.primary}` : "2px solid transparent",
+                borderRadius: "8px 8px 0 0", cursor: "pointer", transition: "all 0.2s",
+              }}
+            >{tab}</button>
+          ))}
+        </div>
+      </div>
+
+      <div style={{ padding: "28px 32px 40px" }}>
+        {activeTab === 0 && <ResultadosTab />}
+        {activeTab === 1 && <EcosistemaTab />}
+        {activeTab === 2 && <ProyeccionTab />}
+      </div>
+    </div>
+  );
+}

@@ -1,0 +1,467 @@
+Impromptu Zoom Meeting - July 25
+VIEW RECORDING - 53 mins (No highlights): https://fathom.video/share/jsPpDHg49oUJ-UHPbd5xspyVV7Z5xQyG
+
+---
+
+0:00 - lrodriguez
+  Un buen mes, pero ahÃ­ estamos, ahÃ­ estamos este, aprovechÃ¡ndolo, ya prÃ¡cticamente ahorita la gente estÃ¡ mirando a otro lado, ya estÃ¡ modo relajo, Â¿no?
+
+0:16 - Isaias Zavaleta
+  Genial, genial.
+
+0:19 - lrodriguez
+  Bien, este, estamos todos los que tenemos, estamos involucrados para brindarte la informaciÃ³n que necesitas, Santiago, a ver si es que nos, nos refrescas un poquito el tema de los pedidos.
+  SCREEN SHARING: Isaias started screen sharing - WATCH: https://fathom.video/share/jsPpDHg49oUJ-UHPbd5xspyVV7Z5xQyG?timestamp=42.548518
+
+0:38 - Isaias Zavaleta
+  SÃ­, por supuesto, a ver, les comparto mi pantalla. Principalmente hay tres cosas que les voy a mostrar equipo, la mÃ¡s importante para el dÃ­a de hoy son los requerimientos, pero rÃ¡pidamente para repasar el plan de acciÃ³n.  Esta semana uno deberÃ­a ser bÃ¡sicamente para recopilar toda la informaciÃ³n. Sensible, sensible de cara a hacer una buena soluciÃ³n.  Y, por mi lado, armar toda la infraestructura de inteligencia artificial. Nuevamente, esta es una formalidad porque la infraestructura ya la tengo armada, pero es Ãºnicamente para mapearlo.  Con respecto a la semana 2, serÃ­a todo el desarrollo y configuraciÃ³n. En esta semana ya empezarÃ­an las pruebas con el equipo interno, con el equipo de ventas y el equipo de marketing, para poder hacer los ajustes necesarios.  Y, finalmente, nuevamente, una semana de pruebas para ajustar y ya hacer el lanzamiento respectivo. Solo para tenerlo dimensionado. BÃ¡sicamente, esta primera semana serÃ­a para recopilar informaciÃ³n.  Ahora, con respecto a los requerimientos, que sÃ­ es lo importante, por el lado de marketing, va a ser importante, igual ese documento se lo lleguÃ© a mandar por correo, pero va a ser importante que tengamos esta informaciÃ³n.  Â¿Por quÃ©? Porque mientras mÃ¡s informaciÃ³n el asistente, digamos, asistente de inteligencia artificial tenga sobre los proyectos, vamos a poder darle mejores instrucciones.  Instrucciones para poder gestionar esa informaciÃ³n. Â¿A quÃ© informaciÃ³n me refiero? Por ejemplo, Â¿quÃ© frases o slogans va a utilizar para comunicarse en el primer contacto?  Â¿QuÃ© frase inicial va a mencionar? Â¿Hasta quÃ© nivel de detalle va a compartir con los leads informaciÃ³n sobre los proyectos?  Â¿QuÃ© informaciÃ³n nunca tiene que decir? Â¿QuÃ© informaciÃ³n tiene que decir? Y esto es algo importante que ahorita lo vamos a profundizar.  Â¿Y cuÃ¡les son los datos que tiene que registrar de los leads? Nuevamente, este correo se los mandÃ©, creo que la semana pasada.  SerÃ­a clave que me puedan ayudar respondiendo. Si es que tienen las respuestas ahora, no de todas las preguntas, no se preocupen, me las pueden decir ahora.  mencionÃ¡ndomelo porque he metido a la i a la llamada y todo lo voy a resumir para poder ir avanzando.
+
+2:46 - Giuseppe Quiroz
+  AsÃ­ que por ese lado, si me puedan responder ahora, no hay ningÃºn problema.
+
+2:50 - Isaias Zavaleta
+  Por el lado de ventas, aquÃ­ entra un poco mÃ¡s de ejecuciÃ³n, por asÃ­ decirlo, en el cual necesito la lista de preguntas frecuentes que suele hacer el equipo.  Â¿QuÃ© respuestas suelen dar ante estas preguntas? Etc, etc. Y esto sÃ­ es importante. TambiÃ©n les mandÃ© ya hace unas semanas el formato en cÃ³mo deberÃ­an estar los proyectos.  Por ejemplo, un Excel que tenga toda la lista de departamentos disponibles. Una columna que diga proyectos, que salga a este es el proyecto VÃ­a Nova, este es el proyecto VÃ­a Monumental y este es el proyecto AndalucÃ­a, por ejemplo.  AhÃ­ el formato tambiÃ©n se los he mandado. Pero bÃ¡sicamente, la base de datos que necesita cualquier asesor para poder vender hasta el punto que ustedes necesitan que este agente dÃ© la informaciÃ³n.  Luego, Â¿quÃ© mÃ©tricas son las que vamos a medir? Bueno, esto es bÃ¡sicamente las citas agendadas, las conversaciones gestionadas, cuÃ¡les son las conversaciones que se han transferido al equipo humano, por quÃ©.  Todo eso no se preocupen porque le vamos a entregar junto a un CRM conversacional donde vamos a poder gestionar todo eso tambiÃ©n.  Otra informaciÃ³n tambiÃ©n es importante, Â¿a quÃ© nÃºmeros le va a escribir el agente cuando el lead quiera comunicarse con alguien del equipo comercial o se va a comunicar con el asesor?  Â¿El asesor que se le asignÃ³ a ese lead? Â¿El asesor se le va a asignar cuando se agende una visita o cuando dÃ© su informaciÃ³n?  Todas esas preguntas son las que tienen que estar claras para saber cuÃ¡l va a ser ese flujo. No sÃ© si me dejÃ© entender si es que aquÃ­ hay alguna duda.
+
+4:17 - Giuseppe Quiroz
+  Santiago, sÃ­, estaba hablando, no sÃ© si me escuchas, porque estaba consultando algo y hablaba sobre la marcha.
+
+4:27 - Isaias Zavaleta
+  Â¿EstÃ¡ bien, Santiago? Me siento mucho, Giuseppe, disculpa.
+
+4:30 - Giuseppe Quiroz
+  SÃ­, ya, ok. Justo estoy revisando la informaciÃ³n. El primero de julio yo te enviÃ© una informaciÃ³n, te mandÃ© el WeTransfer con el video que me solicitaste de aquella reuniÃ³n, te mandÃ© los brochures, del tema de la lista de precios, ese era algo que, bueno, ahÃ­ Leonel estaba en copio porque con Dennis son quienes manejan mejor esa parte.  Y te puse el tema de nÃºmeros excluidos y demÃ¡s. Eso Es... Â¡Gracias! Esta igual con el flujo de Lucy, Lucy Sharp, es lo que estÃ¡s indicando ahÃ­, Â¿esa parte o es parte de ello?  Porque esa parte sÃ­ ya la habÃ­a enviado. Respecto al tema de los formatos, Â¿se los has enviado a Dennis?  Â¿CÃ³mo se ha manejado eso? No, no lo tengo listo.
+
+5:30 - Isaias Zavaleta
+  No lo puedes explicar aquÃ­. Justo ese mismo dÃ­a que tuvimos la reuniÃ³n, si mal no recuerdo, el dÃ­a siguiente o dos dÃ­as despuÃ©s, fue que Dennis me mandÃ³ un correo solicitÃ¡ndome el formato de la base de datos y se la pasÃ©.  Por ese lado tambiÃ©n, todo el cheque, sÃ© si ahÃ­ Dennis me podrÃ­a ayudar con la confirmaciÃ³n.
+
+5:48 - Dennis Nomberto
+  SÃ­, en el caso mÃ­o, era el tema de cÃ³mo iban a ir distribuidas las columnas, los datos, y la verdad, creo que eso es lo primero definimos.  Con datos de prueba, que en eso ahorita me estoy basando, lo que faltaba quizÃ¡ definir era el manejo de los estados, Â¿no?  Â¿QuÃ© estados iban a manejar cada lead? Porque creo que en primera instancia iba a ser como primero recopilaciÃ³n y luego iba a verse como que el lead va progresando, Â¿no?  Hasta llegar a una cita. Entonces, eso faltaba definir, Â¿no? Â¿CuÃ¡les iban a ser los estados por los que iba a pasar un mismo lead?  Eso faltaba definir y habÃ­amos quedado en que por cada estado se iba a tener una fila, Â¿no? Por ejemplo, Denis Donberto se inscribiÃ³ y puso estos datos.  Luego, Ã©l mismo quiere agendar unaâ€¦ Â¿De acuerdo a cÃ³mo va a avanzando el lead? Ã‰l mismo quiere agendar una cita.  Entonces, el lead va progresando su estado conforme va avanzando en la IA. A eso me referÃ­a.
+
+6:59 - Isaias Zavaleta
+  Gracias. En ese caso solo serÃ­a cuestiÃ³n de ajustar la lÃ³gica, Â¿no? Por ejemplo, esa informaciÃ³n serÃ­a buena tenerla ahora, Â¿cuÃ¡ntos estados se van a manejar y en quÃ© situaciones se le va a asignar cierto estado?  Por ejemplo, Â¿no? Visita agendada, agendÃ³ una visita, primer contacto, ah, mandÃ³ un primer mensaje, Â¿quÃ© otros estados mÃ¡s se van a gestionar de por medio?
+
+7:20 - Giuseppe Quiroz
+  Claro, Santiago, ahÃ­ lo que pasa es que, mira, yo estoy encontrando un gran problema ahorita. El tema es que estamos disparando por todos lados y no hay una sola comunicaciÃ³n en la cual, y te lo digo por experiencia, lo que va a pasar es que vas a llegar a un punto, si avanza por separado, vas a llegar a un punto donde ese punto va a agarrar y va a decir, oye, lo valido con los demÃ¡s, y los demÃ¡s le van a decir, oye, faltÃ³ este punto, este punto, este punto, este punto, y lo que vas a hacer es vas a retroceder todo y vas a estar como el cangrejo.  De atrÃ¡s para adelante, de atrÃ¡s para adelante. Entonces, de consejo, lo que para recapitular todo es uno, si es que estamos los cuatro involucrados, copiar a los cuatro por ambas partes para de igual manera todos estar al tanto de quÃ© es lo que se envÃ­a y quÃ© es lo que no.  Entonces, uno estarÃ¡ alineado a ello. Yo te recomendarÃ­a, y sugiero en general a todos, uno, analicemos, no sÃ© si puedes editar, no sÃ© si es un PDF o un Word, y veamos punto por punto, cosa de que en ese punto tÃº mencionas, te vamos diciendo quiÃ©nes son los responsables, o quiÃ©nes manejan mejor la data, para en base a eso ponernos fechas y poderte pasarte toda la informaciÃ³n, y sobre eso tÃº ya nos devuelvas el feedback en general, y podamos analizarlo todos en lÃ­nea.  Entonces, por ejemplo, tÃº ahorita has hablado de parte mÃ­a, pero yo no estoy tan al tanto. Por otro lado, manejo con Dennis, que tampoco estoy tan al tanto, entonces la idea es, hay cosas que Dennis es el experto y el encargado que veo, yo igual, Lionel de igual manera, entonces la idea es todos estar complementados y en ese sentido saber todo.  Todos, de todos, Â¿no? Entonces, ahÃ­ sÃ­ te voy a pedir tu apoyo, si es que no sÃ© si puedes editar ese PF o ese que estÃ¡s mostrando y en base a eso irte, ir punto por punto, ver si se mandÃ³ o no se mandÃ³, si tienes la informaciÃ³n o no la tienes y con eso definir tambiÃ©n responsables y tiempos, Â¿no?  Para que tÃº puedas tener toda la informaciÃ³n. Bueno, confirmarte que el pago del adelanto ha salido hoy dÃ­a, te debe estar llegando...  Es que ya no te llegÃ³, generalmente son a las 5 de la tarde. Si no, a mÃ¡s tardar, lo tienes el dÃ­a lunes, pero ya el pago ya se ha hecho efectivo.
+
+10:13 - Isaias Zavaleta
+  Gracias por el tema de la puntualidad con el dÃ­a viernes. Y sÃ­, estoy de acuerdo contigo, Giuseppe. Pongamos responsables, ahorita voy a compartir el archivo editable, pongamos un deadline para poner tambiÃ©n una fecha de una primera demo y en base a eso ir iterando.
+  SCREEN SHARING: Isaias started screen sharing - WATCH: https://fathom.video/share/jsPpDHg49oUJ-UHPbd5xspyVV7Z5xQyG?timestamp=678.628023  Soy totalmente de acuerdo. Denme un segundo y se los comparto. Gracias. Â¿Me confirman, por favor, si se ve todo bien?
+
+11:29 - Giuseppe Quiroz
+  SÃ­, sÃ­.
+
+11:57 - Isaias Zavaleta
+  Â¿Tenemos 1, 2 y 3 o tenemos proyectos en?
+
+12:00 - Giuseppe Quiroz
+  Lima, tenemos proyectos en el Callao, tenemos proyectos por provincia. Mira, ahÃ­, para ver ese punto, es por zona, tal cual lo que dice Leonel, Â¿no?  Si te das cuenta en el Lucy Sharp que te pasÃ© el acceso, nosotros lo manejamos por zona, Â¿no? Bueno, la primera pregunta, bueno, es el saludo, y de frente a la persona o el cliente te dice, oye, quiero en Arequipa, quiero en Callao, quiero en Chancay, que vamos a tener en Chancay, quiero en Trujillo, Â¿no?  Y en cada zona va a tener su proyecto. Por ejemplo, si dice Callao, tenemos dos proyectos, Â¿no? VÃ­a Nova y Callao Monumental, Â¿no?  PerdÃ³n, VÃ­a Monumental. Entonces, ese es ahorita el mensaje base o inicial que tenemos, y en base a los diferenciadores que bien mencionas, ya entra ya por proyecto.  Y bueno, ya cada proyecto tiene sus propias caracterÃ­sticas, Â¿no?
+
+13:04 - Isaias Zavaleta
+  Ya me dio de Lucidchart entonces para poder hacer eso. Con respecto al contenido por enviar, entiendo que ahÃ­ me mandaste todo, de igual manera yo lo voy a integrar y cualquier duda que tenga ahÃ­ les voy a escribir, asÃ­ que eso de aquÃ­ ya estarÃ­a chÃ©ctame.
+
+13:19 - Giuseppe Quiroz
+  SÃ­, porque el tema de las frases y los argumentos, ahÃ­ tendrÃ­amos que, bueno, con el demo replantear o ver quÃ© es lo que...  De momento sugiero mantener el Lucidchart porque ya los mensajes estÃ¡n homologados con los asesores. Entonces, en el tema de ello ya estamos por ahÃ­ bacÃ¡n, Â¿no?  Entonces, el tema de ya, ahora, como va a cambiar, ya no va a ser un flujo y va a ser algo mÃ¡s interativo, en este caso, las primeras palabras...  SÃ­ sugiero mantenerlas ahÃ­ y ver cÃ³mo se va comportando y en base a eso cÃ³mo lo vamos alineando, pero el tema de frases y demÃ¡s, mantengÃ¡moslo ahÃ­, ya cuando el cliente comienza a conversar, ya ahÃ­ lo vemos viendo mÃ¡s abajo.
+
+14:23 - Isaias Zavaleta
+  SÃ­, genial. Con respecto a la polÃ­tica de informaciÃ³n, recuerdo que se mencionÃ³ que es clave no darle toda la informaciÃ³n al cliente, porque se busca el agendamiento.
+  ACTION ITEM: Send FAQ list w/ answers to Santiago
+ - WATCH: https://fathom.video/share/jsPpDHg49oUJ-UHPbd5xspyVV7Z5xQyG?timestamp=868.9999  Â¿Esto lo podemos responder ahora o tambiÃ©n lo vamos a delegar con un deadline?
+
+14:39 - lrodriguez
+  Esto, pÃ¡samelo a mÃ­ y yo a 31 te lo estoy pasando.
+
+14:48 - Giuseppe Quiroz
+  LeÃ³nel, una consulta. Dentro de la polÃ­tica de informaciÃ³n estÃ¡ el word que te pasÃ©, que era las preguntas frecuentes, Â¿correcto?
+
+14:58 - lrodriguez
+  Â¿Correcto? Gracias. SÃ­, tenemos un Word que lo hemos estado empleando tambiÃ©n con los asesores, las preguntas frecuentes, efectivamente.
+
+15:08 - Giuseppe Quiroz
+  Ah, ok, ya. AhÃ­ fÃ¡cil, Santiago, le puedes poner preguntas frecuentes entre parÃ©ntesis o un costado para como que para saber, estar alineados de quÃ© se trata, Â¿no?  Y ahÃ­ estÃ¡ ya Lionel como encargado.
+
+15:26 - Isaias Zavaleta
+  Con respecto a los datos de los leads, eso, directamente, Â¿quiÃ©n lo va a ver?
+
+15:35 - Giuseppe Quiroz
+  Mira, Dennis, Â¿no?
+
+15:37 - lrodriguez
+  SÃ­, es que Dennis.
+
+15:38 - Giuseppe Quiroz
+  verlo, Dennis.
+
+15:39 - Dennis Nomberto
+  O sea, en el tema de los datos de los leads, bueno, yo me acoplo normal a lo que digan los demÃ¡s.  Mi Ãºnica consulta... Los estados...
+
+15:54 - Giuseppe Quiroz
+  Porque eso sÃ­... se escucha, amigo, se te escuchÃ³ entrecortado.
+
+15:59 - lrodriguez
+  Dennis, sÃ­. Ahora sÃ­.
+
+16:02 - Dennis Nomberto
+  Ya, no, comentaba. En el tema de los datos, bueno, en sÃ­ yo me puedo adaptar a lo que ustedes indiquen.  Lo Ãºnico que faltarÃ­a ver es el tema del manejo del estado de leads. Conforme la IA va avanzando en consultar al cliente, entonces este lead va cambiando de estado.  Entonces lo que faltarÃ­a definir es cuÃ¡les van a ser los estados y en quÃ© momento cambian.
+
+16:30 - lrodriguez
+  MÃ¡s que todo eso. eso. para poder ver el tema de los estados.
+
+16:34 - Giuseppe Quiroz
+  Pero hay una consulta, Lionel, Dennis. Cuando te refieres a los estados, te refieres a la propia nube que va a tener la inteligencia o esta gente, Â¿no es cierto?  Porque entiendo que en Espera va a figurar como por contactar.
+
+16:52 - lrodriguez
+  Claro, en Espera va a figurar por contactar. que dice Dennis es que en su... Software que Ã©l va a manejar, que les va a crear, va a tener clasificados al list, Â¿no?  Oye, estos respondieron, estos pidieron informaciÃ³n, estos agendaron cita, estos no agendaron cita, etc.
+
+17:14 - Dennis Nomberto
+  Â¿Algo asÃ­ te refieres, Dennis? SÃ­, algo asÃ­, Â¿no? Por ejemplo, que yo pedÃ­, Dennis Nomberto, hizo un primer contacto registrÃ¡ndose.  Luego, conforme la IA le fue preguntando cosas, llegÃ³ al punto en el cual agendÃ³ cita, o de repente que le pregunte otro dÃ­a.  Entonces, esos son los estados del list, Â¿no? Para saber en quÃ© estÃ¡, y con eso, mandar la informaciÃ³n al asesor.  Muy aparte estÃ¡ eso que indica Leonel de que para Ã©l esperan pasar por contactar. Eso es muy aparte. Para que con la informaciÃ³n que se envÃ­a al momento de mandar un correo, se le envÃ­e la IA en quÃ© estado lo estÃ¡ dejando.  Muy aparte que lo que maneja el...
+
+18:04 - Isaias Zavaleta
+  AquÃ­ solo como insight equipo, es importante que, o si bien la IA puede poner estados de acorde a quÃ© situaciÃ³n estÃ¡ llevando con el IT, es importante que no recarguemos tanto la inteligencia artificial para tareas que si bien son importantes, pero de alguna u otra manera lo alejan de su fin, que es el agendamiento de visita.  No, Â¿a voy con esto? Es que si le ponemos cinco estados distintos y cinco instrucciones para cada estado, posiblemente no tenga tanto impacto de valor que si simplemente le damos tres estados, primer contacto, agendamiento de visita y sin respuesta, por ejemplo.
+
+18:39 - lrodriguez
+  No sÃ© si me dejo entenderlo. Al final va a depender netamente de cÃ³mo ustedes lo definan, pero igual lo dejo como insight.  Dennis, Â¿para quÃ© queremos esos estados? Â¿Para quÃ© nos va a servir?
+
+18:51 - Dennis Nomberto
+  En el tema del estado, bueno, en realidad como estÃ¡ diciendo ahorita SebastiÃ¡n, no es que manejamos muchos estados, sino es un poco ver...  Si solo quedÃ³ el primer contacto o el cliente quiere ya el agendamiento de visita, Â¿no? Porque dependiendo, si el cliente ya quiere agendamiento de visita, lo que yo estoy haciendo generarÃ­a el archivo este de calendario con la visita que el cliente desee que se le programe, Â¿no?  Es simplemente para eso, Â¿no? Si el cliente desea ya la visita o necesita programar la visita, ya lo que yo hago generarÃ­a el archivo para que el asesor lo tenga.  Caso contrario, simplemente serÃ­a algo informativo para el asesor.
+
+19:40 - lrodriguez
+  SÃ­, sÃ­, Sigo sin entender mucho, pero a ver.
+
+19:47 - Giuseppe Quiroz
+  O sea, lo que entiendo es que... O sea, dale, dale.
+
+19:52 - lrodriguez
+  Â¿TÃº quieres saber, Denis, para el... Â¿TÃº quieres establecer un estado para saber en quÃ© momento...? Â¿Le disparas informaciÃ³n al asesor?
+
+20:03 - Dennis Nomberto
+  Â¿AsÃ­ es? No exactamente, sino, a ver, lo que explico, la idea es la siguiente, cuando lleguen los registros de la IA, van a llegar, por ejemplo, para Dennis Nomberto va a llegar, pueden llegar un solo registro en el cual simplemente se registrÃ³ sus datos, indicÃ³ el proyecto que le gusta y punto.  Â¿No? Y eso serÃ­a primer contacto. Pero si yo sigo respondiendo a la IA y voy a llegar en el punto en el que quiero agendar una visita para tal fecha, Â¿no?  Entonces, ahÃ­ cambia su estado, en vez de que diga primer contacto, dirÃ¡ visita agendada. Entonces, cuando tienes estado de visita agendada, el software que estoy haciendo va a generar el programa de cita, el ISC, para que se...  Registra automÃ¡ticamente en el calendario del Outlook del asesor, Â¿no? Para que lo tenga presente. Muy aparte estÃ¡ lo que en el Esperance se registra, Â¿no?  Porque, como dijo Giuseppe, para el Esperance, todos los registros van a ser por contactar, pero al menos ya lo tiene por adelantado el archivo de agendamiento de visita que ya previamente lo consultÃ³ con la guÃ­a, Â¿no?
+
+21:25 - Giuseppe Quiroz
+  Lo que tÃº quieres hacer, Dennis, es un tema de embudo, para tÃº poder mapear cuÃ¡ntos clientes llegaron a agendar, cuÃ¡ntos no, este, y cuÃ¡ntos se quedaron en un primer contacto, algo asÃ­.
+
+21:38 - Dennis Nomberto
+  O sea, porque el asesor a las finales yo le voy a mostrar un resumen de todo eso.
+
+21:44 - Isaias Zavaleta
+  Claro. Equipo, en final, todos esos KPIs yo se los voy a enviar. La IA lo hace solo.
+
+21:49 - lrodriguez
+  Claro, claro, Dennis. O sea, yo lo que veo aquÃ­ es que tÃº lo quieres vincular con el calendario Outlook del asesor de ventas.  Sin embargo, este, ya la IA agenda. Luego vas a agendar en el Outlook y luego el asesor va a tener que agendar en el Esperan.  Van a haber tres agendamientos. Ya, este mono, este mono, esa... Pero, pero dÃ©jalo ahÃ­ y lo revisamos bien.
+
+22:18 - Isaias Zavaleta
+  Lo vamos chequeando en el camino, no hay ningÃºn problema. SÃ­, sÃ­. Pero bÃ¡sicamente, solo para aclarar el flujo, disculpa Leo que te interrumpa, es, me llega el primer mensaje, o sea, para ponerlo un poco mÃ¡s tÃ©cnico para que quede claro.  recibo un mensaje de un nÃºmero que me ha escrito por primera vez, primer contacto. Me agendan una visita, ya confirmÃ³ y estÃ¡ agendado en el Google Calendar, visita agendada.  El asesor se llega a juntar con el potencial cliente y tiene que mandar un mensaje de WhatsApp que diga, atendido, estÃ¡ atendido.  Por ejemplo, estÃ¡ subiendo en el camino y en quÃ© momento cambiarlo y en quÃ© momento no.
+
+22:57 - Giuseppe Quiroz
+  SÃ­, o sea, ahora tambiÃ©n tengan en cuenta, Denise, de que las... asesor, crÃ©eme que no va a leer toda la historial de conversaciÃ³n, va a ser algo, yo creo que mÃ¡s puntual, Â¿no?  O sea, tres dormitorios, tanto, enfocor, algo asÃ­ sÃºper puntual que ya el asesor en cuatro o cinco lÃ­neas lo lea y ya estÃ¡, Â¿no?  Porque llenar la informaciÃ³n en una data que el asesor en la prÃ¡ctica no lo va a leer, al cien por ciento va a ser complicado, Â¿no?  Yo creo que lo importante es, este, lo, validar con ellos quÃ©, quÃ©, este, quÃ©, quÃ© puntos son tan importantes, Â¿no?  Porque de cara a la carga de, de, de leads de tu base de datos a espera, sabemos que lo que necesitas es nombre, apellido, correo, telÃ©fono, DNI, que se aplica, este, hora y registro es indistinto, es, este,  TambiÃ©n puede ser, pero no es indispensable como siglos anteriores, etapa de proceso igual, proyecto de interÃ©s sÃ­ es indispensable, canal de entrada, bueno, es la misma, no habrÃ­a variaciÃ³n, pero sÃ­, y de ahÃ­ hay mÃ¡s datos que ya vienen a ser para eso, gran ojo, el tema asÃ­, para quiÃ©n es el departamento, y demÃ¡s, Â¿no?  Pero que para la carga masiva, no es necesario, no solamente lo anterior, y el nombre del asesor al cual estÃ¡ asignado, pero sÃ­, como dato interesante, sÃ­ podrÃ­amos ver de repente cosas puntuales que lo podrÃ­amos validar con ellos, Â¿no?  El tema de Infocor, no sÃ©, pero eso ahÃ­ sÃ­ tendrÃ­amos que ver para que sea muy puntual y el asesor, ya con eso, con esas tres, cuatro  Cosas ya se puede dar luces de cuÃ¡l es el estado del cliente actualmente, Â¿no?
+
+25:07 - lrodriguez
+  SÃ­, sÃ­, sÃ­, lo revisamos el dÃ­a, Dennis, cuando ingresas, cuando regresas de vacaciones, el miÃ©rcoles, Â¿no? El miÃ©rcoles estamos en Lima ya, lo revisamos, para entender bien la idea y pulirla, de repente sÃ­, nos ayudarÃ­a muchÃ­simo y bacÃ¡n, Â¿no?  Lo vamos bien. Entonces, Â¿quÃ© mÃ¡s sigue, Santiago?
+  ACTION ITEM: Send buyer persona info to Santiago
+ - WATCH: https://fathom.video/share/jsPpDHg49oUJ-UHPbd5xspyVV7Z5xQyG?timestamp=1530.9999
+
+25:32 - Isaias Zavaleta
+  Bien. InformaciÃ³n mÃ¡s que todo del buyer persona, Â¿cÃ³mo es el cliente? Â¿QuiÃ©n suele escribir? Â¿De dÃ³nde vienen? Eso directamente, Â¿quiÃ©n lo va a revisar?
+
+25:41 - Giuseppe Quiroz
+  Eso lo veo yo, este, ok.
+
+25:45 - Isaias Zavaleta
+  Eso lo verÃ­a nada mÃ¡s para darle contexto a la gente.
+
+25:48 - lrodriguez
+  Con respecto a que... PerdÃ³n, Santiago, en el otro punto. Giuseppe, tambiÃ©n apÃ³yate en el dashboard actualizado, que seguro lo va a tener, este, este, Dennis, el dÃ­a, los primeros dÃ­as de agosto, Â¿no?
+
+26:03 - Giuseppe Quiroz
+  SÃ­, sÃ­, o sea, pero el buyer person, o sea, es algo mÃ¡s subjetivo, Â¿no? Porque de hecho es mÃ¡s como cuÃ¡les son los intereses, o sea, journey, journey del cliente, bÃ¡sicamente, intereses, lo que sÃ­ valido es el tema de la edad, Â¿no?  Â¿QuiÃ©nes mÃ¡s nos compran? Mayores a 30, menores a 30. Es como un arquetipo, Â¿no? De cliente, Â¿no? Donde tÃº, bÃ¡sicamente, sobre eso, lo que entiendo que busques para que mÃ¡s que nada le dÃ© una, personalice a la gente y a la gente sepa responder, Â¿no?
+
+26:46 - Isaias Zavaleta
+  No entiendo que es asÃ­. Un mÃ­nimo de contexto. SÃ­, es contexto, bÃ¡sicamente. No es algo relevante. No va a cambiar mucho la funcionalidad y lo mÃ¡s importante, pero sÃ­ es importante, sÃ­, para que tenga mÃ¡s contexto, totalmente.  Ok. Respecto a la clasificaciÃ³n, bueno, lo que clasifiquÃ© como equipo de ventas, bueno, lista de preguntas frecuentes, me dijiste el lÃ­o que esto va por tu lado, Â¿verdad?
+
+27:09 - lrodriguez
+  SÃ­.
+
+27:11 - Isaias Zavaleta
+  Ok. Genial. Esas son preguntas frecuentes. Â¿Lo de precio y disponibilidad tambiÃ©n? O la lista de precios de departamentos por proyecto.
+  ACTION ITEM: Provide apartment price list by project to Santiago
+ - WATCH: https://fathom.video/share/jsPpDHg49oUJ-UHPbd5xspyVV7Z5xQyG?timestamp=1638.9999
+
+27:20 - lrodriguez
+  SÃ­, tambiÃ©n. Ah, lista de precios. Eso es con Dennis.
+
+27:27 - Isaias Zavaleta
+  Ok.
+
+27:29 - lrodriguez
+  Dennis, ahÃ­ lo descargas del Esperan, por favor.
+
+27:33 - Dennis Nomberto
+  SÃ­, no hay problema con eso, don Lenon.
+
+27:36 - Isaias Zavaleta
+  Genial. Â¿La lista de los asesores comerciales? Esto para que se asigne al lead cuando se haya agendado una cita.
+
+27:46 - lrodriguez
+  La lista de asesores comerciales.
+
+27:48 - Isaias Zavaleta
+  Ya se te la doy yo. Genial.
+
+27:51 - lrodriguez
+  Genial. bien que te lo dÃ© el tipo horario con sus datos, porque no siempre estÃ¡n operativos, porque descansan, etc.
+
+27:57 - Isaias Zavaleta
+  Â¿no? Esa es una muy buena pregunta. O sea, me lo puedes dar para tenerlo en cuenta, sin embargo, no va a ser tan relevante porque al final el agente va a agendar la redundancia en un solo calendario, Â¿no?
+  ACTION ITEM: Send visit booking schedule + available days to Santiago
+ - WATCH: https://fathom.video/share/jsPpDHg49oUJ-UHPbd5xspyVV7Z5xQyG?timestamp=1692.9999  Y va a asignar a los, sÃ­. Lo que sÃ­ es importante, que de hecho gracias por hacerme acordar, es el horario en el que se pueden agendar visitas y quÃ© dÃ­as de la semana.  Eso es clave.
+
+28:23 - lrodriguez
+  Ponlo ahÃ­, por favor, para chequearlo.
+
+28:26 - Isaias Zavaleta
+  SÃ­, sÃ­, sÃ­. Voy a ver, ya lo podemos dejarlo por acÃ¡. Con respecto a las alertas y avisos, no sÃ© si esto tambiÃ©n me lo incluiste, Giuseppe, en el correo que me mencionas, pero a quÃ© nÃºmero de WhatsApp deberÃ­a avisar el agente cuando se haya agendado una cita, dependiendo a su asesor asignado.  Â¿O a un nÃºmero centralizador?
+
+29:05 - lrodriguez
+  PodrÃ­a ser links de cada WhatsApp personalizado. Ok.
+
+29:14 - Giuseppe Quiroz
+  Â¿Al lead o al asesor que se ha registrado? Eso no quiero entender. O sea, si yo, por ejemplo, yo soy Pepito, escribo al agente, reservo la cita, Â¿esa alerta es hacia mÃ­ o es hacia el cliente?  No, eso no entendÃ­.
+
+29:33 - Isaias Zavaleta
+  SÃ­ o sÃ­, cuando nos dÃ© su correo, se le va a agendar en su calendario, definitivamente. Pero de cara a este punto, la alerta es para el asesor comercial, Oye, se ha agendado una visita, pero esa alerta le va a llegar a todos los asesores a un solo nÃºmero o al asesor al que se le asignÃ³ ese lead.
+
+29:51 - Giuseppe Quiroz
+  Esa era mi pregunta. que ser al que se le ha asignado, Â¿no? O sea, si te das cuenta en el UCI, yo dejo un enlace.  SÃ­. Como que, y ya hago un cierre, Â¿no? Como que quite cualquier cosa aquÃ­, dale click en el enlace y para cualquier cambio o etcÃ©tera, Â¿no?  Que puede ser referente a la informaciÃ³n o para mÃ¡s informaciÃ³n, etcÃ©tera. En este caso se podrÃ­a dar algo asÃ­, como que si deseas por AOV cambiar tu cita, te dejamos aquÃ­ en el enlace del asesor para que mayor informaciÃ³n, no sÃ©, algo asÃ­, Â¿no?  Y a la par, el asesor ya le recibe su alerta hoy, ah, esta persona me va a este... Ok, genial.  Ya que va a su caso, Â¿no?
+
+30:41 - Isaias Zavaleta
+  Bueno, esto no es una consulta, es mÃ¡s bÃ¡sicamente las mÃ©tricas que incluye el servicio, Â¿no? Citas agendadas, conversaciones gestionadas en general, cuÃ¡ntas conversaciones se van a transferir al equipo humano.  Y, bueno, vamos a mapear tambiÃ©n el tiempo de respuesta y cierre ahÃ­ con unos KPIs. Pero aparte de estos KPIs, hay algunos...  Uno que tambiÃ©n necesiten ustedes, no de cara a integrarlo en el Esperant, entiendo que ahÃ­ tienen su propia informaciÃ³n, sino de cara a darle seguimiento a la funcionalidad de la soluciÃ³n.
+
+31:13 - lrodriguez
+  Yo lo veo bien. Lo que mÃ¡s me interesa es cuÃ¡ntas citas se agendan y cuÃ¡ntas ventas van a haber.  Pero no sÃ© si UCEP necesita algo mÃ¡s.
+
+31:29 - Giuseppe Quiroz
+  BÃ¡sicamente lo que el tema del mes interÃ©s, bueno, igual todo va a ser de web, Â¿no? O sea, no tiene mucho sentido preguntar, Â¿no?  O sea, netamente va a ser tema de WhatsApp, Â¿no? Pero siempre...
+
+31:48 - lrodriguez
+  Y las redes sociales, Â¿tambiÃ©n se va a vincular con WhatsApp?
+
+31:54 - Giuseppe Quiroz
+  O sea, sÃ­ puedo poner pauta en redes sociales a WhatsApp, Â¿no?
+
+31:58 - lrodriguez
+  TambiÃ©n... Perfecto.
+
+32:01 - Giuseppe Quiroz
+  SÃ­, o sea, o sea, el, el, recuerda que el, el, este, va a llegar de un medio digital, Â¿no?  O por ejemplo, yo voy a poner un QR ahora en la, en la, en la, Â¿cÃ³mo se llama? En los banners, Â¿no?  De, de Monumental, y va automÃ¡ticamente a la web, la web, este, con el enlace a WhatsApp, se conecta por ahÃ­, Â¿no?  Entonces, la idea es que todo decante, o sea, no hay, no, no sÃ© quÃ© tanto podrÃ­amos diferenciar, porque recuerda que mientras mÃ¡s parÃ¡metros le pongas a la, al, al, en general, para recabar informaciÃ³n, mÃ¡s se demorarÃ­a el, el, personas en, en responder, eso tambiÃ©n tenga en cuenta que hay una tasa de abandono, este, eso podrÃ­a ser tambiÃ©n, Â¿no?  Este, el tema de... Â¿CuÃ¡ntas se quedaron en stand-by? PodrÃ­a ser una mÃ©trica, porque actualmente nos pasa eso, Â¿no? Que te dice, hola, quiero mÃ¡s informaciÃ³n, le mandas la informaciÃ³n, le preguntas y nunca mÃ¡s te responden, Â¿no?  De repente eso podrÃ­a ser tambiÃ©n una mÃ©trica, Â¿no? Este, Â¿cuÃ¡ntos, este, no sÃ© cuÃ¡l es el nombre ponerle, pero cuÃ¡ntas no, este...
+
+33:26 - Isaias Zavaleta
+  Cantidad de leads sin respuesta, por ejemplo, para mapear.
+
+33:31 - lrodriguez
+  Le echas, pero no PodrÃ­a ser un pequeÃ±o embudo, Â¿no?
+
+33:34 - Dennis Nomberto
+  Â¿TÃº crees que lo haga?
+
+33:36 - lrodriguez
+  Â¿Se puede hacer?
+
+33:37 - Isaias Zavaleta
+  O sea, definitivamente sÃ­. O sea, ya les comento un poquito mÃ¡s de cuÃ¡l es la proyecciÃ³n que yo tengo con estas soluciones.  Esa es solo una parte. Luego estÃ¡ la otra parte, el seguimiento automÃ¡tico. Que un agente detecte quiÃ©nes han dejado de responder, que entiende el contexto que tiene este agente y que se encargue de mandar mensajes que lo reactiven, bÃ¡sicamente.  Oye, Â¿quÃ© tal, Vique? Â¿Te interesÃ³ el proyecto tal? Pero dejaste de responder. Si eres interesado, si no respondes una hora, otra vez lo vas a molestar.  Y asÃ­ se va haciendo una sinergia en la que sÃ­, se optimiza un embudo comercial, literalmente, con inteligencia artificial.
+
+34:14 - lrodriguez
+  Ya, perfecto, me parece bien. Pero por lo pronto, lo que tenemos, sÃ­ serÃ­a bueno armar este pequeÃ±o embudito. Y yo no sÃ© si sea una mÃ©trica buena o si es una mÃ©trica o no.  Es, yo espero que no suceda, pero no sÃ© si van a haber momentos en los cuales la gente no responda, se, como se dice, se linkee, se lankee, no sÃ© el tÃ©rmino, que se quede pasmado.  quede, se la quede.
+
+34:41 - Isaias Zavaleta
+  Ya, eso.
+
+34:43 - lrodriguez
+  Y serÃ­a bueno tambiÃ©n.
+
+34:44 - Isaias Zavaleta
+  Es una muy buena observaciÃ³n. De hecho, junto a la soluciÃ³n, viene un gestor de errores. Esa es una buena pregunta, porque tengo que apuntar aquÃ­ el contacto.  Cuando ocurra un error, si es que por algo ya ocurre, me va a mandar directamente un mensaje WhatsApp a mÃ­, para yo solucionar.  Funcionarlo directamente. Â¿Hay algÃºn otro nÃºmero en el cual ustedes quieran aportar para que intervenga en una conversaciÃ³n?
+
+35:09 - Dennis Nomberto
+  Una consulta, disculpen, que sigan. Mira, tÃº dices que la guÃ­a te puede mostrar un montÃ³n de KPIs o, bueno, un montÃ³n de datos que se pueden, de repente, pedir.  SerÃ­a bueno que nos digas cuÃ¡les son los datos, asÃ­ en Word, nada mÃ¡s, una lista de datos que se puede medir y de acuerdo a eso decidimos, Â¿no?  De repente, ver quÃ© datos para nosotros nos pueda ser Ãºtil. Porque ahorita, quizÃ¡s hablando, mencionas algunos, pero de repente no otros.  Entonces, serÃ­a mejor tener una relaciÃ³n de quÃ© datos se pueden medir y, de acuerdo a eso, podemos decidir cuÃ¡les son los datos que queremos visualizar.  No sÃ© quÃ© parece la idea. Ahora, hace un momento mencionaste a quiÃ©n dispara la IA en el momento del agendamiento.  Yo entiendo que estas son como alertas que manda la IA hacia el asesor cuando ya ocurre un agendamiento, pero lo que tÃº estabas consultando es a quiÃ©n mÃ¡s va a hacer ese agendamiento, a quiÃ©n mÃ¡s deberÃ­a alertar, Â¿no?  Entonces podrÃ­a ser como un supervisor o alguien encargado que estÃ© muy aparte del asesor para que estÃ© al tanto de que hubo un agendamiento de una cita de la IA, Â¿no?  Es lo que estoy entendiendo, es asÃ­, muy aparte del usuario.
+
+36:35 - Isaias Zavaleta
+  Al final, Giuseppe, Â¿a quiÃ©n le va a llegar la advertencia de que una cita ha agendada? SegÃºn lo que me decÃ­a Giuseppe, se me hace mucho sentido que no, si se lo asigno, si el cliente Pepito es asignado al asesor Juan por una cita, que le avise al asesor Juan directamente.  Exactamente. Oye, se ha asignado un nuevo lead a tu cartera de leads o como se maneja el tÃ©rmino, pero tambiÃ©n se le podrÃ­a asignar cualquier tipo de lead a alguien.  Un supervisor, alguien que quiera gestionar todas las citas, sÃ­. E igual, independientemente de la alerta o no, todo se va a registrar en la base de datos.  O absolutamente todo. Esto solo es un aviso de que se ha agendado una cita para que lo tengas en cuenta y puedas accionar en el momento, pero igual todo se va a agendar en la base de datos.
+
+37:18 - lrodriguez
+  SerÃ­a bueno que tambiÃ©n le llegue una alerta a Dennis, Â¿no?
+
+37:22 - Isaias Zavaleta
+  SÃ­, claro. Por supuesto.
+
+37:26 - lrodriguez
+  QuÃ© bien.
+
+37:27 - Isaias Zavaleta
+  Genial. Genial. SÃ­. Bueno, ya. Por si acaso, sÃ­, esa es una buena mÃ©trica. Cantidad de conversaciones incompletas. Que ya midiÃ©ndolas, les menciono asÃ­ que es entre un 2, 1% de todas las conversaciones.  Pero al final son cositas que se van mejorando e iterando ya cuando entrÃ© en producciÃ³n. Bueno, con respecto a una reuniÃ³n que se podrÃ­a tener ya con todas las Ã¡reas, lo Ãºnico que querÃ­a mostrarles...  Este equipo era este flujo de acÃ¡, que ahÃ­ he tratado de guiarme del, o sea, esto no comparto nada con el LucidShark, esto ya creo que me ayuda mÃ¡s que todo a mÃ­ a personalizar los saludos y cÃ³mo se segmentan los proyectos, pero bÃ¡sicamente querÃ­a con ustedes ver este flujo que yo armÃ© para ver si estamos conversando bien y si asÃ­ iba a ser y quÃ© orden se cambiarÃ­a, de igual manera se los voy a mandar para que lo chequen, pero este es el flujo preliminar.  Bueno, de sus canales de redes sociales o sus canales de prospecciÃ³n van a llegar a la gente de WhatsApp.  Hasta ahÃ­ todo check. Luego acÃ¡ se viene todo el tema del saludo, se viene la consulta, aquÃ­ es donde la gente identifica cuÃ¡l es el proyecto de interÃ©s entre el proyecto X, Y, Z.  AcÃ¡ estÃ¡ mi primera pregunta. La solicitud de los datos importantes, nombre, apellido, correo, DNI, etc. Â¿Se va a hacer en quÃ© momento?  Â¿EstÃ¡ bien despuÃ©s de que se haya elegido el proyecto de interÃ©s? Â¿Es antes? Â¿Es despuÃ©s? Eso sÃ­ es importante tenerlo mapeado.  O si no, lo podemos, se los envÃ­o y lo cerramos otro dÃ­a, pero es importante que quede esa incÃ³gnita abierta para poder dejarlo alineado.
+
+39:12 - lrodriguez
+  SerÃ­a bueno que me lo envÃ­es tambiÃ©n para revisarlo en grupo y de repente con los chicos de ventas sale algo que nos podrÃ­a dar mÃ¡s luces, Â¿no?  Pero creo que este es un flujo general igual, Â¿no?
+
+39:25 - Isaias Zavaleta
+  SÃ­, totalmente. Es un flujo general. DespuÃ©s del registro, consultar cuÃ¡les son las preferencias inmobiliarias, responder preguntas frecuentes, confirmar que los datos ya se recibieron, enviar el material de proyecto, etcÃ©tera, las citas.  O es un flujo muy general. Pero al final es importante que ustedes puedan chequear eso porque lo mÃ¡s sensible e importante, yo considero, no sÃ© si ahÃ­ me pueden corregir si es que me equivoco, es esta parte de acÃ¡.  Solicitar los datos del lead. Saber en quÃ© momento solicitarlos porque si se los solicitas, no sÃ©, de repente me sigo equivocando.  Muy temprano, en el primer mensaje ya generas una fricciÃ³n. Tal vez, no lo sÃ©. O de repente lo solicitas mucho despuÃ©s y el lÃ­der te quiere contestar porque tiene toda la informaciÃ³n que querÃ­a.  No sÃ© si me dejo entender. Es como que buscar el momento en el que le solicitamos los datos para poder hacerle envÃ­o de la informaciÃ³n, Â¿no?  Por ejemplo, con el Ãºltimo cliente que tuve, los datos se los dÃ¡bamos antes de mandarle todo el material del proyecto.  Un ejemplo. SerÃ­a cuestiÃ³n de alinear en quÃ© momento se le van a pedir los datos.
+
+40:27 - lrodriguez
+  Ok. Â¿Te refieres a los datos personales o te refieres a los datos ya de perfilamiento?
+
+40:34 - Isaias Zavaleta
+  Ah, ya. Buena pregunta. No, a los datos personales.
+
+40:36 - lrodriguez
+  Correo, apellido, DNI, nombres. Ok, ok. Ya, ahÃ­ tenemos que evaluar tambiÃ©n para no cansarlo al cliente quÃ© tipo de datos vamos a pedir como mÃ­nimo, Â¿no?  Uh-huh. SÃ­. Giuseppe, Â¿quÃ© datos estamos estar queriendo en el Espera como mÃ­nimo? DNI, celular y correo.
+
+40:57 - Giuseppe Quiroz
+  Eh, como de, mira, como datos, eh, eh, El tema son los siguientes, Â¿no? El primero es la fecha, pero tÃº la puedes modificar, o sea, como en mi caso yo no registro hora por hora, pero en ese caso el bot te lo va a poner en automÃ¡tico, asÃ­ que no hay ningÃºn problema, eso es en automÃ¡tico, mientras se cuadra cuando se subiÃ³ al drive, Â¿no?  Ahora, el siguiente es nombre y apellido, segÃºn las columnas mÃ­nimas que te pide la espera, nombre y apellido, el DNI, Â¿no?  La columna, hay una columna que es el tipo de documento, pero a todos se le pone DNI, asÃ­ que puede ser por default el tema de DNI, pero sÃ­ te pide el nÃºmero de DNI, Â¿no?  Entonces ver, hay algunas personas, y eso era que tambiÃ©n lo comentaba al inicio, que no dan DNI, Â¿no? Entonces tienes que ponerle un autogenerado, Â¿no?  O ver que en ese proceso, ahÃ­ Santiago ver de que el bot puede... Ya cuando vea o sienta que, o sea, ya le pregunta tres veces el DNI y no quiere darlo, le cree un autogenerado, por un tema de excepciÃ³n.  Entonces, porque sÃ­ te pide el esperancioso, sÃ­, el tema DNI. El otro que te pide es el tema del Estado Civil, soltero, casado, pero generalmente todo se pone soltero, porque es una pregunta bien complicada, ya mÃ¡s personal.  De ahÃ­ viene a ser el tema del DNI, perdÃ³n, el correo, Â¿no? En este caso tambiÃ©n hay un entrampamiento, porque las personas a veces escriben mal el correo, Â¿no?  Por ejemplo, ahÃ­ guÃ­a va a tener que preguntar, escrÃ­beme tu correo, Â¿no? Y validas si es email o no sÃ© cÃ³mo ver.  SÃ­, totalmente. HabÃ­a mucha confusiÃ³n y cuando ponÃ­an .com, la gente se peleaba y abandonaba la conversaciÃ³n. Entonces, al igual que TNI, aquÃ­ tienes que ver quÃ© forma para tambiÃ©n un tema de autogenerado, la soluciÃ³n que yo le di era de que sea el nÃºmero del cual escribiÃ³ arroba whatsapp.com, o sea, ya, como que ya para hacerlo mÃ¡s rÃ¡pido, Â¿no?  va a haber ese problema, de ahÃ­ el otro es el nÃºmero, el nÃºmero, quÃ© problema a veces hay, bueno, en este caso no creo que haya ningÃºn problema, pero sÃ­ este, cuando a veces escriben del extranjero, Â¿no?  Entonces hay que tener cÃ³digo paÃ­s, Â¿no? Cuando son del extranjero. Eso, el canal de entrada, que es bÃ¡sicamente el mismo, el estado que es por contactar, el medio de captaciÃ³n, que en este caso serÃ­a web, y el, este, el, el.
+  ACTION ITEM: Send min required Espera data fields to Santiago
+ - WATCH: https://fathom.video/share/jsPpDHg49oUJ-UHPbd5xspyVV7Z5xQyG?timestamp=2644.9999  Asesor, Â¿no? El proyecto, perdÃ³n, a cargarse y el asesor. Es lo que te pide, como mÃ­nimo, Leonel, la espera.
+
+44:12 - lrodriguez
+  Y ya. SerÃ­a bueno hacer un cuadrito, Dennis, Â¿no?
+
+44:15 - Giuseppe Quiroz
+  Para pasÃ¡rselo a Santiago tambiÃ©n. Yo lo puedo pasar. Yo lo paso. Porque tengo el cuadro.
+
+44:23 - Isaias Zavaleta
+  Genial, genial. TenÃ­a unas preguntitas mÃ¡s, que eran las mÃ¡s importantes. Bueno, esto ya queda claro que va a depender del proyecto.  Perfecto. Eso tambiÃ©n queda por revisar. Y en este caso ya tambiÃ©n ya hemos, lo hemos solventado. Perfecto, equipo. Por mi lado, no tengo ninguna duda.  Voy a ponerme a trabajar en una demo lo mÃ¡s pronto posible, porque es ahÃ­ donde vamos a poder llevar la soluciÃ³n a un punto Ã³ptimo.  ProbÃ¡ndolo, iterÃ¡ndolo y llevÃ¡ndolo hasta que se acople directamente al equipo comercial.
+
+44:55 - Dennis Nomberto
+  Un saludo. Disculpen.
+
+44:59 - Giuseppe Quiroz
+  Dale, Dale, Lesslie.
+
+45:03 - Isaias Zavaleta
+  PerdÃ³n, creo que no te escuchÃ©, Giuseppe.
+
+45:05 - Giuseppe Quiroz
+  Dennis, Dennis, dale.
+
+45:08 - Dennis Nomberto
+  Â¿Me escuchan?
+
+45:09 - Giuseppe Quiroz
+  Â¿SÃ­ o no? SÃ­, sÃ­, te escuchamos.
+
+45:12 - Dennis Nomberto
+  Ya, a ver, yo tengo dos requerimientos respecto a lo que estÃ¡n indicando. Uno, en el tema de los estados, como ya lo mencionaron, entonces solo quedarÃ­an en dos.  Uno simplemente que serÃ­a el primer contacto y el otro el agendamiento, solo para manejarlo asÃ­ de manera la mÃ¡s simple posible.
+
+45:34 - lrodriguez
+  No, lo que hemos quedado es que el dÃ­a 30, que regreso yo a Lima y que tÃº tambiÃ©n vas a estar en Lima, nos juntamos y lo cuadramos.  En teorÃ­a deberÃ­an ser dos, mÃ¡ximo tres, no creo que sean mÃ¡s, pero deberÃ­amos tenerlo ya cuadrado esa fecha.
+
+45:49 - Dennis Nomberto
+  Ya, segundo, recuerdo que habÃ­amos quedado primero en que el archivo que se tenÃ­a que votar o registrar la IA era un Excel.  Ya, pero yo la verdad estoy queriendo evitar un poco problemas con respecto a las versiones y compatibilidades del Excel, entonces querÃ­a saber si habÃ­a alguna forma de hacer lo siguiente, primero, que en vez de que envÃ­e un archivo Excel, que envÃ­e un archivo de texto, como un bloc de notas, porque eso no difiere ni siquiera de programa ni nada por el estilo, y el archivo que estÃ© separado por comas.  Yo creo que es casi lo mismo que un CSV.
+
+46:32 - Isaias Zavaleta
+  Un CSV, dices.
+
+46:34 - Dennis Nomberto
+  No, no un CSV, sino un bloc de notas puro, Â¿no? Para evitar problemas de versiones de Office. Y segundo, era que se necesitarÃ­a que sea un archivo por dÃ­a, o sea, la IA que sea capaz de crear un archivo.  Apenas dan las 12, que genere un archivo, el cual el nombre simplemente sea la fecha, nada mÃ¡s, la fecha, Â¿no?  Y para poder justamente tener... Mapeado de cuÃ¡ndo viene y todo eso. Â¿Eso es posible?
+
+47:07 - Isaias Zavaleta
+  Â¿De quÃ© es posible? SÃ­ es posible, pero ahÃ­ extendemos un poco mÃ¡s la automatizaciÃ³n, porque ahÃ­ lo que me estÃ¡s pidiendo es que genere un reporte, o sea, la IA no hace, a no ser porque se lo piden, pero ahÃ­ es que no es reporte, bÃ¡sicamente.
+
+47:23 - Dennis Nomberto
+  No, no es un reporte sencillo, o sea, es el mismo archivo, simplemente que en vez de tener uno solo, porque creo que en algÃºn momento te dije que sea uno solo, este uno solo puede crecer mucho, y mÃ¡s si es un Excel.  En cambio, cuando es un blog de notas, es mucho mÃ¡s sencillo y fÃ¡cil, porque uno no pesa mucho, es leÃ­do por cualquier lenguaje de programaciÃ³n, y aparte, necesito tenerlo solo por dÃ­a, o sea, que una vez al dÃ­a, tener este tipo de archivos.
+  ACTION ITEM: Send example txt file w/ comma-separated values to Santiago
+ - WATCH: https://fathom.video/share/jsPpDHg49oUJ-UHPbd5xspyVV7Z5xQyG?timestamp=2867.9999
+
+47:56 - Isaias Zavaleta
+  Â¿Puedo revisarlo bien? Definitivamente se puede acoplar, me llevo el punto para revisarlo. Lo que sÃ­ te agradecerÃ­a, Dennis, es algÃºn archivo que tengas con el formato que me estÃ¡s diciendo para poder guiarme.
+
+48:08 - Dennis Nomberto
+  Porque no me queda muy bien ese que ha tratado conmigo.
+
+48:12 - Isaias Zavaleta
+  Ya, perfecto. Genial. Ok, ok. Por mi lado creo que no tengo ninguna pregunta, equipo. Solo serÃ­a bueno agendar una reuniÃ³n la siguiente semana ya para llegar con una demo Q1, por asÃ­ decirlo, para probar la soluciÃ³n.
+
+48:29 - Giuseppe Quiroz
+  Santiago, una consulta. El tema de, para, o sea, esto estamos haciendo, o sea, de los links que llegan de la web, por asÃ­ decirlo, Â¿no?  Pero, Â¿cÃ³mo harÃ­amos para, podrÃ­amos llegar a un punto donde yo te pueda mandar una base de datos y esa base de datos la gente comienza a...  SÃ­, por supuesto.
+
+48:54 - Isaias Zavaleta
+  sea, claro, claro, que los mensajes pactan desde la gente en vez de que solo los responda. Un agente outbound.  SÃ­, por supuesto. Por supuesto que sÃ­. Ojo que no es parte de este servicio, pero de cara a viabilidad y factibilidad, por supuesto que sÃ­.  Es complemento de esta soluciÃ³n. De hecho, asÃ­ vas atacando mÃ¡s el embudo comercial.
+
+49:15 - lrodriguez
+  Yo esperarÃ­a ver cÃ³mo nos va con esta implementaciÃ³n, con el agente reactivo, y ya luego, Giuseppe, vemos el tema de si nos va sÃºper bien, nos vamos de frente para el otro lado a un agente proactivo, Â¿no?  Para que le haga el seguimiento a los leads. Eso es lo que necesitas, Â¿correcto?
+
+49:34 - Giuseppe Quiroz
+  SÃ­, correcto.
+
+49:36 - Isaias Zavaleta
+  ChÃ©vere. No hay problema por eso. Lo revisamos. Lo que sÃ­ es importante, equipo, de cara a, no solo a este servicio, sobre todo al de la gente que va a tener la iniciativa de escribir, para esa soluciÃ³n, que esperemos que se dÃ© a largo plazo, de todas maneras, sÃ­ es importante que tengan la cuenta de meta verificada.  Eso es clave. Es crucial. Porque quÃ© va a pasar si es que... Si hacen mensajes en frÃ­o, sin esa verificaciÃ³n, es que el nÃºmero lo van a banear y vamos a tener que cambiar de nÃºmero y eso es un chambÃ³n.  Para responder mensajes no es necesario, no hay ningÃºn problema, pero para enviarlos, Meta sÃ­ es bien restrictivo y es importante tener esa verificaciÃ³n.  Perfecto.
+
+50:22 - lrodriguez
+  SÃ­ lo autorizaron, Â¿no, Giuseppe?
+
+50:27 - Giuseppe Quiroz
+  Eh, sÃ­, sÃ­, sÃ­, el, pero el pago sÃ­ saldrÃ­a el ocho.
+
+50:34 - Isaias Zavaleta
+  Ok.
+
+50:35 - Giuseppe Quiroz
+  O sea, si por el tema de tiempos ya no puede ingresar el tema de la factura y el prÃ³ximo viernes ocho se estarÃ­a haciendo el abono respecto a ello, Â¿no?
+
+50:50 - Isaias Zavaleta
+  No actualizaciÃ³n del contrato, sino como algunos requerimientos, porque ahÃ­ sÃ­ va a ser muy importante que yo trabaje con ustedes de la mano, porque es lo que les coloquÃ© en el correo, Â¿no?  La recomendaciÃ³n es que lo haga directamente el equipo, ya que se maneja mucha informaciÃ³n. InformaciÃ³n sensible. Â¿Sensible en quÃ© sentido?  InformaciÃ³n legal, informaciÃ³n contable, Ãºnicamente para validar que el negocio estÃ¡ trabajando en buenos tÃ©rminos. Requerimientos de meta.
+
+51:11 - lrodriguez
+  Nada mÃ¡s. Si es que lo trabajamos de la mano y lo hacemos sÃºper rÃ¡pido, crÃ©anme que eso va a salir en una semana lo mÃ¡s tardar.
+  ACTION ITEM: Email 1) meeting summary + pending items 2) Meta verification reqs
+ - WATCH: https://fathom.video/share/jsPpDHg49oUJ-UHPbd5xspyVV7Z5xQyG?timestamp=3078.9999  Bien. EstÃ¡ bien.
+
+51:21 - Giuseppe Quiroz
+  Ya. O sea, tÃº necesitas el pago para avanzar, eso es lo que entiendo, o podrÃ­amos seguir avanzando de cara al 8.
+
+51:29 - Isaias Zavaleta
+  Bueno, la informaciÃ³n se necesita especÃ­ficamente y se los mando por correo para ir mapeÃ¡ndolo una vez y no tener que esperar el pago.
+
+51:39 - Giuseppe Quiroz
+  SÃ­, podrÃ­amos avanzar con ello, serÃ­a genial. TÃº nos envÃ­as, que sean dos correos aparte, en un correo lo que hemos conversado hoy dÃ­a, quÃ© es lo que nos falta para una vez enviÃ¡rtelo, y en otro correo, bueno, ya serÃ­a el tema de los requerimientos que necesitas para la verificaciÃ³n de meta.
+
+51:58 - Isaias Zavaleta
+  Perfecto, asÃ­ quedamos entonces.
+
+52:01 - lrodriguez
+  Â¿Esto lo comparte, Santiago?
+
+52:04 - Isaias Zavaleta
+  SÃ­, voy a compartir esto de acÃ¡. Voy a compartir el tema de lo que acabamos de dictar los requerimientos, el plan de acciÃ³n y tambiÃ©n les voy a incluir el resumen, bueno, el acta de la reuniÃ³n.
+
+52:15 - Giuseppe Quiroz
+  AsÃ­ que por ese lado no se preocupen.
+
+52:20 - lrodriguez
+  Perfecto.
+
+52:21 - Isaias Zavaleta
+  Listo, entonces.
+
+52:22 - Giuseppe Quiroz
+  por mi lado todo, chiquito equipo.
+
+52:24 - lrodriguez
+  Ya, sÃ­. Si todo fuese chÃ©vere y lo tenemos para el viernes primero, o si no para el lunes 4 mejor, porque como es cierre de mes es posible que se nos complique.  El lunes 4 estÃ¡ bien, chicos, en la tarde, a las 4 igual.
+
+52:45 - Giuseppe Quiroz
+  SÃ­, por mi lado no hay ningÃºn problema.
+
+52:47 - lrodriguez
+  TÃº, Santiago, gracias, Giuseppe.
+
+52:48 - Isaias Zavaleta
+  Â¿TÃº, Santiago? TambiÃ©n no hay ningÃºn problema, lunes 4 a las 4, Â¿no?
+
+52:52 - lrodriguez
+  SÃ­, perfecto. Listo. Dennis, Â¿tÃº tambiÃ©n, no?
+
+52:57 - Dennis Nomberto
+  SÃ­, no tengo ningÃºn inconveniente.
+
+52:58 - lrodriguez
+  Ya, bacÃ¡n. Hasta ahÃ­ ya deberÃ­amos haber pasado todo el viernes. Y el lunes ya Ã©l nos comentarÃ¡ cÃ³mo va con la info y ver quÃ© falta o si ya seguimos puliendo.
+
+53:11 - Isaias Zavaleta
+  Muchas gracias por su tiempo. Listo, gracias. Gracias a vos. Hasta luego. Chao. Chao. Listo, nos vemos. Bye.

@@ -1,0 +1,76 @@
+Impromptu Google Meet Meeting - March 03
+VIEW RECORDING - 25 mins (No highlights): https://fathom.video/share/S5BfGuWdVgt7HkKLm1SMgiNaT9xxijaC
+
+---
+
+0:08 - Giuseppe Quiroz
+  Hola Santiago, ¿qué tal? Buenos días, ¿cómo vamos?
+
+0:12 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Todo bien, todo bien. ¿Qué tal? ¿Cómo estuvieron las vacaciones? Bien, amigo.
+
+0:18 - Giuseppe Quiroz
+  Bueno, complicada por el tema del cambio de horario, pero todo bien, gracias a Dios.
+
+0:25 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Imagino. España, ¿verdad?
+
+0:27 - Giuseppe Quiroz
+  Sí, estuve en muchos países.
+
+0:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Qué bueno, qué bueno, me alegra mucho.
+
+0:34 - Giuseppe Quiroz
+  Estaba complicado con tiempos y horarios, pero de igual manera siguiendo de cerca todo el movimiento.
+
+0:42 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Sí, me imagino. Ya, bueno, ya llegamos.
+
+0:46 - Giuseppe Quiroz
+  Y antes, bueno, aprovechando que antes todavía no entra Lionel Oscar. Oscar, creo que va a estar un poco complicado porque creo que está en vuelo y se conectará.  Sí, me imagino también.
+
+0:59 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Gracias.
+
+1:00 - Giuseppe Quiroz
+  Leonel, lo que quería consultar es que nosotros conversamos en quincenas con respecto al tema de la interfaz, el tema de conectarnos con Espera, reunirnos con ellos, pero en la reunión no se hiciste.
+
+1:20 - Santiago Isaias Zavaleta Ayala (Ulima)
+  ¿Esa fue la primera o la segunda reunión?
+
+1:24 - Giuseppe Quiroz
+  La que yo organicé, no sé si hubo una porque después Leonel me dijo que vieron aparte y yo ya no participé, pero quería confirmar ello, ya que estamos los dos porque ahorita más que nada te entra un preámbulo.  La primera es que los tiempos de Espera, como han agarrado varias inmobiliarias, han crecido, diría yo que en el rubro inmobiliario vienen a ser como un BCP.  Sí, un buen market share, ¿no? Entonces, en verdad, se la pelean con Evolta, Evolta vendría a ser su participante que le sigue, pero en ese sentido se han vuelto más restrictivos con su tiempo, con ese problema, ¿no?  Que antes te contestaba un poco más rápido, ahora, oye, te cito para cuatro días, tres días, entonces.
+
+2:29 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y lo otro es el interfaz, ¿no?
+
+2:32 - Giuseppe Quiroz
+  Lo quería saber, sí. Hola, Lyonel, buenas tardes. Buenos días, perdón. Estamos justo conversando con Santiago como para hacer un review de lo que se ha estado avanzando y dentro de ello, Santiago, ¿cómo pudiste ver el tema de la interfaz para los asesores, no?  Sí. ¿Cómo pueden revisar ellos sin ser administradores? Más que nada, visualizar las conversaciones y así puedan actualizar sus leads.  Sí, por ese lado tampoco hay problema.
+
+3:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De hecho, lo que hemos hecho, bueno, lo que vamos a hacer es crearle un usuario a cada asesor y la interfaz que van a visualizar va a ser, como mencionaste, únicamente lo importante.  O no le vamos a poner ahí mil y un campos que tal vez no van a sumar, que de hecho no van a sumar, solo va a ser más ruido visual.  Y como mencionaste, Giuseppe, va a ser un WhatsApp. Un WhatsApp que vas a poder segmentar por etiquetas. este caso, las etiquetas cuáles son.  Los estados del cliente, el de saludo, citado, precalificado, datos registrados y por proyecto. Pero de por sí lo que vamos a hacer es que cada usuario, cada asesor vea únicamente sus proyectos asignados para que no haya de ir un arroz con mango y sea lo más fácil posible.  Por ese lado, tampoco hay ningún problema. De hecho, podemos revisar una interfaz también ahora como ejemplo. De paso que vamos avanzando con la reunión, pero también lo tenemos mapeado.
+
+3:56 - Giuseppe Quiroz
+  Listo, entonces nada, empezamos ya con la reunión. sé, Lyonel, ¿Oscar se podrá conectar o estar en avión?
+
+4:11 - Lyonel Rodriguez Garcia
+  No, no creo que se pueda conectar con Oscar. Podríamos avanzar con Espera, ¿no? Ok.
+
+4:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Sí, listo.
+
+4:22 - Lyonel Rodriguez Garcia
+  Perdón, este es el link de Espera, que mandó Martín Suyón ayer. ¡Suscríbete ¡Suscríbete ¡Suscríbete
+
+4:29 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y no, no me llevo el correo, el link de... A ver, espérense, espérense, voy a contestar el email. Si no, en todo caso, si nos los puedes enviar, Leo.  Es otra reunión.
+
+4:45 - Giuseppe Quiroz
+  Es otro link. Sí, sí, sí.
+
+4:47 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya lo vi el link. Entramos a ese link, entonces. Ok, ok. ¿Qué tal, Joan? ¿Cómo estás? ¿Qué tal, Martín?  Buenos días. ¿Qué tal, Joan? Buenos días. Sí, no hay problema, comparto pantalla y empezamos. Bueno, ¿qué tal, Joan? ¿Cómo estás?  Joan, básicamente el objetivo principal de poder juntarnos hoy es a grosso modo contarte que estamos diseñando un sistema integral de inteligencia artificial para Cumbres y solo habían unas cuantas dudas que queríamos solventar antes de dejar todo claro.  Que de hecho cabe recalcar que toda la documentación con respecto al webhook, todo con respecto a la API, a los llamados mediante el token, que entiendo que ya lo tiene Cumbres con respecto a ser un parte del journey del cliente y tener el token también de prueba, absolutamente todo lo tenemos mapeado y no tenemos ninguna objeción.  Gracias. Respecto a eso, solo tenía unas cuantas preguntas que quizá me podrías ayudar y son básicamente estas de acá.  Lo primero que quería comprender, Joan, era con respecto a un endpoint en específico y era el de clientes. Quería saber si, nuevamente, si soy un poco redundante es porque todo lo estoy transcribiendo con IA y es importante y eso quede claro para no tener ningún cabo suelto, es que si este mismo endpoint permite actualizar el estado comercial del lead y si me podrías decir, por favor, qué campo exacto se envía y qué valores son los que acepta.  Si es que esta respuesta está en la documentación o de repente ya cuando tengamos el acceso directo al Esperant, lo vamos a aclarar, también está importante saberlo.  Ok. Ok, perfecto, me queda clarísimo. Con respecto a la duplicación, y aquí te cuento un poco de contexto, de repente Giuseppe me puede dejar un poco más de soporte para contextualizar a Joan, y es que nosotros hemos estado atendiendo un bloque de leads que al escribir directamente por meta no han llenado ningún formulario para que se registre automáticamente mediante el Esperan, como entiendo que se tiene ese trigger, ese disparador.  Lo que ahora estamos planteando es la subida de estos leads que tenemos en una base externa al Esperan, y quería preguntarte si es que existe algún endpoint de búsqueda de clientes por teléfono, por email, desde el mismo Esperan, para que los leads que subamos no estén duplicados.  Es decir, revisar los leads que tengo en el Esperan, verificar que de estos leads no tengo en esta base y únicamente subir los que son únicos.  ¿Hay manera de hacer eso con algún endpoint en específico? Total, perfecto, me queda clarísimo, muchas gracias. Y con respecto a la creación de eventos y visitas, al crear un evento vía API, que entiendo que el endpoint es post crear evento, se pueden también registrar visitas a sala de venta con fecha y hora, básicamente estos campos son editables, se pueden crear, se pueden actualizar y claramente también el asesor asignado.  Ok, perfecto, esto es importante y aquí Giuseppe, Lyonel, Martín lo comento para, ya adelantándome un poco en los que les quería presentar y es que según lo que me está diciendo Joan, vamos a tener...
+  ACTION ITEM: Definir criterios de corte diario con Giuseppe/Lyonel/Martín; luego implementar carga diaria a Esperan - WATCH: https://fathom.video/share/S5BfGuWdVgt7HkKLm1SMgiNaT9xxijaC?timestamp=449.953299  Hay que tener cortes de actualización para que una vez que ya tengamos toda la data actualizada, el IDIC, poder recién subirla.  Porque por lo que nos comenta, no va a ser posible estar actualizándose minuto a minuto porque solo existe una única creación que entiendo que lo más recomendable, Joan, sería cuando ya tengamos toda la información del prospecto, ¿verdad?  Ok, perfecto. Con respecto a, bueno, la pregunta 4, esto igual creo que está en la documentación, pero lo pregunto, de repente nos puedes apoyar ahora.  ¿Y cuál es la estructura exacta del Playload del web? Sí. No, sí se va a subir, sino que te explico, Lio.  Imaginemos un caso con un lead rápido. Por ejemplo, un lead hoy a las 9 de la mañana nos puede haber mandado su nombre y apellido, pero no continúa con la conversación porque, bueno, al final cada lead tiene una propia vida y etcétera y etcétera.  Y después, en la noche, recién manda toda... Esta información que faltó, DNI, correo, interés y demás. ¿Qué es lo que yo estoy proponiendo?  Que no se actualice cada hora o cada minuto, sino que haya un corte diario para que toda la información que se registró por MIA pueda subirse al Esperant con un criterio, ¿no?  Por ejemplo, si es que el lead ya cumple con los campos específicos, nombre, apellido, DNI, email, campos que ustedes consideren óptimos antes de subir al Esperant, lo subimos.  Si es que todavía faltan esos campos, no se suben porque pueden generar ruido. No sé si me dejé entender.  Es la propuesta que yo tengo porque si habían campos vacíos, puede generar, como te menciono, ese ruido, pero si ustedes consideran óptimo que basta con el nombre, apellido y DNI o nombre, apellido, se tenga que subir igual, lo subimos y lo llenamos con correlativos, sin problema.  Sí, sí, es cuestión de ajustar los criterios únicamente. Ok. Genial. Sí, Joan, la pregunta que te quería hacer era con respecto a la estructura exacta del Playload del cliente digital.  Ahí según la documentación que estuve leyendo, para mapear estos campos, esta información la tengo en la documentación de cara a hacer un llamado con un HTTP request, digamos.  Todo esto está en la documentación para poder guiarnos mejor. Claro, el webhook entiendo que al final va a generar un disparador cierto evento y vamos a poder recibir la información.  Pero de cara de crear un cliente, hacer ese llamado, esa estructura de los parámetros, el Playload, está en la documentación que tienen en internet, en su página web.  Ok, perfecto, genial. Y ya lo último, Joan, con respecto al entorno sandbox que tienen de prueba, ¿este token de prueba tiene alguna expiración o ya está permanente, por así decirlo?
+  ACTION ITEM: Confirmar token de producción de Esperan con Joan; luego compartir con Santiago - WATCH: https://fathom.video/share/S5BfGuWdVgt7HkKLm1SMgiNaT9xxijaC?timestamp=634.953299  Ok, perfecto. Entonces entiendo que el token de producción hoy en día lo tiene cumbres, ¿verdad? Ok, perfecto. Creo que ahí es un punto importante de equipo, Giuseppe, Martín y Lyonel.  Si es que no se tiene, sería lo más óptimo tenerlo lo más rápido posible para empezar ya con todo el tema de la implementación.  Pero Sí, básicamente ese token es lo que nos permite conectarnos o mandar estos envíos al Esperan mediante API. Básicamente, como mencionaba Joan, una manera de que nosotros vamos a tener para recibir eventos es mediante el webhook, que es este disparador que está esperando que ocurra algo para nosotros poder tener esos inputs.  cliente, el Pero el token va a ser lo que nos va a permitir, por ejemplo, crear los leads dentro del espera.
+  ACTION ITEM: Agendar reunión con Joan/Martín re: campos y parámetros de Esperan; luego alinear con Santiago - WATCH: https://fathom.video/share/S5BfGuWdVgt7HkKLm1SMgiNaT9xxijaC?timestamp=728.953299  No sé si de repente, Joan, me puedes corregir ahí o estoy bien. Ahora, sí, sí, solo para aclarar, Martín, claramente ahí, esto ya lo vamos a ver en otra reunión, me imagino, está pendiente aclarar cuáles son los campos y parámetros a los cuales vamos a acceder y a cuáles no.  eso sí está clarísimo, así que por ese lado creo que es cuestión de alinearlo después. Equipo, esas eran mis únicas preguntas con respecto al espera.  Mm-hmm. Total. Sí. Así es. Joan, una consulta. Ahora que lo mencionas. Este token, ya quitando de lado el webhook, el token, ¿tú habilitas los permisos específicamente para el token que nos vas a brindar?  ¿O ya ese token de por sí tiene todas las funcionalidades que salen en su documentación? Ok, perfecto, me queda claro.  Gracias por Gracias. Sí, 100% mapeado. Sí, de hecho es justo lo que quería proyectarles, pero no sé si de repente esta reunión ya va a acabar, porque creo que la teníamos solo hasta las 9 y media y lo podemos ver en otra reunión, si no lo muestro ahora hasta que se acabe la reunión, pero es parte de lo que quería presentarles hoy.  Gracias. Gracias. Gracias. Thank you. Gracias. Gracias. Gracias. Gracias. Gracias. Sí, totalmente, no hay ningún problema. No genera ningún stop, pero al contrario, creo que Minichet es la opción más óptima para poder hacer eso.  Listo, perfecto equipo. Entonces lo veo en el otro link. Muchas gracias, Joan. Gracias, Martín.

@@ -1,0 +1,172 @@
+Impromptu Google Meet Meeting - September 10
+VIEW RECORDING - 23 mins (No highlights): https://fathom.video/share/mfPNo7cRAxP1AUxndGQ443zJUEWc5LBt
+
+---
+
+0:00 - Fernanda Salazar
+  Hola Fer, Â¿quÃ© tal?
+
+0:02 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Todo bien, todo bien? Â¿Se me escucha bien a mÃ­? SÃ­, se te escucha bien. Genial. Â¿QuÃ© tal? Â¿CÃ³mo estÃ¡s?
+
+0:10 - Fernanda Salazar
+  Bien, Â¿y quÃ© tal tÃº?
+
+0:12 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Todo bien, todo bien, muy bien, gracias. Â¿QuÃ© tal? Â¿CÃ³mo van las ventas? Y sacÃ¡ndolas adelante.
+
+0:20 - Fernanda Salazar
+  QuÃ© bueno, Fer, quÃ© bueno.
+
+0:22 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Oye Fer, mira, para ir directo al grano, el propÃ³sito y la llamada, bÃ¡sicamente es ordenar el estado de este proyecto con respecto a cÃ³mo iniciamos el aÃ±o pasado, imagino que ya debes tener un poco mÃ¡s de contexto.  No es una llamada de venta, no pretendo venderte nada. Es mÃ¡s que todo para alinear expectativas y decidir cuÃ¡les van a ser los siguientes pasos y ver si podemos trabajar juntos.  Fer, una consulta. Para no asumir nada, cuando me mencionaste que necesitaban la entrega de la implementaciÃ³n del bot, Â¿a quÃ© te refieres exactamente?  Para poder comprender mÃ¡s o menos quÃ© es lo que estÃ¡n necesitando.
+
+1:00 - Fernanda Salazar
+  Lo que sucede es que nosotros queremos modificar el bot, o sea, hacerlo mÃ¡s neutral y mÃ¡s general. Ok, Â¿el bot lo siguen utilizando a dÃ­a de hoy?  No, por ese mismo motivo, porque lo queremos hacer mÃ¡s neutral.
+
+1:14 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, ok, ok, lo quieren hacer mÃ¡s neutral. Ya, mira, a ver, no sÃ© si de repente pudiste conversar con Paulo sobre cuÃ¡l fue la visiÃ³n inicial sobre este proyecto.
+
+1:29 - Fernanda Salazar
+  SÃ­, querÃ­a un bot algo light, que no se le complica mucho al cliente y que, pues, al fin de todo, igual que te derive como un asesor.  Ok, genial.
+
+1:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, este bot que ustedes estÃ¡n buscando, Â¿es bÃ¡sicamente dirigido a clientes finales o para sus mismos brokers que estÃ¡n captando tambiÃ©n?  A todo.
+
+1:51 - Fernanda Salazar
+  A clientes, a clientes, a leads que lleguen, a agentes tambiÃ©n. Ok, Â¿y cuando me dices...?
+
+2:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿QuÃ© necesitas algo mÃ¡s light? Â¿A quÃ© te refieres? Â¿QuÃ© es lo que estaba haciendo el bot que posiblemente ustedes necesiten que no haga o que empiece a hacer?
+
+2:08 - Fernanda Salazar
+  Claro, mira, te comento, yo resumen al grado hace un par de meses, entonces realmente no he estado muy entendida en cuanto al bot, no le he visto en funcionamiento, ya que no se estÃ¡ usando.  Le he preguntado, he conversado con Pablo y Ã©l me dijo que realmente solo querÃ­a un bot light, que dÃ© a lo mucho tres mensajes y ya, no mÃ¡s.
+
+2:35 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, ok, mira, en ese caso, no estoy seguro si es que yo te pueda ayudar, te comento, ya mira la situaciÃ³n prÃ¡ctica.  Ahorita yo considero que para poder colaborar juntos hay dos opciones. Primero, la que me has solicitado, que es, oye, entregarte lo que hicimos con el bot, lo que se hizo hasta el momento, pero lo Ãºnico que yo te podrÃ­a entregar si es que sea...  El pago de ese 50% final serÃ­a la documentaciÃ³n y el cÃ³digo, no serÃ­a un bot funcional. Por eso nuevamente sin aras de querer volver al pasado, te recomendarÃ­a que converses un poquito mÃ¡s con Pablo y que te comente quÃ© es lo que pasÃ³ de repente con JesÃºs, que era, me imagino que de repente tÃº ahora estÃ¡s en ese puesto.  Y es que al final hubo un tema con la firma del contrato y al final Pablo no firmÃ³, no firmÃ³ el representante legal, el contrato no era vÃ¡lido, me dejaron de contestar, ya no le hicieron seguimiento.  O sea, al final nunca se culminÃ³ el proyecto y no se terminÃ³ de la mejor manera, por asÃ­ decirlo.  Pero no hay problema, eso es parte del pasado y no pasa nada. Ahora, si faltÃ³ el 50% del pago y si es que si realizar ese 50% primero tendrÃ­amos que hacer un nuevo contrato que esta vez sÃ­ lo firme el representante legal, que me imagino que es Pablo.  Y lo Ãºnico que yo les podrÃ­a entregar con eso es la documentaciÃ³n y el cÃ³digo del bot, pero no funcional, debido a que ha pasado como seis meses de que no me contestan y no tengo informaciÃ³n y claramente nuestros precios han cambiado.  Nuestros servicios han cambiado y lo que les puedo ofrecer por pagar esos 500 dÃ³lares que faltan serÃ­a eso, el cÃ³digo del bot y claramente, te estoy diciendo transparente, generalmente no intento venderles nada, eso no les servirÃ­a de mucho porque eso incurrirÃ­a que algunos de ustedes tengan que aprender cÃ³mo manejar a IA, cÃ³mo manejar automatizaciones, cÃ³mo mejorar el bot y al final eso te va a quitar mÃ¡s tiempo del que posiblemente tÃº quieres obtener con una soluciÃ³n como ese bot, Â¿me sigues?
+
+4:27 - Fernanda Salazar
+  SÃ­, claro, o lo que tÃº recomiendas es que se culmine hasta la implementaciÃ³n.
+
+4:33 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, mira, entonces eso sÃ­ ya llevarÃ­a por la segunda propuesta que es la que te querÃ­a comentar, nuevamente no intento venderte nada, solo mÃ­ralo, obsÃ©rvalo, evalÃºalo de repente con Paulo para ver si es que es lo que les estÃ¡ faltando porque nuevamente nuestros servicios y nuestros precios han cambiado totalmente con respecto a la primera vez que trabajamos, que si mal no recuerdo fue en abril o no me acuerdo muy bien, y eso que sÃ­ fue.  En realidad no me acuerdo, ahÃ­ Pablo me sacÃ³ un poquito de canas verdes, pero no pasa nada. Mira, bÃ¡sicamente, te comento asÃ­ brevemente nuestros servicios.  Primero te muestro un poquito nuestros casos de Ã©xito. De hecho, GaleÃ³n fue el segundo cliente con el cual empezÃ¡bamos empezando a armar estas soluciones.  Y bueno, por temas de la vida no se pudo culminar el proyecto. Nosotros ahora hemos trabajado con una desarrolladora que en este caso es Cumbres.  Hemos tambiÃ©n trabajado con un negocio inmobiliario de MÃ©xico. Y ambos les hemos presentado las mismas soluciones y a dÃ­a de hoy ya estÃ¡n teniendo resultados.  tÃº me vas a decir, Santi, Â¿cuÃ¡les son esos resultados? BÃ¡sicamente lo que nosotros estamos ofreciendo, y creo que eso lo tengo por acÃ¡, discÃºlpame.  Ahora dÃ©jame buscarlo. Que definitivamente es una soluciÃ³n que a ustedes les va a servir. Pero es importante que evalÃºen si es que al final la inversiÃ³n que van a hacer les va a devolver ese retorno de inversiÃ³n que estÃ¡n buscando.  BÃ¡sicamente esto es lo que hemos hecho con las inmobiliarias con las que hemos trabajado. Es llevarlas de esta situaciÃ³n que imagino que tÃº ya debes estar empapÃ¡ndote un poquito mÃ¡s, o si es que no ya las conoces porque estÃ¡s mucho tiempo en el sector inmobiliario, que es, vas a dejar de perder leads por no contestar rÃ¡pido el WhatsApp, vas a tener un seguimiento que le vas a poder dar a esos prospectos, vas a dejar de tener agentes ocupados en responder consultas que te apuesto que ni siquiera se responden porque son muchas, y vas a dejar de depender de solo agentes y de una cartera grande que tengan.  Me imagino porque yo recuerdo cuando trabajÃ© con ustedes, su cartera y sus ventas dependÃ­an de la cartera de los agentes que tenÃ­an que contratar reciÃ©n, y eso puede ser un dolor a veces.  Y bÃ¡sicamente, Â¿cuÃ¡l es el punto B que estamos haciendo? Â¿QuÃ© hacemos con esa transformaciÃ³n? Â¿QuÃ© es lo que hacemos con esas inmobiliarias?  BÃ¡sicamente, hacemos una instalaciÃ³n de un ecosistema de agentes de inteligencia artificial que te van a dar atenciÃ³n 24-7, que te van a calificar y cualificar los leads automÃ¡ticamente, te van a dar mÃ¡s visitas agendadas, y esto es clave porque te van a dar visitas agendadas de clientes que sÃ­ te van a...  O por lo menos tienen mÃ¡s probabilidad de comprarte porque el agente de IA filtra quienes estÃ¡n ahÃ­ para preguntar por preguntar y quienes en verdad te pueden hacer una compra.  Y eso, quitÃ¡rselo a un humano en la carga manual es sÃºper valorado. Vas a tener tu CRM siempre actualizado, vas a tener reportes claros y vas a tener una compaÃ±Ã­a, mejor dicho, vas a poder sacar el mÃ¡ximo provecho a las campaÃ±as que estÃ©n ofreciendo.  Â¿A quÃ© me refiero con ecosistema de agentes de IA? No sÃ© si de repente has escuchado un poquito mÃ¡s sobre cÃ³mo la IA estÃ¡ impactando en el sector inmobiliario, pero bÃ¡sicamente es, un agente de voz que automÃ¡ticamente llame cuando se rellena algÃºn forms por parte de algÃºn cliente interesado en alguna casa o que directamente conteste el telÃ©fono cada vez que un cliente llame.  Â¿Para quÃ©? Para hacer las preguntas respectivas que podrÃ­a hacer cualquier vendedor, pero no quiere porque no quiere perder tiempo en llamadas que no sabe si te van a comprar o no.  Y Ãºnicamente los que sÃ­ cualifican con esas preguntas son los que reciÃ©n se derivan al vendedor. Ese es el agente de voz.  El agente de WhatsApp hace totalmente lo mismo. La Ãºnica diferencia es que tienes un canal de comunicaciÃ³n mÃ¡s y lo hace por WhatsApp.  Puede contestar mensajes como mandar seguimientos cada vez que el lead deje de responder, por ejemplo. Esto ademÃ¡s que te van a agendar las visitas, que te lo van a derivar con los asesores y hay un sistema de reactivaciÃ³n.  Hoy un lead me escribiÃ³ interesado en una casa, le di informaciÃ³n, pero me dejÃ³ de responder. AutomÃ¡ticamente hay una automatizaciÃ³n y el agente de WhatsApp es el que manda el mensaje.  Â¿QuÃ© es lo que van a obtener? ObtendrÃ­an una llamada automÃ¡tica en menos de 5 minutos o menos, inclusive dependiendo de cÃ³mo lo consideren.  TambiÃ©n respuestas en menos de un minuto en WhatsApp van a tener un 95% mÃ­nimo de contactabilidad en 24 horas, que es decir que el 95% de las personas que te van a escribir van a ser respondidas.  Eso es un estimado, porque puede ser 99 y mÃ¡s. Y va a ser una disponibilidad 24 o 5. Y nada, bÃ¡sicamente esto te lo comento, porque los servicios que ofrecÃ­amos antes no son los mismos de ahora.  Ahora estamos ofreciendo un sistema mucho mÃ¡s robusto y creo que lo acabas de ver. Y nada, cuÃ©ntame, Â¿quÃ© te parece?  Â¿Crees que esta soluciÃ³n te ayudarÃ­a?
+
+8:56 - Fernanda Salazar
+  Â¿CÃ³mo estÃ¡s viendo todo esto impactando en GaleÃ³n?
+
+9:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿CuÃ¡l rol que tÃº estÃ¡s ocupando actualmente?
+
+9:02 - Fernanda Salazar
+  Mira, de todo eso, lo Ãºnico que le quitarÃ­a serÃ­a el sistema de llamadas centralizadas, que no siempre es muy agradable hablar con un robot, porque eso es como si estÃ¡s llamando una empresa, esperas que alguien te conteste.  Lo de la ayuda de OpsApp, realmente eso tambiÃ©n es el punto que querÃ­amos llegar a generar citas, poder enviar la informaciÃ³n de una manera mucho mÃ¡s rÃ¡pida.  Antes de que el cliente simplemente pierda el interÃ©s. Tengo una pregunta, esta segunda propuesta es un plan mensual, por asÃ­ decirlo, en que ustedes lo van activando, o sea, en el que ustedes nos lo mantienen activo mientras sigamos pagando, Â¿no?  SÃ­, mira, esa es una buena pregunta.
+
+9:51 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De hecho, no me gusta hablar de precios en la primera llamada, porque me gusta primero que evalÃºes bien si es que es lo que necesitan.  Pero, de hecho, con AluÃ±a hemos trabajado antes y conozco su proceso. Y sÃ­, bÃ¡sicamente hay un precio de implementaciÃ³n y un precio de fin mensual.  La implementaciÃ³n se paga una sola vez, es un 50% inicial para empezar a desarrollar el proyecto. Y el 50% final ya despuÃ©s de hacer un mes de pruebas con el agente y despuÃ©s se va pagando el fin mensual junto a este 50% y el mes a mes que se vaya a utilizar o que se haya quedado en el contrato.  AsÃ­ que sÃ­, es un pago mensual y un pago por implementaciÃ³n porque es una soluciÃ³n personalizada. Yo no les estoy ofreciendo un enlatado, no les estoy ofreciendo un bot, no les estoy ofreciendo algo que, por ejemplo, Spotify Premium, tÃº tienes lo que todos tienen, no es algo de lo mismo, es un software.  Esto es una soluciÃ³n a medida, es una soluciÃ³n personalizada y es importante que eso quede claro. Y nada, bÃ¡sicamente, sÃ­, si es una implementaciÃ³n y un fin mensual, el precio no te lo podrÃ­a dar ahora porque serÃ­a cuestiÃ³n de hacerte mÃ¡s preguntas para encontrar muy bien quÃ© es lo que necesitas y cÃ³mo solucionarÃ­a tus problemas.  No sÃ© si hasta aquÃ­ tienes una duda antes de yo hacerte unas preguntas. Para poder comprender mÃ¡s quÃ© es lo que necesitan.
+
+11:03 - Fernanda Salazar
+  Claro, ver, en cuanto al pago mensual, te refieres, o sea, como te digo, no es prÃ¡cticamente una mensualidad para mantenerlo activo.  Ahora, en caso nosotros dejÃ¡ramos de trabajar contigo, Â¿la implementaciÃ³n igual se quedarÃ­a en la empresa?
+
+11:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Por supuesto, absolutamente todo lo que se construyÃ³, eso ya con la implementaciÃ³n hace que diga, GaleÃ³n, aquÃ­ estÃ¡ tu documentaciÃ³n, que es el instructivo de cÃ³mo se armÃ³ y quÃ© es cada parte.  AquÃ­ estÃ¡ unos cuantos videos para que entiendas cÃ³mo funciona el bot. Todo lo que ustedes van a tener es de ustedes, es totalmente de ustedes.  El pago del fin mensual, el pago de la mensualidad, es Ãºnicamente para yo poder hacerle, bueno, el equipo en este caso, hacerle la actualizaciÃ³n, hacerle de repente a ustedes una consultorÃ­a, una capacitaciÃ³n, poder dar soporte.  BÃ¡sicamente, para eso es la mensualidad. Si es que ustedes no optaran por la mensualidad, si es que hay alguien en su equipo que tiene ya conocimientos tÃ©cnicos automÃ¡ticos,  Y lo puede mantener con el tiempo sin ningÃºn problema.
+
+12:04 - Fernanda Salazar
+  Y si nosotros quisiÃ©ramos, no sÃ©, cada dos o tres meses que queremos configurar algo o queremos que le des mantenimiento o lo actualices, Â¿serÃ­a viable tambiÃ©n?
+
+12:17 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, mira, es cuestiÃ³n de coordinarlo. La verdad es que es cuestiÃ³n de coordinarlo. Ahora, una cosa muy diferente es lo que de repente ustedes solicitan, no quiero que suene un poco reacio, y posiblemente lo que yo recomiendo.  Nuevamente va a depender. Â¿Tienes alguien en tu equipo que conozca automatizaciones, un ingeniero de sistemas, que sea tÃ©cnico?
+
+12:40 - Fernanda Salazar
+  No, no, por lo menos.
+
+12:41 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mira, imaginemos que yo les implemento, bueno, el equipo, les implementamos la soluciÃ³n de IA y hacen el pago del primer mes.  Ok, todo bien, le hacemos mantenimiento, bacÃ¡n. Oye, Santi, mira, Â¿sabes quÃ©? Hasta aquÃ­ estÃ¡ bien. Cualquier cosa te llamamos si es que necesitamos algo.  En el mes dos imaginemos que hay algÃºn problema con su servidor. Simplemente el bot deja de funcionar por XY razÃ³n, que puede pasar, porque asÃ­ como cualquier tecnologÃ­a no es 100% perfecta.  No te quiero asustar y si no comparte, sino que puede pasar. O de repente, Santi, quiero que la gente de WhatsApp deje de responder asÃ­ y empiece.  Dame un minutito, por favor. No tengas hermanos tan grandes.
+
+13:21 - Fernanda Salazar
+  No, te preocupes. Me encanta ser hijo Ãºnica. No, te preocupes.
+
+14:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Gracias.
+
+14:31 - Fernanda Salazar
+  Ay, no, no, no. EstÃ¡s mala, gÃ¼ey.
+
+14:35 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Dale, no puedo hacer nada. Mira, te comentaba, es eso, o sea, si ustedes necesitan que yo intervenga o que el equipo intervenga en un mes en especÃ­fico, lo podemos hacer, va a depender nuevamente de lo que ustedes necesiten.  Si es que ustedes, por ejemplo, no yo he trabajado con una inmobiliaria en el cual necesitan el bot 24-7 todos los meses, todo el aÃ±o, digamos ya dos meses con eso.  A ellos se les cae la gente y su operaciÃ³n vuelve a ser como antes, lo que no querÃ­an, es decir.  Porque siguen escribiendo leads, los leads se enfrÃ­an, nadie responde al momento, nadie tiene informaciÃ³n, se pierden oportunidades de venta.  Y eso a ellos les causa urgencia. Si es que a ustedes les ocurre eso y la urgencia que tienen no impacta tanto y no es tan grande y no hay problema con solucionarlo de acÃ¡ hasta que me contacten y dicen, oye, Santi, ha pasado esto, te cobramos o te pagamos las horas, etc., hasta acordar algo.  Si no hay tanta urgencia, por eso no hay ningÃºn problema, el servicio, el mantenimiento y la actualizaciÃ³n puede ser a demanda, sÃ­, totalmente.  Ese serÃ­a mÃ¡s un servicio don, do yourself, disculpa. Yo te doy el agente, te doy el sistema, ustedes lo manejan, yo te doy la capacitaciÃ³n, te doy la documentaciÃ³n de cÃ³mo funciona y si es que por algo necesitas que yo intervenga en algÃºn mes o por algo, etc., que no te haya explicado en lo que ya te dejÃ©, ya se coordina un servicio a demanda sin problema.  Lo cual no recomiendo si es que es muy urgente que estÃ© activo 24-7, pero creo que en GaleÃ³n no pasaba eso, creo que no era tan crÃ­tico.
+
+16:01 - Fernanda Salazar
+  No, no era asÃ­ de crÃ­tico. En el momento no es asÃ­ de crÃ­tico, no tenemos una entidad de elite sumamente masiva, que no se pueda controlar por una persona.  Entonces, eso.
+
+16:17 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mira, te voy a ser 100% sincero nuevamente, es lo que te dije al inicio, Â¿ya? Con ese llamado no pretendo venderte y es lo Ãºltimo que quiero hacer cuando me doy cuenta que el cliente en verdad tiene un problema que no lo puedo solucionar.  Y cuando yo trabajÃ© con ustedes, me di cuenta, discÃºlpeme si me equivoco, de repente eso ya cambiÃ³, pero que su problema o su oportunidad de mejora no era un tema de gestionar leads masivos, sino era un tema de generar leads.  O no habÃ­an tantos leads de clientes finales, ojo, porque sÃ­, me acuerdo que ustedes captaban mÃ¡s que todo corredores inmobiliarios, pero no se captaban directamente clientes finales.  Y eso fue creo que una de las cosas que Pablo se dio cuenta despuÃ©s de adquirir el servicio, que el bot no le podÃ­a sacar tanto el provecho porque al final no habÃ­an leads que...
+
+17:00 - Fernanda Salazar
+  Gestionar.
+
+17:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AsÃ­ que yo te recomendarÃ­a que lo evalÃºes bien. Sinceramente, Â¿cuÃ¡ntos aproximadamente, Fer, sÃ© si ya tienes esa data, cuÃ¡ntos leads mensualmente reciben?  Â¿Y mediante quÃ© canales?
+
+17:18 - Fernanda Salazar
+  Eh, algo de 200, 200, 250, de los mecha 300. Este, la mayorÃ­a vienen de Facebook leads, bueno, de metal leads.
+
+17:33 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y bueno, los demÃ¡s son de portales inmobiliarios, Â¿no?
+
+17:37 - Fernanda Salazar
+  Urbana, Olimina, Ok. Â¿Y quiÃ©n gestiona todos esos mensajes o llamadas, Fer? El equipo de ventas, tal cual. O sea, yo reviso que todo es ok y que los leads se estÃ¡n llegando por el cliente del equipo de ventas.  O sea, tÃº eres como marketing, bÃ¡sicamente.
+
+17:54 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Le envÃ­as leads al equipo de ventas.
+
+17:59 - Fernanda Salazar
+  Disculpa. Te decÃ­a que tÃº eres de marketing, tÃº envÃ­as los leads al equipo de ventas. Claro, yo estoy ahÃ­ revisando que lleguen, que sean, pues eso, no te puedan dar un resultado de conversiÃ³n al fin del dÃ­a.
+
+18:14 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, Fer, Â¿y esos, ese equipo de ventas, esa fuerza de ventas, son agentes independientes o tiene GaleÃ³n su propio equipo con una planilla, su propia fuerza de ventas?
+
+18:25 - Fernanda Salazar
+  Es su propio equipo, es el propio equipo de GaleÃ³n. Ah, sÃ­, Â¿quÃ© hablas?
+
+18:28 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Cuando yo estaba trabajando con JesÃºs, trabajaban con puros agentes independientes, externos, Â¿no? Ah, mira.
+
+18:33 - Fernanda Salazar
+  SÃ­, ahora son muchas propias. estÃ¡n con fuerza de ventas. Genial.
+
+18:38 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok. O ya no ganan por comisiÃ³n si no tienen su propio sueldo. Bueno, comisiÃ³n tambiÃ©n, claro, sÃ­. Pero antes era Ãºnicamente comisiÃ³n si vendÃ­a bacÃ¡n y si no, bueno.  Ah. como normalmente, sÃ­, claro, que es como normalmente las inmobiliarias con agentes externos se manejan. Claro, claro. Ok. Fer, y ahorita, implementando una soluciÃ³n...  Es como la que me estÃ¡s comentando. Â¿CuÃ¡les son los KPIs, los indicadores que tÃº esperarÃ­as que se mejoren con el tiempo?  Â¿Tiempo de respuesta, visitas agendadas, eventas cerradas? Â¿QuÃ© esperarÃ­as que esto se les da?
+
+19:13 - Fernanda Salazar
+  MÃ¡s que nada, el tiempo de respuesta y las visitas agendadas. Porque sÃ­ es verdad, si la persona se le da la informaciÃ³n en el momento, donde ya se le prendiÃ³ el foquito y tÃº le envÃ­as eso rÃ¡pido, asÃ­ Ã©l haya dicho que nos comunicamos con Ã©l a las 4, pero el bot ya le enviÃ³ el mensaje, nosotros lo llamamos a las 4 y este cliente ya tiene todo el conocimiento, o al menos ya tiene la palabra galeÃ³n en la cabeza de que le enviamos un mensaje.
+
+19:47 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, es muy psicolÃ³gico el marketing, muy bonito. Totalmente, es muy importante eso.
+
+19:51 - Fernanda Salazar
+  Genial.
+
+19:53 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Fer, ya con la Ãºltima preguntita, para que no te dÃ© mÃ¡s coldre y no quieras tener hermanos mayores tampoco.  Â¿QuÃ© fricciones son las que mÃ¡s te estÃ¡n doliendo hoy?
+
+20:04 - Fernanda Salazar
+  Â¿QuÃ© es lo que te duele? Â¿QuÃ© es lo que estÃ¡s subiendo?
+
+20:07 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y dices, pucha, Â¿sabes quÃ©? No estamos creciendo por esto o esto estÃ¡ mal de cambiar. Pueden ser pÃ©rdida de leads, la falta de seguimiento, que tu CRM estÃ¡ desactualizado, que no tienes CRM, tal vez.  Â¿QuÃ© es eso que te estÃ¡ doliendo?
+
+20:19 - Fernanda Salazar
+  MÃ¡s que nada, de que no se puede filtrar de una forma rÃ¡pida los leads que no Basura con los leads potenciales, total.  AjÃ¡. Entonces, es como que son los nÃºmeros que no son, o a veces, porque no siempre te registras con tu nÃºmero real, a veces solo te registras con tu correo real, Â¿no?  Â¿Cierto? Claro. eso es lo que sucede, Â¿no? De que queremos una mejor filtraciÃ³n para poder responderle realmente a las personas que sÃ­ estÃ¡n interesadas genuinamente, Â¿no?
+
+20:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, ok. Ya. EstÃ¡ bien, Fer. Mira, yo creo que ya ahorita tengo... mÃ¡s claro cuÃ¡les son los problemas y cuÃ¡les son los dolores nuevamente en esta llamada.  No espero mostrarte precios ni nada, sino conocerte un poquito mÃ¡s y tambiÃ©n conocer cÃ³mo estÃ¡ funcionando ahora GaliÃ³n. TambiÃ©n me gustarÃ­a saber la opiniÃ³n de Paulo, pero bueno, me imagino que eso ya debe ser un contacto mÃ¡s directo contigo.  SÃ­.
+
+21:19 - Fernanda Salazar
+  Â¿QuÃ© te parece?
+
+21:20 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ahora ya teniendo lo mÃ¡s claro, de igual manera te voy a pasar eso que te estoy compartiendo para que lo puedas revisar, de repente te ayude un poquito mÃ¡s a emprender y se lo puedes mostrar a tu equipo.  Â¿QuÃ© te parece si tenemos una reuniÃ³n en unos dos dÃ­as aproximadamente? Lo puedes conversar con Paulo si es que sÃ­ consideras tener una reuniÃ³n, si es que no, no hay ningÃºn problema.  Lo importante es que yo quisiera que ya desde ahorita de esta reuniÃ³n tÃº te estÃ¡s llevando valor y sepas, si es que ya no lo sabÃ­as, que estoy seguro que ya lo sabes, cuÃ¡les son esos dolores y quÃ© es lo que necesitas para poder solucionarlos, que es bÃ¡sicamente lo que te estoy mostrando.  Pero va a depender mucho de que si en verdad el volumen de leads que tienes ameritan una soluciÃ³n asÃ­, porque al final sÃ­ me dices que, como me decÃ­as, Â¿no?  Lo que al final es algo control. Que no es de tanta urgencia. Posiblemente una soluciÃ³n como la que yo te ofrezco no vaya a tener tanto impacto como si tuvieras 500 o 1000 leads al mes, Â¿me sigues?  Es la transparencia que tengo que tener contigo y nada, te voy a mandar esto por correo, te voy a mandar una pequeÃ±a acta para mencionarte lo que se conversÃ³ y nada, me comentas entre hoy dÃ­a o maÃ±ana si es que queremos llevar una segunda reuniÃ³n para tal vez mostrarles una pequeÃ±a presentaciÃ³n mÃ¡s personalizada en cÃ³mo podÃ­amos transformar GaleÃ³n.
+
+22:29 - Fernanda Salazar
+  Ya estÃ¡ bien, me parece, me parece perfecto, no te preocupes, yo de todas formas voy a estar teniendo otra respuesta entre maÃ±ana, pasado maÃ±ana, algo mÃ¡s probable es que pasado maÃ±ana, este, y para ver si nos Ã­bamos a reunir, en todo caso desistimos del proyecto, Â¿no?  Dale, Fer, sin problema, tÃº me avisas nomÃ¡s y estamos hablando.
+
+22:51 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya estÃ¡ bien, muchas gracias, Santiago. Dale, nos vemos, cuÃ­date. Gracias.

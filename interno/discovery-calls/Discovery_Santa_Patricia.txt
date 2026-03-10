@@ -1,0 +1,202 @@
+Impromptu Google Meet Meeting - December 29
+VIEW RECORDING - 35 mins (No highlights): https://fathom.video/share/ukUzmgGdQt6sAyfK8VRNHCexxZ6H_AGS
+
+---
+
+0:03 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Hola, tal? Hola, Santiago, Â¿cÃ³mo estÃ¡s?
+
+0:07 - Enrique R.
+  Â¿QuÃ© tal, Enrique?
+
+0:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿CÃ³mo estÃ¡s? Â¿Se me va bien?
+
+0:09 - Enrique R.
+  me escucha bien? SÃ­, discÃºlpame que tenga retraso en ingresar, pero tengo varios pendientes todavÃ­a que resolver.
+
+0:18 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No te preocupes, Â¿quÃ© tal estaba el cierre de aÃ±o? Â¿Estresante?
+
+0:21 - Enrique R.
+  SÃ­, todavÃ­a tenemos para muchas cosas. Me imagino.
+
+0:28 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No te preocupes, quedamos, sÃ­, dime.
+
+0:30 - Enrique R.
+  Hay un tema que quiero, que me causa curiosidad. Yo he estado viendo tus videos de que has trabajado con la inmobiliaria Cumbre.  SÃ­. Y bueno, yo sÃ© que con ese software ya se puede agendar citas, responder, enviar brochures, fotos, lo que sea.  AsÃ­ es. Â¿CuÃ¡nto demora en implementar esto? Mira, te comento un poquito.
+
+0:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Primero respondo a tu pregunta antes de empezar con la llamada. La implementaciÃ³n... ExperimentaciÃ³n dura 60 dÃ­as, pero a partir del dÃ­a 30 ya tienes un MVP funcional que es un mÃ­nimo producto viable que ya va a estar corriendo en tu nÃºmero y los Ãºltimos 30 dÃ­as son Ãºnicamente correcciones, iteraciones, ajustes a lo que tu negocio realmente necesita.  Y de hecho aprovecho para comentarte un poco mÃ¡s, de hecho esta llamada Enrique no es para venderte nada, esta llamada no tiene ese fin, esta llamada es un poco para conocer mÃ¡s tu negocio, entender cÃ³mo funciona, comprender un poco mÃ¡s cÃ³mo estÃ¡n operando hoy en dÃ­a tus procesos comerciales, contarte un poco cÃ³mo estamos ayudando a nuestros clientes y si es que al final de esta llamada todo lo que te estoy diciendo hace sentido con lo que tÃº estÃ¡s buscando, Â¿quÃ© te parece si agendamos una segunda llamada para mostrarte una propuesta personalizada acorde a lo que tÃº necesitas?
+
+1:50 - Enrique R.
+  Ok, perfecto, genial.
+
+1:53 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Enrique, una consulta, Â¿quÃ© viste en Cumbres que te hizo escribirnos? Â¿CuÃ¡l fue ese gatillador? La respuesta rÃ¡pida... Yo ya he estado buscando una soluciÃ³n.
+
+2:05 - Enrique R.
+  Yo ya tenÃ­a conocimiento de que existe esa soluciÃ³n, pero mi desconfianza es en los errores que pueda cometer la Inteligencia Artificial.  Entonces, he visto algunas agencias de automatizaciÃ³n, pero que no estÃ¡n en PerÃº. Y a mÃ­ me interesa trabajar con alguien de PerÃº por temas de comprobantes de pago, bancarizaciÃ³n.  Total, total. SÃ­, es importante.
+
+2:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, es verdad que en el mercado peruano todavÃ­a, bueno, acÃ¡ ya entro un poco mÃ¡s. Imagino que esto tÃº mismo ya lo estÃ¡s viviendo y es que todavÃ­a el PerÃº, el mercado peruano, no la ve con respecto a Inteligencia Artificial.  Y bueno, esto es una oportunidad de mejora para aquellos negocios que entren en esta carrera, Â¿no? AsÃ­ que 100% de acuerdo con eso.  Una consulta, Enrique, si este antes de explicarte un poco mÃ¡s cÃ³mo consiste esta soluciÃ³n de Inteligencia Artificial, si esta soluciÃ³n quedarÃ­a.  Perfecto en 60 dÃ­as. Â¿QuÃ© tendrÃ­a que pasar para que tÃº dijeras, valiÃ³ la pena? MÃ¡s visitas, mÃ¡s cierres, menos pÃ©rdida de leads, orden total.  De paso, serÃ­a genial si nos puedas contar un poco mÃ¡s sobre tu negocio, en quÃ© consiste, quÃ© es lo que estÃ¡s buscando.
+
+3:14 - Enrique R.
+  Mira, respondiendo a tus primeras preguntas, Â¿quÃ© esperarÃ­a que para mÃ­ sea una ayuda y sentir que en realidad vale la pena la inversiÃ³n?  No solamente que los leads se manejen bien, en realidad no quiero perder tantos leads. En inmobiliarias hay un detalle, que de cada nÃºmero de leads solamente cerramos un 1 o 2%.  Entonces, este, es, el mercado de Piura, nuestro proyecto estÃ¡ en Piura y es un mercado muy, muy peculiar, porque aparte de haber bastante competencia, hay varios proyectos que yo tengo, este, aledaÃ±os.  Entonces, Me interesa que la Inteligencia Artificial realmente agende y nos ayude a filtrar efectivamente a clientes que sÃ­ estÃ¡n interesados en adquirir una vivienda, porque mi proyecto en realidad no es un proyecto, no es de edificios, sino mÃ¡s bien es un desarrollo horizontal.  Este proyecto horizontal consta de casas de uno y dos pisos, y como Ãºltima etapa, que va a ser en el 2027, voy a hacer unos multifamiliares, pero solamente de tres pisos, unos departamentos.  Entonces, eso ya lo dejo al final, pero en sÃ­ eso es lo que espero, Â¿no? Que haga el trabajo de los asesores y que los asesores se dediquen a cerrar prÃ¡cticamente.  Exacto. Porque hay... Mucha pÃ©rdida de tiempo entre llamadas y llamadas, Â¿no? No quiero tener clientes sin atender. SÃ­, total, totalmente de acuerdo.
+
+5:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De hecho, acÃ¡ te comento un poco mÃ¡s, Enrique, quÃ© es lo que pasa hoy en dÃ­a que si tÃº buscas alguna soluciÃ³n similar que pueda ayudarte en los problemas que me estÃ¡s mencionando, posiblemente vas a encontrar softwares enlatados como un CRM, una automatizaciÃ³n, no sÃ© si has escuchado sobre el proveedor Mantra, Evolta, Esperant.  Distintos CRM que ya vienen enlatados, que es simplemente tÃº pagas y te lo instalan en dos, tres dÃ­as. Â¿QuÃ© es lo que pasa con ese tipo de soluciones?  Que nunca van a funcionar ad hoc a lo que tu negocio necesita. Y eso es al final lo que tiene la inteligencia artificial.  Nosotros, nuestra agencia y consultora de IA, no buscamos reinventar tu rueda, sino hacer que la que ya tienes gire mÃ¡s rÃ¡pido.  Es decir, como tÃº estÃ¡s funcionando hoy en dÃ­a, maximizar esa productividad. Y bÃ¡sicamente nuestro sistema de inteligencia artificial lo que  Â¿QuÃ© eso? Encargarnos de todas las tareas que son repetitivas, manuales y, ojo, importantes, porque si no fueran importantes, Â¿para quÃ© las automatizamos?  Y yo creo que lo podrÃ­a consolidar en agendamiento de visitas calificadas y filtraciÃ³n inteligente, filtrar curiosos, filtrar gente que nunca me va a comprar y hacer que mis asesores cierren esos potenciales clientes con intenciÃ³n real.  Una consulta, Enrique, Â¿cuÃ¡l es tu ticket promedio y tu margen aproximado? Si es que se puede saber, esto de cara a poder estimar el retorno de inversiÃ³n y la viabilidad del proyecto.  Â¿De quÃ©?
+
+6:32 - Enrique R.
+  Â¿Del proyecto o de las viviendas? De las viviendas.
+
+6:36 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mira, hay varios precios.
+
+6:38 - Enrique R.
+  Ahorita estoy estimando que una vivienda pequeÃ±a debe tener un valor de 190 mil soles como mÃ­nimo. TodavÃ­a no tengo los puestos definidos.  La de dos pisos debe estar en 290 mil soles y los departamentos deben estar en 280 y algo, 290 aproximadamente.  Este, va a depender mucho de las ubicaciones que tenga, porque todavÃ­a estoy afinando algunos temas de precios y todo eso, Â¿no?  Pero en rentabilidad bruta, como cualquier proyecto inmobiliario, puede llegar al 10, 12%, este, al 8, por ahÃ­ es variable, Â¿no?  Depende de las circunstancias de obra y todo eso. Claro.
+
+7:25 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Enrique, justamente hablando de las obras, inmobiliaria, Â¿cumple mÃ¡s el rol de una comerciadora estilo Remax o mÃ¡s de una promotora desde que te encargas de la construcciÃ³n hasta la venta de las propiedades?  SÃ­, de una promotora. Ok, perfecto. Al mes, Â¿cuÃ¡ntos leads, cuÃ¡ntos potenciales creyentes estÃ¡s recibiendo en promedio? TodavÃ­a no, mira, el proyecto se ha dividido en dos.
+
+7:48 - Enrique R.
+  Yo, durante el 2024 y 2025, estado poniendo en venta unos lotes disponibles que yo tenÃ­a. Entonces eso lo manejÃ¡bamos a travÃ©s de redes sociales, venÃ­an interesados y solamente hemos logrado separar 13 unidades para venta, las cuales ya las vendimos.  Ahora nos vamos a enfocar a vender viviendas ya listas. Entonces nosotros esperamos que la velocidad de venta sea de 6 a 7 unidades por mes.  Entonces sÃ­ es, porque el proyecto nos va a durar 2 aÃ±os, o sea, voy a contratar solamente 3 asesores para que cada uno tenga una meta de 2 unidades mÃ­nimo y lo que espero es de que esto nos ayude en realidad a cerrar mÃ¡s que a hacer algo informativo, Â¿no?  Porque puedo tener solamente una persona para una especie de call center y brindar informaciÃ³n, pero independientemente... Que pueda atender a todos los leads, etcÃ©tera.  Que no se nos escapen los leads, Â¿no? Y que pueda filtrarlos, mÃ¡s que nada. Claro.
+
+9:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Enrique, y si pudiÃ©ramos mencionar un rango, tal vez aproximado, Â¿cuÃ¡ntos son estos leads que te escriben al WhatsApp, que se comunican contigo, al mes aproximadamente?
+
+9:25 - Enrique R.
+  50, mÃ¡s o menos, 50. SÃ­, aproximadamente 50. Ok.
+
+9:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y Â¿cuÃ¡ntos se demoran hoy? Me imagino que responder esto puede ser algo complicado, pero tal vez un promedio real, no ideal, es mÃ¡s que suficiente.  Â¿CuÃ¡ntos se demoran hoy en responder en horario y fuera de horario?
+
+9:44 - Enrique R.
+  En horario, una persona atendÃ­a y mientras iban llegando leads, a veces llegaban pocos, otros netamente eran que buscaban otra cosa y nos hacÃ­an, perdÃ­amos tiempo, Â¿no?  Claro. Pero... TenÃ­amos un desfase de dos, tres horas de respuesta, a veces una hora, a veces media hora. Por ahÃ­ es que mÃ¡s o menos necesitÃ¡bamos eso.
+
+10:11 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y hoy en dÃ­a, Â¿quiÃ©n atiende eso? Â¿El equipo interno estÃ¡ tercerizado o son los mismos asesores de venta?
+
+10:17 - Enrique R.
+  No, todo el equipo lo estamos renovando. Van a ingresar a partir de enero. Nosotros inauguramos el proyecto el 24 de enero aproximadamente.
+
+10:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Desde el 20 de enero nosotros ya empezamos con la venta.
+
+10:37 - Enrique R.
+  Entonces, sÃ­ necesito ir moviendo y contactando ya clientes. Claro.
+
+10:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Con respecto al dolor principal, Enrique, Â¿quÃ© sientes que se estÃ¡ perdiendo o que se perderÃ­a mÃ¡s hoy? Leads no atendidos, el seguimiento, el filtrado de curiosos, las citas no asistidas o de repente los cierres.  Respond, visita. Â¿CuÃ¡l es ese dolor principal que tÃº detectas que no quieres ver este 2026?
+
+11:07 - Enrique R.
+  Las visitas no asistidas y los cierres que se caen, Â¿no?
+
+11:14 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Si pudieras arreglar solo una cosa, Â¿cuÃ¡l serÃ­a como para poder priorizarlo?
+
+11:26 - Enrique R.
+  Yo creo, mira, mÃ¡s me enfocarÃ­a en el cierre, Â¿ya? Necesito tener ventas y cubrir una cuota mensual de ventas, Â¿no?  Sin eso mi flujo no va a caminar, o sea, el seguimiento, etcÃ©tera, podrÃ­amos trabajar complementÃ¡ndolo con la soluciÃ³n que puedes ofrecer, pero lo importante es que esta inteligencia artificial apunte a clientes que realmente tienen interÃ©s.  EstÃ¡n en bÃºsqueda y quieran comprar. Total.
+
+12:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Perfecto. Â¿QuÃ© porcentaje de leads del 100% dirÃ­as que es basura barra curiosos versus claramente la intenciÃ³n real?
+
+12:15 - Enrique R.
+  99%. Ok, claro.
+
+12:18 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AquÃ­ lo que buscarÃ­amos en esa inteligencia artificial es, pongamos una cifra al aire, Â¿no? 1.000 o 300 leads, de 300 leads al mes, imaginemos que sÃ­ o sÃ­ a nosotros nos pueden comprar 20 o 15, digamos.  Ok, siendo ya mÃ¡s acercano a la realidad, digamos un...
+
+12:36 - Enrique R.
+  Por cada 100, la regla es que deberÃ­a comprar uno. Total.
+
+12:42 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, digamos que de 300 nos deberÃ­an comprar 3. 3. Eso serÃ­a si entre atender a todos estos 297, con todas las demoras, con todos los retrasos, de estos 3 perdamos a 2 que sÃ­ o sÃ­ nos iban a comprar por no dar una atenciÃ³n inmediata.  Y solo cerremos uno. Lo que buscamos con la IA es maximizar las oportunidades de 20 y quiÃ©n sabe, tal vez con esta nueva tensiÃ³n de esos 297 podamos vender dos mÃ¡s.  Nunca vamos a poder saber cuÃ¡l es la verdadera calidad del IA mientras no se dÃ© una tensiÃ³n inmediata y de calidad en menos de un minuto.  Hay una cifra que me gusta siempre mencionar, que hay una, y eso lo dijo McKenzie, y eso fue McKenzie y fue el CRM Hubsworth, pero todas las conversaciones que se respondan en menos de un minuto tienen una probabilidad de conversiÃ³n de un 391% mÃ¡s, imagÃ­nate, o casi cuatro veces mÃ¡s.  Y si nos demoramos cinco minutos en responder, la conversiÃ³n cae en un 80%, o sea, la diferencia es abismal.  Con respecto a tus datos, Enrique, Â¿tienes hoy en dÃ­a brochures, precios, disponibilidad, tal vez alguna tabla de preguntas frecuentes, lineamientos con los cuales capacitas a tus asesores?
+
+13:46 - Enrique R.
+  Las vamos a tener todavÃ­a a partir de la quincena de enero, o sea, ahora estamos, desde el 3 de enero en adelante vamos a trabajar en esto, Â¿no?  Pero, como reciÃ©n nos han dado la licencia de habilitaciÃ³n. Estamos afinando bastantes cosas tÃ©cnicas y de marketing, Â¿no? Claro, total.
+
+14:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Enrique, a grosso modo, Â¿tienes etapas claras de tu funnel comercial? Por ejemplo, sea primer contacto o nuevo, contactado, calificado, citado.  Â¿CuÃ¡les son estas etapas que tÃº estÃ¡s manejando hoy en dÃ­a?
+
+14:21 - Enrique R.
+  Mira, primero es la recepciÃ³n de la informaciÃ³n y la prospecciÃ³n del cliente. No llega el lead, el asesor lo contacta, pregunta su necesidad y luego le ofrece las alternativas que tenemos.  Se agenda la cita, en algunos casos es factible la cita, como en la mayorÃ­a de los casos no vienen, Â¿no?  No se acercan. Entonces, Â¿quÃ© hacemos? Lo llamamos y le damos alternativas de otra fecha y hasta le decimos te recogemos.  O sea, siempre encontramos la forma de que el cliente no se vaya, Â¿no? Pero... Es relativo, es muy relativo.  Total, total.
+
+15:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Enrique, Â¿quÃ© urgencia hay para implementar un sistema de inteligencia artificial hoy en dÃ­a? Â¿De repente es para ayer o para la Q1 del 2026, para la Q2?  Â¿Para cuÃ¡ndo tienes proyectado ya estar con este sistema funcionando ya? DeberÃ­a estar para el 15 de enero en adelante, Â¿no?
+
+15:27 - Enrique R.
+  Ok.
+
+15:28 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Y quiÃ©n decide si implementarlo o no contigo? Â¿TÃº eres el Ãºnico decisor o hay alguna otra persona que mÃ¡s deba verlo sÃ­ o sÃ­?
+
+15:37 - Enrique R.
+  Tengo un socio, pero Ã©l prÃ¡cticamente seguÃ­a de mis decisiones, Â¿no? Entiendo.
+
+15:48 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mira, Enrique, voy a pasar a compartirte mi pantalla para mostrarte brevemente una presentaciÃ³n. Listo. Â¿Me confirmas, por favor, si se puede ver?  Creo que sÃ­, Â¿verdad? SÃ­. Listo. Bueno, primero no voy a ahondar tanto en este slide, me imagino que este slide lo dominas a travÃ©s del derecho mucho mÃ¡s que yo, pero hay algo que es evidente y es que el mercado inmobiliario ha cambiado.  Hoy el reto ya no estÃ¡ en generar mÃ¡s leads, sino en aprovechar mejor los que ya existen. AcÃ¡ hay unos tres puntos que me gusta siempre mencionar y es que responder rÃ¡pido ya no es una opciÃ³n.  El cliente actual compa en segundos. Quien responde primero es quien gana la visita. Y mientras mÃ¡s visitas calificadas tengas, mÃ¡s conversiÃ³n vas a tener.  Al final, el mercado de vidas raÃ­ces del sector inmobiliario es mucha estadÃ­stica. MÃ¡s visitas agendadas, mÃ¡s conversiÃ³n. Es asÃ­ de simple.  Claramente, visitas calificadas. El seguimiento hoy en dÃ­a ya no es manual porque no escala. Hoy en dÃ­a el seguimiento automÃ¡tico es clave.  La vez pasada vi un TikTok sÃºper interesante. En el que un asesor contaba que logrÃ³ cerrar una venta despuÃ©s del seguimiento nÃºmero 52.  O imagÃ­nate, acÃ¡ hay dos puntos que ver, Â¿no? El trabajo manual que tiene que tener el asesor para hacer este seguimiento, trabajo manual que hoy en dÃ­a se puede delegar a una IA.  Y ahÃ­ entra de repente la duda o esa pregunta que muchos negocios se hacen, no eres el Ãºnico que dice, Â¿la IA va a poder hacerlo tan bien como lo puedo hacer yo?  Â¿Va a sonar muy robÃ³tico? Â¿Me va a generar mÃ¡s fricciÃ³n? Y ahorita te vamos a explicar todo eso. Y la Ãºltima es que la tecnologÃ­a hoy ya marca la diferencia.  Hoy estÃ¡ habiendo un fenÃ³meno que es todo el de la IA, Â¿no? Ves IA por Instagram, ves IA por TikTok, ves IA por Facebook.  Y al final, mÃ¡s que informarte, hay una saturaciÃ³n de informaciÃ³n y ya no sabes quÃ© es verdad y no sabes quÃ© es mentira.  Y se estÃ¡n originando muchas personas, muchas agencias que venden IA, pero al final son muy pocas las que tienen resultados.  Y es justamente eso en lo que nos estamos enfocando. Esta es una representaciÃ³n sÃºper grÃ¡fica y sÃºper simple de cÃ³mo funciona el embudo comercial.  Gracias. Y, bueno, otros puntos que estÃ¡n bien importantes de mencionar y es que la respuesta tardÃ­a hoy en dÃ­a es igual a clientes perdidos.  Es un hecho. Si nos demoramos entre dos a tres horas en responderle a un cliente, ya hay una inmobiliaria que responde en menos de un minuto y lo responde como lo harÃ­a su mejor asesor.  Y ahÃ­ entra lo que te voy a mostrar en el siguiente slide. Siguiente, el seguimiento manual y desgaste del equipo equivalen a horas perdidas filtrando y validando leads.  Un CRM desorganizado y sin control. Y esto es importante porque hoy en dÃ­a para las inmobiliarias el CRM puede ser un gran problema si es que no se gestiona bien.  Con un buen sistema de inteligencia artificial tu CRM se convierte en una mÃ¡quina de ventas porque es el propio agente de inteligencia artificial no solo que te va a contestar por WhatsApp, sino que tambiÃ©n te va a llenar y actualizar el CRM.  Esto es clave porque ahÃ­ ya no solo te abarca el rol de un chatbot o de alguien de atenciÃ³n al cliente, sino de un asesor mÃ¡s que el actualizado del CRM para que el profesor solo lea y haga el seguimiento necesario.  Ya.
+
+19:00 - Enrique R.
+  PermÃ­teme hacer una acotaciÃ³n que para mÃ­ es importante, Santiago. Mira, yo estoy entre implementar un CRN y hacerlo lo tradicional, contratar una persona que se encargue del manejo de este CRN o, de lo contrario, invertir en esta inteligencia artificial.  O sea, yo descartarÃ­a de que si tomo esta opciÃ³n de la inteligencia artificial, yo siento que ya no necesitarÃ­a un CRN porque lo que hace el CRN es netamente acomodar y disparar los leads que van llegando a cada asesor.  Entonces entiendo que la inteligencia artificial tambiÃ©n lo puede hacer a travÃ©s de una hoja de cÃ¡lculo, Â¿no? SÃ­. Y acomodar las hojas de cÃ¡lculo en un drive para que, por ejemplo, mi persona de marca...  Marketing se encargue de hacer seguimiento, Â¿no? SÃ­, totalmente.
+
+20:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Hoy en dÃ­a, y ese es otro tema muy importante que aprovecho que lo mencionas para contarte, si bien el CRM es un servicio muy distinto al de la gente de IA, porque el CRM, digamos, que es toda la gestiÃ³n y control de datos del cliente, nuestros agentes de IA, nuestro sistema de agentes, se pueden integrar a cualquier CRM, sea que tengas un Esperant, sea que tengas un Evolta, sea que tengas un HubSpot o sea que sea un simple Google Sheets.  Nosotros nos podemos integrar a ese CRM, asÃ­ que por ese lado no hay ningÃºn problema. Si es que hoy en dÃ­a tÃº decides optar por esta soluciÃ³n de agentes de inteligencia artificial, nosotros no solo te entregamos un CRM de base de datos, sino te entregamos un CRM conversacional.  Es decir, como si tuvieras un WhatsApp, pero segmentado por proyectos o de repente por locaciÃ³n o por etapa del panel, que es lo que te va a dar mayor visibilidad.  sea, si por AOV de acÃ¡ seis meses tÃº me dices, Santi, voy a implementar el Esperanto, quiero implementar un CRM, nosotros nos integramos a Ã©l sin ningÃºn problema y ahora tenemos mucha mÃ¡s producciÃ³n.  Productividad en que ya tendrÃ­amos con este agente de inteligencia artificial como tal. No sÃ© si pude responder tu pregunta con eso.
+
+21:06 - Enrique R.
+  Ya, sÃ­, sÃ­, sÃ­. Ok, claro.
+
+21:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ahora, con respecto a cuÃ¡l es la soluciÃ³n, un agente de inteligencia artificial. Esta gente te va a dar atenciÃ³n 24-7 con respuestas instantÃ¡neas.  AhÃ­ la demo que estÃ¡s viendo en este video fue para otra inmobiliaria que es GaleÃ³n, no sÃ© si has escuchado sobre ella, pero es una demo que ha sido para, bueno, hemos trabajado.  Esta demo se hizo aproximadamente hace 6-7 meses. La verdad es que funcionÃ³ sÃºper, sÃºper bien. A los clientes le fue espectacular.  La verdad es que esta gente no solo ayudaba a clientes a buscar departamentos, sino los ayudaba a conseguir mÃ¡s agentes.  Porque en ese momento GaleÃ³n lo que hacÃ­a, y aquÃ­ espero la confidencialidad del caso, es que su fuerza de ventas era tercerizada con agentes inmobiliarios externos, no es que tenÃ­a asesores netamente como ellos.  y este agente hacÃ­a lo mismo, Â¿no? Oye, Â¿eres asesor o buscas una propiedad? Si eres un asesor, tenÃ­a un flujo especÃ­fico para los asesores, y si buscabas propiedad...  Un flujo especÃ­fico para los clientes finales. Agendamiento de visitas, clave y crucial. El agendamiento de visitas calificada para que luego el asesor solo tenga que meter ese penal, literalmente.  Y esta parte es importantÃ­sima. La personalizaciÃ³n. Â¿Por quÃ© me gusta hacer Ã©nfasis en esto? Porque nuevamente, a diferencia de un software o un CRM, nosotros no te vamos a dar algo enlatado.  Nosotros te vamos a entregar una soluciÃ³n ad hoc a cÃ³mo funciona tu negocio. Si hoy en dÃ­a tÃº tienes cinco asesores, me voy a inventar un flujo comercial al aire, y tÃº me dices, Santi, cada vez que se agende una visita, quiero que les avise por WhatsApp con toda la informaciÃ³n del negocio, que es como lo manejamos.  Que todas las semanas, por favor, por correo, mande un reporte de lo que han sido las visitas. O que cada vez que mis asesores le escriban, que por favor les responda con las citas que han tenido, que van a tener etc, etc, etc.  La personalizaciÃ³n va a ser de acorde a lo que ustedes necesitan y a lo que va a impulsar sus ventas, bÃ¡sicamente.  Dado de la personalizaciÃ³n, calificaciÃ³n y registro de leads es clave. Si tÃº me dices, Santi, mis asesores siempre tienen que preguntar si cumplen con el porcentaje de cuota inicial, si es que tienen alguna deuda, si es que de repente se van a mudar.  Todas esas preguntas que siempre tienen que hacer al inicio se las damos a la gente de IA, el agente de IA lo hace y en base a eso califica.  AsÃ­ de simple. Y claramente los registra en el mismo CRM. Y la filtraciÃ³n inteligente de intenciÃ³n, que creo que eso es al final lo mÃ¡s importante, filtrar a esos 297 leads de los tres que sÃ­ me pueden comprar y derivarlos automÃ¡ticamente.  Ahora, Â¿por quÃ© nosotros, sinceramente, cada vez que muestro este slide hasta vergÃ¼enza me da? Porque lo Ãºltimo que queremos hacer es jactarnos y decirte, oye, mira, Enrique, nosotros somos buenÃ­simos, somos los mejores, porque no es nuestra intenciÃ³n principal.  Â¿Por quÃ© te muestro esto? Porque hoy en dÃ­a no solo somos conscientes de que existe un problema en el mercado, hoy en dÃ­a hemos encontrado la soluciÃ³n y esta soluciÃ³n estÃ¡ validada por el mismo mercado.  Como tal, por nuestros clientes y por una de las mejores universidades del PerÃº. Espero que no se note mucho que soy de la de Lima.  Pero este aÃ±o hemos participado en un concurso de startups y hemos quedado top 3. De hecho, no te pude mandar un documento porque no pudimos conversar mucho antes de esta llamada.  De hecho, despuÃ©s de esta llamada agradecerÃ­a si me puedes pasar la pÃ¡gina de tu inmobiliaria o mÃ¡s informaciÃ³n que tengas para poder hacer una presentaciÃ³n mÃ¡s personalizada o una segunda llamada.  Pero, como te mencionaba, hemos quedado top 3 startups de este aÃ±o. Y, bueno, esperemos y vamos a ganar la del siguiente aÃ±o.  Â¿CuÃ¡les serÃ­an los siguientes pasos? Primero, saber si es que tienes alguna duda con respecto a esta llamada. Y la segunda serÃ­a agendar una segunda llamada ya para mostrarte una propuesta mÃ¡s personalizada.  Adoca lo que tÃº necesitas. Y si es que todavÃ­a crees que de repente en una segunda llamada tenemos que juntarnos con tu socio para mencionarle lo mismo que te hemos mencionado, no hay ningÃºn problema.  Caso contrario, ya en la segunda llamada estarÃ­amos mostrÃ¡ndote cÃ³mo podrÃ­amos empezar ya. Lo mÃ¡s rÃ¡pido posible para poder darle con todo a este 2016.
+
+25:05 - Enrique R.
+  Ya.
+
+25:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, Â¿tienes alguna duda con respecto al sistema, al proceso de implementaciÃ³n, a la entrega del servicio, al acompaÃ±amiento, al modelo?  SÃ­, Â¿quÃ© errores?
+
+25:16 - Enrique R.
+  Me interesa saber si en las primeras comunicaciones con los clientes van a haber errores. Por ejemplo, yo he notado que en el WhatsApp que tÃº me habÃ­as puesto de tu guÃ­a, me enviaste algo de Instagram, algunos enlaces, pero no eran tuyos, eran de Remax Gurus.  SÃ­. Pues es, yo no sÃ© si eso va a suceder con nosotros, Â¿no? Porque no, la idea es que no se confunda enviando una informaciÃ³n que no sea nuestra.  SÃ­, totalmente.
+
+25:50 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Te explico un poquito aquÃ­, Â¿quÃ© ha pasado ahÃ­? Lo que pasa es que con ese nÃºmero, nosotros tenemos nuestro asistente personal que, idealmente, atiende a todas nuestras consultas como fix...  Y a la vez utilizamos ese nÃºmero para hacer nuestras demos. Â¿Por quÃ©? Porque no podemos meternos con tu nÃºmero de WhatsApp desde el dÃ­a 1 a estar en prueba y error, prueba y error con tus mismos clientes porque no queremos quemar leads.  Nosotros utilizamos un nÃºmero para hacer demos, para hacer pruebas, y justo como tÃº nos escribiste tenÃ­amos la demo de uno de nuestros clientes que ya justo lo hemos terminado de implementar hace unos dÃ­as.  Bueno, nada, simplemente eso. Con respecto a los errores como tal, Â¿cÃ³mo trabajamos esto? Nosotros lo manejamos con nuestros nÃºmeros demo y todas las semanas vamos a tener reuniones para que tÃº mismo veas quÃ© es lo que se estÃ¡ avanzando, cÃ³mo se estÃ¡ avanzando, y cuando lleguemos aproximadamente al dÃ­a 21 o 30, ya te vamos a mostrar cÃ³mo funciona en WhatsApp.  Y en base a eso tÃº me vas a decir, Sandy no me gusta que responda asÃ­, que no responda con negrita, que sÃ­ le ponga emojis, menos mensajes, mÃ¡s mensajes, el proceso.  Vamos a iterarlo para que en el dÃ­a 45 aproximadamente... Â¡Gracias! Y en esos 15 dÃ­as, lo que nosotros esperamos es que la IA se equivoque lo menos posible.  Sin embargo, esas equivocaciones que pueden existir son algo que tienen que pasar porque en base a esas equivocaciones vamos a entrenar a tu agente de inteligencia artificial de acuerdo al verdadero comportamiento de tus clientes.  AsÃ­ que es inevitable que cuando salgamos a producciÃ³n no se equivoquen alguna u otra conversaciÃ³n. Es lo que tiene que pasar para poder entrenarlo, pero con respecto a un error despuÃ©s de la implementaciÃ³n, en lo absoluto.  Simplemente mejoras pequeÃ±as ajustes de tuerca para que de acÃ¡ en el primer mes estÃ© 100% alineado con lo que ya tu equipo necesita.  Ok. Perfecto. Entonces, Enrique, Â¿quÃ© te parece si, bueno, no te quiero molestar maÃ±ana ni pasado, ya se viene cierre de aÃ±o, de igual manera que estamos trabajando 24-7, pero Â¿quÃ© te parece si agendamos una segunda llamada para la primera semana de enero?  AgradecerÃ­a que me mandes toda la informaciÃ³n con respecto a tu negocio. Te mostramos una propuesta, me dices quÃ© es lo que opinas y si es que todo hace macho, lo que en verdad estÃ¡s buscando, empezamos con todo para empezar, mejor dicho, para poder tener lo mÃ¡s listo posible el 15 y terminar enero con tu agente de inteligencia artificial ya funcionando, o por lo menos la versiÃ³n inicial.
+
+28:16 - Enrique R.
+  Ya, mira, hay cosas que todavÃ­a estamos modificando, el proyecto ha variado un poco y yo lo que tenÃ­a era un mapeo de ubicaciones distinto, pero eso todavÃ­a yo lo debo tener a fines de enero, ya bien pulido, pero lo que te puedo ir pasando es un brochure antiguo que todavÃ­a tenemos que afinar muchas cosas.  En base a eso, puedes ir conociendo un poquito el proyecto, quÃ© tipo de vivienda tenemos, no te puedo dar precios ni nada porque todavÃ­a tengo que trabajar bastante parte tÃ©cnica, o sea, debo resolver otros asuntos para llegar yo a un precio.  A un precio final. Yo calculo que a fines de enero ya debo tener ya el precio mÃ¡s afinado, pero si es que entrÃ¡ramos a trabajar, por ejemplo, mi plan es de que en la segunda semana, comenzando la segunda semana de enero, o sea, la fecha del 5 en adelante, nosotros ya deberÃ­amos estar por lo menos atendiendo ciertos leads, aunque sea manualmente.  HaciÃ©ndolos llegar a la oficina y llevarlos al proyecto. Nuestra meta es llegar a la inauguraciÃ³n del 24, ya con algunos clientes que van a asistir a esta inauguraciÃ³n y ellos se conviertan en potenciales compradores, Â¿no?  Total. Entonces, hasta que tÃº me entregues ya con ciertos ajustes, ya entiendo que va a tener ciertos errores, pero en el camino se da...  Para ir afinando, deberÃ­amos empalmar casi con la inauguraciÃ³n, con la puesta en marcha de esto, Â¿no? SÃ­, totalmente.
+
+30:10 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mira, aquÃ­ lo plasmo de una manera para que puedas visualizarlo mÃ¡s. Nosotros somos muy anÃ¡logos, mÃ¡s aÃºn con una tecnologÃ­a que es nueva, pero si es que empezamos con la implementaciÃ³n, digamos, la primera semana de enero, nosotros, por mÃ¡s que no tengamos todavÃ­a la informaciÃ³n al 100% alineada porque estÃ¡s gestionando ciertos trÃ¡mites, nosotros vamos a ir construyendo el robot, por asÃ­ decirlo.  Cuando tÃº ya tengas toda la informaciÃ³n lista, va a ser Ãºnicamente darle el serrucho y darle el martillo. Para eso nosotros tenemos que construir el robot ya con las manos abiertas.  No sÃ© si me dejes de entender. Es decir, que vamos a hacer una inclusiÃ³n que estÃ© lista para implementar con la informaciÃ³n cuando tÃº ya la tengas 100% alineada.  Enrique, solo para comprender mÃ¡s un poco el dimensionamiento de cuÃ¡ndo empezarÃ­amos, si es que optas por trabajar con nosotros, Â¿cuÃ¡ndo tÃº consideras que deberÃ­amos empezar ya con este?  ImplementaciÃ³n, es decir, con el desarrollo de tu agente de inteligencia artificial.
+
+31:05 - Enrique R.
+  Bueno, no te podrÃ­a dar una respuesta asÃ­ porque no hemos llegado a la parte de ponernos de acuerdo en costos, Â¿no?  Y planes de pago, etc. Pero tentativamente, si tuviera que tomar una decisiÃ³n, serÃ­a entre la primera y segunda semana de enero.  El detalle es que yo no puedo todavÃ­a, o sea, lo puedo decidir incluso hasta este miÃ©rcoles, hasta el 31, pero yo dependo mucho de mi fondo de inversiÃ³n para yo pasar la propuesta y ellos me hagan el desembolso.  O sea, yo trabajo decidiendo, pero mis desembolsos tienen un trÃ¡mite. Entonces, cuando yo apruebe esto, reciÃ©n tendrÃ­a fondos, yo calculo que, no lo sÃ©, o sea, puedo decirte la primera o segunda semana de enero.  Y a partir de ahÃ­ entiendo que podrÃ­amos correr, pero tambiÃ©n yo no quiero perder tiempo, Â¿no? Entonces, en tu reuniÃ³n de propuesta econÃ³mica, dime quÃ© alternativas tienes de financiamiento, planes de pago, etcÃ©tera, hasta que yo pueda librar fondos.  problema de nuestro proyecto es que trabaja con un fideicomiso y el fideicomiso no es tan Ã¡gil como trabajar con un banco, Â¿no?  Total, total, no, 100% alineado, no te preocupes por eso.
+
+32:35 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, Â¿quÃ© te parece, Enrique, si tenemos nuestra reuniÃ³n el dÃ­a viernes 2 de enero? SÃ­, estÃ¡ bien.
+
+32:43 - Enrique R.
+  EstÃ¡ bien. La hora no te la puedo decir, pero tentativamente puede ser entre 11 y a esta hora, mÃ¡s o menos, al mediodÃ­a.  A ver, dÃ©jame un momento revisar, por favor.
+
+32:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Dale, estÃ¡ bien, sin problema. Entonces, vamos conversando de igual manera. De todas maneras, yo ya te agendo para el 2 y estamos conversando la hora para estar alineados.  Cualquier cambio de fecha no hay ningÃºn problema, lo vamos conversando y ya solventamos cualquier tipo de duda ese dÃ­a.  Y no te preocupes que me llevo la contemplaciÃ³n de algÃºn financiamiento que se te pueda hacer mÃ¡s cÃ³modo para empezar lo mÃ¡s rÃ¡pido posible.
+
+33:17 - Enrique R.
+  Ya, dime, acÃ¡ te puedo, por el WhatsApp, te envÃ­o el brochure este, Â¿no? El anterior. SÃ­, sÃ­, sÃ­.
+
+33:24 - Santiago Isaias Zavaleta Ayala (Ulima)
+  El brochure, si es que hay una pÃ¡gina web, alguna pÃ¡gina web. SÃ­, tambiÃ©n ahÃ­ encuentras todos los datos, asÃ­ que ya te puedes guiar en base a eso, pues.
+
+33:33 - Enrique R.
+  Dale, perfecto.
+
+33:34 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, el WhatsApp estÃ¡ bien, sin problema.
+
+33:37 - Enrique R.
+  Bueno, lo de la web y eso todavÃ­a tenemos que modificar. AhÃ­ hay cosas que tenemos que trabajar porque estaba con informaciÃ³n anterior, pero reciÃ©n vamos a ponernos a trabajar a partir de enero, Â¿no?  Perfecto.
+
+33:51 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Dale, Enrique, entonces, sin ningÃºn problema, cuando puedas, pÃ¡same la informaciÃ³n. Ya estamos conversando. Te estoy escribiendo entre hoy y maÃ±ana para confirmarte lo del mismo dÃ­a 2.  Voy a estar haciÃ©ndote seguimientos, asÃ­ que espero que no me bloquees por la intensidad. Pero nada, entonces ya estamos conversando y cualquier duda que tengas, igual ahÃ­ tienes mi nÃºmero para escribirme.  Ya, perfecto, Santiago.
+
+34:10 - Enrique R.
+  Gracias por tu tiempo. Feliz aÃ±o. Igualmente. Chao, chao. Hasta luego. Gracias. Gracias. Gracias.

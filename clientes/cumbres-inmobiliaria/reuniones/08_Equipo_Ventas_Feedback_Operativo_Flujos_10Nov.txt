@@ -1,0 +1,283 @@
+Impromptu Google Meet Meeting - October 28
+VIEW RECORDING - 36 mins (No highlights): https://fathom.video/share/HcBamFF1VFENFx3Fd74MP9yoqWTAsByc
+
+---
+
+0:25 - dacodeperu
+  Hola, Â¿me escuchas?
+
+0:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Hola, Denis, Â¿cÃ³mo estÃ¡s? Â¿QuÃ© tal? Ahora sÃ­.
+
+0:34 - dacodeperu
+  SÃ­, si no, que ha cargado un poco mal mi pantalla. Voy a ver si puedo ingresar de nuevo, porque ha cargado mal el Meet.  Dale, no te preocupes.
+
+0:42 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Te espero.
+
+0:56 - dacodeperu
+  Ya estÃ¡. Y ahora sÃ­, Â¿quÃ© tal?
+
+1:07 - Lyonel Rodriguez Garcia
+  Â¿Me escucha bien? Â¿Todo bien? SÃ­, sÃ­, estÃ¡ bien. Â¿CÃ³mo estÃ¡s? Â¿QuÃ© tal, Lyon? Â¿CÃ³mo estÃ¡s? Â¿Todo bien? Â¿Todo tranquilo por acÃ¡?
+
+1:17 - Santiago Isaias Zavaleta Ayala (Ulima)
+  QuÃ© bueno, quÃ© bueno. Bueno, ahÃ­ estamos con bastante chamba, pero mejor, mucho mejor. Â¿Va a entrar alguien mÃ¡s, equipo?
+
+1:48 - Lyonel Rodriguez Garcia
+  Vamos empezando con Denis, que tenÃ­a ahÃ­ unos pendientes. O Santiago, Â¿quÃ© has pensado para dejar la reuniÃ³n?
+
+1:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Tenemos una agenda preparada, de hecho, equipo, y... Estoy seguro que les va a llamar muchÃ­simo la atenciÃ³n y les va a gustar bastante cÃ³mo lo hemos ordenado.  Les comparto pantalla, por favor, y me confirman si es que todo se ve bien. Â¿Se ve?
+
+2:19 - Lyonel Rodriguez Garcia
+  Creo que sÃ­. Ya, perfecto.
+
+2:21 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Esta reuniÃ³n tiene como objetivo presentar avances, resultados de MIA y prÃ³ximos pasos de optimizaciÃ³n. Bueno, como paso 1, Denise, he puesto primero el formato para que lo podamos revisar brevemente juntos.  BÃ¡sicamente, ya se ha actualizado segÃºn los estados del esperante. El dÃ­a de hoy ha llegado, o mejor dicho, se ha actualizado el reporte ya con los ajustes respectivos.  El Ãºnico ajuste que falta, que aquÃ­, por favor, danos hasta el dÃ­a de hoy, que el tema de los estados sÃ­ ha tomado tiempo por la lÃ³gica, es poner por default el DNI para que pueda estar segÃºn lo que has establecido.  A ver, primera observaciÃ³n es, nada, bÃ¡sicamente hemos corregido... El tema de los estados, los estados ya no van a aparecer como primer guiÃ³n bajo contacto, como datos registrados, sino van a aparecer segÃºn lo que Dani solicitÃ³ en base al formato que ustedes manejan en el Esperant.  Se han corregido las filas que tenÃ­an Ãºnicamente llenado el proyecto, pero no tenÃ­an ningÃºn nÃºmero per se, lo cual no tenÃ­a sentido porque lo mÃ­nimo que tiene que estar es el nÃºmero de telÃ©fono que registramos en WhatsApp.  Si no nos mandan los datos o no nos mandan la informaciÃ³n, por lo menos nosotros tenemos que registrar el nÃºmero de telÃ©fono, es lo mÃ¡s lÃ³gico.  Y ahora se ha ordenado la lÃ³gica, si ven que hay muchas filas que tienen Ãºnicamente el nÃºmero, es porque el agente mÃ­a ha hecho el saludo, sin embargo no se ha continuado la conversaciÃ³n y esto aquÃ­ entra el juego del seguimiento automÃ¡tico, y eso se vamos a comentar mÃ¡s adelante.  Con respecto a lo que les acabo de mostrar equipo, Â¿hay alguna otra duda u observaciÃ³n con respecto al formato?
+
+3:58 - Lyonel Rodriguez Garcia
+  SÃ­, justamente...
+
+4:00 - dacodeperu
+  Lo estoy empezando a revisar con respecto a lo que estÃ¡s diciendo. Voy a tener que revisarlo por detalle de cada caso para de ahÃ­ consultarte, porque veo, por ejemplo, arriba en las primeras filas que has puesto del 9 de octubre, dice un nÃºmero arroba ID y de ahÃ­ dice arroba ese WhatsApp.  No sÃ© por quÃ© hay esa discriminaciÃ³n. Â¿No? Y abajo, bueno, hay otras opciones mÃ¡s. Entonces, tengo que revisar primero y de ahÃ­ consultarte a quÃ© se debe.
+
+4:35 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, mira, igual te lo respondo ahora y definitivamente lo puse, lo dejÃ© asÃ­ como, asÃ­ tal cual para conversarlo.  Nos ven, por observarlo, Denis. Al inicio de la operaciÃ³n de MIA, hubieron, se tuvieron que hacer cambios en la cancha.  Son los tÃ­picos cambios que tiene que hacer una inteligencia artificial, un entrenamiento. Si te das cuenta, Denis, estos que tienen el formato extraÃ±o o diferente al cual solicitaste, son de los primeros.  Dos dÃ­as de producciÃ³n de mÃ­a. DespuÃ©s esto no se ha vuelto a repetir y no se ha corregido por el mismo hecho de que no se ha tocado la base tal cual ha entrado.  Todo lo que estÃ¡ desde el dÃ­a uno hasta el dÃ­a de hoy estÃ¡ tal cual. No hemos corregido el arroba WhatsApp Net por el mismo hecho de que no queremos tocar la base.  Lo Ãºnico que tenemos que hacer acÃ¡ es simplemente eliminar el arroba y hasta el final. Y los que ves nÃºmeros raros es porque simplemente son nÃºmeros o de empresa o son los nÃºmeros que nos contactan directamente.  Ya no depende de nosotros ni de ustedes como tal. Con respecto al nÃºmero ahora estÃ¡ funcionando correctamente. De igual manera chequealo, revÃ­salo.  Te agradecerÃ­a que nos lo avises con anticipaciÃ³n. Y claramente que los cambios y mejoras tienen que estar en base al alcance que nosotros hemos bÃ¡sicamente pautado con ustedes en base a ese agente de guÃ­a.  Cualquier otra mejora u optimizaciÃ³n lo coordinamos, lo cotizamos sin ningÃºn problema y se revisa de la mejor manera. Con el formato, Denis, hasta acÃ¡ todo.  Check. Gracias. Gracias. Gracias. Gracias. Gracias.
+
+6:00 - dacodeperu
+  Gracias. Gracias. Gracias. Bueno, hasta donde yo he visto, creo que sÃ­ estÃ¡ bien. Lo que sÃ­ estaba visualizando ahorita era el tema del interÃ©s, que veo que todavÃ­a estÃ¡ vacÃ­o, Â¿verdad?
+
+6:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, se habÃ­a quedado pendiente por tu lado confirmarnos quÃ© es lo que se iba a llenar en esta columna.
+
+6:20 - dacodeperu
+  Ya, entonces te voy a mandar eso de, ya, fecha de cita, ya. En el tema de los estados de estÃ¡ saludo registrado hasta el momento, Â¿verdad?
+
+6:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, hay saludo registrado y tambiÃ©n hay agendado o visita agendada, si mal no recuerdo. AhÃ­ lo voy a revisar, creo que a mejor falta actualizar.  supone que si tiene fecha de cita deberÃ­a aparecer ya como citado.
+
+6:45 - dacodeperu
+  SÃ­, buena observaciÃ³n.
+
+6:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De hecho, aquÃ­ tenemos que actualizar agendados los que ya estÃ¡n. Son cambios que lo vamos a hacer justo ahora.
+
+6:52 - dacodeperu
+  Claro, registrado, el registrado es... PerdÃ³n, creo que el lÃ­o estÃ¡ con el micro activado.
+
+7:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿EscuchÃ³ bien, Denisse?
+
+7:05 - dacodeperu
+  DecÃ­a, Â¿no? Que el registrado solo era cuando llenaba el cliente sus datos personales y el citado ya aparecÃ­a reciÃ©n la fecha de cita.  SÃ­, total. TambiÃ©n estÃ¡ como pendiente.
+
+7:21 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Lo que vamos a aÃ±adir hoy dÃ­a, equipo, es el precalificado, que es cada una vez que termine la cualificaciÃ³n financiera, va a aparecer ahora con este estado para que podamos tener el embudo mÃ¡s completo.  Es el Ãºnico pendiente que faltarÃ­a. El precalificado. Y gracias por la observaciÃ³n, Denisse, cambiar la lÃ³gica para que salga como agendado sin mÃ¡s.  Pero es verdad que gracias por la observaciÃ³n.
+
+7:41 - dacodeperu
+  De ahÃ­ faltarÃ­a ver el tema del interÃ©s. El interÃ©s va de la mano con lo que iba en precalificaciÃ³n, Â¿no?  Si el usuario registra sus datos, hasta registrado, el usuario era frÃ­o. Pero una vez se cite, ya... Pasaba por defecto la interesa tibia.  Ahora, en el tema de la... Ahorita el tema es que todo viene de WhatsApp, Â¿no? Toda la procedencia es de WhatsApp.  SÃ­, claro.
+
+8:12 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, entonces eso no se toca.
+
+8:13 - dacodeperu
+  Eso nada mÃ¡s. FaltarÃ­a simplemente el tema del interÃ©s, Â¿no? SÃ­.
+
+8:16 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, esto por favor, Denis, si me lo puedes formalizar por correo para tenerlo mapeado, serÃ­a genial, para no haya ninguna incoherencia.  Y con respecto a este equipo, como les mencionÃ©, eso que tÃº ya me estÃ¡s contando, Denis, el de calificar como tibio, caliente y frÃ­o, ya se sale del alcance de la gente.  Esto serÃ­a cotizado aparte, que fue lo que les mandamos la vez pasada, pero nosotros hemos actualizado el estado y esto, el tema del interÃ©s, sÃ­ saldrÃ­a, no un proyecto aparte, claramente, pero eso serÃ­a una mejora de la soluciÃ³n, por favor, para tenerlo contemplado.  Porque hay una lÃ³gica que se tiene que trabajar en base a eso.
+
+8:52 - dacodeperu
+  Claro, claro, eso es parte de la otra soluciÃ³n.
+
+8:57 - Lyonel Rodriguez Garcia
+  SÃ­. Ya. Dennis, Â¿tÃº cuando subes, todos automÃ¡ticamente tienen un estado frÃ­o? SÃ­, por defecto todos son frÃ­os al momento que se sube al Esperant.  A excepciÃ³n de los que tienen visita, perdÃ³n, cita, que deben ser tibios, Â¿no?
+
+9:19 - dacodeperu
+  DeberÃ­an ser tibios. O sea, por default, antes, cuando se subÃ­a al Esperant, usando su plantilla, a todos se le ponÃ­a en interÃ©s frÃ­o.  Ya.
+
+9:31 - Lyonel Rodriguez Garcia
+  Pero si ya tienen cita, deberÃ­an ser tibios. SÃ­, deberÃ­an ser tibios.
+
+9:36 - dacodeperu
+  Ya, listo.
+
+9:38 - Lyonel Rodriguez Garcia
+  Ok, perfecto equipo.
+
+9:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, todo checo con respecto al formato. Muchas gracias, Dennis. Con respecto a la estadÃ­stica y desempeÃ±o de la gente, les muestro bÃ¡sicamente cÃ³mo se estÃ¡ desempeÃ±ando y de paso les muestro cÃ³mo ustedes mismos los pueden revisar.  Creo que Giuseppe y Dennis ya estuvieron familiarizÃ¡ndose con la plataforma, asÃ­ que por ese lado, genial. Pero lo que tienen que hacer es simplemente irse a la secciÃ³n de informes.  Y aquÃ­ van a poder ver toda la estadÃ­stica de la gente. Â¿CuÃ¡ntas conversaciones? Â¿CuÃ¡ntos desatendidos? Esto de sin asignar lo vamos a quitar de acÃ¡ porque eso lo confunde.  Lo real es lo que estÃ¡ acÃ¡. Luego podemos ver por conversaciones cuÃ¡ntas conversaciones ha desarrollado el agente mÃ­a en los Ãºltimos 7 dÃ­as, 30 dÃ­as, 3 meses y 6 meses.  AquÃ­ quiero agregar algo que fue algo que me mencionaste, LÃ­o, y es que si yo acÃ¡ reviso en los Ãºltimos 30 dÃ­as, el tiempo de respuesta acÃ¡ aumenta.  Y no tiene sentido porque mÃ­a no se demora 41 minutos en responder, pero esta es la suma del promedio desde el inicio de lo que hizo mÃ­a hasta el dÃ­a de hoy.  Â¿QuÃ© es lo que pasa? Que hay muchos mensajes que posiblemente, por decir una fecha, se hicieron hace una semana, se iniciaron y hasta ahora o el cliente no ha vuelto a contactar o simplemente se ha agendado una visita por lo que mÃ­a ya no le responde.  Es por eso que se va acumulando. AsÃ­ que para tener una nociÃ³n de cuÃ¡nto estÃ¡ respondiendo mÃ­a en promedio siempre, es siempre verlo en los Ãºltimos 7 dÃ­as.  Y la respuesta en promedio son de 39 segundos, que estÃ¡ sÃºper, sÃºper bien. Hay una estadÃ­stica que siempre menciono y es que todas las conversaciones que se respondan en menos de un minuto tienen una probabilidad de conversaciÃ³n del 391%, asÃ­ que MIA estÃ¡ cumpliendo con ese estÃ¡ndar de manera correcta.  Hasta acÃ¡ tambiÃ©n tenemos la secciÃ³n de etiquetas que pueden ver todo lo que estÃ¡ haciendo MIA, pero por etiqueta, sea que quieran ver las conversaciones del proyecto, por ejemplo, AndalucÃ­a, sea que quieran ver cÃ³mo estÃ¡ rindiendo Villanova, lo mismo van a ver cuÃ¡ntas conversaciones, cuÃ¡ntos mensajes recibidos, el tiempo de respuesta, etc.  Simplemente segmentado por proyecto y tambiÃ©n lo tenemos por fase. AcÃ¡ en el CRM conversacional tambiÃ©n ya se actualizÃ³ segÃºn los estados del Esperant para no tener dos estados diferentes y que no se estÃ© confundiendo.  Podemos ver, por ejemplo, los citados. MIA hasta ahora ha citado 12 visitas agendadas, es decir, que 12 leads de todos han citado.  Y aquÃ­ quiero hacer hincapiÃ© en algo, equipo sÃºper, sÃºper importante. Creo que hay algunos nÃºmeros de los asesores que aÃºn siguen baneados.  Â¿CÃ³mo me doy cuenta de esto? Porque cuando MIA quiere mandar un mensaje al... NÃºmero del asesor asignado, hay un error.  Es decir, que el mensaje no lo manda y estamos 100% seguros que es por ese tema. SerÃ­a bueno que nos ayuden a avaliar si todos los asesores ya tienen su nÃºmero habilitado, por lo menos al cual nos han dado ustedes para que MÃ­a les haga el aviso.  Y eso por ese lado. No estÃ¡ UCEP en la reuniÃ³n y me hubiera gustado mencionarle esto, pero ahÃ­ se lo pueden hacer llegar.  Y es que bÃ¡sicamente cuando se agenda una visita o cuando un lead pide atenciÃ³n, el nÃºmero que estÃ¡ avisÃ¡ndole a los asesores es un nÃºmero de nuestra agencia.  Â¿Por quÃ©? Porque ahora, como nos hemos conectado al API de meta oficial, la Ãºnica manera para que ese mismo nÃºmero donde estÃ¡ MÃ­a mande los mensajes es que le aÃ±adamos los seguimientos automÃ¡ticos.  Como todavÃ­a no lo estamos aÃ±adiendo, que se conversÃ³ en la reuniÃ³n anterior sobre la cotizaciÃ³n, nosotros los estamos ayudando para que podamos mandar esos recordatorios por nuestro nÃºmero de telÃ©fono.  Pero igual nosotros recomendamos sÃ­ o sÃ­ hacerlo con el nÃºmero de MÃ­a. Â¿Por quÃ©? Porque cuando... Simplemente el volumen de leads corre el riesgo de que nos baneen nuestro nÃºmero.  A nosotros no nos afecta directamente porque nosotros al final los queremos ayudar a ustedes a que agenden visitas, pero ustedes sÃ­ se van a venir afectados porque si nos banean ese nÃºmero, a los asesores ya no les van a avisar o no va a llegar ese aviso y claramente eso no es conveniente.  Por lo que serÃ­a lo mÃ¡s Ã³ptimo posible empezar con el tema de los seguimientos automÃ¡ticos. Eso o tal vez que les avisen a los asesores por otra aplicaciÃ³n, Telegram, Slack, pero no es lo mejor.  Lo mejor es que lo haga por WhatsApp para que sea mucho mÃ¡s prÃ¡ctico. Â¿Hasta quÃ© equipo tienen alguna duda con respecto a lo que les he dicho?
+
+13:36 - dacodeperu
+  Yo habÃ­a una consulta ahÃ­, Santiago. SÃ­, Denis. Cuando viste la secciÃ³n de conversaciones y viste ese tiempo mayor respecto a cuando se hicieron los Ãºltimos 30 dÃ­as, creo que de ahÃ­ una mejora que le puedes hacer a eso es que para que se vea algo real de los Ãºltimos 30 dÃ­as, que se vea algo de ya que...  Aquellos que hicieron respuesta, o te debes un quiebre mÃ¡s, Â¿no? AsÃ­ como tienes dÃ­as y por dÃ­a y semana, agregues un quiebre mÃ¡s que sea como que por estado o algo asÃ­ que te diga de que solo te haga el cÃ¡lculo en base a aquellos que respondieron y no a aquellos que no respondieron.
+
+14:23 - Lyonel Rodriguez Garcia
+  Ok, ok, ok, ok, eso estÃ¡ bien.
+
+14:26 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Si entiendo la lÃ³gica, vamos a...
+
+14:28 - dacodeperu
+  no tiene mucho sentido, bueno, para mÃ­, Â¿no? Si estÃ¡s poniendo varios dÃ­as o varios meses, no tiene mucho sentido de que, Â¿cÃ³mo se llama?  Aparezca estas opciones si solo se puede usar los Ãºltimos siete dÃ­as. Entonces, si voy a poner los otros dÃ­as, tiene que haber algo propio para que este tiempo de cuarenta minutos se reduzca.
+
+14:54 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, sÃ­ comprendÃ­ el punto, lo vamos a revisar para que aparezca. Lo vamos a ver. Si entiendo lo que me mencionas, segÃºn nuestra experiencia, siempre es bueno medir los Ãºltimos 7 dÃ­as porque es el comportamiento mÃ¡s real de la gente alineado al hoy, pero voy a averiguar con el equipo cÃ³mo podemos ponerle, si entiendo el filtro, para que si yo ponga 30 dÃ­as, no se cruce con las conversaciones que ya se dejaron de responder.  Lo entiendo, lo entiendo completamente. Vamos a revisarlo, Denis, pero de igual manera, si es que quieren ver el comportamiento de mÃ­ actual, esto es lo mÃ¡s eficiente, pero igual vamos a actualizar esa lÃ³gica.  100% de acuerdo.
+
+15:40 - Lyonel Rodriguez Garcia
+  Este reporte, Denis, lo vamos a recibir diario, Â¿no? Porque si todavÃ­a tenemos el tema de que no les estÃ¡ llegando el mensaje a los asesores, por lo menos por nuestro lado hay que avisarles que hay una cita programada.
+
+15:53 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No lio, sÃ­ les estÃ¡ llegando a algunos, no a todos, porque tienen el nÃºmero baneado, pero sÃ­ les estÃ¡ llegando.  Ahorita ya no tenemos ningÃºn asesor con el nÃºmero baneado, deberÃ­a llegar, Lyon. Ah, entonces estÃ¡n llegando absolutamente todos. Es mÃ¡s, aquÃ­ lo pueden corroborar.  Gracias por la aclaraciÃ³n, Lyon. AcÃ¡ hay dos bandejas. La que dice Cumbres Inmobiliaria IA es la de MIA. MIA estÃ¡ atendiendo todo por acÃ¡, y aquÃ­ ustedes lo pueden filtrar por estado.  Donde dice Demo Cumbres son todos los mensajes que le mandamos a los asesores de los avisos. AquÃ­ le estÃ¡n avisando a Rosa, tenemos todos los avisos.  AquÃ­ a Ricardo tenemos todos sus avisos. Edson y Zaira. Esos son los mensajes que le estÃ¡n avisando. Pero aquÃ­ lo pueden revisar directamente.  Ya.
+
+16:35 - Lyonel Rodriguez Garcia
+  Eso, Denis, tenemos que medir diariamente, Â¿ya?
+
+16:39 - dacodeperu
+  SÃ­, eso es justamente lo que hemos estado revisando junto con Giuseppe en estos dÃ­as, y para hacerle seguimiento a todo cÃ³mo estÃ¡ respondiendo.  Justamente en esa observaciÃ³n vimos de que el agente no habÃ­a tenido ninguna conversaciÃ³n por mÃ¡s de ocho horas, mÃ¡s y eso menos.  Gracias. Nos pareciÃ³ bastante raro, Â¿no? Porque se supone que la gente diariamente de alguna u otra forma responde.
+
+17:08 - Lyonel Rodriguez Garcia
+  SÃ­, es porque hemos estado haciendo las modificaciones respectivas, Denis.
+
+17:12 - dacodeperu
+  Ah, ya, entonces justamente porque con Giuseppe, como empezamos ya a meternos de lleno a la plataforma, como vimos ese rango de tiempo, entonces un poco nos sorprendiÃ³ un poco, Â¿no?  Ver ese rango de tiempo que no habÃ­a respuesta. SÃ­, totalmente.
+
+17:28 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Para evitar cualquiera de esos casos, cada vez que hagamos modificaciones, equipo, y tengamos que desactivarlo, les vamos a avisar y en cualquier caso que ustedes detecten un rango de esfase, nos lo avisan para poder aclararlo lo mÃ¡s rÃ¡pido posible.  Pero no se preocupen que la gente estÃ¡ 24-7, pero sÃ­ hemos estado haciendo las correcciones que te hemos mencionado.  Entonces, pasando al siguiente punto, que es sÃºper importante, equipo, es la optimizaciÃ³n conversacional. Â¿QuÃ© es lo que ha estado haciendo MÃ­a en ese momento?  Esa es una estadÃ­stica que luego se las voy a pasar, que es la estadÃ­stica general. Pero Â¿quÃ© es lo  Â¿QuÃ© ha estado haciendo MIA en las Ãºltimas semanas? Primero, el resumen general, se han analizado 276 conversaciones que hemos tenido con los leads.  Con el equipo hemos analizado todas las conversaciones, absolutamente todas las conversaciones que se han hecho por MIA. Este anÃ¡lisis muestra que la gente tiene coherencia en el flujo conversacional, guiando de forma fluida desde el interÃ©s inicial hasta la coordinaciÃ³n de visitas.  En esta tabla, que yo les voy a mostrar ahora, se van a ver las consultas mÃ¡s recurrentes que le han hecho a la gente de IA, pero las cuales no ha respondido con claridad.  Â¿Por quÃ©? Porque simplemente tenemos que aÃ±adirlas a una tabla de preguntas frecuentes y es por eso que les estoy mostrando esto.  Â¿CuÃ¡les son las preguntas que le han hecho a la gente con mayor frecuencia? Financiamiento y cuotas, 147 aproximadamente. Le han preguntado por precios y costos, 89 aproximadamente.  Esto de aquÃ­ se los voy a pasar, no se preocupen. Le han preguntado por otros proyectos como el de VÃ­a Verde, 28 veces, la ubicaciÃ³n y entorno, 24 veces, y lo demÃ¡s como...  Como las estÃ¡n viendo ahora. AcÃ¡ hay una interpretaciÃ³n que les estamos dando que no vamos a leer todas en esta reuniÃ³n para no hacerles perder tanto tiempo, pero igual es importante que ustedes lo revisen.  Por ejemplo, la mÃ¡s importante porque es el mayor volumen de consultas. Los leads muestran un interÃ©s constante en cÃ³mo financiar la compra.  Me ha guÃ­a correctamente la conversaciÃ³n, pero podrÃ­a reforzarse con mÃ¡s informaciÃ³n sobre entidades financieras. Vamos a revisar mÃ¡s abajo lo que estÃ¡ sÃºper interesante.  Eso tambiÃ©n es importante, equipo, que estÃ¡n preguntando mucho por Villaverde. Y serÃ­a bueno incluir una respuesta predeterminada para este tipo de consultas, pero eso ya lo vamos a ver en la tabla que les he puesto.  Â¿CuÃ¡les son las oportunidades de mejora? Primero, incluir, es una recomendaciÃ³n Ãºnicamente, incluir fichas tÃ©cnicas o textos estÃ¡ndar para materiales, acabados y documentos requeridos.  Por ejemplo, yo comprendo que MIA tiene que hacer la atenciÃ³n hasta cierta parte solo para guiar o el agendamiento de visitas.  Nuevamente, esto es Ãºnicamente una recomendaciÃ³n. Y luego ustedes nos mencionan quÃ© opinan. Y reforzar un poco el financiamiento, tener mÃ¡s contexto sobre la ubicaciÃ³n de cada proyecto.  Respuestas sobre futuros proyectos. Esta tabla es muy importante, equipo, porque se las vamos a mandar y ustedes nos tienen que mandar cuÃ¡les son las respuestas a estas preguntas y algunas preguntas que no estamos contemplando acÃ¡ para que MIA pueda responder de la mejor manera.  O decirme simplemente, Santi, cuando hagan esta pregunta que lo deriva un asesor Ãºnicamente. Â¿CuÃ¡les son esas preguntas? Â¿Con quÃ© bajÃ³n estÃ¡n trabajando?  Â¿CuÃ¡l es la cota inicial mÃ­nima? Porque MIA tiene como genÃ©rico decir 25.000 soles, si mal no recuerdo. Â¿CuÃ¡ndo se entregan los departamentos?  Â¿QuÃ© acabados incluyen los departamentos? Â¿CuÃ¡les son los problemas de visita? Â¿Se puede separar una unidad sin...? Estas son las preguntas que le han estado haciendo a la gente.  Y el agente claramente no ha respondido de manera lineal porque son las preguntas que tenemos que alinear en la cancha y que ahora se les estamos derivando.  Con respecto a esto, equipo, Â¿hay alguna pregunta? No, no.
+
+20:52 - Lyonel Rodriguez Garcia
+  Pero sÃ­ la necesitamos para poder darle feedback a MIA.
+
+20:58 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Genial. Â¿CuÃ¡l serÃ­a el formato de cada equipo? Una tabla de Excel donde hay una columna que diga preguntas y la siguiente donde diga respuesta.  AsÃ­ decimos, si quieren incluir alguna otra columna para que MIA tenga mÃ¡s contexto, estÃ¡ genial. Por ejemplo, Â¿no? Â¿En quÃ© momento responder?  Algo asÃ­. Ya estÃ¡ bien, ya estÃ¡ bien. Genial. Bueno, la conclusiÃ³n es que MIA estÃ¡ mostrando un desempeÃ±o sÃ³lido con un flujo conversacional que mantiene empatÃ­a y hoy estÃ¡ orientado a resultados.  Las oportunidades identificadas no reflejan fallos en el sistema, sino informaciÃ³n pendiente de incorporar para que MIA pueda brindar respuestas aÃºn mÃ¡s completas y personalizadas.  Con estas respuestas, equipo, MIA va a poder atender el 100% de las dudas comerciales de los leads. Y si es que no las atiende todas, ustedes nos tienen que mencionar en quÃ© punto o en quÃ© pregunta es un disparador para que derive la atenciÃ³n a un asesor.  Â¿Me siguen? SÃ­, sÃ­, sÃ­.
+
+21:52 - Lyonel Rodriguez Garcia
+  Y ahÃ­ te voy a poner un campo que indique asesor. Responde asesor. De frente. Perfecto.
+
+21:57 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Genial. Muchas gracias, LÃ­o. Eso con respecto a... Y al punto 3. Creemos que ese punto es sÃºper, sÃºper clave.  DespuÃ©s, estos dos puntos tambiÃ©n son importantes. Les quiero mostrar rÃ¡pidamente. Y es que la prÃ³xima semana, equipo, les vamos a crear un centro de control para que ustedes puedan revisar todas las reuniones, todas las grabaciones, un acta de cada reuniÃ³n, independientemente de la que se les manda post-reuniÃ³n.  Van a poder tener toda la documentaciÃ³n sobre la gente de IA, que aÃºn no la estamos haciendo porque la estamos puliendo para documentar la versiÃ³n final.  Van a tener toda la informaciÃ³n que van a necesitar. Les voy a mostrar un centro de control con los que estamos trabajando de manera de ejemplo con un cliente, pero eso es bÃ¡sicamente lo que ustedes van a tener para Cumbres como tal.  Van a tener su secciÃ³n de reuniones, donde van a poder ver todas las grabaciones con una descripciÃ³n para que comprendamos bien la fecha y demÃ¡s.  Dentro de estas reuniones van a tener un anÃ¡lisis, van a tener las mismas grabaciones con el link para que puedan ver la grabaciÃ³n, valga la redundancia.  Van a tener tambiÃ©n las preguntas y respuestas que se hayan hecho en esa reuniÃ³n con las respuestas respectivas. Y tambiÃ©n le vamos a aÃ±adir la secciÃ³n de documentaciÃ³n, que esto se va a aÃ±adir mÃ¡s adelante, una vez que se culmine la primera etapa de este proyecto, que es el agente de MIA.  Â¿Hasta quÃ© equipo tienen alguna duda?
+
+23:17 - dacodeperu
+  No, no puedo por mi parte, simplemente el tema de las plantillas, que es lo que mÃ¡s le estoy metiendo, puncho.  Ok, genial.
+
+23:25 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Denis, sabe si es que va a entrar Giuseppe u Oscar?
+
+23:33 - dacodeperu
+  No, no, por el momento sÃ© de eso, Santiago. Yo ahorita estoy desde otro lado entrando a la reuniÃ³n, asÃ­ que no sÃ© cÃ³mo estarÃ¡n ahorita en la oficina en sÃ­.  Eso bien, no te preocupes, no pasa nada.
+
+23:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, y el punto final, que este es importante, y bueno, igual se lo voy a mencionar a Lio, Giuseppe y Oscar cuando estÃ© la oportunidad.  Y si puedes, se los puedes hacer llegar tÃº, Denis. Y es que estamos proponiÃ©ndoles, tal vez no ahora, tal vez mÃ¡s adelante.  ...a mediano o corto plazo, una auditorÃ­a. Â¿En quÃ© consiste esta auditorÃ­a? BÃ¡sicamente serÃ­a analizar todos los procesos de cumbres, por lo menos los mÃ¡s crÃ­ticos, comprender bien cÃ³mo estÃ¡ funcionando el dÃ­a a dÃ­a de cumbres.  Â¿Para quÃ©? Para primero tener entrevistas, o como te mencionaba, Â¿no? Van a ser entrevistas de descubrimiento para comprender cÃ³mo estÃ¡ funcionando cumbres en general.  Vamos a mapear cuÃ¡les son las oportunidades de mejora que hay en cada proceso. Vamos a desglosar los procesos segÃºn los motores del negocio.  Por ejemplo, sabemos que tienen motores de adquisiciÃ³n, motor de entrega y motor de soporte. En base a estos procesos, una vez ya estÃ©n desglosados y comprendidos, vamos a tener reuniones tambiÃ©n con gerencia y con el equipo operativo, para conocer cuÃ¡les son esas falencias y pasos en los que se puede automatizar e implementar inteligencia artificial.  Â¿Con quÃ© fin hacemos esta auditorÃ­a? Para poder mostrarles una matriz de oportunidades. Â¿QuÃ© es una matriz de oportunidades? Â¿Elio?
+
+25:02 - Lyonel Rodriguez Garcia
+  SÃ­, ya te escucho. SÃ­, Lio, Â¿escuchaste algo de lo que dije sobre esta secciÃ³n?
+
+25:06 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Porque es importante. Si no, lo vuelvo a repetir sin problema.
+
+25:11 - Lyonel Rodriguez Garcia
+  El respeto es conectado. Ok, no pasa nada.
+
+25:17 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, Lio, mira, bÃ¡sicamente les comentaba, esto me gustarÃ­a tambiÃ©n mostrÃ¡rselo a Giuseppe y a Oscar cuando haya oportunidad, pero mÃ¡s allÃ¡ de los puntos que les hemos mostrado ahora, nosotros les estamos proponiendo una auditorÃ­a.  Nosotros no solo somos una agencia de desarrollo, sino tambiÃ©n hacemos auditorÃ­as. Â¿Con quÃ© fin? Y lo que le comentaba a Denis es que tendrÃ­amos que juntarnos y tener reuniones con todas las Ã¡reas, o por lo menos las mÃ¡s crÃ­ticas de CUMBES, tanto con gerencia como el equipo operativo.  Â¿Para quÃ©? Para que en estas reuniones nosotros podamos identificar cuÃ¡les son las oportunidades de mejora de cada proceso. Una vez que nosotros tengamos todas estas reuniones, vamos a poder desglosar cada proceso de cada Ã¡rea, cada paso a paso.  Â¿Para quÃ©? Â¿Con quÃ©? fin, para poder encontrar esos puntos de fricciÃ³n. Â¿DÃ³nde estÃ¡ el cuello de botella? Â¿DÃ³nde estÃ¡ este problema que no hace que yo pueda ser mÃ¡s productivo, pueda ahorrar mÃ¡s dinero o pueda generar mÃ¡s dinero en cada Ã¡rea?  Â¿Para quÃ© hacemos esto? Porque luego nosotros vamos a desarrollar una matriz de oportunidades y decirles, perfecto, miren, ustedes tienen estos problemas en cada proceso, tienen este punto de fricciÃ³n y para cada uno de estos problemas podemos implementar esta soluciÃ³n de automatizaciÃ³n o inteligencia artificial.  Â¿Para quÃ© sirve esto? BÃ¡sicamente ustedes van a tener el dimensionamiento de todo lo que Cumbres podrÃ­a implementar con inteligencia artificial y automatizaciones.  Santiago, ok, genial, esto me sirve, pero Â¿de quÃ© manera me estÃ¡s aportando mÃ¡s valor? Eso es muy importante. Porque una vez que desglosemos todas las soluciones de inteligencia artificial que se pueden hacer con Cumbres, les vamos a mostrar un roadmap o una hoja de ruta de implementaciÃ³n segÃºn quÃ© soluciÃ³n va a ser la mÃ¡s rÃ¡pida de colocar o implementar.  Â¿Y quÃ© mÃ¡s resultados nos va a dar? Vamos a enfocarnos en las Quick Wings. Les vamos a dar esta matriz.  Â¿QuÃ© es lo que hacemos con esto? DespuÃ©s vamos a desarrollar el ROI. Vamos a calcular el impacto que va a tener el retorno de inversiÃ³n en cumbres.  Es decir, que en todas estas reuniones nosotros queremos saber cuÃ¡nto tiempo se invierte, cuÃ¡ntos reprocesos hay, quÃ© es lo que se puede hacer con IA y automatizaciones, y lo mÃ¡s importante, cuÃ¡nto dinero me pueden ahorrar de manera semanal, mensual y anual.  Â¿Y cuÃ¡nto dinero puedo maximizar? Sobre todo por el Ã¡rea de ventas. Hasta acÃ¡ equipo, quisiera saber quÃ© opinan sobre esto, si sienten que es algo que necesitan, de repente lo ven a largo plazo, a mediano plazo, corto plazo.
+
+27:44 - Lyonel Rodriguez Garcia
+  Ya. Me parece interesante, Santiago. Yo puedo proponer una reuniÃ³n con Don Oscar, que es el gerente del Ã¡rea y pueda trasladarlo a otra Ã¡rea o a los demÃ¡s gerentes.  Pero podrÃ­a ser la prÃ³xima semana, porque lo que me gustarÃ­a es que implementemos todo, afinemos todo y luego decir, ya mira, adicionalmente a esto que ya nos estÃ¡ dando resultados y estÃ¡ bien, ahora vamos, hay otros servicios para que los puedan evaluar.
+
+28:16 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, totalmente de acuerdo. Y es justo por eso que les querÃ­amos saber brevemente cuÃ¡l es la predicciÃ³n que podrÃ­an empezar a implementar una vez que este servicio funcione.  Equipo, por mi lado, eso es todo lo que les querÃ­a presentar hoy dÃ­a. Me gustarÃ­a saber si tienen alguna duda o alguna acotaciÃ³n que hacer de cara a una siguiente reuniÃ³n y a las mejoras que le vamos a hacer a la gente.
+
+28:37 - Lyonel Rodriguez Garcia
+  No, lo que sÃ­ quiero, habÃ­an dos preguntas. Uno, con respecto a lo que Denis ya te comentÃ³, me gustarÃ­a que tenga el archivo listo para poderlo exportar y pasarlo a nuestro CRM.  Y dos, es que, no sÃ© si le entendÃ­ bien a Giuseppe, pero me dice de que hay leads que han contactado, pero que no llegan.  Van a agendar una cita. Esos igual, igual, esos leaks, igual pasan al reporte, Â¿no? TambiÃ©n se registran.
+
+29:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Por supuesto, absolutamente todos los leaks se pasan al reporte de todos los dÃ­as.
+
+29:14 - Lyonel Rodriguez Garcia
+  Â¿Y tÃº, Denis, esos leaks, Â¿te han tenido algÃºn problema para cargarlos o todo bien?
+
+29:23 - dacodeperu
+  No, no he podido cargar esos porque primero habÃ­a vacÃ­os, porque el Esperan pide cierta informaciÃ³n para cargar de por sÃ­.  Entonces, aquellos que se quedaron con el Estado, o sea, que no, ni siquiera registraron sus datos, solo dijeron, hola, esos no los voy a poder subir por el momento.  Desde acÃ¡ tengo que coordinar con Giuseppe cÃ³mo vamos a subir esa informaciÃ³n al Esperan.
+
+29:48 - Lyonel Rodriguez Garcia
+  Â¿Pero quÃ© se necesita, pues?
+
+29:52 - dacodeperu
+  Ver la data adicional que se le puede agregar. En todo caso, se le va a agregar una data de relleno, por decirlo de alguna forma.  Porque al final es lo Ãºnico real de ese lead serÃ­a el nÃºmero.
+
+30:07 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AcÃ¡ solo para hacer una acotaciÃ³n lÃ­o, lo que nos hemos dado cuenta con MIA es que MIA estÃ¡ agendando bien, lo estÃ¡ haciendo bien, pero hay un cuello de botella.  Â¿QuÃ© es esto? Que muchas veces los leads dejan de responder o responden tarde. Â¿CuÃ¡l es la soluciÃ³n en este caso en la de seguimientos automÃ¡ticos?  AhÃ­ sacarÃ­amos el 100% de provecho de MIA. Ok, me queda claro. Totalmente, porque muchos preguntan, hola, estoy interesado en tus proyectos.  MÃ¡s informaciÃ³n. Y MIA le da la lista de los tres proyectos, pero nadie mÃ¡s responde. O responden tarde o se olvidan, me imagino.  Â¿QuÃ© es lo que pasa acÃ¡? Que aquÃ­ a las dos horas o a la hora, si es que no hay respuesta, MIA deberÃ­a decir, hola, Â¿quÃ© tal?  Agradecemos su interÃ©s. Â¿AÃºn quieres saber sobre nuestros proyectos? O de repente el guiÃ³n que ustedes quieran ponerle, Â¿no? Tenemos estos proyectos, dime cuÃ¡l quieres.  Y presionarlo, presionarlo, presionarlo. Es lo que al final buscamos con los seguimientos automÃ¡ticos. Y eso se... se...
+
+31:00 - Lyonel Rodriguez Garcia
+  Edimientos automÃ¡ticos son la cotizaciÃ³n que nos has enviado, Â¿no? AsÃ­ es.
+
+31:06 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y ojo que esto no es solo lo que MIA va a hacer. Se puede acoplar tambiÃ©n para alguna base que ustedes tengan en elites muertos y se puede ajustar en base a la cantidad.
+
+31:15 - Lyonel Rodriguez Garcia
+  SÃ­, sÃ­. Lo que estamos revisando es ese tema todavÃ­a. No hemos tomado la decisiÃ³n, pero sÃ­ lo estamos mapeando.
+
+31:25 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok.
+
+31:26 - Lyonel Rodriguez Garcia
+  Pero igual esos leaks que solo dieron poquita informaciÃ³n tambiÃ©n estÃ¡n en el reporte, Â¿no? Que se exporta. AsÃ­ es.
+
+31:36 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya.
+
+31:37 - Lyonel Rodriguez Garcia
+  Y podrÃ­amos saber cÃ³mo quedan porcentualmente nuestro embudo. No sÃ©, pues, el 20% genera visitas, el 10% se queda en...  SÃ­, por supuesto.
+
+31:51 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, no estÃ¡ viendo mi... SÃ­, disculpa. No estÃ¡ viendo mi pantalla, pero es lo que les mostraba. Ustedes pueden revisar el nÃºmero de conversaciones que hay en...  Y luego pueden revisar la cantidad de conversaciones que tienen por etiqueta. En este caso, como yo sÃ© a quiÃ©nes le he respondido y quiÃ©nes no, perdÃ³n, yo me voy a informes, conversaciones, veo que mi total de conversaciones son 100, bueno, en el Ãºltimo aÃ±o, por ejemplo, Â¿no?  292 conversaciones. Ok, de estas conversaciones, quiero saber cuÃ¡ntas han llegado hasta el saludo. Y aquÃ­ estÃ¡, mira, 225 se han quedado en el saludo.  Es decir, que a estas 225 se las puede presionar con seguimientos automÃ¡ticos para que luego puedan pasar a datos registrados, luego a precalificado y luego a visita agendada.  Es bÃ¡sicamente automatizar el embudo. A mÃ­ ya solo le falta esa proactividad, no solo para empezar la conversaciÃ³n cuando se llene un formulario del otro bloque de leads, sino para seguir presionando a los que nos dejan de responder por este medio.  Ya, sÃ­, sÃ­ me queda claro.
+
+32:52 - Lyonel Rodriguez Garcia
+  Ok. Â¿Y podrÃ­as ver AndalucÃ­a? PerdÃ³n, este, Vilatova, a ver. SÃ­, claro.
+
+32:57 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mira, en Villanova tenemos 38 conversaciones. Nada mÃ¡s?
+
+33:02 - Lyonel Rodriguez Garcia
+  SÃ­, nada mÃ¡s.
+
+33:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Tengo como hervilla monumental, tenemos 27, solicitÃ³ atenciÃ³n, perdÃ³n, el siguiente proyecto es AndalucÃ­a, que son 57 por AndalucÃ­a, y los que claramente no han llegado al proyecto son porque no han dejado el dato de registrado, pues no, miremos registrado solo 99.
+
+33:24 - Lyonel Rodriguez Garcia
+  Â¿De la semana o de todo el tiempo?
+
+33:26 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, de todo, todo, despuÃ©s es el Ãºltimo aÃ±o, y luego acÃ¡ si es que pasamos un aÃ±o de implementaciÃ³n se puede regalar el rango sin problema.
+
+33:34 - Lyonel Rodriguez Garcia
+  Ya, eso lo necesito evaluar, Â¿no? Necesito saber, este, de, para poder dar los resultados y poder pedir que nos asignen mÃ¡s presupuesto para este tipo de soluciones, yo lo presento al revÃ©s.  De frente voy, Â¿cuÃ¡ntas citas hemos tenido y cuÃ¡ntas de estas citas se han convertido?
+
+33:59 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, eso ya yo lo veo.
+
+34:01 - Lyonel Rodriguez Garcia
+  Y de ahÃ­ mostrarles el embudo de cuÃ¡ntos han quedado en el campo 1, en el campo 2, en el campo 3 y cuÃ¡l es la soluciÃ³n y la inversiÃ³n que nos tomarÃ­a hacer que esos leads comiencen a transitar por el embudo.  Es lo que queremos a travÃ©s de la siguiente fase de MIA, que es el seguimiento.
+
+34:25 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, totalmente. Entonces, Lio, Â¿me puedes volver a repetir la informaciÃ³n que necesitas para poder validar esto?
+
+34:32 - Lyonel Rodriguez Garcia
+  Simplemente voy a agarrar al cierre de octubre, ver cuÃ¡ntas citas ha agendado MIA, cuÃ¡ntos se han realizado como visitas, o sea, se han hecho efectivas, cuÃ¡ntos estÃ¡n separados, para eso yo lo veo acÃ¡ con Denis, cuÃ¡ntos han, y con los chicos, cuÃ¡ntos han quedado en calientes como para poderlo tentar.  Entonces, yo puedo decir, de repente, no sÃ©, este, del 100% del X atendido por MIA, el... 20% genera citas.  De este 20%, el 50% va a la sala de ventas. Y de este 50% que va a la sala de ventas, el 50% se para.  Entonces, yo puedo decir de que el agente estÃ¡ dando resultado en un porcentaje o directamente en cuÃ¡ntas ventas nos ha dado, Â¿no?
+
+35:22 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok. Genial. SÃ­, sÃ­.
+
+35:23 - Lyonel Rodriguez Garcia
+  Eso es lo que voy a presentar para el cierre de octubre para mostrar los primeros avances de la implementaciÃ³n.  Ok.
+
+35:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Perfecto, equipo. Entonces, solo quedarÃ­a pendiente por su lado el tema de las preguntas frecuentes. Yo le voy a hacer envÃ­o de eso, asÃ­ que no se preocupen.  Y por nuestro lado, actualizar el tema del formato del agendado y el formato de DNI.
+
+35:45 - Lyonel Rodriguez Garcia
+  Perfecto. Genial, equipo.
+
+35:48 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Perfecto. Nos vemos. Hasta luego. Gracias, Santiago. No, a Hasta luego.
+
+35:59 - dacodeperu
+  Gracias, Santiago.

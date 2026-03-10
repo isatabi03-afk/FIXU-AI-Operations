@@ -1,0 +1,154 @@
+Impromptu Google Meet Meeting - February 11
+VIEW RECORDING - 22 mins (No highlights): https://fathom.video/share/BdQ2DwJUzgnEou8riQetaTpvErrq5Kax
+
+---
+
+0:01 - Alejandro juan Loayza jordan
+  Bien, Cholo, he estado quemando crÃ¡neos con nuestros cozos comerciales, pero ahÃ­ vamos. Pucha, me imagino, me imagino que es Starful.
+
+0:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Deja, trae el nuevo video y... SÃ­, tranquilo, no preocupes. Por tema de la infraestructura. El tema de la... De la infra.  AjÃ¡, exacto. SÃ­, pero eso es sencillo.
+
+0:58 - Alejandro juan Loayza jordan
+  Ya. Â¿CÃ³mo han ido las Ãºltimas semanas?
+
+1:06 - Santiago Isaias Zavaleta Ayala (Ulima)
+  A mis clientes normalmente les suelo preguntar a los inmobiliarios cÃ³mo van las ventas, pero no sÃ© si eso aplique contigo.  En general, Â¿tÃº cÃ³mo mides el Ã©xito semana a semana? No estoy vendiÃ©ndote nada.
+
+1:17 - Alejandro juan Loayza jordan
+  Creo que es bueno porque, o sea, Â¿cÃ³mo lo mido? Depende en quÃ© fase estoy. Como ahorita estoy en reformulaciÃ³n y he estado sacando el nuevo catÃ¡logo, he estado reformulando el proceso comercial, creerÃ­a que estas Ãºltimas dos, tres semanas no me ha importado en lo absoluto cÃ³mo han estado las ventas.  Claro. Porque he dado un paso atrÃ¡s para eso, entonces mÃ¡s bien mi Ã©xito para mÃ­ viene de quÃ© tanto he podido avanzar los pequeÃ±os milestones que tengo de procesos, proyectos, Â¿no?
+
+1:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, entiendo. Ale, una consulta. Entiendo que ahorita estÃ¡s un poco mÃ¡s metido, imagino que igual el tiempo lo es.  SÃºper complicado, pero estÃ¡s utilizando mÃ¡s Supabase y el tema de N8N para las automatizaciones y cloud. Â¿Sigues utilizando ahorita eso o ya no estÃ¡s haciendo prioridad?
+
+2:09 - Alejandro juan Loayza jordan
+  No estoy usando, Supabase reciÃ©n lo empecÃ© a usar, estoy usando Cloud Code. Uy, Â¿y quÃ© tal?
+
+2:16 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿QuÃ© tal? Â¿QuÃ© te parece? Lindo, de hecho, esto no es.
+
+2:21 - Alejandro juan Loayza jordan
+  QuÃ© bueno. Me he forzado a que todo mi dÃ­a a dÃ­a sea con Cloud Code.
+
+2:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  QuÃ© chÃ©vere.
+
+2:31 - Alejandro juan Loayza jordan
+  Entonces, realmente, o el otro dÃ­a le pedÃ­ que prenda mi compu y que me haga un forms. Puta, costÃ³ como 100.000 tokens, dos preguntas de Google Forms, pero yo querÃ­a, abrÃ­a mi laptop, entraba Chrome y se podÃ­a tipear.  Y me sentÃ­ un papi.
+
+2:48 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿En la escuela?
+
+2:50 - Alejandro juan Loayza jordan
+  SÃ­, fue un cagada de risa, pero puso esto para todo, bÃ¡sicamente. Genial, me alegra, me alegra.
+
+2:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Es clave esa herramienta, de hecho. Es muy tÃ©cnica, pero ya te has dado cuenta tÃº. Que no es necesario saber programar para...  No, o sea, pero un poquito de sintaxis como para...
+
+3:04 - Alejandro juan Loayza jordan
+  No tienes ni siquiera que encontrar errores. Ya depende de quÃ© tan complejo sea, Pero con esto ya voy a hacer mi landing page.  Entonces, lo de Supervis es para automatizar planes. Que al final sea como una slot filling, una tÃ©cnica slot filling para que no asuma cosas.  Y saque de granola... AdemÃ¡s, acÃ¡ puedes poner... AcÃ¡ yo le puedo pedir este... Ya enchufÃ© un MCP de... Nice.
+
+3:29 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De...
+
+3:31 - Alejandro juan Loayza jordan
+  De... desactivÃ© el Playwright porque, como te esta es la hueÃ¡ que abre Google Chrome automÃ¡ticamente, pero... Me reventÃ³ en tokens y me quedan...  Pero granola ya le puedo contar con la conclusiÃ³n de este proyecto, dame insights y ya se vuelve un poquito...  Me falta Notion, pero se vuelve un poquito mejor.
+
+3:49 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Excelente, excelente. Ale, justo, bueno, ahorita te voy a comentar un poquito mÃ¡s sobre eso. Eso ya lo vamos a ver en la parte de los pendientes.  Pero para que adelantarte un poco y spoilearte... El servidor que nosotros estamos creando, esta loncherita donde va a vivir RomyBot con todas las aplicaciones, incluye Supabase.  Es decir, que no es necesario que tengas que pagar el Supabase Cloud todos los meses ni por tokens, porque ya tienes acÃ¡ Supabase Open Source.  Es decir, que no tienes que pagar la Supabase directamente y lo Ãºnico que vas a tener que pagar es el servidor, que de hecho eso es parte del fin mensual.  AsÃ­ que vas a poder explotar Supabase mÃ¡s allÃ¡ de lo que usa Romy por si quieres utilizar el Supabase que nosotros te estamos dando.  Bueno, objetivo de esta red es sÃºper prÃ¡ctica y simple, es mostrarte finalmente los flujos de cÃ³mo ha quedado Romy y Leads con Romy Pacientes, mostrarte el flujo de seguimientos, que le puedas dar validaciÃ³n, yo creo que ya estamos sÃºper, sÃºper claros con eso, y mostrarte quÃ© es lo que tenemos pendiente para salir a producciÃ³n, pero no te quiero spoilear.  Igual te voy a pasar este artifact para que lo puedas ver y lo puedas compartir con tu equipo que estÃ¡ sÃºper, sÃºper chÃ©vere, pero te muestro.  BÃ¡sicamente, RomyBot con Leads y Pacientes va a empezar igual. Sabemos y entendemos. Vemos que va a estar mirado en tu nÃºmero de telÃ©fono, solo me gustarÃ­a que confirmes si es que va a ser este de acÃ¡, que creo que fue el que te robaron en su momento, pero lo recuperaste, Â¿verdad?
+
+5:08 - Alejandro juan Loayza jordan
+  No, no, no, ese es el de la empresa siempre, el que me robaron fue el personal. Ah, ok, bueno, perfecto.
+
+5:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eso por un lado, Â¿quÃ© es lo que va a hacer, Rumi, bÃ³tale? Un poco mÃ¡s de lo que hemos visto, va a atender en tiempo de tus consultas, va a responder las preguntas frecuentes, va a explicar tu mÃ©todo, que, de hecho, aÃºn estÃ¡bamos ahÃ­ en el pendiente en el que ibas a afinar la oferta, por asÃ­ decirlo, la oferta irresistible, pero ahorita lo estamos manejando con el concepto de, oye, acÃ¡ no te damos fÃ³rmulas mÃ¡gicas, acÃ¡ hacemos algo a lo que tÃº necesitas para que puedas cumplir tus objetivos sin querer matarte.  Literalmente es la esencia de Rumi, Â¿ya? BÃ¡sicamente, Â¿cuÃ¡les son los recursos? Esto me lo pediste tambiÃ©n, creo que te lo mandÃ© un poquito desordenado, pero acÃ¡ te lo presento mejor.  Estos son los recursos con los que Rumi va a jugar. Primero, Â¿cuÃ¡l es el conocimiento que tiene Rumi? La tabla de facts, en el caso de los leads, y los testimonios segmentados por...  Perfil. Â¿CuÃ¡l es la base que va a usar como CRM? La base maestra, que de hecho ese Sheets que ustedes ya tienen y que han actualizado es un CRM, tal cual.  La diferencia es que ahorita lo tienen Google Sheets, pero si en algÃºn momento lo quieren pasar a Haspot, Como, cualquier otro CRM, lo pueden hacer porque ya tienen los campos y ya tienen la estructura de un CRM.  Hasta ahora es lo que tiene Romy. Â¿CÃ³mo va a resolver las consultas? ApoyÃ¡ndose en esta informaciÃ³n. Planes y precios segÃºn las fotos que nos mandaste, las fax y demÃ¡s.  Â¿QuÃ© es que va a hacer Romy al final de todo este flujo? Va a derivarle a tu equipo y va automÃ¡ticamente a transferir la conversaciÃ³n.  Es decir, le va a llegar un mensaje, en el caso de los leads, entiendo que a Romy, no, perdÃ³n, a Nico, y automÃ¡ticamente va a dejar de hablarle al lead para que Nico pueda tomar la conversaciÃ³n si es que fuera necesario o si es que la misma venta no se hizo ahÃ­.  AcÃ¡ le aprovecho en preguntarte, dime que mi Fatum, por favor, estÃ¡ en la llamada, excelente. Aprovecho en preguntarte, hasta el momento hemos quedado en que la venta no la iba a ser como tal, porque no tenÃ­amos...  El nÃºmero de PIN, YAPE y demÃ¡s, pero igual esto lo podemos ir viendo ya en producciÃ³n. Â¿EstÃ¡ bien que Romy corte la conversaciÃ³n una vez ya haya elegido el plan y estÃ© listo para comprar y se lo derive a Nico?  Â¿O ajustamos para que de una vez mande los nÃºmeros de cuenta y demÃ¡s para hacer el plan?
+
+7:16 - Alejandro juan Loayza jordan
+  SÃ­, yo te dirÃ­a que sÃ­ se puede enviar los nÃºmeros. No sÃ© si haya forma de que se corte, Â¿puedes reconocer cuÃ¡ndo le envÃ­en el pantallazo?  Porque aquÃ­ es comÃºn. Yo estoy pensando en las lÃ³gicas de, a veces, Â¿cÃ³mo digo esto? A veces le mandas las tarifas, las tarifas, dice, ok, dame esto, pÃ¡same el nÃºmero de cuenta, y despuÃ©s de que le pasaste el nÃºmero de cuenta le entra la duda y te va a preguntar otra cosa.  Entonces, la automatizaciÃ³n no puede apagarse cuando le envÃ­o los nÃºmeros de cuenta. Total, total. No sÃ© cÃ³mo podrÃ­a, me gustarÃ­a a que sea como que el Ãºltimo mensaje de cierre de Romebot va, o sea, de repente no ahorita, pero eventualmente serÃ­a algo como, oye, buenazo, cuando estÃ© listo para mandar el pantallazo, para registrarlo, mande el pantallazo y que simplemente no lo va a validar, porque entiendo eso es un poco mÃ¡s complejo, pero que sea como que, oye, buenazo, vamos a validarlo con el asesor y te enviamos el cÃ³digo de inscripciÃ³n.  Genial. Genial, pero que sÃ­ pueda cerrar la venta creo que serÃ­a genial, Â¿no? Ya, perfecto.
+
+8:37 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ale, Â¿cuÃ¡l es el nÃºmero al cual van a plinear? Â¿Es el mismo que estÃ¡ aquÃ­ o tÃº me lo vas a mandar despuÃ©s?  Pues el nÃºmero. Ok, perfecto, ese mismo nÃºmero. Â¿Hay algÃºn otro mÃ©todo de pago con una cuenta bancaria para la transferencia?  SÃ­, ahorita te lo pongo. Dale, genial. Bueno, eso por el lado de Romilitz, despuÃ©s ya creo que estarÃ­a todo cerrado, lo vamos a ajustar para que se vea la conversaciÃ³n justo ahÃ­.  De hecho, cuando... Cuando lo vayamos a probar, podemos mandarle un sol y le mandamos la captura del sol de Yape y vemos, es mÃ¡s, Â¿no?  Hasta cÃ³mo te dice, oye, pero el plan no estÃ¡ un sol. Debemos ajustarle esa lÃ³gica tambiÃ©n. Esto y el registro automÃ¡tico que ya les comentÃ© que esto lo va a registrar en paralelo en la base que les vamos a dar.  Pacientes, un poco mÃ¡s de lo que hemos visto. La misma funcionalidad de Romy, Â¿cuÃ¡l va a ser la diferencia?  Que la base de datos con la que Romy Pacientes, que la misma Romy va a jugar, es primero el plan del paciente, el personalizado, el PDF que hemos dejado afuera en base a lo coordinado.  Las bases de comidas, todas las bases que estÃ¡n utilizando, principalmente la de Street Food y la de, no sÃ© cÃ³mo llamarlo, base de alimentos en general, que es ya la materia prima, por asÃ­ decirlo.  Espero no haberme hablado huevadas. Pero, bueno, esas son las bases que va a utilizar Romy Pacientes. Y las FAQs de Pacientes, ademÃ¡s de la base CRM, igual que Romy Leeds.  Ãšnicamente acÃ¡ te lo he puesto estandarizado porque creo que me pediste, oye, Â¿cuÃ¡les son las bases con las que estÃ¡ jugando Romy?  AquÃ­ lo estoy poniendo sÃºper, sÃºper ordenado. SÃ­. Eso y la misma resoluciÃ³n. AquÃ­ RomyBot, diferencia de, perdÃ³n, RomyPacientes, a diferencia de RomyLead, no es que vaya a cortar la conversaciÃ³n en algÃºn momento.  El Ãºnico momento en el que RomyPacientes va a derivar es Ãºnicamente cuando tengan temas de financiamiento, pagos, cuestionamientos financieros, etc.  Y algÃºn riesgo emocional o alguna alerta que el paciente estÃ© indicando que necesite a un humano, bÃ¡sicamente. Exactamente. Eso, por ese lado, Ale, ahora te quiero mostrar el tema de los seguimientos, que eso fue lo que habÃ­amos coordinado en la reuniÃ³n previa.  No, no, no, es que a veces hablo muy formal. Creo que estoy acostumbrado a estar en cualquier venta. Bueno, con respecto a las sesiones, los recordatorios que estamos afinando ahorita, Ale, son 10 dÃ­as antes de la reuniÃ³n, 3 dÃ­as antes de la reuniÃ³n y un dÃ­a antes.  Mi pregunta es, Â¿deberÃ­amos hacer alguna mÃ¡s una hora antes o con estos 3 basta y sobra?
+
+10:57 - Alejandro juan Loayza jordan
+  no, no, no, no, Gracias. que 24 horas antes es bien. O sea, en teorÃ­a podrÃ­a haber una regla de que sea el mismo dÃ­a, puta, 6 AM.  SÃ­, eso serÃ­a Ãºtil. Ok, perfecto, lo contemplamos.
+
+11:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eso con la parte de los seguimientos y esto va aplicar claramente para todos los pacientes. Ahora, los seguimientos de adherencia, como los hemos llamado, estos son los de martes y viernes, que es bÃ¡sicamente el recordatorio o seguimiento, la muestra de presencia por parte de tu equipo para el paciente, para que se sienta acompaÃ±ado, Â¿no?  El tema de, oye, Â¿quÃ© tal? Â¿CÃ³mo estÃ¡s? Espero que estÃ© todo sÃºper bien. CuÃ©ntame cÃ³mo te estÃ¡ yendo esta semana y algo con lo que te podamos ayudar.  Ãšnicamente dejar eso, el seguimiento, estar estamos con el cliente significativamente. Esos son los seguimientos que estamos manejando. Y ahora, bueno, y finalmente el escalamiento a tu equipo, Â¿no?  Que me he tomado el aprendimiento de llamarlo equipo ALJ. Con respecto a los seguimientos, Ale. Nos falta ahorita para salir a producciÃ³n y aquÃ­ te voy a hacer 100% transparente y directo.  Ahorita falta ajustar los seguimientos de los 10 dÃ­as y tambiÃ©n los de martes y jueves, segÃºn la base maestra que nos ha pasado para ver quiÃ©nes requieren seguimiento o no.  Y estamos terminando de construir tu infraestructura. Esto de aquÃ­ es mÃ¡s tÃ©cnico. Esto es bÃ¡sicamente, estamos instalando todas las aplicaciones que vas a tener dentro de esta loncherita.  Â¿QuÃ© es lo que vas a tener adentro de esta lonchera que vas a poder utilizar sin lÃ­mite, Ãºnicamente con el lÃ­mite del servidor?  Vas a tener N8N, no vas a tener el problema de N8N Cloud que te quiere cobrar 25 dÃ³lares solo por tener 3 flujos o 50 dÃ³lares por tener 6.  acÃ¡ puedes utilizar flujos ilimitados. Es decir, que si tÃº un dÃ­a quieres entrar a Curiosera N8N, puedes entrar al N8N que te estamos dando y no tener que comprarte otro N8N, pagar otro Superbase.  No, todo lo puedes trabajar acÃ¡ sin ningÃºn problema y ahÃ­ te vas a ahorrar mÃ­nimo 50, 100 dÃ³lares al mes.  Lo mismo con Superbase, lo mismo con Basebook, que es como un Excel Prime, lo mismo con Chatwood, todo lo que tÃº necesitas para...  Para seguir escalando, estÃ¡ dentro de tu infraestructura. Sandy, si un dÃ­a yo quiero meter a RomyBot en Instagram o en Facebook, no tienes que pagar mÃ¡s de manera variable porque Chatwood ya te puede descentralizar toda esa informaciÃ³n.  Es decir, que en un mismo chat, en un mismo CRM, mejor dicho, vas a poder tener la bandeja de WhatsApp, la bandeja de Instagram y la bandeja de Facebook.  Y Chatwood no te va a cobrar porque te lo estamos instalando dentro de tu servidor. Y encima tienes la versiÃ³n Enterprise, que es la versiÃ³n mÃ¡s cara que tiene Chatwood.  Â¿PerdÃ³n? ChÃ©vere. ChÃ©vere. sea, te estamos chetando, como dirÃ­an los espaÃ±oles. BÃ¡sicamente estamos terminando esto, Ale, para que podamos salir a producciÃ³n.  Y te quiero ser 100% sincero, no estamos buscando perfecciÃ³n para salir a producciÃ³n. Simplemente estamos buscando funcionalidad. No queremos salir a producciÃ³n, que RomyBot de repente tenga un lapso ahÃ­ y falle.  SÃ­ queremos que RomyBot tenga observaciones por las cuales entrenar, pero no queremos que esas observaciones sean que dejÃ³ de responder o que de la nada te empiece a hablar en inglÃ©s.  Simplemente queremos dejarlo funcional, sin mÃ¡s. AsÃ­ que estarÃ­amos Ãºnicamente atentos a los seguimientos. De hecho, esto acÃ¡ no es problema principal para que pruebes la soluciÃ³n.  Esto sÃ­, porque queremos dejarlo todo fino para que ya estÃ© funcionando dentro de tu ecosistema. Esto lo vamos a tener listo maÃ±ana, Ale.  No es necesaria una segunda reuniÃ³n para que lo probemos en vivo. Ãšnicamente les vamos a avisar por el grupo WhatsApp.  Ale, Nico, RomyBot ya estÃ¡ funcionando. PruÃ©benla, hÃ¡ganle Ulim. Esta vez los vamos a programar con tiempo por ese lado.  No se preocupen y lo vamos a dejar activado para que ustedes puedan probarla. Ya sea a las 11 de la maÃ±ana, luego a las 3, luego a las 4, a las 5.  Si es que por algo me dice, Santi, Romy ya llegÃ³ hasta su tope conmigo en la conversaciÃ³n. Porfa, reinÃ­ciale la memoria para yo poder hablarle con otro contexto posiblemente.  Porque al final... Pregunta.
+
+14:42 - Alejandro juan Loayza jordan
+  En esto que va a pasar maÃ±ana, Â¿estÃ¡ saliendo y lo vas a linkear con un solo nÃºmero como hemos hecho antes?  SÃ­, con el nuestro demo.
+
+14:52 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ahorita, y esto es una buena pregunta. Ahorita lo vas a probar con nuestro demo, pero como ya lo tenemos todo construido en tu ecosistema...  No. Lo Ãºnico que tenemos que hacer es quitar nuestro nÃºmero y poner el tuyo y esa va a ser la migraciÃ³n API oficial y eso lo vamos a hacer cuando me digas Santi estÃ¡ bien, apruebo solo unos cuantos ajustes de formato porque nuevamente no estamos buscando aquÃ­ grandes cambios sino verlo en la cancha para hacer los cambios ahÃ­ pero Ãºnicamente vas a probarlo, sacamos nuestro nÃºmero y ahÃ­ les vamos a decir ok chicos ya todo validado, eliminen su cuenta de WhatsApp, hacemos la integraciÃ³n, ahÃ­ vamos a estar conversando en tiempo real cuando coordinemos la hora y les vamos a pasar el CRM para que ya vean lo que va a pasar a partir de ahora.  Una consulta, Â¿pudieron exportar algunas conversaciones principales, alguna informaciÃ³n relevante?
+
+15:38 - Alejandro juan Loayza jordan
+  No, no, Â¿eso era tarea?
+
+15:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No era tarea como tal pero siempre lo recomiendo por si necesitas informaciÃ³n de algÃºn paciente activo, tenerla ahÃ­ guardada, yo creerÃ­a que sÃ­ puede ser importante.
+
+15:48 - Alejandro juan Loayza jordan
+  Â¿Eso es para vacatear antes de perder el nÃºmero?
+
+15:51 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, total, total, total.
+
+15:53 - Alejandro juan Loayza jordan
+  No me dices que eso, o sea, No, digo que la migraciÃ³n WhatsApp, papi, cuando no. Gracias.
+
+16:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Si es que maÃ±ana validamos, maÃ±ana es jueves, podrÃ­amos hacerlo el viernes.
+
+16:06 - Alejandro juan Loayza jordan
+  Lo Ãºnico que voy a hacer es que en la maÃ±ana del dÃ­a que vayamos a hacer eso, temprano, 5 o 6 de la maÃ±ana, pongo el celular a que vacape.  Porque si lo vacape ahorita, igual voy a perder como 48 horas.
+
+16:17 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, si total, total. SÃ­, perfecto. Perfecto, se lo preguntaba para que lo tengas. SÃ­, lo tengo.
+
+16:24 - Alejandro juan Loayza jordan
+  Â¿CÃ³mo que? Ale, una consulta.
+
+16:27 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, eso es bÃ¡sicamente todo. Ahorita le estamos matiendo full foco a terminar tu infraestructura. Si es que lo terminamos hoy, te digo, Ale, esto ya estÃ¡ listo.  Hoy puedes probarlo desde ahora. Si no, en todo caso, te lo digo en la maÃ±ana. Y te querÃ­a preguntar unas cuantas cositas como para ya ir cerrando esta parte del proyecto, porque todavÃ­a no te vamos a dejar claramente.  Y ir a preguntarte, Â¿te acuerdas que tÃº me mencionaste que estabas prototipando o estabas pensando en hacer un dashboard, tomas con un dashboard como una aplicaciÃ³n para que tus clientes entraran y pudieran ver todo lo que estaba pasando con su plan, cÃ³mo iban comiendo, registrando comidas, no recuerdo muy bien, pero fue lo que.
+
+19:00 - Alejandro juan Loayza jordan
+  Fue una mente sÃºper ordenada, pero gracias a Dios pude ir chapando las cosas en el orden correcto. Igual todo lo grabÃ©, asÃ­ que estoy bacÃ¡n.  Y al final toda esa informaciÃ³n la metÃ­ para ser un agent sÃºper simple en Cloud Code. Y con eso empecÃ© a tomar decisiones, Â¿no?  CreÃ© un prompt que se me va a hacer, y es como, tÃº sabes todo esto y complementalo con lo que encuentres en Internet.  Y a partir de eso he estado yendo ideas y vueltas, copiando y pegando, etc.
+
+19:51 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro.
+
+19:52 - Alejandro juan Loayza jordan
+  Â¿Soy que le pida el H, tambiÃ©n?
+
+19:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, yo sÃ© que busco la REU, pero creo que, bueno, fÃ¡cil me demora un poquito mÃ¡s en... Buscarla. No hay ningÃºn problema, Ale.  No te preocupes que ya me voy a tomar un tiempo para analizar bien todo el tema de la fase 2.  No es crÃ­tico ahorita, es Ãºnicamente para seguir ayudÃ¡ndote a dimensionar todo el ecosistema. Porque me imagino que ya te lo hago cuenta que no solo un asistente de dÃ­a, atenciÃ³n al cliente, te va a dar mÃ¡s tiempo, sino todo lo que ya estÃ¡s haciendo en Cloud Code, pucha, te va a ayudar a potenciar todos tus procesos.  AsÃ­ que, nada, es bÃ¡sicamente eso. Y ahÃ­ me voy a tomar un tiempo despuÃ©s de tener lista con Manu la infra para poder analizar bien la segunda fase y cualquier duda que tengamos te la pregunto.  Pero ahorita lo prioritario es salir a producciÃ³n una vez con Romy. Sin mÃ¡s. SÃ­.
+
+20:37 - Alejandro juan Loayza jordan
+  O sea, te mando esto por WhatsApp, Â¿eh? Porque estÃ¡ raro mi...
+
+20:42 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ah, no, sÃ­, puedo convertirme.
+
+20:45 - Alejandro juan Loayza jordan
+  AhÃ­ estÃ¡. AhÃ­ AhÃ­ estÃ¡. AhÃ­ estÃ¡.
+
+21:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  El Sanchi. Ah, genial.
+
+21:06 - Alejandro juan Loayza jordan
+  Esto era el que, o igual quiero cambiar un par de cosas, pero despuÃ©s de mucho darle vueltas. Esto era lo que mÃ¡s o menos con Alonso, o sea, las sugerencias que me dio.
+
+21:17 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro.
+
+21:19 - Alejandro juan Loayza jordan
+  Para que sea fÃ¡cil de entender y que abajo hay varios, todos tienes todos estos fitgets. Y al abajo hay una pequeÃ±a explicaciÃ³n de quÃ© es cada uno, Â¿verdad?  Y que te diga, oye, desde esta parte, este incluido acÃ¡, este, el primer mes incluye esto, que oye, si haces esto, ahorras tanto, te sale tanto al mes, etc.  Claro, claro, Alon ahÃ­ sÃ­ domina bien sus...
+
+21:42 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Muy fÃ¡cil.
+
+21:44 - Alejandro juan Loayza jordan
+  Sus skills.
+
+21:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  EstÃ¡ chÃ©vere, QuÃ© bueno, Ale, me alegra porque estoy seguro que eres, puta ya debo sonar muy, voy a acordar el Fathom porque si no...

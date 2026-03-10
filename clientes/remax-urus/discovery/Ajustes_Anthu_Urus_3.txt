@@ -1,0 +1,139 @@
+Impromptu Google Meet Meeting - January 29
+VIEW RECORDING - 26 mins (No highlights): https://fathom.video/share/cS2zGHdAHdxiASRaoyvQay4gt_3qDJhH
+
+---
+
+0:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Santiago, Â¿quÃ© tal? Â¿QuÃ© tal? Â¿CÃ³mo estÃ¡s? Â¿Todo bien? SÃ­, todo bien. QuÃ© bueno, me alegro. Anthu, el motivo de esta reuniÃ³n es sÃºper, sÃºper prÃ¡ctica.  Ya de hecho estamos en la recta final de alinear a Anthu 2.0 a los que estamos buscando. AsÃ­ que nos va a ayudar, nos ayudarÃ¡ bastante con validar los flujos que estÃ¡ teniendo Anthu 2.0 actualmente.  No quiero ahondarme tanto con esto tÃ©cnico porque esto ya lo vamos a ver al final cuando les demos toda la documentaciÃ³n.  Lo que sÃ­ vamos a revisar en profundidad son cuÃ¡les son las instrucciones que Anthu 2.0 hoy dÃ­a estÃ¡ manejando.  Esto puede parecer un poquito tÃ©cnico, no lo es. Ãšnicamente quiero revisar contigo parte por parte para saber si tienes alguna observaciÃ³n.  CrÃ©eme que una palabrita puede cambiar mucho el comportamiento de Anthu. Por eso va a ser importante que tÃº me ayudes validando.  Y cualquier cosa que no entiendas yo te lo voy a explicar. Â¿Ok? Primero con respecto al rol que tiene, esta es la identidad que va a tener el asistente de ella.  Asus o Chargibit. Chargibit. SÃ­. Ya, bÃ¡sicamente es la personalidad que va a tener el chat y que va a vivir dentro de tu WhatsApp.  Ok, lo que sabe Anthu, que es asistente comercial de Remaxur, su misiÃ³n es calificar leads, registrar informaciÃ³n, derivarnos con los asesores y agendar visitas calificadas.  Eres mujer, tienes un tono cÃ¡lido, peruano profesional, nunca inventas informaciÃ³n y trabajas en el mercado inmobiliario peruano principalmente en Lima.  A mÃ­ creo que no hay ninguna observaciÃ³n, eso es algo muy general, asÃ­ que por ese lado estÃ¡ sÃºper bien.  acÃ¡ le estamos diciendo que la fecha es tal, esto se actualiza dinÃ¡micamente, es decir que Anthu sabe en cualquier momento, que son las, por ejemplo, ahora 15 de la maÃ±ana y 15 y un segundo despuÃ©s, sabe actualmente cuÃ¡l es la hora.  Â¿CuÃ¡les son las reglas que tiene? No quiero profundizar mucho en eso, pero bÃ¡sicamente sabe que no tiene que enviar ningÃºn tipo de informaciÃ³n que no tenga.  Eso pasaba, y eso nos lo mencionaste tÃº, que mandaba precios sin tener conocimiento del precio, eso lo hemos evitado, ya no va a mandar ningÃºn tipo de precio, ningÃºn tipo de informaciÃ³n que no tenga en la base que nos han dado, que principalmente es la base.  del CG, la presentaciÃ³n antes del DNI, antes de que, bueno, eso es una regla mÃ¡s general, aquÃ­ lo que le estamos diciendo es que el lead tiene que ver, o tenemos que saber quÃ© propiedad te estÃ¡ buscando, sea que viene con el ID o que no viene con el ID, antes de pedir el DNI.  TambiÃ©n le hemos dicho, y esto lo habÃ­amos cuadrado en la Ãºltima reuniÃ³n que tuvimos, que cuando nos envÃ­en el DNI tiene que derivar y tiene que avisarte automÃ¡ticamente, Â¿ok?  Le hemos dicho que la prioridad son todos esos links que ya vengan con el ID claro para que busque directamente el, bueno, aquÃ­ la herramienta se llama Buscar Propiedades, pero es bÃ¡sicamente el Excel del Cine.  Y finalmente, sabe que no tiene que repetir mensajes previos, por ejemplo, tiene que repetir saludos o volver a hacerle preguntas cuando ya lo pregunto.  Eso aquÃ­ es un poco mÃ¡s general. AcÃ¡ el saludo inicial que siempre va a hacer para identificar el tipo de cliente, si estÃ¡ buscando comprar, alquilar o vender, nuevamente eso no tiene que profundizar tanto.  Y aquÃ­ le estamos aclarando cuÃ¡les son los tipos de cliente que ustedes manejan, Â¿ok? Compradores, arrendatarios, vendedores y postulantes.  Es que, de hecho, los mÃ¡s importantes de cara a este proyecto son compradores y arrendatarios. Ahora, aquÃ­ se empieza lo importante, Anthu, y va a ser de mucho valor que nos pueda dejar tu feedback.  Â¿CuÃ¡l es el paso nÃºmero uno que estamos considerando para los compradores? Primero, si viene con el ID, vamos a revisar si el ID se encuentra dentro de la base de datos.  Si es que no dispone del ID, le va a hacer ese tipo de preguntas. Bueno, para saber especÃ­ficamente quÃ© es lo que estÃ¡ buscando.  Algo que estÃ¡ pendiente, Anthu, es que ahora con el equipo estamos revisando a ver si nos podemos conectar a la pÃ¡gina de Remax, pero por ahora no tenemos respuesta porque estÃ¡ siendo bien complicado y estamos priorizando a que Anthu 2.0 te estÃ© ayudando a filtrar.  Porque yo ahorita voy a llegar a ese paso. Va a hacer las preguntas de calificaciÃ³n, va luego a hacer la bÃºsqueda de estas propiedades, segÃºn lo que Ã©l ha mostrado y demÃ¡s, y luego le va a mostrar las propiedades de esta manera y le va a mandar el link de adelante.  Â¿Ok? Ahora, lo que hoy... Bien, tu 2.0 no puede hacer es mandar informaciÃ³n de habitaciones por lo mismo que el archivo que nos compartes, no tiene esa informaciÃ³n.  Lo que te querÃ­a preguntar, y no sÃ© si de repente lo podrÃ­amos ver o de fÃ¡cil estar 100% segura de eso, es que sÃ­ o sÃ­ parte de la exportaciÃ³n que tÃº haces en esas configuraciones no te deja exportar el nÃºmero de habitaciones o mÃ¡s informaciÃ³n.
+
+4:22 - Anthuane Xiomara Champac Ramos
+  No, solamente lo principal, el distrito, el tipo de propiedad y el precio. Pero ahÃ­ si no yo misma agregarÃ­a un campo, revisarÃ­a antes de subir la informaciÃ³n al TRAI, manualmente, claro.  O sea, sÃ­ quitarÃ­a tiempo, pero es lo Ãºnico, porque sÃ­, por ejemplo, en las habitaciones, que la IA lo estaba reconociendo como departamento, que era el de ARIX, lo estaba reconociendo como departamento a 700 soles.
+
+4:57 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y habÃ­a muchos estudiantes.
+
+5:00 - Anthuane Xiomara Champac Ramos
+  De clientes que creÃ­an que era departamento a 700 soles, pero ya despuÃ©s cuando yo fui viendo en el chat de la IA, les fui indicando que eran habitaciones y que esas habitaciones solamente eran para damas estudiantes.  Ok.
+
+5:18 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y ahÃ­ sÃ­ serÃ­a bueno, en ese caso yo, por fin, el Excel, manualmente agregar un campo mÃ¡s y ponerlo, Â¿no?
+
+5:25 - Anthuane Xiomara Champac Ramos
+  En vez de departamento, habitaciÃ³n. Porque cuando es el Excel me vota como departamento, no me vota como habitaciÃ³n.
+
+5:34 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ah, ok, ya te entendÃ­. Entonces, Â¿te refieres al tipo de propiedad? AsÃ­ es. Ok, bueno, sÃ­, serÃ­a bueno hacer eso y eso te tomarÃ­a mucho tiempo porque al final lo que nosotros queremos tanto es que tÃº te liberes de tiempo, no que tengas mÃ¡s carga.
+
+5:52 - Anthuane Xiomara Champac Ramos
+  SÃ­, pero igual, bueno, en estos dÃ­as he estado revisando la base de datos y he tenido que filtrar clientes.  Y eso tambiÃ©n me ha quitado tiempo.
+
+6:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No sÃ© si va a ser por tu nombre o es por... No, no, justo eso es lo que estamos ajustando ahora para que sea lo mÃ¡s rÃ¡pido posible.  De hecho, ahorita justo Armando estÃ¡ actualizando la base, pero ahÃ­ lo que vamos a hacer, Anthu, es que Anthu 2.0 pueda llenar, por ejemplo, la columna de DNI o una columna que diga calificado y no calificado.  Y ahÃ­ tÃº solo lo puedas filtrar lo mÃ¡s rÃ¡pido posible para que te enfoques en los que ya han llegado hasta la parte de darte el DNI y no tengas que estar viendo cliente por cliente.  O por ese lado ahora no te preocupes. Justo eso es lo que estamos moldeando. SÃ­, yo tambiÃ©n me he tenido preocupada.  No te preocupes. lo voy a tener asÃ­ siempre. SÃ­, mira, y justo aprovecho en decirte, en mencionarte esto. Al final, la IA como tal, y esto no sÃ© si se lo mencionÃ© en ley de ayer o a otro cliente, pero va a actuar en funciÃ³n a la informaciÃ³n que nosotros le entreguemos.  Â¿A quÃ© me refiero con esto? Si es que la base de propiedades tal vez no estÃ¡ siendo... 100% completa y eso creo que lo conversamos antes de empezar el proyecto.  Definitivamente la IA va a actuar en base a esa informaciÃ³n. Ahora, yo creo que esa informaciÃ³n que igual tenemos de las propiedades es sÃºper, sÃºper clave porque tenemos el ID.  Entiendo que la mayorÃ­a de clientes vienen a preguntar por el ID. AsÃ­ que ahorita el rol de Anthu 2.0 principalmente va a ser que todos esos leads que estÃ¡s teniendo al dÃ­a, que creo que son como 100, 120, porque son muchÃ­simos, Ãºnicamente puedas filtrar a los que sÃ­ tienen esa intenciÃ³n y te dejen el DNI y te avisen automÃ¡ticamente.  Lo que tambiÃ©n estamos haciendo, y de hecho aprovecho de mostrarte, es que esto ya lo vamos a agregar segÃºn lo que hemos conversado.  Cuando sean compradores y arrendatarios, Anthu, hemos quedado en que te van a avisar a ti cuando te entreguen el DNI, va a dejar de responder a tu 2.0.  Va a aparecer automÃ¡ticamente aquÃ­, por ejemplo, en off. Entonces, Â¿quÃ© es lo que tÃº entiendo que vas a hacer?  Vas a agarrar este DNI, vas a ir al Sentinel y vas a identificar. Vamos verificar si es verde o rojo, Â¿verdad?  SÃ­. Ok, cuando sea verde, por A o B, lo que tÃº vas a tener que hacer es ir a aÃ±adir etiquetas.  Ya. Ok, eso va a ser clave. Y aquÃ­ mi pregunta es, despuÃ©s de verificar esto en Sentinel, Â¿tÃº esperarÃ­as que Anthu 2.0 siga con la conversaciÃ³n ya con el contexto de que estÃ¡ verificado o tÃº manualmente te quieres encargar de ese libro?
+
+8:25 - Anthuane Xiomara Champac Ramos
+  No, yo creo que ya que siga Anthu 2.0 con el contexto ya verificado para que ya siga hasta la visita.  Ok. sea, lo recomendable y lo correcto serÃ­a hasta la visita, Â¿no? TambiÃ©n tenemos que ver eso de calendario de los chicos.  SÃ­, total.
+
+8:44 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Justo por eso queremos dejar. Ok.
+
+8:46 - Anthuane Xiomara Champac Ramos
+  Porque, miren, pongan la conversaciÃ³n de Fernando, por fa.
+
+8:50 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Fernando, Fernando, Â¿cÃ³mo es el apellido?
+
+8:53 - Anthuane Xiomara Champac Ramos
+  Solamente, ah, ejemplo, Ã©l ya le habÃ­a sacado una cita. Y Ã©l El chico ha estado, hoy dÃ­a, no, bueno, ayer que tuve el celular en la noche, estaba revisando, y ya le habÃ­an dado una cita para el dÃ­a jueves, o sea, para hoy dÃ­a a las diez y media de la maÃ±ana, y el chico hablaba y hablaba.  Entonces, este, como nosotros ayer hemos estado en evento, no hemos estado revisando el celular durante el dÃ­a, en grabaciÃ³n.  Y hablaba hoy dÃ­a, el chico ha dicho que ya se ha comunicado con un asesor, y que, y que ya tiene la direcciÃ³n exacta de la propiedad, pero y que igual no estÃ¡ interesado porque no tiene gas natural.  Yo creo que por ahora, o sea, por el momento que no llegue hasta registrar visita, porque todavÃ­a no lo hemos conversado con los asesores que van a participar.
+
+9:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entiendo, entiendo. Ok, perfecto, me queda claro, te preocupes, si justamente eso es lo que queremos, queremos optimizar. Lo que podemos ir haciendo ahora, Antu, una vez, lo que queremos hacer ahorita es que cuando llegue hasta el DNI,  Cuando llegaste el DNI, ya sea, ya haya pasado por ese filtro inteligente para saber que es un lead calificado, Â¿ok?  Antes de afinar la lÃ³gica con los asesores, Â¿quÃ© es lo que yo recomiendo por ahora? Que lo vaya agendando en el calendario y que despuÃ©s ya te avise, Â¿ya?  Porque yo calculo que todo va a estar listo para esta semana, pero no estoy seguro de su disponibilidad. Gracias para la siguiente y poder coordinar todo con respecto a esta lÃ³gica.  De igual manera, como te expliquÃ©, habÃ­a dos opciones, Â¿no? La del calendario centralizado con la del calendario propio, que nuevamente yo recomiendo la del calendario propio.  Justo tuve una reuniÃ³n con otro Remax, no puedo decir cuÃ¡l es, pero lo quieren manejar de esa manera tambiÃ©n.  AsÃ­ que creo que es la manera mÃ¡s Ã³ptima. Entonces, rÃ¡pidamente para volver a Anthu y dejar todo esto, todo esto sÃºper fino.  Por ahÃ­ de la ley. Â¿SÃ­? Â¿No me querÃ©s mostrarlo? Nada.
+
+11:05 - Anthuane Xiomara Champac Ramos
+  Fathom, Santiago Ayala, dame un momento, por favor, Santiago. SÃ­, no te preocupes.
+
+11:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Fathom, Santiago.
+
+16:00 - Anthuane Xiomara Champac Ramos
+  Gracias. Gracias.
+
+17:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Que estÃ¡ pendiente porque estamos en entrenamiento. De hecho, ahora es lo de la base de propiedades, que lo estamos asegurando en base a lo que tenemos.  Ahora, como te digo, el paso mÃ¡s importante, la parte del proceso mÃ¡s importante va a ser hasta que Anthu 2.0 pide el DNI y te lo derive a ti.  Â¿Ok? Hasta ahÃ­, Anthu literalmente ya cumpliÃ³ con el 80% porque luego tÃº solo tienes que verificar. Y entiendo que si no califica, se le menciona a ella, tÃº le puedes mencionar manualmente que no califica, Â¿verdad?  Â¿O cÃ³mo tendrÃ­a que, cÃ³mo vamos a proceder cuando no califique en ese entiende? Cuando no califico, o le explico, Â¿no?
+
+17:35 - Anthuane Xiomara Champac Ramos
+  Le mando su reporte, mire usted, no califica porque estÃ¡ en rojo.
+
+17:39 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AjÃ¡.
+
+17:39 - Anthuane Xiomara Champac Ramos
+  Pero de una manera mÃ¡s, claro, menos, este, menos agresiva.
+
+17:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro.
+
+17:47 - Anthuane Xiomara Champac Ramos
+  Y ya ahÃ­ se descarta el cliente. Ok, perfecto, entiendo.
+
+17:54 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, esa bien, no ningÃºn problema, eso me queda clarÃ­simo. Ahora lo Ãºnico que pienso... Tenemos pendiente, Anthu, es que Anthu 2.0, al momento en el que tÃº marques verificado o calificado en Sentinel, siga con el proceso de agendamiento de visita.  Y lo que nosotros queremos es hacerlo de manera automÃ¡tica. AcÃ¡ hay un tema y me hubiera gustado conversarlo con Leili.  Le escribÃ­ esta maÃ±ana y me dijo que esta semana estaba sÃºper full. Y de verdad es urgente juntarnos con ella porque hay un tema variable que se tiene que ajustar en base al volumen que ustedes manejan.  Aunque nosotros podemos ponerlo en un periodo de un dÃ­a para que lo prueben, pero claramente eso ya depende netamente de su volumen.  Â¿A quÃ© me refiero con esto? Lo que nosotros habÃ­amos pensado y recomendamos, porque al final queremos adecuar Anthu 2.0 a como tÃº trabajas, es que cuando tÃº marques verificado en Sentinel, automÃ¡ticamente Anthu 2.0 mande ese link del calendario del asesor que estÃ¡ linkeado a esa propiedad que se ha elegido.  Â¿Me sigues? Que automÃ¡ticamente le diga, este es el calendario del asesor, agenda por favor. La fecha que mÃ¡s se te ha acomodado esta semana, por ejemplo.  Eso es lo que estÃ¡bamos pensando. Pero para poder hacer eso, se tiene que hacer un envÃ­o automÃ¡tico. Y eso es parte de la variable, asÃ­ como los avisos que te tienen que hacer.  AsÃ­ que, nada, ahorita vamos a seguir afinando todo para que Anthu 2.0 siga respondiendo, siga respondiendo bien. Por lo menos que llegue hasta la etapa del DNI.  Y lo que te querÃ­a preguntar, Anthu, es, si tÃº me das luz verde, Anthu 2.0 empieza a agendar visitas en tu calendario.  Â¿TÃº estÃ¡s de acuerdo con que procedamos hasta que se ajuste la lÃ³gica de los asesores asÃ­? Â¿O creerÃ­as que es mejor que esperemos a definir esa lÃ³gica antes de empezar a agendar por agendar?  SÃ­, yo creo que esperemos.
+
+19:46 - Anthuane Xiomara Champac Ramos
+  Porque imagÃ­nate que se agende en un dÃ­a, cinco, tres visitas.
+
+19:52 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, te puede pasar, Â¿ah?
+
+19:53 - Anthuane Xiomara Champac Ramos
+  Y lo contacta el asesor y me dice que no puedo. Â¿CÃ³mo le decimos al cliente que ya se cancelen las visitas?  Mejor. No quedarÃ­amos mal, mejor hay que esperar. EstÃ¡ bien. Â¿QuÃ© te indicÃ³ Leili? Que posiblemente la otra semana, porque imagino que es por eso que se estÃ¡ retrasando, Â¿no?  SÃ­, sÃ­, sÃ­, me dijo que estÃ¡ sÃºper full.
+
+20:12 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De igual manera yo me llevo el pendiente, Anthu, de sincerarles todo con respecto a este variable, explicarles por quÃ© es un variable, quÃ© es lo que se hace y a quÃ© se va a deber, pero ya a grosso modo te comento, Â¿no?  Es lo que te decÃ­a, que Meta cada vez que tÃº mandas un mensaje proactivamente, no de respuesta, porque si te das cuenta, Anthu lo que hace 24-7 ahorita es responder, Meta no cobra por eso.  Pero si tÃº ahorita, no sÃ© si estÃ¡s viendo mi pantalla, pero imagÃ­nate que tÃº ahorita quieres poner la etiqueta de verificado Sentinel para el cliente Yerny, Â¿ok?  Lo que nosotros recomendamos es que cuando tÃº pongas esa etiqueta de verificado Sentinel, por ejemplo, automÃ¡ticamente se dispare un mensaje que diga, oye, hemos revisado tu DNI y no sÃ© cÃ³mo se comunican directamente con el lineamiento.  Para mencionarle que estÃ¡ verificado de manera crediticia. Le dicen, usted estÃ¡ verificado y te mandamos el link del calendario con el asesor para que puedas agendar una visita.  Â¿Tienes alguna duda mÃ¡s? Eso es lo que yo recomendarÃ­a cuando tÃº pongas esta etiqueta. Eso serÃ­a clave. AhÃ­ yo creo que la Anthuane 100...  SÃ­, perdÃ³n.
+
+21:19 - Anthuane Xiomara Champac Ramos
+  Para que por automÃ¡tico se mande ese mensaje siempre que ponga yo esa etiqueta. Exacto.
+
+21:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y no solo eso, sino que ese mensaje que se manda en automÃ¡tico entre a la memoria de Anthu 2.0 para que Anthu 2.0 tenga que seguir la conversaciÃ³n.  No solo que con ese mensaje automÃ¡tico se acabe, sino que se acabe cuando el cliente haya confirmado la visita.  Pero al final esa automatizaciÃ³n que se hace cuando tÃº marcas la etiqueta es un costo variable de meta. Y es por eso que quiero afinar todo eso con ustedes, sobre todo con Leili, para que me digan, Santiago, que aquÃ­ derive, que aquÃ­ no derive, que aquÃ­ se avisa.  Y aquÃ­ aquÃ­ si no avisa. Porque imagÃ­nate que tambiÃ©n derivamos, te damos avisos para postulantes y... Y vendedores. Posiblemente tÃº me digas, Santi, estÃ¡ bien, genial, hagÃ¡moslo.  Pero imagÃ­nate que me voy a inventar una cifra. A la semana vienen 50 postulantes, entre postulantes y vendedores. Eso al mes se traduce en Â¿cuÃ¡nto?  En 200 aproximadamente. Esos 200 son por 0.07, que es lo que cobra mente por mensaje. Ok, al mes puede que no sea mucho, Santi.  Â¿CuÃ¡nto me saldrÃ¡ eso? Â¿5 dÃ³lares? Â¿6 dÃ³lares? Ok, pero al aÃ±o eso sÃ­ es un monto que sÃ­ es considerable.  Por eso es importante definir cuÃ¡ndo va a derivar y cuÃ¡ndo va a alertar y cuÃ¡ndo va a hacer seguimientos automÃ¡ticos.  Eso es todo lo que quiero definir contigo y con Leili. Yo te lo voy a sincerar en un documento sÃºper entendible y sÃºper breve para que tÃº lo puedas leer.  TambiÃ©n se lo voy a mandar a Leili y de igual manera yo recomiendo que nos juntemos lo mÃ¡s rÃ¡pido posible para definir esto primero y definir bien la lÃ³gica de calendario, que eso sÃ­ va a estar un poco extenso porque no sÃ© si van a ser mÃ¡s de 5 o 10 asesores, pero eso sÃ­ sale definitivamente del alcance y queremos apoyarnos de igual manera.  Y encontrar un punto medio. Por eso es importante que lo conversemos ya. Â¿SÃ­? SÃ­, estÃ¡ bien. Ok. Perfecto, Antu.  Entonces seguimos avanzando. Apenas que estÃ© todo regularizado te avisamos y cualquier duda se dice no. Ah, y una cosa mÃ¡s, Antu.  DiscÃºlpame que te retenga mÃ¡s tiempo. Nosotros te hemos compartido un drive en el cual tÃº tienes que actualizar una base con lo del SIGI, Â¿verdad?  SÃ­, sÃ­, sÃ­.
+
+23:26 - Anthuane Xiomara Champac Ramos
+  Ok. QuerÃ­a mencionarte un breve cambio Ãºnicamente.
+
+23:29 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Esta es la base que a te va a salir, Â¿ok? SÃ­, Normalmente tÃº esto lo vas a encontrar asÃ­.  SÃ­.
+
+23:38 - Anthuane Xiomara Champac Ramos
+  AsÃ­ lo vas a encontrar normalmente.
+
+23:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­. Lo que tÃº haces entiendo es que elimines esto, esto lo voy a descargar, claro, eliminas esto y aparece uno que se llama XSL, como si fuera un Excel, Â¿verdad?  SÃ­. Mira, pero voy a aprovechar de usarlo en la cartelera. Ok, voy a aprovecharlo. aprovecharlo en la cartelera. No problema.  Y tÃº lo vas a encontrar vacÃ­o y lo que tÃº haces es aÃ±adir una nueva, la nueva exportada del Cine.  Ok, voy a agarrar, por ejemplo, voy a usar esta.
+
+24:19 - Anthuane Xiomara Champac Ramos
+  Ya, aquÃ­ estÃ¡.
+
+24:20 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y te va a aparecer asÃ­. Lo que tÃº tienes que hacer, Anthu, es hacer lo que siempre has hecho, dejarlo asÃ­, propiedad sÃ­ y sin nada, adelante, entrar aquÃ­, y cuando entres, es sÃºper simple, no te va a tomar nada, te vas a ir al archivo y vas a poner guardar como hoja de cÃ¡lculo de Google.  Nada mÃ¡s.
+
+24:42 - Anthuane Xiomara Champac Ramos
+  AjÃ¡.
+
+24:43 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y se te va a quedar automÃ¡ticamente otra carpeta que ya no tiene el punto .xlsx, es decir, que ya no es un Excel.  Este es el archivo que nosotros necesitamos.
+
+24:55 - Anthuane Xiomara Champac Ramos
+  Â¿CÃ³mo se llama?
+
+24:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Guardar propiedad? SÃ­, te vas a archivo. archivo. De igual manera, aquÃ­ te lo voy a pasar por WhatsApp, archivo, guardar como hoja de cÃ¡lculo de Google.  Vaya, como hoja de cÃ¡lculo. Â¿SÃ­?
+
+25:09 - Anthuane Xiomara Champac Ramos
+  Y el otro lo elimina ya, Â¿no?
+
+25:11 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, lo puedes eliminar o dejar ahÃ­, ningÃºn problema. Hemos hecho que Anthu Ãºnicamente extraiga el archivo que no tiene el punto X en la C, pero es importante que se quede asÃ­.
+
+25:21 - Anthuane Xiomara Champac Ramos
+  Vale. Â¿SÃ­?
+
+25:24 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eso Ãºnicamente, Anthu, cualquier lo que tengas nos avisas. Y nuevamente, como les mencionaba Leili y Ajime, nosotros estamos aquÃ­ para ayudarlos, cualquier cosa, no solo con el tema de Anthu 2.0, estamos ahÃ­ presionando con el tema de Meta, asÃ­ que cualquier cosa nos escriben, Â¿sÃ­?  SÃ­, esto es Santiago, gracias. Perfecto, no te preocupes, nos estamos viendo, hasta luego. Hasta luego.

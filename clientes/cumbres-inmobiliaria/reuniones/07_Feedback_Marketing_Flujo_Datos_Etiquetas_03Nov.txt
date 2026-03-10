@@ -1,0 +1,184 @@
+# Sperant CRM: integración bidireccional con IA es viable y así funciona
+
+**Sperant sí permite integración bidireccional completa.** Su API REST v3 soporta crear clientes (leads), actualizar registros, crear interacciones, eventos y proformas desde sistemas externos. Sus 10 webhooks salientes cubren el ciclo inmobiliario completo — desde la llegada del lead digital hasta la venta cerrada. La combinación de API + Webhooks hace factible conectar un agente de IA (MIA) vía n8n/WhatsApp que tanto escuche eventos de Sperant como escriba datos en él. No existe integración nativa con n8n ni Make, pero los HTTP Request nodes de n8n pueden consumir la API REST directamente sin problema.
+
+Sperant, desarrollado por Eterniasoft SAC en Lima, lleva **más de 11 años** sirviendo a **+200 constructoras e inmobiliarias** en 3 continentes. Cubre el ciclo completo: captación → venta → cobranza → entrega → postventa. Toda su documentación técnica está organizada en tres espacios de GitBook, y su conector en Zapier ya permite crear clientes como action — prueba concreta de que la escritura externa funciona.
+
+---
+
+## La API REST v3 permite lectura y escritura completa sobre leads
+
+La API de Sperant es robusta, bien estructurada y cubre prácticamente todos los módulos del CRM. Los detalles técnicos fundamentales:
+
+| Parámetro | Valor |
+|-----------|-------|
+| **Base URL Producción** | `https://api.sperant.com` |
+| **Base URL Pruebas** | `https://api.eterniasoft.com` |
+| **Autenticación** | API Key (Bearer Token, no expira) |
+| **Rate limit** | **15 peticiones/segundo** |
+| **Formato** | JSON exclusivo (request y response) |
+| **CORS** | Bloqueado — solo consumo backend |
+| **Paginación** | 20 items/página, orden descendente por fecha |
+
+Para obtener un token de prueba se contacta a `soporte@sperant.com`. Tras una reunión de validación técnica, se otorga el token de producción. Sperant exige explícitamente que el cliente cuente con un "desarrollador que conozca sobre conexiones API REST y programación a nivel de backend".
+
+Los endpoints de escritura confirmados — los más relevantes para la integración MIA — son:
+
+**Clientes (Leads):** Se pueden crear con `POST`, actualizar con `PUT`, listar, mostrar, consultar proyectos asociados, listar proformas activas y **crear interacciones** (registro de actividades del lead). Al crear un cliente vía API, Sperant automáticamente asigna vendedor según lógica round-robin, crea una interacción "Creación de cliente", envía correo de bienvenida al lead y correo de asignación al vendedor. Los campos UTM se registran como `utm_source: "sperant"` y `utm_medium: "api"`.
+
+El payload para crear un cliente incluye: `email`, `fname`, `lname`, `seller_id`, `canal_de_entrada`, `tipo_documento`, `tipo_persona` (natural/jurídico), `departamento` (código ISO), `ubigeo` (código SUNAT), `observaciones`, y los **5 campos UTM** completos (`utm_source`, `utm_medium`, `utm_campaign`, `utm_term`, `utm_content`). Ejemplo parcial del request:
+
+```json
+{
+  "data": {
+    "email": "test@demo.com",
+    "fname": "Almendra",
+    "lname": "Oblitas",
+    "seller_id": 42
+  }
+}
+```
+
+**Eventos:** Se pueden crear (`POST`) y consultar. Los tipos de evento son consultables vía el endpoint de recursos `/tipos-de-evento`, lo que permite crear visitas, reuniones u otros eventos definidos en el CRM.
+
+**Proformas:** Se pueden crear cotizaciones y, crucialmente, **crear separaciones** (`POST`), lo que inicia el proceso formal de venta. También se pueden consultar titulares y unidades de cada proforma.
+
+**Unidades:** Se pueden crear y actualizar — útil para sincronizar disponibilidad.
+
+**Atenciones y Postventa:** CRUD completo incluyendo notas y archivos adjuntos. El módulo de postventa permite inspeccionar, atender y terminar requerimientos vía API.
+
+**Catálogos de recursos (25+ endpoints GET):** Estados comerciales, canales de entrada, medios de captación, niveles de interés, prioridades de leads, tipos de interacciones, motivos de desistimiento, usuarios y segmentos. Estos catálogos son esenciales para mapear correctamente los valores al crear o actualizar registros.
+
+La documentación completa está en: `https://sperant.gitbook.io/apiv3`
+
+---
+
+## Los 10 webhooks cubren todo el embudo inmobiliario
+
+Los webhooks de Sperant son **salientes (outbound)** — el CRM dispara notificaciones HTTP POST hacia una URL configurada cuando ocurren eventos. Se configuran desde *Configuración > Integración > Webhook* dentro del CRM, con selección múltiple de eventos, URL destino, token de validación y estado activo/inactivo.
+
+| Evento webhook | Qué dispara |
+|----------------|-------------|
+| **Cliente creado** | Lead creado manualmente dentro del CRM |
+| **Cliente digital** | Lead llegado por Facebook, API, portal inmobiliario o proforma web |
+| **Proceso de separación creado** | Se inicia una separación (compromiso de compra) |
+| **Proceso de venta completado** | Se completa el flujo completo de venta |
+| **Reserva creada** | Se genera una reserva de unidad |
+| **Reserva expirada o anulada** | Reserva vence o se cancela manualmente |
+| **Proceso de anulación creado** | Se crea un proceso de anulación |
+| **Depósito de pago creado** | Se registra un depósito en cronograma de pagos |
+| **Depósito de financiamiento creado** | Se registra un depósito de financiamiento |
+| **Atención cambio de estado** | Cambia el estado de una atención de servicio |
+
+Cada request incluye un **token de validación** para verificar autenticidad. Los formatos de payload están documentados en `https://sperant.gitbook.io/medios-digitales-sperant/webhook/formatos-de-envio-de-webhook`, con secciones específicas para "Cliente creado" y "Cliente digital". Para testing recomiendan webhook.site.
+
+**Eventos notablemente ausentes:** No hay webhook específico para "lead actualizado de estado", "visita agendada" o "visita confirmada". Esto es una limitación importante — la integración MIA no recibiría notificación automática cuando un asesor cambie el estado comercial de un lead o confirme una visita, a menos que se implemente un mecanismo de polling vía API.
+
+---
+
+## Arquitectura viable para la integración MIA ↔ Sperant en n8n
+
+Con la información recopilada, la integración bidireccional es factible con esta arquitectura:
+
+**Flujo Sperant → MIA (escucha):** Configurar webhooks de Sperant apuntando a endpoints de n8n (Webhook Trigger nodes). Cuando llega un "Cliente digital" o "Cliente creado", n8n recibe el payload, procesa la información y activa el agente MIA en WhatsApp para contactar al lead. Cuando se crea una separación o se completa una venta, MIA puede enviar mensajes de felicitación o seguimiento.
+
+**Flujo MIA → Sperant (escritura):** Desde n8n, usar HTTP Request nodes apuntando a `https://api.sperant.com` con Bearer Token. MIA puede crear nuevos leads capturados en WhatsApp (`POST clientes`), registrar interacciones de las conversaciones (`POST crear-interaccion`), crear eventos/visitas (`POST crear-evento`), y potencialmente actualizar datos del cliente (`PUT actualizar-cliente`).
+
+**Gaps identificados que requieren validación con Sperant:**
+
+- No hay endpoint documentado para **cambiar el estado comercial** de un lead vía API (el endpoint `PUT actualizar-cliente` existe pero no se confirmó si acepta cambio de estado comercial)
+- No hay webhook para **cambios de estado de lead** ni **visitas agendadas/confirmadas**
+- No hay documentación sobre reintentos de webhook ni manejo de fallos
+- Los formatos exactos de payload de webhook no pudieron extraerse completamente
+
+---
+
+## 17 integraciones nativas y un ecosistema centrado en el inmobiliario peruano
+
+Sperant mantiene un ecosistema de integraciones sorprendentemente amplio para un CRM de nicho:
+
+**Captura de leads (portales y ads):** Facebook Lead Ads (importación manual + callback automático), TikTok Lead Ads (nativo + vía Zapier), y **10+ portales inmobiliarios** latinoamericanos incluyendo Nexo Inmobiliario (webhook), Urbania (webhook/callback/scraping), Adondevivir, Properati, La Encontré, Inmuebles24, Plusvalía, ExpoUrbania, Grupo Navent (callback), Locura Inmobiliaria y Feria Nexo. La Proforma Web es un cotizador público embebible que genera leads automáticamente.
+
+**Comunicación y marketing:** SperantChat (extensión Chrome/Edge que agrega barra lateral en WhatsApp Web para crear leads y registrar interacciones), SendPulse (envíos masivos de WhatsApp y marketing automation, integración nueva), y Mailchimp para email marketing.
+
+**Automatización:** Zapier es la **única plataforma de automatización con integración oficial**. Ofrece 2 triggers (*Cliente Creado* y *Cliente Digital*) y 1 action (*Crear Cliente*). No soporta campos personalizados. La integración con Zapier no requiere plan específico de Sperant ni tiene límites de tokens. No existe integración nativa con Make ni n8n.
+
+**Otros:** DocuSign y firma digital nativa para contratos, PagoEfectivo como pasarela de pagos local, Experian para verificación crediticia, Geolocalización para tracking GPS, y Davicloud para servicios cloud. También mencionan un módulo de **IA de Sperant en Beta** y un módulo de **Automatización**, aunque los detalles de ambos no están públicamente accesibles.
+
+Documentación completa de integraciones: `https://sperant.gitbook.io/manual-sperant/configuracion/integraciones`
+Documentación de medios digitales: `https://sperant.gitbook.io/medios-digitales-sperant/`
+
+---
+
+## Frente a la competencia, Sperant tiene API sólida pero ecosistema limitado
+
+En comparación con CRMs globales y regionales, Sperant ocupa un punto intermedio interesante en apertura de API:
+
+**Contra Pipedrive y HubSpot:** Ambos tienen ecosistemas masivos (400+ y 1,500+ integraciones respectivamente), portales de desarrolladores pulidos, documentación Swagger/OpenAPI, y CRUD completo sobre todos los objetos. Sin embargo, **ninguno tiene módulos nativos para el flujo inmobiliario** — proformas, separaciones, cronogramas de pago, cobranzas, entregas o postventa. Usar Pipedrive o HubSpot para una constructora peruana requiere personalización significativa que Sperant resuelve de fábrica.
+
+**Contra Tokko Broker** (líder en Argentina/México): Tokko tiene un portal de desarrolladores más sofisticado (`developers.tokkobroker.com`) con playground interactivo y documentación en ReadMe.io. Su API está orientada a propiedades y difusión multi-portal. Sperant tiene **mayor profundidad funcional vía API** cubriendo clientes, proformas, pagos, letras, postventa y atenciones — reflejo de su enfoque en constructoras (venta de obra nueva) versus Tokko que apunta más a brokers de compraventa.
+
+**Contra Nocnok** (líder en México con 35,000+ agentes): Nocnok **no ofrece API pública ni webhooks documentados**. Las integraciones son internas y el plan CORP ofrece "integraciones especiales" solo bajo solicitud. Sperant es significativamente más abierto.
+
+**Tabla resumen:**
+
+| Capacidad | Sperant | Tokko | Nocnok | Pipedrive | HubSpot |
+|-----------|---------|-------|--------|-----------|---------|
+| API REST documentada | ✅ v3 | ✅ v1 | ❌ | ✅ | ✅ |
+| Crear registros vía API | ✅ | ✅ | ❌ | ✅ | ✅ |
+| Webhooks nativos | ✅ 10 eventos | ✅ | ❌ | ✅ | ✅ |
+| Zapier oficial | ✅ | ✅ | ❌ | ✅ | ✅ |
+| Swagger/OpenAPI | ❌ | ❌ | ❌ | ✅ | ✅ |
+| Módulos inmobiliarios | ✅ Completo | ✅ Parcial | ✅ Básico | ❌ | ❌ |
+| Portales LATAM nativos | ✅ 10+ | ✅ Multi | ✅ México | ❌ | ❌ |
+
+---
+
+## La comunidad técnica alrededor de Sperant es prácticamente inexistente
+
+Un hallazgo significativo de esta investigación: **no existe discusión pública de desarrolladores sobre integraciones con Sperant** en ninguna plataforma — ni Reddit, ni StackOverflow, ni foros técnicos, ni YouTube con tutoriales. Sperant no tiene perfil en Capterra, G2, Trustpilot ni GetApp. Solo aparece en Appvizer sin reseñas de usuarios.
+
+En GitHub, Eterniasoft tiene únicamente un cliente Ruby (`rsperantito`) con 3 commits de diciembre 2019 y un cliente Node.js (`jsperantito`) aparentemente mínimo. No hay colección Postman pública ni especificación OpenAPI/Swagger.
+
+Los testimonios de clientes en sperant.com son relevantes pero enfocados en gestión comercial, no en integración técnica. La excepción es **Besco Construcciones**, cuyo Jefe de Soporte describe integración con ERP propio, firmas electrónicas, y APIs que alimentan apps móviles propias — confirmando que integraciones complejas son posibles pero requieren trabajo directo con el equipo de Sperant.
+
+Esto implica que las integraciones con Sperant se realizan bajo un **modelo consultivo**, trabajando directamente con su equipo de soporte técnico, no de forma self-service como con HubSpot o Pipedrive.
+
+---
+
+## Preguntas estratégicas para la reunión técnica con Sperant
+
+Basándose en los gaps identificados durante esta investigación, estas son las preguntas que maximizarán el valor de la reunión:
+
+**Sobre actualización de estados:**
+1. ¿El endpoint `PUT actualizar-cliente` permite cambiar el **estado comercial** del lead (ej: de "Nuevo" a "Contactado", "Interesado", "Visita agendada")? ¿Qué campo exacto se envía y qué valores acepta?
+2. ¿Se puede actualizar el **nivel de interés** o la **prioridad** de un lead vía API?
+
+**Sobre webhooks faltantes:**
+3. ¿Existe o está en roadmap un webhook para "**cambio de estado comercial del lead**"? Si MIA actualiza el estado de un lead, ¿hay forma de confirmar ese cambio vía webhook de vuelta?
+4. ¿Hay planes de agregar webhooks para "**visita agendada**" o "**evento creado**"?
+5. ¿Cómo se maneja el **retry de webhooks** cuando el endpoint destino no responde? ¿Cuántos reintentos? ¿Hay cola de mensajes o se pierden?
+
+**Sobre la API en detalle:**
+6. ¿Cuál es el formato exacto del payload del webhook "**Cliente digital**"? Necesitamos los campos para mapearlo en n8n.
+7. Al crear un evento vía API (`POST crear-evento`), ¿se pueden crear **visitas a sala de ventas** con fecha, hora y proyecto asignado?
+8. Al crear una interacción vía API, ¿qué **tipos de interacción** están disponibles? ¿Se puede registrar "Conversación WhatsApp con IA"?
+9. ¿Hay algún endpoint para **buscar clientes** por teléfono o email (para evitar duplicados antes de crear)?
+10. ¿El token de API tiene **scopes** o permisos granulares, o es acceso total?
+
+**Sobre arquitectura y límites:**
+11. El rate limit de **15 req/s** ¿es por token o por IP? ¿Es suficiente para un flujo de ~100-500 leads diarios?
+12. ¿Ofrecen un **entorno sandbox** persistente para desarrollo y testing continuo, o el token de prueba tiene expiración?
+13. ¿Existe documentación de **códigos de error** HTTP y mensajes de respuesta para manejar excepciones?
+14. ¿Están considerando publicar una **especificación OpenAPI/Swagger** para facilitar integraciones?
+
+**Sobre funcionalidades futuras:**
+15. El módulo de **IA de Sperant (Beta)** — ¿qué hace exactamente? ¿Compite o complementa a un agente IA externo como MIA?
+16. El módulo de **Automatización** — ¿qué reglas permite configurar? ¿Se pueden crear automatizaciones que disparen webhooks personalizados?
+17. ¿Hay planes de integración nativa con **n8n** o **Make** en el roadmap?
+
+---
+
+## Conclusión
+
+**La integración bidireccional MIA ↔ Sperant es técnicamente viable y bien soportada por la infraestructura existente.** Se pueden crear leads, registrar interacciones y crear eventos desde n8n vía HTTP Request nodes contra la API v3. Los webhooks permiten escuchar la llegada de leads digitales, separaciones, ventas y reservas. El gap principal está en la falta de webhook para cambios de estado comercial del lead y la necesidad de confirmar si el endpoint de actualización de cliente acepta cambios de estado — ambos puntos resolubles en la reunión técnica. Con **15 req/s** de rate limit y tokens que no expiran, la arquitectura n8n + Sperant es sostenible incluso para operaciones de alto volumen. La ausencia de documentación Swagger y la nula comunidad de desarrolladores sugieren que la relación con el equipo técnico de Sperant será clave — pero los testimonios de Besco y otros confirman que han ejecutado integraciones complejas exitosamente bajo este modelo consultivo.

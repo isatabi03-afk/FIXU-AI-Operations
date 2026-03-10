@@ -1,0 +1,718 @@
+﻿id,Oficina,Asesor,Celular,Codigo,Estado,Fecha Estado,Tipo de Propiedad,Tipo de Negocio,Vistas,Visitas,Exclusividad,Comisión (%),Moneda,Precio Inicial,Precio Anterior,Precio Actual,Fecha ultimo Cambio,Precio Venta/Alquiler/Anticresis (Dólares),Periodo Contrato (Meses),Inicio Contrato,Expiración Contrato,Fecha Publicación Propiedad,Precio m2,Precio Sugerido,Valor Comercial,Valor Realización Inmediata,Distrito,Provincia,Departamento,Dirección,Nº Partida,Nº Posesión,Nº Usufructo,Alerta Registral,Foto Letrero,Visible en la Web,Propiedad Revisada,Nombres Propietarios,Celular Propietarios,Correos Propietarios,Notas Propiedad,Fecha Publicación Urbania,URL Urbania,Fecha Publicación Adondevivir,URL Adondevivir,Fecha Publicación La Encontre,URL La Encontre
+2,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1170259,Activa,2026-01-29,Terreno,Venta,1,0,Exclusivo,5,$,98000,98000,98000,2026-01-29,0,6,2026-01-29,2026-07-29,2026-01-29,0,62423,65708,59137,Lima,Lima,Lima,Condominio Puertas de Tingo María,14686786,,,no,no,yes,no,"
+Franklin David Taboada Gallardo","
+921412869","
+Sin Correo","2026-01-29 08:22 | Buenos días,  lo hice con un ACM de otra propiedad porque no me permite hacer ACM nuevo.
+Queda pendiente subir el hr y pu
+",,,,,,
+3,RE/MAX URUS,Paola Rubi Aedo Lopez,917723062,1170252,Activa,2026-01-29,Departamento,Alquiler,4,0,Exclusivo,100,S/.,880,880,880,2026-01-29,0,3,2026-01-28,2026-04-28,2026-01-29,0,0,0,0,Comas,Lima,Lima,Manuel González Prada 1521,P11111010,,,no,no,yes,no,"
+Deybi George Licla  Solier","
+978245434","
+deybigeorge20@gmail.com",,,,,,,
+4,RE/MAX URUS,Nurian Melissa Castañeda Loayza,920024684,1170203,Activa,2026-01-28,Local,Alquiler,3,0,Exclusivo,100,S/.,2000,2000,2000,2026-01-28,0,4,2026-01-28,2026-05-28,2026-01-28,0,813,855,770,San Juan de Lurigancho,Lima,Lima,"Av. Sta. Rosa de Lima 443, San Juan de Lurigancho 15423, Perú",P02172237,,,no,no,yes,no,"
+Alejandra Yurivilca Leon De Leon","
+991959494","
+Sin Correo",,,,,,,
+5,RE/MAX URUS,Roberto Niño De Guzman Solier,999938243,1170129,Activa,2026-01-28,Departamento,Venta,4,0,No Exclusivo,3,$,161000,161000,161000,2026-01-28,0,6,2026-01-28,2026-07-28,2026-01-28,0,124033,130561,117505,San Isidro,Lima,Lima,Av. Canaval y Moreyra 185,00572572,,,no,no,yes,no,"
+Víctor Manuel Acosta Moscoso","
+940172389","
+Sin Correo",,,,,,,
+6,RE/MAX URUS,Roberto Niño De Guzman Solier,999938243,1170123,Activa,2026-01-28,Departamento,Venta,5,0,No Exclusivo,3,$,137000,137000,137000,2026-01-28,0,6,2026-01-28,2026-07-28,2026-01-28,0,103470,108916,98024,San Isidro,Lima,Lima,Av. Javier Prado Este 595,00557557,,,no,no,yes,no,"
+Víctor Manuel Acosta Moscoso","
+940172389","
+Sin Correo",,,,,,,
+7,RE/MAX URUS,Roberto Niño De Guzman Solier,999938243,1170007,Activa,2026-01-27,Departamento,Venta,7,0,No Exclusivo,4,$,90000,90000,90000,2026-01-27,0,6,2026-01-27,2026-07-27,2026-01-27,0,96793,101888,91699,San Juan de Lurigancho,Lima,Lima,"Arrayanes 955, San Juan de Lurigancho 15401, Perú",P02285982,,,no,no,yes,no,"
+Cristobal Thakur Rossi Pareja","
+955745523","
+Sin Correo",,,,,,,
+9,RE/MAX URUS,Nurian Melissa Castañeda Loayza,920024684,1169171,Activa,2026-01-20,Departamento,Venta,12,0,Exclusivo,5,$,55000,55000,55000,2026-01-20,0,4,2026-01-20,2026-05-20,2026-01-20,0,45634,48036,43232,San Martin de Porres,Lima,Lima,Av. Huaylas,P01350948,,,no,no,yes,no,"
+Luz Marina Sachun Cordoba","
+970401653","
+Sin Correo",,,,,,,
+10,RE/MAX URUS,Nurian Melissa Castañeda Loayza,920024684,1169159,Activa,2026-01-20,Terreno,Venta,9,0,Exclusivo,5,$,150000,150000,150000,2026-01-20,0,5,2026-01-20,2026-06-20,2026-01-20,0,732418,770966,693869,La Molina,Lima,Lima,"C. Mesopotamia Mz. A Lt. 11 - Urb, La Molina 15026, Perú",111111111,,,no,no,yes,no,"
+Carlos Peralta Delgado","
+928670987","
+Sin Correo",,,,,,,
+12,RE/MAX URUS,Roberto Niño De Guzman Solier,999938243,1169096,Activa,2026-01-29,Casa,Venta,12,1,Exclusivo,5,$,98000,98000,98000,2026-01-20,0,6,2026-01-19,2026-07-19,2026-01-20,0,95262,100276,90248,Carabayllo,Lima,Lima,"5X65+65V, Carabayllo 15121, Perú",12485394,,,no,no,yes,no,"
+Edward Sabel Evangelista Coronel","
+974287071","
+Sin Correo",,,,,,,
+14,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1168072,Activa,2026-01-10,Departamento,Venta,19,0,No Exclusivo,3,$,168187,168187,205629,2026-01-27,0,6,2026-01-10,2026-07-10,2026-01-10,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+15,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1168071,Activa,2026-01-10,Departamento,Venta,18,0,No Exclusivo,3,$,175337,175337,214123,2026-01-27,0,6,2026-01-10,2026-07-10,2026-01-10,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+16,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1168070,Activa,2026-01-10,Departamento,Venta,14,0,No Exclusivo,3,$,393017,393017,433103,2026-01-27,0,6,2026-01-10,2026-07-10,2026-01-10,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+17,RE/MAX URUS,Vanessa Miluska Vasquez Tineo,916631981,1168046,Activa,2026-01-09,Casa,Alquiler,13,0,Exclusivo,100,S/.,1200,1200,1200,2026-01-09,0,6,2026-01-06,2026-07-06,2026-01-09,0,282,297,268,Carabayllo,Lima,Lima,Villa Club 1,1212121,,,no,no,yes,no,"
+Leonel Geovanni Carhuamaca Perez","
+961765659","
+multlnel3@gmail.com",,,,,,,
+18,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1168009,Activa,2026-01-09,Departamento,Venta,18,0,No Exclusivo,3,$,414465,414465,455921,2026-01-27,0,6,2026-01-09,2026-07-09,2026-01-09,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+19,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1168006,Activa,2026-01-09,Departamento,Venta,15,0,No Exclusivo,3,$,168187,168187,205629,2026-01-27,0,6,2026-01-09,2026-07-09,2026-01-09,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+20,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1168004,Activa,2026-01-09,Departamento,Venta,16,0,No Exclusivo,3,$,175337,175337,214123,2026-01-27,0,6,2026-01-09,2026-07-09,2026-01-09,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+21,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1168003,Activa,2026-01-09,Departamento,Venta,15,0,No Exclusivo,3,$,220936,220936,248570,2026-01-27,0,6,2026-01-09,2026-07-09,2026-01-09,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+22,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167998,Activa,2026-01-09,Departamento,Venta,12,0,No Exclusivo,3,$,227068,227068,254444,2026-01-27,0,6,2026-01-09,2026-07-09,2026-01-09,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+23,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167995,Activa,2026-01-09,Departamento,Venta,12,0,No Exclusivo,3,$,241711,241711,247489,2026-01-27,0,6,2026-01-09,2026-07-09,2026-01-09,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+24,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167992,Activa,2026-01-09,Departamento,Venta,13,0,No Exclusivo,3,$,168187,168187,205629,2026-01-27,0,6,2026-01-09,2026-07-09,2026-01-09,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+25,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167990,Activa,2026-01-09,Departamento,Venta,14,0,No Exclusivo,3,$,175337,175337,214123,2026-01-27,0,6,2026-01-09,2026-07-09,2026-01-09,0,0,0,0,La Molina,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+26,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167965,Activa,2026-01-09,Departamento,Venta,14,0,No Exclusivo,3,$,227068,227068,254444,2026-01-27,0,6,2026-01-09,2026-07-09,2026-01-09,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+27,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167962,Activa,2026-01-09,Departamento,Venta,12,0,Exclusivo,3,$,230728,230728,247489,2026-01-27,0,6,2026-01-09,2026-07-09,2026-01-09,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+28,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167945,Activa,2026-01-09,Departamento,Venta,14,0,No Exclusivo,3,$,168187,168187,168187,2026-01-09,0,6,2026-01-09,2026-07-09,2026-01-09,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+29,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167939,Activa,2026-01-09,Departamento,Venta,12,0,No Exclusivo,3,$,175337,175337,214123,2026-01-27,0,6,2026-01-09,2026-07-09,2026-01-09,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+30,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167932,Activa,2026-01-09,Departamento,Venta,13,0,No Exclusivo,3,$,220280,220280,220280,2026-01-09,0,6,2026-01-09,2026-07-09,2026-01-09,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+31,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167930,Activa,2026-01-09,Departamento,Venta,13,0,No Exclusivo,3,$,227068,227068,254444,2026-01-27,0,6,2026-01-09,2026-07-09,2026-01-09,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+32,RE/MAX URUS,Elsy Mercedes Torres Silva,968196483,1167901,Activa,2026-01-08,Casa,Venta,17,0,Exclusivo,5,$,60000,60000,60000,2026-01-08,0,06,2026-01-08,2026-07-08,2026-01-08,0,63711,67064,60358,Lurigancho,Lima,Lima,"Lurigancho-Chosica 15468, Perú",88888888,,,no,no,yes,no,"
+Jean Luis Alfaro Peña","
+940252415","
+Sin Correo",,,,,,,
+33,RE/MAX URUS,Roberto Niño De Guzman Solier,999938243,1167889,Activa,2026-01-23,Departamento,Venta,26,1,No Exclusivo,4,$,120000,120000,120000,2026-01-08,0,6,2026-01-08,2026-07-08,2026-01-08,0,107094,112730,101457,San Juan de Lurigancho,Lima,Lima,"Arrayanes 955, San Juan de Lurigancho 15401, Perú",P02285980,,,no,no,yes,no,"
+Cristobal Thakur Rossi Pareja","
+955745523","
+Sin Correo",,,,,,,
+34,RE/MAX URUS,Roberto Niño De Guzman Solier,999938243,1167885,Activa,2026-01-12,Departamento,Venta,19,1,Exclusivo,"7,14",$,42000,42000,42000,2026-01-08,0,6,2026-01-08,2026-07-08,2026-01-08,0,39649,41736,37562,Los Olivos,Lima,Lima,"2WH8+524, Lima 15306, Perú",P01429757,,,no,no,yes,no,"
+Luz Violeta Alcántara De Gómez","
+922185102","
+Sin Correo",,,,,,,
+35,RE/MAX URUS,Roberto Niño De Guzman Solier,999938243,1167883,Activa,2026-01-08,Departamento,Venta,16,0,Exclusivo,"5,26",$,57000,57000,57000,2026-01-08,0,6,2026-01-08,2026-07-08,2026-01-08,0,47196,49680,44712,Los Olivos,Lima,Lima,"2WH8+524, Lima 15306, Perú",P01429756,,,no,no,yes,no,"
+Luz Violeta Alcántara De Gómez","
+922185102","
+Sin Correo",,,,,,,
+36,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167848,Activa,2026-01-08,Departamento,Venta,17,0,No Exclusivo,3,$,230728,230728,247489,2026-01-27,0,6,2026-01-08,2026-07-08,2026-01-08,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+37,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167846,Activa,2026-01-08,Departamento,Venta,13,0,No Exclusivo,3,$,168187,168187,205629,2026-01-27,0,6,2026-01-08,2026-07-08,2026-01-08,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+38,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167798,Activa,2026-01-08,Departamento,Venta,11,0,No Exclusivo,3,$,175337,175337,214123,2026-01-27,0,6,2026-01-08,2026-07-08,2026-01-08,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+39,RE/MAX URUS,Roberto Niño De Guzman Solier,999938243,1167749,Activa,2026-01-27,Departamento,Venta,25,2,No Exclusivo,4,$,95000,95000,95000,2026-01-07,0,6,2026-01-07,2026-07-07,2026-01-07,0,97720,102864,92577,San Juan de Lurigancho,Lima,Lima,"Arrayanes 955, San Juan de Lurigancho 15401, Perú",P02285981,,,no,no,yes,no,"
+Cristobal Thakur Rossi Pareja","
+955745523","
+Sin Correo",,,,,,,
+40,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167735,Activa,2026-01-07,Departamento,Venta,13,0,No Exclusivo,3,$,227068,227068,254444,2026-01-27,0,6,2026-01-07,2026-07-07,2026-01-07,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+41,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167726,Activa,2026-01-07,Departamento,Venta,16,0,No Exclusivo,3,$,230728,230728,247489,2026-01-27,0,6,2026-01-07,2026-07-07,2026-01-07,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+42,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167619,Activa,2026-01-06,Departamento,Venta,14,0,No Exclusivo,3,$,168187,168187,168187,2026-01-06,0,6,2026-01-06,2026-07-06,2026-01-06,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+43,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167608,Activa,2026-01-06,Departamento,Venta,10,0,No Exclusivo,3,$,175337,175337,200531,2026-01-27,0,6,2026-01-06,2026-07-06,2026-01-06,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+44,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167601,Activa,2026-01-06,Departamento,Venta,11,0,No Exclusivo,3,$,220280,220280,247877,2026-01-27,0,6,2026-01-06,2026-07-06,2026-01-06,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+45,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167597,Activa,2026-01-06,Departamento,Venta,11,0,No Exclusivo,3,$,227068,227068,254444,2026-01-27,0,6,2026-01-06,2026-07-06,2026-01-06,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+46,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167578,Activa,2026-01-06,Departamento,Venta,14,0,No Exclusivo,3,$,230728,230728,247489,2026-01-27,0,6,2026-01-06,2026-07-06,2026-01-06,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+47,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167572,Activa,2026-01-06,Departamento,Venta,14,0,No Exclusivo,3,$,168187,168187,192805,2026-01-27,0,6,2026-01-06,2026-07-06,2026-01-06,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+48,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167564,Activa,2026-01-06,Departamento,Venta,12,0,No Exclusivo,3,$,175337,175337,200531,2026-01-27,0,6,2026-01-06,2026-07-06,2026-01-06,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+49,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167561,Activa,2026-01-06,Departamento,Venta,12,0,No Exclusivo,3,$,227068,227068,254444,2026-01-27,0,6,2026-01-06,2026-07-06,2026-01-06,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+51,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1167539,Activa,2026-01-06,Departamento,Alquiler,28,0,Exclusivo,100,S/.,1500,1500,1500,2026-01-06,0,6,2026-01-06,2026-07-06,2026-01-06,0,288,303,272,San Miguel,Lima,Lima,Bernardo Alcedo 238,14255914,,,no,no,yes,no,"
+Liliana Rojas Silva","
+942854229","
+Sin Correo",,,,,,,
+52,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167487,Activa,2026-01-05,Departamento,Venta,14,0,No Exclusivo,3,$,219913,219913,1167487,2026-01-27,0,6,2026-01-05,2026-07-05,2026-01-05,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+53,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167470,Activa,2026-01-05,Departamento,Venta,16,0,No Exclusivo,3,$,168187,168187,192805,2026-01-27,0,6,2026-01-05,2026-07-05,2026-01-05,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+54,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167467,Activa,2026-01-05,Departamento,Venta,16,0,No Exclusivo,3,$,175337,175337,200531,2026-01-27,0,6,2026-01-05,2026-07-05,2026-01-05,0,0,0,0,La Molina,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+55,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167459,Activa,2026-01-05,Departamento,Venta,15,0,No Exclusivo,3,$,220280,220280,247877,2026-01-27,0,6,2026-01-05,2026-07-05,2026-01-05,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, Miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+56,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167451,Activa,2026-01-05,Departamento,Venta,15,0,No Exclusivo,3,$,227068,227068,254444,2026-01-27,0,6,2026-01-05,2026-07-05,2026-01-05,0,0,0,0,Miraflores,Lima,Lima,"Calle Samuel Marquez 231, miraflores",07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+57,RE/MAX URUS,Alfredo Alvaro Huapaya Rojas,999143107,1167388,Activa,2026-01-11,Departamento,Alquiler,25,1,Exclusivo,100,S/.,1700,1700,1700,2026-01-04,0,6,2026-01-04,2026-07-04,2026-01-04,0,802,844,760,San Juan de Lurigancho,Lima,Lima,Asociación Villa Mangomarca SJL,11091175,,,no,no,yes,no,"
+Julia Rosa Mercedes Ortiz Rosales","
+990318512","
+Sin Correo",,,,,,,
+58,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167368,Activa,2026-01-03,Departamento,Venta,18,0,No Exclusivo,3,$,219913,219913,247489,2026-01-27,0,6,2026-01-03,2026-07-03,2026-01-03,0,0,0,0,Miraflores,Lima,Lima,2K INMOBILIARIA,07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+59,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167367,Activa,2026-01-03,Departamento,Venta,16,0,No Exclusivo,3,$,392591,392591,441730,2026-01-27,0,6,2026-01-03,2026-07-03,2026-01-03,0,0,0,0,Miraflores,Lima,Lima,2K INMOBILIARIA,07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+60,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1167366,Activa,2026-01-03,Departamento,Venta,14,0,No Exclusivo,3,$,281173,281173,312252,2026-01-27,0,6,2026-01-03,2026-07-03,2026-01-03,0,0,0,0,Miraflores,Lima,Lima,calle samuel marquez 231,07079341,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+61,RE/MAX URUS,Jimmy Antonio Ramos Changa,945019106,1166772,Activa,2025-12-26,Departamento,Venta,26,0,Exclusivo,"3,5",$,80000,80000,80000,2025-12-26,0,3,2025-12-26,2026-03-26,2025-12-26,"940,18",67917,71492,64342,Comas,Lima,Lima,"3W9M+2J6, C. C 123, Comas 15314, Perú",12910679,,,no,no,yes,no,"
+Yesica Guerra Villar","
+983530730","
+yesicavender@gmail.com",,,,,,,
+62,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1166494,Activa,2025-12-22,Departamento,Venta,25,0,No Exclusivo,3,S/.,917000,917000,917000,2025-12-22,0,6,2025-12-22,2026-06-22,2025-12-22,0,0,0,0,Santiago de Surco,Lima,Lima,Jirón Fortaleza de Paramonga 148,11045714-1,,,no,no,yes,no,"
+Cesar Roberto Madrid Zagazeta","
+989898989","
+gerencia@madridinmobiliaria.pe",,,,,,,
+63,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1166492,Activa,2026-01-17,Departamento,Venta,21,0,No Exclusivo,3,S/.,1112000,1112000,1112000,2025-12-22,0,6,2025-12-22,2026-06-22,2025-12-22,0,0,0,0,Santiago de Surco,Lima,Lima,Jirón Fortaleza de Paramonga 148,11045714,,,no,no,yes,no,"
+Cesar Roberto Madrid Zagazeta","
+989898989","
+gerencia@madridinmobiliaria.pe",,,,,,,
+64,RE/MAX URUS,Elsy Mercedes Torres Silva,968196483,1166237,Activa,2025-12-18,Casa,Venta,38,12,Exclusivo,4,$,95000,95000,95000,2025-12-18,0,6,2025-12-18,2026-06-18,2025-12-18,"146,69",99646,104891,94402,Lurigancho,Lima,Lima,"Mz D Lote 29 Calle La Bajada Chacrasana, Lurigancho-Chosica 15468, Perú",P02198255,,,no,no,yes,no,"
+Lourdes Mirella Delgado Santa Fe","
+977193054","
+mirella_1309@hotmail.com",,,,,,,
+66,RE/MAX URUS,Elsy Mercedes Torres Silva,968196483,1165970,Activa,2025-12-16,Terreno,Venta,29,0,Exclusivo,4,$,74000,74000,74000,2025-12-16,0,06,2025-12-16,2026-06-16,2025-12-16,"523,76",79612,83802,75422,Lurigancho,Lima,Lima,"26G6+549 Calle 2, Lurigancho-Chosica 15464, Perú",122334400,,,no,no,yes,no,"
+Frank Yonathan Paja Hinostroza","
+946574780","
+frank161@gmail.com",,,,,,,
+67,RE/MAX URUS,Vanessa Miluska Vasquez Tineo,916631981,1165713,Activa,2025-12-30,Terreno,Venta,23,0,Exclusivo,"6,38",$,47000,47000,47000,2025-12-12,0,4,2025-12-07,2026-04-07,2025-12-12,"333,33",28500,30000,27000,Carabayllo,Lima,Lima,Urbanizacion torre blanca,12091862,,,no,no,yes,no,"
+Kenner Alvarado Castillo","
+989092853","
+kenneralvarado42@gmai.com",,,,,,,
+68,RE/MAX URUS,Vanessa Miluska Vasquez Tineo,916631981,1165708,Activa,2025-12-30,Casa,Venta,38,0,Exclusivo,4,$,560000,560000,560000,2025-12-12,0,4,2025-12-06,2026-04-06,2025-12-12,"1558,6",528149,555947,500352,San Borja,Lima,Lima,López de Ayala 1742,41776072,,,no,no,yes,no,"
+Roger Eduardo Arnao García
+Gustavo Benjamin Arnao García","
+940336859
+934236411","
+Sin Correo
+dr.gustavoarnao@hotmail.com",,,,,,,
+70,RE/MAX URUS,Gabriela Huapaya Rojas,920651574,1165241,Activa,2025-12-17,Local,Alquiler,14,3,Exclusivo,100,S/.,3800,3800,3800,2025-12-06,0,4,2025-12-06,2026-04-06,2025-12-06,"10,24",730,768,691,San Juan de Lurigancho,Lima,Lima,"Av. Sta. Rosa de Lima 174, San Juan de Lurigancho 15401, Perú",0114902,,,no,no,yes,no,"
+Paul Paolo Libora Campos","
+923914477","
+Sin Correo",,,,,,,
+71,RE/MAX URUS,Gabriela Huapaya Rojas,920651574,1165239,Activa,2025-12-17,Local,Alquiler,11,3,Exclusivo,100,S/.,3800,3800,3800,2025-12-06,0,4,2025-12-06,2026-04-06,2025-12-06,"12,04",858,903,813,San Juan de Lurigancho,Lima,Lima,"Av. Sta. Rosa de Lima 1740, San Juan de Lurigancho 15431, Perú",18033,,,no,no,yes,no,"
+Paul Paolo Libora Campos","
+923914477","
+Sin Correo",,,,,,,
+73,RE/MAX URUS,Vanessa Milagros Bazan Fernandini,954001914,1164954,Activa,2026-01-22,Departamento,Venta,66,2,No Exclusivo,3,$,118000,136000,129000,2026-01-22,0,6,2025-12-03,2026-06-03,2025-12-03,"1548,43",135333,142455,128210,Jesus Maria,Lima,Lima,"Av. República Dominicana 238, Jesús María 15072, Perú",40920536,,,no,no,yes,no,"
+Ines Soledad Poma Aquino","
+986734524","
+Sin Correo",,,,,,,
+75,RE/MAX URUS,Ismael Arquimedes Cruz Sarango,986631957,1164747,Activa,2025-12-01,Casa,Venta,31,0,Exclusivo,"4,5",$,265000,265000,265000,2025-12-01,0,6,2025-12-01,2026-06-01,2025-12-01,"148,39",255095,268521,241669,Carabayllo,Lima,Lima,"4XF7+2WC, Carabayllo 15318, Perú",11871294,,,no,no,yes,no,"
+Victoria Saavedra Shapiama","
+937027930","
+Sin Correo",,,,,,,
+76,RE/MAX URUS,Carmen Rosa Candela Chillcce,997395956,1164654,Activa,2025-12-09,Departamento,Venta,34,0,Exclusivo,6,$,50000,50000,50000,2025-11-30,0,6,2025-11-30,2026-05-30,2025-11-30,"477,76",78447,82576,74318,San Martin de Porres,Lima,Lima,Urbanizacion Condevilla y Valdivieso MZ Q LT 15 San Martin de Porres,p01410701,,,no,no,yes,no,"
+Nelly Naldy Acuña Gomez","
+921561594","
+nellyacuna@gmail.com",,,,,,,
+77,RE/MAX URUS,Carmen Rosa Candela Chillcce,997395956,1164652,Activa,2025-12-09,Departamento,Venta,52,2,Exclusivo,"8,57",$,35000,35000,35000,2025-11-30,0,6,2025-11-30,2026-05-30,2025-11-30,"727,8",32040,33726,30354,San Martin de Porres,Lima,Lima,"Cisneros 188, Lima 15107, Perú",p01410700,,,no,no,yes,no,"
+Nelly Naldy Acuña Gomez","
+921561594","
+nellyacuna@gmail.com",,,,,,,
+78,RE/MAX URUS,Carmen Rosa Candela Chillcce,997395956,1164651,Activa,2025-12-09,Departamento,Venta,52,2,Exclusivo,"8,11",$,37000,37000,37000,2025-11-30,0,6,2025-11-30,2026-05-30,2025-11-30,"585,58",27720,29179,26261,San Martin de Porres,Lima,Lima,Urbanizacion Condevilla y Valdivieso MZ Q LT 15 San Martin de Porres,P01410699,,,no,no,yes,no,"
+Nelly Naldy Acuña Gomez","
+921561594","
+nellyacuna@gmail.com",,,,,,,
+79,RE/MAX URUS,Carmen Rosa Candela Chillcce,997395956,1164648,Activa,2025-12-09,Departamento,Venta,34,0,Exclusivo,6,$,50000,50000,50000,2025-11-30,0,6,2025-11-30,2026-05-30,2025-11-30,"607,69",42750,45000,40500,San Martin de Porres,Lima,Lima,Urbanizacion Condevilla y Valdivieso MZ Q LT 15 San Martin de Porres,p01286234,,,no,no,yes,no,"
+Nelly Naldy Acuña Gomez","
+921561594","
+nellyacuna@gmail.com",,,,,,,
+80,RE/MAX URUS,Carmen Rosa Candela Chillcce,997395956,1164644,Activa,2025-12-09,Departamento,Venta,40,3,Exclusivo,5,$,65000,65000,65000,2025-11-30,0,6,2025-11-30,2026-05-30,2025-11-30,"747,55",64185,67563,60807,San Martin de Porres,Lima,Lima,Urbanizacion Condevilla y Valdivieso MZ Q LT 15 San Martin de Porres,p01286233,,,no,no,yes,no,"
+Nelly Naldy Acuña Gomez","
+921561594","
+nellyacuna@gmail.com",,,,,,,
+81,RE/MAX URUS,Carmen Rosa Candela Chillcce,997395956,1164636,Activa,2025-12-09,Departamento,Venta,35,0,Exclusivo,"5,45",$,55000,55000,55000,2025-11-30,0,6,2025-11-30,2026-05-30,2025-11-30,"762,16",55831,58770,52893,San Martin de Porres,Lima,Lima,Urbanizacion Condevilla y Valdivieso MZ Q LT 15 San Martin de Porres,p01286232,,,no,no,yes,no,"
+Nelly Naldy Acuña Gomez","
+921561594","
+nellyacuna@gmail.com",,,,,,,
+82,RE/MAX URUS,Carmen Rosa Candela Chillcce,997395956,1164634,Activa,2025-12-09,Departamento,Venta,49,0,Exclusivo,5,$,80000,80000,80000,2025-11-30,0,6,2025-11-30,2026-05-30,2025-11-30,"514,6",88026,92659,83393,San Martin de Porres,Lima,Lima,Urbanizacion Condevilla y Valdivieso MZ Q LT 15 San Martin de Porres,p01195563,,,no,no,yes,no,"
+Nelly Naldy Acuña Gomez","
+921561594","
+nellyacuna@gmail.com",,,,,,,
+83,RE/MAX URUS,Carmen Rosa Candela Chillcce,997395956,1164624,Activa,2025-12-09,Casa,Venta,40,0,Exclusivo,5,$,280000,280000,280000,2025-11-30,0,6,2025-11-30,2026-05-30,2025-11-30,"510,72",257101,270633,243570,San Martin de Porres,Lima,Lima,"Cisneros 133, Lima 15107, Perú",P01286231,,,no,no,yes,no,"
+Nelly Naldy Acuña Gomez","
+921561594","
+nellyacuna@gmail.com",,,,,,,
+84,RE/MAX URUS,Elsy Mercedes Torres Silva,968196483,1163380,Activa,2025-11-19,Terreno,Venta,33,2,Exclusivo,"5,86",$,51182,51182,51182,2025-11-19,0,06,2025-11-19,2026-05-19,2025-11-19,"499,15",78503,82635,74371,Lurigancho,Lima,Lima,"26H2+V79, Lurigancho-Chosica 15464, Perú",12178886,,,no,no,yes,no,"
+Flor De Maria Montalvo Gayoso","
+993531323","
+flormontalvo8@gmail.com",,,,,,,
+86,RE/MAX URUS,Sergio Guillen Alvarez,902818909,1163263,Activa,2025-11-18,Casa,Venta,53,0,Exclusivo,5,$,125000,125000,125000,2025-11-18,0,6,2025-11-18,2026-05-18,2025-11-18,"473,49",95823,100866,90780,San Juan de Miraflores,Lima,Lima,"R2F9+Gp9, Los Jazmines, San Juan De Miraflores 15058, Perú",P03135174,,,no,no,yes,no,"
+Ana Cecilia Altarino Malca","
+904929037","
+Sin Correo",,,,,,,
+87,RE/MAX URUS,Elsy Mercedes Torres Silva,968196483,1163237,Activa,2025-11-18,Casa,Venta,63,3,Exclusivo,3,$,220000,220000,220000,2025-11-18,0,06,2025-11-18,2026-05-18,2025-11-18,"1065,61",239969,252599,227339,Los Olivos,Lima,Lima,Virgen De La Puerta,011073253,,,no,no,yes,no,"
+Miguel Flores Medina","
+966415181","
+miguelfloresmedina1311@gmail.com",,,,,,,
+90,RE/MAX URUS,Diana Elizabeth Pomiano Rivera,965272228,1162765,Activa,2025-11-14,Terreno,Venta,25,0,Exclusivo,"10,91",$,27500,27500,27500,2025-11-14,0,5,2025-10-24,2026-03-24,2025-11-14,"277,78",23750,25000,22500,Chilca,Cañete,Lima,"F6VP+2H8, Chilca 15870, Perú",21308035,,,no,no,yes,no,"
+Leonardo Noblecilla","
+984783251","
+leonoblecilla@gmail.com",,,,,,,
+93,RE/MAX URUS,Diane Taira Condezo Martinez,933610213,1162619,Activa,2025-12-16,Departamento,Venta,66,5,Exclusivo,3,$,178000,178000,175000,2025-12-16,0,4,2025-11-12,2026-03-12,2025-11-12,"2534,17",139633,146982,132284,San Isidro,Lima,Lima,C. Dean Valdivia 207,57085690,,,no,no,yes,no,"
+Dorcas Quiroz Viera","
+957973871","
+diezjhordan@hotmail.com",,,,,,,
+94,RE/MAX URUS,Erika Cristina Chinchayan Zavala,996600804,1162605,Activa,2025-12-23,Casa,Venta,60,2,Exclusivo,5,$,180000,180000,170000,2026-01-13,0,6,2025-11-11,2026-05-11,2025-11-12,"474,55",174703,183898,165508,Cerro Azul,Cañete,Lima,Playa Punta Corrientes,21258485,,,no,no,yes,no,"
+Jose Manuel Delgado Velez","
+904534020","
+jmdelgado@telus.net",,,,,,,
+97,RE/MAX URUS,Vanessa Milagros Bazan Fernandini,954001914,1161681,Activa,2025-11-05,Casa,Venta,93,3,Exclusivo,4,$,111000,111000,111000,2025-11-05,0,6,2025-11-05,2026-05-05,2025-11-05,"229,21",116316,122438,110194,Lurigancho,Lima,Lima,"243X+QF Lurigancho-Chosica, Perú",12522080,,,no,no,yes,no,"
+Jhon Alex Hilario Mercado","
+921465447","
+jhonalexhilariomercado32@gmail.com",,,,,,,
+99,RE/MAX URUS,Ismael Arquimedes Cruz Sarango,986631957,1161235,Activa,2025-10-31,Casa,Venta,67,5,Exclusivo,5,$,125000,125000,125000,2025-10-31,0,6,2025-10-31,2026-04-30,2025-10-31,"158,11",102812,108223,97401,Ventanilla,Prov. Const. Del Callao,Lima,"4VC9+6G7, C. 49, Ventanilla 07061, Perú",70352627,,,no,no,yes,no,"
+Francis Enrrique De La Cruz Carrizales","
+637452703","
+Sin Correo",,,,,,,
+100,RE/MAX URUS,Vanessa Miluska Vasquez Tineo,916631981,1160950,Activa,2025-10-30,Departamento,Venta,53,0,Exclusivo,"5,45",$,55000,55000,65000,2025-10-30,0,6,2025-10-08,2026-04-08,2025-10-30,"808,54",53768,56598,50938,Comas,Lima,Lima,"La Mar 156, Comas 15312, Perú",14779519,,,no,no,yes,no,"
+Mery Belen Jazmin Alvares Falconi","
+933716224","
+belenalvaresfalconi.11@gmail.com",,,,,,,
+101,RE/MAX URUS,Diana Elizabeth Pomiano Rivera,965272228,1160700,Activa,2025-10-29,Local,Alquiler,25,0,Exclusivo,100,S/.,4000,4000,3500,2025-11-14,0,6,2025-10-29,2026-04-29,2025-10-29,0,0,0,0,Carabayllo,Lima,Lima,"4XW7+VV4, Av. José Saco Rojas, Carabayllo 15121, Perú",49320584,Contrato privado de compraventa - legalizado - 25/10/2005-sn,,no,no,yes,no,"
+Gricelda Edith Hernandez Luque De Ishuiza","
+980130933","
+Sin Correo",,,,,,,
+103,RE/MAX URUS,Elsy Mercedes Torres Silva,968196483,1159809,Activa,2025-11-19,Terreno,Venta,21,0,Exclusivo,3,$,73000,73000,73000,2025-10-22,0,6,2025-10-22,2026-04-22,2025-10-22,"558,63",101894,107256,96531,Lurigancho,Lima,Lima,"26H2+Gvg, Lurigancho-Chosica 15464, Perú",11798689,,,no,no,yes,no,"
+Miguel Flores Medina","
+966415181","
+miguelfloresmedina1311@gmail.com",,,,,,,
+104,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1159551,Activa,2025-10-20,Terreno,Venta,42,0,Exclusivo,"3,5",$,94000,94000,94000,2025-10-20,0,6,2025-10-20,2026-04-20,2025-10-20,"358,16",40830,42979,38681,Puente Piedra,Lima,Lima,"A4, Carabayllo 15121, Perú",12270115,,,no,no,yes,no,"
+Leonel Geovanni Carhuamaca Perez","
+961765659","
+Sin Correo",,,,,,,
+105,RE/MAX URUS,Jimmy Antonio Ramos Changa,945019106,1158637,Activa,2026-01-12,Casa,Venta,76,4,Exclusivo,4,$,75000,75000,72000,2025-10-12,0,3,2025-10-12,2026-04-12,2025-10-12,"176,48",44258,46588,41929,Carabayllo,Lima,Lima,"C. B 88, Carabayllo 15318, Perú",P01393082,,,no,no,yes,no,"
+Marcos Torres","
+993294794","
+Sin Correo",,,,,,,
+106,RE/MAX URUS,Gianella Mishelle Cañote Avalos,980524163,1158525,Activa,2025-11-24,Terreno,Venta,69,0,No Exclusivo,5,$,1211998,1211998,1211998,2025-10-11,0,6,2025-10-05,2026-04-05,2025-10-11,"690,11",1126985,1186300,1067670,Callao,Prov. Const. Del Callao,Lima,Jr Alfonso Ugarte 360,70098235,,,no,no,yes,no,"
+Laura Clemencia Brigneti Suito","
+987602601","
+Sin Correo",,,,,,,
+107,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1158495,Activa,2025-10-10,Departamento,Venta,68,3,Exclusivo,4,S/.,63000,219000,212000,2026-01-04,0,6,2025-10-10,2026-04-10,2025-10-10,"733,52",45852,48266,43439,San Martin de Porres,Lima,Lima,Jesús Vera 486,11297634,,,no,no,yes,no,"
+Agustin Marquina Leon","
+918873958","
+Sin Correo",,,,,,,
+108,RE/MAX URUS,Priscilla Gomez Castro,915198378,1158424,Activa,2025-10-10,Local,Venta,74,1,Exclusivo,20,S/.,50000,42000,36000,2026-01-11,0,6,2025-10-07,2026-04-07,2025-10-10,"1794,25",42613,44856,40371,El Agustino,Lima,Lima,Av. Riva Agüero 966,15551-2024,,,no,no,yes,no,"
+Malu Nicole Yalico Crespo","
+908891971","
+ganymarket@gmail.com",,,,,,,
+109,RE/MAX URUS,Vanessa Miluska Vasquez Tineo,916631981,1158348,Activa,2025-10-24,Departamento,Venta,68,2,Exclusivo,"5,45",$,55000,240000,70000,2025-10-24,0,6,2025-10-08,2026-04-08,2025-10-09,"812,51",57892,60939,54845,Comas,Lima,Lima,La Mar 156,14779520,,,no,no,yes,no,"
+Nilo Mendoza Palomino","
+977905943","
+laymecarlos@gmail.com",,,,,,,
+111,RE/MAX URUS,Leo Agusto Chavez Bottger,983513675,1158059,Activa,2026-01-07,Terreno,Venta,31,0,Exclusivo,5,$,575450,575450,575450,2025-10-07,0,6,2025-10-01,2026-04-01,2025-10-07,"41,54",2397994,2524204,2271784,Imperial,Cañete,Lima,Xj4X+Jw3,P03081212,,,no,no,yes,no,"
+Ernesto Yactayo De La Cruz
+Olga Consuelo Yactayo Carrion
+Enrique Javier Yactayo Carrion
+Ruth Melisa Yactayo Carrion
+Ysabel Aurora Yactayo Carrion","
+989141536
+969701068
+997909041
+968617667
+956710277","
+Sin Correo
+Sin Correo
+Sin Correo
+Sin Correo
+Sin Correo",,,,,,,
+112,RE/MAX URUS,Vanessa Miluska Vasquez Tineo,916631981,1157729,Activa,2025-10-03,Terreno,Alquiler,26,0,Exclusivo,100,S/.,2300,2300,2300,2025-10-03,0,6,2025-09-30,2026-03-30,2025-10-03,"3,3",227,239,215,Carabayllo,Lima,Lima,"4Wx2+Jg6, Los Manzanos., Puente Piedra 15118, Perú",P01390386,,,no,no,yes,no,"
+Isbet Alvarado Castillo","
+932040968","
+isbetalvaradocastillo@gmail.com",,,,,,,
+113,RE/MAX URUS,Vanessa Miluska Vasquez Tineo,916631981,1157625,Activa,2025-10-03,Departamento,Alquiler,31,2,Exclusivo,100,S/.,2000,2000,2000,2025-10-02,0,6,2025-09-30,2026-03-30,2025-10-02,0,0,0,0,Puente Piedra,Lima,Lima,"Calle, 4Wx2+Jg6, Los Manzanos., Puente Piedra 15118, Perú",P01280400,,,no,no,yes,no,"
+Isbet Alvarado Castillo","
+932040968","
+isbetalvaradocastillo@gmail.com",,,,,,,
+114,RE/MAX URUS,Diana Elizabeth Pomiano Rivera,965272228,1156842,Activa,2025-09-27,Departamento,Venta,88,0,Exclusivo,5,$,69000,69000,69000,2025-09-27,0,6,2025-09-27,2026-03-27,2025-09-27,"679,01",69067,72702,65432,Rimac,Lima,Lima,Molinos 655,43937987,,,no,no,yes,no,"
+Noemi Changana Calderon
+Carlos Alfonso Martinez Castro","
+944742052
+994358519","
+Sin Correo
+martinezchanganadiego@gmail.com",,,,,,,
+115,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1156395,Activa,2025-09-24,Departamento,Venta,41,0,No Exclusivo,3,$,254977,254977,221719,2025-09-24,0,6,2025-09-24,2026-03-24,2025-09-24,"1588,94",159705,168110,151299,Santiago de Surco,Lima,Lima,Av De Los Ingenieros 943,13901499,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+116,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1156393,Activa,2025-09-24,Departamento,Venta,43,0,No Exclusivo,3,$,332659,332659,289269,2025-09-24,0,6,2025-09-24,2026-03-24,2025-09-24,"1521,92",191325,201395,181256,Santiago de Surco,Lima,Lima,Av De Los Ingenieros 943,13901499,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+117,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1156390,Activa,2025-09-24,Departamento,Venta,53,0,No Exclusivo,3,$,296979,296979,258243,2025-09-24,0,6,2025-09-24,2026-03-24,2025-09-24,"1543,77",175176,184395,165956,Santiago de Surco,Lima,Lima,Av De Los Ingenieros 943,13901499,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+118,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1156383,Activa,2025-09-24,Departamento,Venta,37,0,No Exclusivo,3,$,269909,269909,234704,2025-09-24,0,6,2025-09-24,2026-03-24,2025-09-24,"1618,39",165663,174382,156944,Santiago de Surco,Lima,Lima,Av De Los Ingenieros 943,13901499,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+119,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1156375,Activa,2025-09-24,Departamento,Venta,37,0,No Exclusivo,3,$,247578,247578,215286,2025-09-24,0,6,2025-09-24,2026-03-24,2025-09-24,"1658,8",167656,176480,158832,Santiago de Surco,Lima,Lima,Av De Los Ingenieros 943,13901499,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+120,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1156343,Activa,2025-12-24,Departamento,Venta,42,0,No Exclusivo,4,$,171037,171037,171037,2025-09-24,0,6,2025-09-24,2026-03-24,2025-09-24,"1563,7",99812,105065,94559,Santiago de Surco,Lima,Lima,Av De Los Ingenieros 943,13901499,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+121,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1156339,Activa,2025-12-24,Departamento,Venta,34,0,No Exclusivo,4,$,266101,266101,266101,2025-09-24,0,6,2025-09-24,2026-03-24,2025-09-24,"1618,39",164894,173573,156215,Santiago de Surco,Lima,Lima,Av De Los Ingenieros 943,13901499,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+122,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1156337,Activa,2025-12-24,Departamento,Venta,48,0,No Exclusivo,4,$,168188,168188,168188,2025-09-24,0,6,2025-09-24,2026-03-24,2025-09-24,"1526,81",96224,101288,91160,Santiago de Surco,Lima,Lima,Av De Los Ingenieros 943,13901499,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+123,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1156336,Activa,2025-09-24,Departamento,Venta,42,0,No Exclusivo,3,$,260026,260026,226110,2025-09-24,0,6,2025-09-24,2026-03-24,2025-09-24,"1618,39",165663,174382,156944,Santiago de Surco,Lima,Lima,Av De Los Ingenieros 943,13901499,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+124,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1156323,Activa,2025-09-24,Departamento,Venta,45,0,No Exclusivo,3,$,245570,245570,213539,2025-09-24,0,6,2025-09-24,2026-03-24,2025-09-24,"1670,9",168878,177767,159990,Santiago de Surco,Lima,Lima,Av De Los Ingenieros 943,13901499,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+125,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1156321,Activa,2025-09-24,Departamento,Venta,54,0,No Exclusivo,3,$,160806,160806,139831,2025-09-24,0,6,2025-09-24,2026-03-24,2025-09-24,"2171,43",138603,145898,131308,Santiago de Surco,Lima,Lima,Av De Los Ingenieros 943,13901499,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+126,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1156318,Activa,2025-09-24,Departamento,Venta,33,0,No Exclusivo,3,$,255067,255067,221797,2025-09-24,0,6,2025-09-24,2026-03-24,2025-09-24,"1618,39",164986,173670,156303,Santiago de Surco,Lima,Lima,Av De Los Ingenieros 943,13901499,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+127,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1156314,Activa,2025-09-24,Departamento,Venta,42,0,No Exclusivo,3,$,246527,246527,214372,2025-09-24,0,6,2025-09-24,2026-03-24,2025-09-24,"1369,75",138572,145865,131278,Santiago de Surco,Lima,Lima,Av De Los Ingenieros 943,13901499,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+128,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1156310,Activa,2025-09-24,Departamento,Venta,42,0,No Exclusivo,3,$,163182,163182,141898,2025-09-24,0,6,2025-09-23,2026-03-23,2025-09-24,"2171,43",136045,143206,128885,Santiago de Surco,Lima,Lima,Av De Los Ingenieros 943,13901499,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+129,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1156305,Activa,2025-09-23,Departamento,Venta,35,0,No Exclusivo,3,$,311894,311894,271213,2025-09-23,0,6,2025-09-23,2026-03-23,2025-09-23,"1755,29",212426,223606,201246,Santiago de Surco,Lima,Lima,Av De Los Ingenieros 943,13901499,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+130,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1156301,Activa,2025-09-23,Departamento,Venta,48,0,No Exclusivo,3,$,292585,292585,254421,2025-09-23,0,6,2025-09-23,2026-03-23,2025-09-23,"1490,99",169888,178830,160947,Santiago de Surco,Lima,Lima,Av De Los Ingenieros 943,13901499,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+132,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155850,Activa,2025-11-14,Departamento,Venta,42,0,No Exclusivo,3,S/.,123962,123962,433863,2025-09-19,0,6,2025-09-19,2026-03-19,2025-09-19,"2644,48",97450,102579,92321,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+133,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155849,Activa,2025-11-14,Departamento,Venta,42,0,No Exclusivo,3,S/.,158890,158890,556115,2025-09-19,0,6,2025-09-19,2026-03-19,2025-09-19,"1936,89",104202,109686,98718,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+134,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155842,Activa,2025-11-14,Departamento,Venta,41,0,No Exclusivo,3,S/.,123961,123961,433863,2025-09-19,0,6,2025-09-19,2026-03-19,2025-09-19,"2644,48",97450,102579,92321,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+135,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155830,Activa,2025-11-14,Departamento,Venta,39,0,No Exclusivo,3,S/.,169848,169848,594466,2025-09-19,0,6,2025-09-19,2026-03-19,2025-09-19,"1936,89",105361,110907,99816,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+136,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155829,Activa,2025-11-14,Departamento,Venta,40,0,No Exclusivo,3,S/.,154936,154936,542274,2025-09-19,0,6,2025-09-19,2026-03-19,2025-09-19,"1936,89",104202,109686,98718,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+137,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155820,Activa,2025-11-14,Departamento,Venta,44,0,No Exclusivo,3,S/.,155995,155995,545980,2025-09-19,0,6,2025-09-19,2026-03-19,2025-09-19,"1936,89",105361,110907,99816,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+138,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155814,Activa,2025-11-14,Departamento,Venta,40,0,No Exclusivo,3,S/.,144313,144313,505094,2025-09-19,0,6,2025-09-19,2026-03-19,2025-09-19,"2151,58",115752,121844,109660,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+139,RE/MAX URUS,Vanessa Miluska Vasquez Tineo,916631981,1155776,Activa,2025-09-19,Terreno,Venta,29,0,Exclusivo,"6,86",S/.,153000,153000,153000,2025-09-19,0,6,2025-09-18,2026-03-18,2025-09-19,"358,49",40527,42660,38394,Carabayllo,Lima,Lima,"5Xh7+624, Carabayllo 15122, Perú",14467262,,,no,no,yes,no,"
+Gretzel Siuleth Menendez Santillana","
+993386590","
+gretzelms@outlook.com",,,,,,,
+142,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155554,Activa,2025-11-14,Departamento,Venta,39,0,No Exclusivo,3,S/.,181680,181680,635879,2025-09-17,0,6,2025-09-17,2026-03-17,2025-09-17,"1489,86",99408,104640,94176,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+143,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155551,Activa,2025-11-14,Departamento,Venta,44,0,No Exclusivo,3,S/.,273198,273198,956193,2025-09-17,0,6,2025-09-17,2026-03-17,2025-09-17,"1890,51",181790,191358,172222,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+144,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155544,Activa,2025-11-14,Departamento,Venta,39,0,No Exclusivo,3,S/.,164931,164931,577256,2025-09-17,0,6,2025-09-17,2026-03-17,2025-09-17,"1850,27",115801,121896,109706,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+145,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155536,Activa,2025-11-14,Departamento,Venta,35,0,No Exclusivo,3,S/.,164931,164931,577256,2025-09-17,0,6,2025-09-17,2026-03-17,2025-09-17,"1786,19",111790,117674,105907,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+146,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155518,Activa,2025-11-14,Departamento,Venta,55,0,No Exclusivo,3,S/.,161345,161345,564707,2025-09-17,0,6,2025-09-17,2026-03-17,2025-09-17,"1936,89",105619,111178,100060,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+147,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155493,Activa,2025-11-14,Departamento,Venta,37,0,No Exclusivo,3,S/.,123100,123100,430847,2025-09-17,0,6,2025-09-17,2026-03-17,2025-09-17,"2211,24",95581,100612,90550,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+148,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155471,Activa,2025-11-14,Departamento,Venta,43,0,No Exclusivo,3,S/.,142222,142222,497777,2025-09-17,0,6,2025-09-17,2026-03-17,2025-09-17,"1936,89",105619,111178,100060,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+149,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155461,Activa,2025-11-14,Departamento,Venta,44,0,No Exclusivo,3,S/.,117124,117124,409931,2025-09-17,0,6,2025-09-17,2026-03-17,2025-09-17,"2211,24",95581,100612,90550,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+150,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155454,Activa,2026-01-28,Departamento,Venta,32,0,No Exclusivo,3,S/.,141027,493594,650000,2026-01-28,0,6,2025-09-17,2026-03-17,2025-09-17,"2151,58",117326,123501,111151,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+151,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155441,Activa,2025-11-14,Departamento,Venta,44,0,No Exclusivo,3,S/.,113538,113538,577256,2025-09-17,0,6,2025-09-17,2026-03-17,2025-09-17,"2211,24",95581,100612,90550,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+152,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155434,Activa,2025-11-14,Departamento,Venta,43,0,No Exclusivo,3,S/.,144313,144313,397382,2025-09-17,0,6,2025-09-17,2026-03-17,2025-09-17,"1175,03",73540,77411,69670,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+153,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155413,Activa,2025-11-14,Departamento,Venta,42,0,No Exclusivo,3,S/.,154574,154574,541009,2025-09-17,0,6,2025-09-17,2026-03-17,2025-09-17,"1936,89",105361,110907,99816,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+154,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155412,Activa,2025-11-14,Departamento,Venta,38,0,No Exclusivo,3,S/.,159377,159377,485228,2025-09-17,0,6,2025-09-17,2026-03-17,2025-09-17,"1936,89",100154,105425,94883,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+155,RE/MAX URUS,Julio Andrée Camacho Caceda,998426468,1155384,Activa,2025-11-14,Departamento,Venta,50,0,No Exclusivo,3,S/.,138637,138637,557818,2025-09-16,0,6,2025-09-16,2026-03-16,2025-09-16,"2232,79",108751,114475,103028,Chorrillos,Lima,Lima,Proyecto Malecon Grau,47120101,,,no,no,yes,no,"
+Fitzyerald Fernando Mateos Magallanes","
+979784600","
+ventas@2kinmobiliaria.com",,,,,,,
+156,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1155380,Activa,2025-09-18,Terreno,Venta,56,2,Exclusivo,5,S/.,110000,390500,370000,2025-11-09,0,6,2025-09-16,2026-03-16,2025-09-16,"500,98",75673,79656,71691,Callao,Prov. Const. Del Callao,Lima,"2Vfm+494, Lima 07031, Perú",70346249,,,no,no,yes,no,"
+Ida Justina Lizagarra Mejico","
+987745956","
+Sin Correo",,,,,,,
+157,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1155169,Activa,2025-10-10,Terreno,Venta,57,0,Exclusivo,4,$,822330,822330,822330,2025-09-15,0,6,2025-09-15,2026-03-15,2025-09-15,"899,12",1452136,1528564,1375708,Comas,Lima,Lima,Tambo Rio,11959451,,,no,no,yes,no,"
+Luis Zegarra Escalanta","
+964242746","
+Sin Correo","2025-09-23 13:49 | no hay comparables para la propiedad
+",,,,,,
+178,RE/MAX URUS,Vanessa Milagros Bazan Fernandini,954001914,1144221,Activa,2025-12-19,Local,Venta,169,0,Exclusivo,3,$,1600000,1380000,1250000,2025-10-28,0,6,2025-06-19,2026-06-19,2025-06-19,"1161,79",1038453,1093108,983797,Lima,Lima,Lima,Av. Óscar R. Benavides 1524,11955361,,,no,no,yes,yes,"
+Jorge Serapio Aguirre Huarac","
+998309543","
+Sin Correo","2025-06-26 18:15 | 1. Presenta hipoteca vigente con el BBVA.
+2. Tiene una carga técnica registrada por incumplimiento del alineamiento de fachada y lote normativo.
+3. La dirección municipal y registral no coinciden exactamente.
+4. Se requiere vigencia de poder
+5. Se requiere que levantar la carga.
+",,,,,,
+179,RE/MAX URUS,Jimmy Antonio Ramos Changa,945019106,1143787,Activa,2025-12-17,Casa,Venta,366,11,Exclusivo,3,$,240000,240000,240000,2025-06-16,0,2,2025-06-16,2026-02-16,2025-06-16,"1133,71",267195,281258,253132,Los Olivos,Lima,Lima,Jirón Los Castaños 1085,12040180,,,no,no,yes,yes,"
+John Cristhian Garcia Chavez","
+962401914","
+Sin Correo","2025-06-26 16:59 | Realizar la declaración jurada de transferencia en la Municipalidad de Los Olivos para actualizar el HR y PU a nombre del titular actual.
+",,,,,,
+180,RE/MAX URUS,Jimmy Antonio Ramos Changa,945019106,1143264,Activa,2025-12-11,Casa,Venta,84,1,Exclusivo,"3,5",$,193000,193000,170000,2025-06-11,0,3,2025-06-11,2026-03-16,2025-06-11,"-87,53",141307,148744,133870,Santa Rosa,Lima,Lima,"6R4H+4G Santa Rosa, Perú",42663301,,,no,no,yes,yes,"
+Alejandro Veneros","
+920405952","
+Sin Correo","2025-06-26 13:54 | Existe una resolución de SUNARP que indica superposición parcial de área con otro predio inscrito en la Partida N° 12052479, lo que ha generado la anotación de:
+“Abstención de inicio del procedimiento de cierre” de la ficha matriz y sus independizaciones, incluyendo este lote.
+Cargar el  HR y PU, para una evaluación técnica de la superposición.
+",,,,,,
+182,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1139549,Activa,2025-11-21,Terreno,Venta,88,0,Exclusivo,3,$,3494340,3494340,3495000,2025-06-07,0,3,2025-05-15,2026-02-15,2025-05-15,"141,74",7890111,8305380,7474842,Lurin,Lima,Lima,"P48P+7J9, Lurín 15823, Perú",42194905,,,no,no,yes,yes,"
+Gladys Sosa Salazar","
+965733268","
+Sin Correo","2025-05-15 13:48 | BUENAS TARDES, QUEDA PENDIENTE SUBIR EL AUTOVALUO
+2025-06-24 13:07 | Hola Angela a pasado mas de 1 mes, se debe subir HR y PU
+2025-09-23 15:41 | no hay mas comparables
+",,,,,,
+184,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1136350,Activa,2025-10-15,Departamento,Alquiler,345,2,Exclusivo,100,S/.,1000,1000,1000,2025-04-15,0,6,2025-04-15,2026-04-15,2025-04-15,"1,82",173,182,163,San Martin de Porres,Lima,Lima,"Calle Sta. Monica 102, San Martín de Porres 15113, Perú",1000998,,,no,no,yes,yes,"
+Karla Estephanie Tello Carbajal","
+986845498","
+Sin Correo",,,,,,,
+185,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1132108,Activa,2025-10-19,Terreno,Venta,115,1,Exclusivo,5,$,70000,50000,45000,2025-09-29,0,6,2025-03-16,2026-04-19,2025-03-16,"205,75",45621,48022,43220,Ventanilla,Prov. Const. Del Callao,Lima,"Parque Kawachi, Av. Camino Del Inca Izquierdo 2, Ventanilla 07071, Perú",p01026048,,,no,no,yes,yes,"
+Carmen Fabian Sarzo","
+981557313","
+Sin Correo","2025-03-25 16:36 | Falta Hr y PU
+2025-09-23 15:51 | esos son los comparables que tenemos
+",,,,,,
+186,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1118937,Activa,2025-10-30,Terreno,Venta,49,0,Exclusivo,5,$,20500,20500,24500,2024-11-30,0,6,2024-11-30,2026-04-06,2024-11-30,0,0,0,0,Santa Rosa,Lima,Lima,"Urb.Praderas De Lima Norte 2Da Etapa, E1, Santa Rosa 15123 (Calle, Santa Rosa 15123, Perú",13775900,,,no,no,yes,yes,"
+Ricarte Arcenio Becerra  Vasquez","
+975783928","
+Sin Correo","2024-12-12 10:00 | Se activa
+2025-01-26 16:57 | DOCUMENTACION OK
+",,,,,,
+187,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1118936,Activa,2025-10-16,Terreno,Venta,56,0,Exclusivo,5,$,20500,20500,24500,2024-11-30,0,6,2024-11-30,2026-04-16,2024-11-30,0,0,0,0,Santa Rosa,Lima,Lima,"Urb.Praderas De Lima Norte 2Da Etapa, E1, Santa Rosa 15123 (Calle, Santa Rosa 15123, Perú",13775899,,,no,no,yes,yes,"
+Ricarte Arcenio Becerra  Vasquez","
+975783928","
+Sin Correo","2024-12-12 10:00 | Se activa
+2025-01-26 16:58 | DOCUMENTACION OK
+",,,,,,
+188,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1115949,Activa,2025-10-12,Terreno,Venta,129,0,Exclusivo,"12,5",$,28900,28900,20000,2025-03-14,0,6,2024-11-08,2026-04-08,2024-11-08,"205,56",21871,23022,20720,Santa Rosa,Lima,Lima,Alameda Lima Norte,p1370804,,,no,no,yes,yes,"
+Nadia Regalado Tamayo","
+989554947","
+Sin Correo",,,,,,,
+189,RE/MAX URUS,Leo Agusto Chavez Bottger,983513675,1114459,Activa,2025-09-29,Otros,Venta,201,0,No Exclusivo,3,$,298000,298000,285000,2024-10-28,0,6,2024-10-10,2026-03-29,2024-10-28,"860,96",268481,282611,254350,San Juan de Lurigancho,Lima,Lima,Jirón Las Lajas 223,12676082,,,no,no,yes,yes,"
+Gloria Rodriguez Rodriguez","
+995848843","
+glorianoemi23@hotmail.com","2024-10-28 20:56 | Se activa
+2024-11-26 12:24 | DOCUMENTACION OK
+",,,,,,
+190,RE/MAX URUS,Leo Agusto Chavez Bottger,983513675,1114134,Activa,2025-09-29,Terreno,Venta,438,6,No Exclusivo,3,$,190000,145000,132000,2025-07-05,0,6,2024-10-10,2026-03-29,2024-10-25,"781,3",66801,70317,63285,San Juan de Lurigancho,Lima,Lima,Jirón Las Lajas 223,43043250,,,no,no,yes,yes,"
+Gloria Rodriguez Rodriguez","
+995848843","
+glorianoemi23@hotmail.com","2024-10-25 22:35 | Propiedad con cierre de partida, es el proceso mediante el cual se cierra o anula una partida registral de un inmueble en SUNARP. Verifico que la partida se dividió en 2 Sublotes, debemos conseguir los números de partidas de esos lotes
+2024-10-28 15:50 | La propiedad tiene una carga tecnica, gestionar el levantamiento. Se activa
+2024-11-12 01:18 | PROPIEDAD ADQUIRIDA POR NOEMI RODRIGUEZ RODRIGUEZ MEDIANTE ADJUDICACION POR SUSTITUCION DE REGIMEN PATRIMONIAL INSCRITA EN EL ASIENTO C0004 DE LA PARTIDAD REGISTRAL N° 12676081 (MANZANA N SUB LOTE 38 URBANIZACION LAS FLORES - SAN JUAN DE LURIGANCHO)
+2024-11-12 01:07 | N° DE PARTIDAD REGISTRAL ERRADO EN CONTRATO... SIENDO LA CORRECTA 12676081 DE UNO DEL LOTE SUB INDEPENDIZADO
+",,,,,,
+191,RE/MAX URUS,Leo Agusto Chavez Bottger,983513675,1113952,Activa,2025-07-04,Departamento,Venta,233,1,No Exclusivo,3,$,107000,107000,110000,2025-08-05,0,6,2024-10-24,2026-04-28,2024-10-24,"773,49",86708,91272,82145,Los Olivos,Lima,Lima,"Las Salvias 624, Lima 15301, Perú",13812037,,,no,no,yes,yes,"
+Gloria Rodriguez Rodriguez","
+995848843","
+glorianoemi23@hotmail.com","2024-10-24 13:00 | Falta Hr, Acm incompleto
+2024-11-12 15:30 | Copia Literal OK
+Actualizar HR y PU del 2024
+",,,,,,
+192,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1094922,Activa,2025-11-24,Terreno,Venta,626,4,Exclusivo,5,$,35000,35000,30000,2025-09-09,0,6,2024-05-24,2026-05-14,2024-05-24,375,32062,33750,30375,Carabayllo,Lima,Lima,"Urb. Santa María Mz F12 Lt 4, Carabayllo 15121, Perú",12485011,,,no,no,yes,yes,"
+Cecibel Palomino Sanchez","
+956393898","
+lusviochoapillaca@gmail.com",,,,,,,
+195,RE/MAX URUS,Vanessa Milagros Bazan Fernandini,954001914,1057147,Activa,2025-12-08,Terreno,Venta,1003,0,No Exclusivo,3,$,68000,58000,65000,2025-10-28,0,6,2023-08-08,2026-06-08,2023-08-08,"37,78",35957,37850,34065,Cerro Azul,Cañete,Lima,Casablanca Ecovillas,P17079354,,,no,no,yes,yes,"
+Rosamaria Esperanza Fernandini Salini","
+984704133","
+Sin Correo","2023-08-08 20:40 | ESTE TERRENO NO ESTA INDEPENDIZADO POR LO QUE TIENE LA PARTIDA MATRIZ PERO NO TITULO DE PROPIEDAD  SERÍA VENTA SOLO AL CONTADO, POR ESO NO SUBI HR Y PU.
+2023-08-09 15:32 | ❌OBSERVACIONES QUE IMPIDEN QUE SE ACTIVE LA PROPIEDAD: La propiedad si tiene titulo con N° Partida: P17079354 pero aún figura a nombre de la inmobiliaria GRAMA VERDE INVERSIONES SAC, Presentar un documento que avale que la Sra. Rosa Fernandini es la titular del inmubele
+2023-08-10 17:54 | Ya subí el contrato compra venta a nombre de la propietaria.
+2023-08-11 18:30 | BUENAS NOCHES VANESSA-! 
+SE ACTIVA PROPIEDAD PERO EN LA DESCRIPCION RETIRA DONDE INDICAS QUE NO TIENE TITULO DE PROPIEDAD PORQUE SI TIENE . SOLO DEJA LA PARTE AL CONTADO
+2025-09-08 11:49 | VERIFICACIÓN DEL ACM:
+La propiedad está 53.23% por arriba del VC.
+",,,,,,
+227,RE/MAX URUS,Jeyler Burga Delgado,935576580,1145308,Activa,2025-12-27,Casa,Venta,148,3,Exclusivo,4,$,190000,190000,170000,2025-06-27,0,06,2025-06-27,2026-06-27,2025-06-27,353.53,118468,124703,112233,Comas,Lima,Lima,"3Wmx+737, C. 26, Comas 15316, Perú",134788820,,,no,no,yes,yes,Gustavo Eleazar Chanduvi Terrones,(240) 645-9248,gustachandu1863@hotmail.com,"2025-07-03 19:27 | Regularizar la Declaración de Fábrica en SUNARP para reflejar el área total construida de 242 
+m², con sustento técnico, Actualizar el HR y PU municipal para incluir a Rosario Fernández Espinoza como copropietaria con su cónyuge,Falta HR",,,,,,
+228,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1148521,Activa,2026-01-22,Casa,Venta,74,0,Exclusivo,3,$,96000,96000,96000,2025-07-22,0,6,2025-07-22,2026-04-22,2025-07-22,-333.06,18322,19287,17358,Santa Rosa,Lima,Lima,"Avenida 19 de Enero 206, Santa Rosa 15123, Perú",p01010261,,,no,no,yes,no,Pedro Barco Peña,960204346,Sin Correo,"2025-07-29 15:12 | VERIFICACIÓN DE ACM:
+**El ACM del SIGI está errado**
+Le hice ACM Homologado a esta propiedad donde se tiene el siguiente resultado:
+VC: $63,518.20
+PS: $53,990.47
+VRI(B): $50,814.56
+La propiedad esta a 51.13% por arriba del VC
+Nota: Se observa el ID 1024504 corresponde a una casa vendida en SANTA ROSA con mayor terreno, mayor área de construcción y en mejor mejor zona que se vendió en $85,000 y según la ficha tomó 6 meses en vender.",,,,,,
+229,RE/MAX URUS,Claudia Castillo Laulate,936496900,1162604,Activa,2026-02-05,Departamento,Alquiler,83,1,Exclusivo,100,S/.,1350,1350,1350,2025-11-12,0,6,2025-11-08,2026-05-08,2025-11-12,3.2,217,229,206,Los Olivos,Lima,Lima,"Av. los Próceres de Huandoy 224, Los Olivos 15307, Perú",14442687,,,no,no,yes,no,Melissa Raquel Chavez Marin,927407115,melissa94ch@gmail.com,,,,,,,
+230,RE/MAX URUS,Carmen Rosa Candela Chillcce,997395956,1170292,Activa,2026-02-05,Departamento,Alquiler,37,2,Exclusivo,100,S/.,1000,1000,1200,2026-01-29,0,3,2026-01-13,2026-04-13,2026-01-29,0,367,387,348,Bellavista,Prov. Const. Del Callao,Lima,Av Juan Velasco Alvarado 2061,P01216013,,,no,no,yes,no,Ximena Jackelyn Requena Quiñones,994368406,jackelynrequena@gmail.com,,,,,,,
+231,RE/MAX URUS,Carmen Rosa Candela Chillcce,997395956,1170360,Activa,2026-01-29,Otros,Venta,16,0,Exclusivo,5,$,390000,390000,390000,2026-01-29,0,6,2026-01-29,2026-07-29,2026-01-29,0,363695,382837,344553,Callao,Prov. Const. Del Callao,Lima,CA. LOS ÁLAMOS MZ G LT 01 URB. EL OLIVAR CALLAO,N° DE FICHA 29776,,,no,no,yes,no,"Samuel Auccacusi Ccoya
+Ana Challco Aller","934945088
+912345678","samuel@gmail.com
+anachallco@gmail.com",,,,,,,
+232,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1170687,Activa,2026-02-01,Local,Alquiler,18,0,Exclusivo,100,S/.,2700,2700,2700,2026-02-01,0,6,2026-02-01,2026-08-01,2026-02-01,0,832,876,789,San Juan de Lurigancho,Lima,Lima,"Av. Las Lomas 1277, Lima 15427, Perú",42893307,,,no,no,yes,no,Doris Lili Gonzales Suarez,948320318,Sin Correo,,,,,,,
+233,RE/MAX URUS,Erika Cristina Chinchayan Zavala,996600804,1170688,Activa,2026-02-01,Departamento,Venta,29,0,Exclusivo,3,$,272000,272000,272000,2026-02-01,0,6,2026-01-27,2026-07-27,2026-02-01,0,318093,334835,301351,Santiago de Surco,Lima,Lima,Jr. Málaga 295,368325,,,no,no,yes,no,Jessica Maldonado Guevara,989170845,Sin Correo,,,,,,,
+235,RE/MAX URUS,Jimmy Antonio Ramos Changa,945019106,1170920,Activa,2026-02-04,Terreno,Venta,20,1,Exclusivo,4,$,90000,90000,90000,2026-02-03,0,3,2026-02-01,2026-05-01,2026-02-03,0,64406,67795,61016,Carabayllo,Lima,Lima,"C1, Carabayllo 15122, Perú",13046880,,,no,no,yes,no,Eugenio Leon Soto,904882545,yufredleon@gmail.com,,,,,,,
+236,RE/MAX URUS,Claudia Castillo Laulate,936496900,1170940,Activa,2026-02-07,Casa,Venta,24,0,No Exclusivo,4,$,470000,470000,470000,2026-02-03,0,6,2026-02-03,2026-08-03,2026-02-03,0,476269,501336,451202,La Molina,Lima,Lima,Los Cedros 330,49011705,,,no,no,yes,no,"Teresa Amelia Quispe Olivares
+Carlos Jesús Alcántara Molina","944954268
+912583527","Sin Correo
+Sin Correo",,,,,,,
+237,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1170950,Activa,2026-02-04,Terreno,Venta,18,13,Exclusivo,9.09,$,33000,33000,33000,2026-02-04,0,6,2026-02-04,2026-08-04,2026-02-04,0,31155,32795,29516,Carabayllo,Lima,Lima,Sol de Carabayllo,12667661,,,no,no,yes,no,Digna Taboada Zapata,929610980,Sin Correo,,,,,,,
+239,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1171083,Activa,2026-02-05,Local,Alquiler,15,0,Exclusivo,100,S/.,8000,8000,8000,2026-02-05,0,3,2026-02-05,2026-05-05,2026-02-05,0,581,612,551,San Juan de Lurigancho,Lima,Lima,"Avenida General José de San Martín Mz.V1 - Lt.23, San Juan de Lurigancho 15438, Perú",P02023102,,,no,no,yes,no,Norma Bertha Morales Macedo,912922575,Sin Correo,,,,,,,
+241,RE/MAX URUS,Erika Cristina Chinchayan Zavala,996600804,1171319,Activa,2026-02-06,Departamento,Venta,28,0,Exclusivo,3,$,165000,165000,165000,2026-02-06,0,4,2026-02-06,2026-06-06,2026-02-06,0,135156,142269,128042,San Isidro,Lima,Lima,C. Dean Valdivia 207,15110235,,,no,no,yes,no,Dorcas Quiroz Viera,957973871,Sin Correo,,,,,,,
+242,RE/MAX URUS,Paola Rubi Aedo Lopez,917723062,1171743,Activa,2026-02-10,Casa,Venta,19,2,Exclusivo,3,$,159,159,159000,2026-02-10,0,6,2026-02-10,2026-08-10,2026-02-10,0,0,0,0,San Martin de Porres,Lima,Lima,San Lazaro,P01335356,,,no,no,yes,no,Jose  Santos Pisfil Lopez,983460197,Sin Correo,,,,,,,
+244,RE/MAX URUS,Jimmy Antonio Ramos Changa,945019106,1172068,Activa,2026-02-13,Terreno,Venta,9,0,Exclusivo,3,$,1386000,1386000,1386000,2026-02-13,0,6,2026-02-08,2026-08-08,2026-02-13,0,3514336,3699301,3329371,Cerro Azul,Cañete,Lima,"HV23+HR Chincha Baja, Perú",40004114,,,no,no,yes,no,Manuel Anchante Hernandez,963827034,Sin Correo,,,,,,,
+245,RE/MAX URUS,Roberto Niño De Guzman Solier,999938243,1172181,Activa,2026-02-24,Terreno,Venta,20,0,Exclusivo,6.38,$,47000,47000,47000,2026-02-14,0,6,2026-02-14,2026-08-14,2026-02-14,0,52107,54849,49364,Los Olivos,Lima,Lima,"C. 19 Mz.Y3 - Lt.29, Los Olivos 15306, Perú",P01429759,,,no,no,yes,no,Luz Violeta Alcántara De Gómez,922185102,Sin Correo,,,,,,,
+246,RE/MAX URUS,Vanessa Milagros Bazan Fernandini,954001914,1172361,Activa,2026-02-17,Departamento,Alquiler,12,0,No Exclusivo,100,S/.,2600,2600,2600,2026-02-17,0,3,2026-02-17,2026-05-17,2026-02-17,0,870,916,824,Jesus Maria,Lima,Lima,"Av. República Dominicana 238, Jesús María 15072, Perú",40920536,,,no,no,yes,no,Ines Soledad Poma Aquino,986734524,Sin Correo,,,,,,,
+247,RE/MAX URUS,Delsa Isabel Soto Paredes,941657108,1172421,Activa,2026-02-24,Oficina,Alquiler,5,0,Exclusivo,100,S/.,900,900,900,2026-02-17,0,6,2026-02-17,2026-08-17,2026-02-17,0,137,144,129,Lince,Lima,Lima,Av. Petit Thouars 2652,111111112,,,no,no,yes,no,Doris Lorena Patiño Abad,954777095,Sin Correo,,,,,,,
+248,RE/MAX URUS,Vanessa Miluska Vasquez Tineo,916631981,1172442,Activa,2026-02-17,Casa,Venta,10,0,Exclusivo,5,$,140000,140000,140000,2026-02-17,0,6,2026-01-21,2026-07-21,2026-02-17,0,77647,81734,73561,Comas,Lima,Lima,Av. Revolución 1742,PO1017327,,,no,no,yes,no,Pablo Ermitanio Valverde Alva,991940601,Sin Correo,,,,,,,
+249,RE/MAX URUS,Jimmy Antonio Ramos Changa,945019106,1172537,Activa,2026-02-18,Terreno,Venta,5,0,Exclusivo,5.88,$,51000,51000,51000,2026-02-18,0,3,2026-02-17,2026-05-17,2026-02-18,0,35147,36997,33297,Cerro Azul,Cañete,Lima,Condominio Residencial Muelle Azul,21280946,,,no,no,yes,no,Maria Concepción Mansilla Alvarez,8458575302,Sin Correo,,,,,,,
+250,RE/MAX URUS,Paola Rubi Aedo Lopez,917723062,1172574,Activa,2026-02-18,Departamento,Alquiler,10,0,Exclusivo,100,S/.,1300,1300,1300,2026-02-18,0,3,2026-02-17,2026-05-17,2026-02-18,0,0,0,0,Callao,Prov. Const. Del Callao,Lima,Condominio villanova 2,P1015245,,,no,no,yes,no,Lesly Estefany Jimenez Olmedo,980446473,leslyjimenez1209@gmail.com,,,,,,,
+251,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1172593,Activa,2026-02-18,Casa,Venta,10,1,Exclusivo,5,$,105000,105000,105000,2026-02-18,0,6,2026-02-18,2026-08-18,2026-02-18,0,105823,111393,100254,Puente Piedra,Lima,Lima,"4WP8+8Q3, Calle Los Geranios Mz.X - Lt.15, Puente Piedra 15118, Perú",P01377001,,,no,no,yes,no,Josely Karina Quinto Mendizabal,914097175,Sin Correo,,,,,,,
+252,RE/MAX URUS,Robert Zurita Condor,922128156,1172677,Activa,2026-02-22,Terreno,Venta,4,0,Exclusivo,5,$,330000,330000,330000,2026-02-19,0,3,2026-02-19,2026-05-19,2026-02-19,1115.96,515915,543068,488761,Lima,Lima,Lima,"Jr. Victorino Laynez 1358, Lima 15081, Perú",47416906,,,no,no,yes,no,Marco Antonio Cruz Mendoza,997525204,Sin Correo,,,,,,,
+255,RE/MAX URUS,Sofia Mercedes Ramirez Melendez,941720511,1173086,Activa,2026-02-23,Local,Venta,5,0,Exclusivo,10,S/.,60000,60000,60000,2026-02-23,0,3,2026-02-23,2026-05-23,2026-02-23,0,174307,183481,165133,Jesus Maria,Lima,Lima,Sakura Nails Salón,20612647870,,,no,no,yes,no,Mercy Patricia Rojas Ynga,959192533,Sin Correo,,,,,,,
+257,RE/MAX URUS,Angela Del Pilar Huapaya Rojas,900632986,1170261,Activa,2026-01-29,Departamento,Alquiler,30,0,Exclusivo,100,S/.,2300,2300,2300,2026-01-29,0,3,2026-01-29,2026-04-29,2026-01-29,0,435,458,412,Lima,Lima,Lima,Jirón Enrique Barrón 1354,14349300,,,no,no,yes,no,Josias Isai Aguilar Burga,962110452,Sin Correo,,,,,,,
+258,RE/MAX URUS,Arix Carolina Izarra Perez,932411936,1138100,Activa,2026-02-15,Terreno,Venta,320,4,Exclusivo,3.5,$,1200000,850000,800000,2025-10-22,0,1,2025-05-01,2026-05-01,2025-05-01,2444.99,929098,977997,880198,San Borja,Lima,Lima,MACOGESAC,41908947,,,no,no,yes,yes,Eugenio Alfredo Chacaltana Paredes,967748746,achacaltana47@gmail.com,"2025-05-28 16:06 | Si, el inmueble está en prenda por un préstamo que le dieron a la empresa durante la pandemia, uno de los propietarios me ha indicado que actual el saldo de la hipoteca es S/. 200,000. Hoy tengo una reunión con ellos y volveré a tocar este tema.
+2025-05-28 12:33 | El inmueble está a nombre del Instituto San Luis Gonzaga. Tiene una hipoteca inscrita por US$201,719.38 a favor del BCP que no ha sido levantada.",,,,,,
+259,RE/MAX URUS,Alfredo Alvaro Huapaya Rojas,999143107,1173932,Activa,2026-03-03,Departamento,Alquiler,2,0,Exclusivo,100,S/.,1000,1000,1000,2026-03-02,0,4,2026-03-02,2026-07-02,2026-03-02,0,221,233,210,San Juan de Lurigancho,Lima,Lima,"2X7X+36J, Piedra Luna, San Juan de Lurigancho 18004, Perú",1234568,,,no,no,yes,no,Jackeline Gonzáles Berrospi,928521995,jaceh@gmail.com,,,,,,,
+260,RE/MAX URUS,Sergio Guillen Alvarez,902818909,1173940,Activa,2026-03-02,Casa,Venta,4,0,Exclusivo,5,$,42000,42000,42000,2026-03-02,0,6,2026-03-02,2026-09-02,2026-03-02,0,64061,67432,60689,Callao,Prov. Const. Del Callao,Lima,"C. C Mz.C - Lt.1, Callao 07021, Perú",P01112050,,,no,no,yes,no,Lucy Marlene Nuñez Mendoza,981117114,Sin Correo,,,,,,,
+261,RE/MAX URUS,Jimmy Antonio Ramos Changa,945019106,1171055,Activa,2026-03-01,Casa,Venta,42,2,Exclusivo,3,$,279000,279000,269000,2026-02-04,0,1,2026-02-01,2026-04-01,2026-02-04,0,262713,276540,248886,Santiago de Surco,Lima,Lima,Don Pompeyo 168,12992192,,,no,no,yes,no,Rocio Villalba Matamoros,970204314,Sin Correo,,,,,,,
+263,RE/MAX URUS,Alfredo Alvaro Huapaya Rojas,999143107,1174298,Activa,2026-03-05,Casa,Venta,7,0,Exclusivo,3,$,160000,160000,160000,2026-03-05,0,6,2026-03-05,2026-09-05,2026-03-05,0,203420,214126,192714,Los Olivos,Lima,Lima,"Ca. Escorpio Mz.Q - Lt.6, Los Olivos 15301, Perú",P01260291,,,no,no,yes,no,Ruth Córdoba Pareja,960254379,ruth15@gmail.com,,,,,,,
+264,RE/MAX URUS,Sofia Mercedes Ramirez Melendez,941720511,1174356,Activa,2026-03-05,Terreno,Venta,6,0,Exclusivo,4,$,75000,75000,75000,2026-03-05,0,6,2026-03-05,2026-09-05,2026-03-05,0,70893,74624,67162,Lurigancho,Lima,Lima,URB. SOL DE HUAMPANI 5 ETAPA,12967517,,,no,no,yes,no,Virgilia Osccohuillca Crisostomo,947399524,Sin Correo,,,,,,,
+265,RE/MAX URUS,Marcello Scheelje Fernandez,989063940,1174407,Activa,2026-03-06,Casa,Venta,3,1,Exclusivo,3,$,560000,560000,560000,2026-03-06,0,6,2026-02-10,2026-08-10,2026-03-06,0,440393,463572,417215,Pachacamac,Lima,Lima,Calle Chillaco Mz.N - Lt.9,13325223,,,no,no,yes,no,"Daniel Maynor Scheelje Gomez
+Carmen Dalila Fernandez Añorga","989280683
+989280684","danielscheelje@hotmail.com
+carmen.feran@gmail.com",,,,,,,
+266,RE/MAX URUS,Ismael Arquimedes Cruz Sarango,986631957,1174522,Activa,2026-03-07,Casa,Venta,5,0,Exclusivo,4,$,169000,169000,169000,2026-03-07,0,3,2026-03-05,2026-06-05,2026-03-07,0,119592,125887,113298,Carabayllo,Lima,Lima,"Av. Chillón Trapiche Mz.B - Lt.22, Carabayllo 15318, Perú",12635332,,,no,no,yes,no,Milton Trujillo Condezo,935963266,Sin Correo,,,,,,,
+267,RE/MAX URUS,Ismael Arquimedes Cruz Sarango,986631957,1174525,Activa,2026-03-07,Casa,Venta,6,0,No Exclusivo,4,$,173999,173999,173999,2026-03-07,0,3,2026-03-05,2026-06-05,2026-03-07,0,164771,173443,156098,Carabayllo,Lima,Lima,"Pasionarias 153, Carabayllo 15313, Perú",42577278,,,no,no,yes,no,"Mariana Maria Albujar Avila Viuda De Florez
+Pierina Valeria Florez Albujar
+Renato Augusto Florez Albujar
+Cardelia Florez Nuñez De La Torre
+Carlos Elias Florez Nuñez De La Torre
+Mariana Isolina Florez Albujar","971289569
+921102338
+997428913
+995991890
+981368981
+959126025","Sin Correo
+Sin Correo
+Sin Correo
+Sin Correo
+Sin Correo
+Sin Correo",,,,,,,

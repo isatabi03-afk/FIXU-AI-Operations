@@ -1,0 +1,301 @@
+Impromptu Google Meet Meeting - December 08
+VIEW RECORDING - 54 mins (No highlights): https://fathom.video/share/WjEBNiAANjK3soj6hkRYFPQqjspvm3pN
+
+---
+
+0:00 - Alejandro juan Loayza jordan
+  CHERELY SALON, TAMBIÃ‰N.
+
+0:04 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, continuando con las preguntas, nos habÃ­amos quedado en el flujo de leads. Â¿QuiÃ©n los atiende primero a este promedio de 300, 400 leads?
+
+0:18 - Alejandro juan Loayza jordan
+  Â¿QuiÃ©n los atiende a los... Rodri? Ok.
+
+0:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Yo me meto un poco, pero no tanto.
+
+0:25 - Alejandro juan Loayza jordan
+  Claro.
+
+0:27 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿QuÃ© porcentaje de estos leads, de este universo, dirÃ­as que se atienden dentro del primer minuto, aproximadamente?
+
+0:35 - Alejandro juan Loayza jordan
+  Siendo muy generosos 10%. Ok. Muy generosos.
+
+0:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿En quÃ© punto de ese proceso comercial de nutriciÃ³n, tratar de llegar a la venta, crees que se pierda la conversiÃ³n?
+
+0:52 - Alejandro juan Loayza jordan
+  Bueno, no tengo un registro real de eso, pero la mÃ¡s clÃ¡sica es cuando le envÃ­as el precio. Ok. Pero como nosotros vendemos, Â¿sabes quÃ© pasa?  Que como vendemos por audios una buena parte, a veces la gente estÃ¡ ahÃ­ vendiendo, estÃ¡ ahÃ­ investigando, y nosotros no les podemos responder, no sÃ©, ponte una hora, y de ahÃ­ les llega un audio de 40 segundos, y es como que lo ven y dicen, ah, y lo terminan pateando, pues, Â¿no?  Claro. Eso pasa bastante, que de hecho, esa onda conversacional de venta, en buena medida, es lo que las mismas pacientes me han reportado, como es que le generÃ³ confianza, pero tiene la falencia de que no es respondible, pues, tendrÃ­a que hacer que el bot mande el audio, mÃ¡s que que grabe el audio, en vivo, con su voz o lo que sea, es que pueda mandar un audio pregrabado atinadamente.
+
+1:52 - Alonso Aguila
+  Y ahÃ­ una consulta, Â¿ustedes escogen la conexiÃ³n por audio por un tema de marca? Â¿O? Â¿O es por un tema de practicidad a la respuesta?
+
+2:04 - Alejandro juan Loayza jordan
+  No, definitivamente no es por practicidad, pero es que simplemente no... Uno es que es un tema de marca personal de forma inicial, pero tambiÃ©n dos es por confianza, es para generar confianza, 100%, sÃ­.  Perfecto.
+
+2:25 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Igual, solo para aclarar, el agente sÃ­ puede mandar audios pregrabados en ciertas etapas del proceso, asÃ­ que por ese lado, genial.  Ale, Â¿quÃ© informaciÃ³n necesitas tÃº capturar sÃ­ o sÃ­ para evaluar que el lead es un potencial cliente?
+
+2:43 - Alejandro juan Loayza jordan
+  Bueno, primero que... o sea, una vez que llegÃ³ el WhatsApp... SÃ­, claro. Primero que estÃ© dispuesto hasta cierto punto a abrirse, Â¿no?  Porque como parte de nuestro proceso de venta V2C, tenemos un flujo bien determinado. Que es preguntarle algunas, primero su edad, peso, talla, de arranque para filtrar primero su nombre, porque tengo que tratarlo por su nombre, dos para entender su edad, porque si es menor de edad no me sirve hablar con Ã©l, tres para entender un poquito el contexto de esa persona, porque es muy diferente, porque tambiÃ©n nos dicen su objetivo, es la primera interacciÃ³n, entonces es muy diferente tratar a alguien de metro sesenta, cincuenta kilos que quiere, ganar musculatura que la flaca de ciento treinta kilos, eh, metro cincuenta, que tengo.  Ok. Entonces, ese es el primer filtro, porque tambiÃ©n nos da, habla de la urgencia que tiene esta persona. Eh, luego le preguntamos si ha ido o no al nutricionista, normalmente una green flag para nosotros es que ya ha ido al nutricionista, y que entienda que no le gustÃ³.  Ya, dÃ©jalo. Eso, de ahÃ­, si hay un nutricionista y entiende que no le funcionÃ³, y entiende que lo que hizo antes estuvo mal, tambiÃ©n es una green flag.  Si, Â¿cuÃ¡l es eso? Si no se apresuran, joder, por el precio, tambiÃ©n es una green flag. Claro. Creo que esos son los mÃ¡s importantes.
+
+4:34 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De todo este flujo comercial, Ale, atenciÃ³n, y todo lo que me acabas de mencionar, Â¿quÃ© te gustarÃ­a automatizar primero?  Â¿O mÃ¡s te gustarÃ­a, discÃºlpame que te corte, Â¿quÃ© crees que serÃ­a mÃ¡s fundamental automatizar primero?
+
+4:55 - Alejandro juan Loayza jordan
+  Te dirÃ­a que el proceso de precalificaciÃ³n tiene que llegar hasta... Pero... Aplausos Lo que pasa es que yo le tengo que preguntar siempre a la gente sobre, es un poco difÃ­cil en esta muÃ±eca, hacer que una persona por Whatsapp te quiera decir cuÃ¡l es su dolor, entonces creo que eso es un poco difÃ­cil.
+
+5:24 - Alonso Aguila
+  AhÃ­, Ale, sorry que te corte, pero mira, ya por mi experiencia siendo paciente y tambiÃ©n un tema comercial, o sea, si tÃº vas y le dices, le explicas tu metodologÃ­a, oye mira, Â¿sabes quÃ©?  Nosotros construimos planes ad hoc a tu rutina, no te vamos a sacar de cuadro, no te vamos a dar la dieta tÃ­pica de come pollo hervido con papa horneada, esto es lo que hacemos, este es el costo, porque tÃº se lo vas a decir de frente, estos son los planes.  El tema del nutricionista, o sea, lo chÃ©vere de chambear contigo es que puedo acomodar a mi rutina una dieta, no me vas a mandar a que yo me cocine o hago un meal prep de toda la semana, porque ahÃ­ es donde se quiebra el nutricionista tradicional, o lo chÃ©vere es explicar toda esta lÃ³gica que tienen ustedes de, oye, cuÃ©ntamelo, o sea, la idea es, nÃºtreme a mÃ­ de informaciÃ³n para yo poder acomodar a tu rutina un plan que te permita alcanzar el objetivo que tÃº quieras, este, te doy todos los, todos los planes, y ahÃ­ agendo, Â¿me entienden?
+
+6:40 - Alejandro juan Loayza jordan
+  SÃ­, no, pero mucho antes, yo ni siquiera hablo de programas, bueno, tambiÃ©n que esto ha cambiado con el tiempo, no me acuerdo cÃ³mo fue especÃ­ficamente contigo, pero yo realmente ni siquiera hablo de nuestros programas hasta que la persona de verdad me ha dicho por quÃ© quiere bajar de pesado, Yo soy bien quisquilloso Â¡Gracias!  Nuevamente, no sÃ© si estÃ¡ viendo mal, no sÃ© quÃ© tan diferentes del B2B, que quizÃ¡s se pasa mÃ¡s en las empresas, pero yo soy bien quisquilloso sobre entender el dolor y la urgencia de la persona, porque para mÃ­ empiezan...  Â¡Ey! Â¡Pelea de gatos! No se puede trabajar en esta casa, Luciano Una pregunta CuÃ©ntame Â¿Eso que acabas de mencionar, tÃº lo definirÃ­as como un anÃ¡lisis de sentimientos?  No lo sÃ©, o sea, supongo que en teorÃ­a sÃ­, Â¿no? Pero para mÃ­ es... Encuentra el pain, siempre Perfecto ChÃºndale, chÃºndale, y porque eso es lo que hace que la gente compre Ok, ok, perfecto Si que me suelta el pain ReciÃ©n hago el puente de...  Oye, Â¿quÃ© pasarÃ­a si te digo que... Podemos hacer tal, tal, tal, tal, tal, responde a tu pain, porque como alguien te dice que sufre, te estÃ¡ diciendo cÃ³mo venderle tambiÃ©n.  Entonces, claro, si entiendes como que, oye, te duele A, B, C, D, ok, mira, justo esto que hago atiende a A, esto que hacemos atiende a B, esto que hago atiende a C, Â¿crees que esto te podrÃ­a ayudar?  SÃ­, una vez que hay una validaciÃ³n de value, reciÃ©n me meto a hablar de precio, porque si no, no hablo de precio.  Total, literal, la mejor manera de vender, literalmente.
+
+8:28 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ale, de manera puntual con respecto a la experiencia del cliente y la calidad de tu servicio, o respuestas puntuales a no ser que explayarse requiera, o lo sustente, Â¿quÃ© es lo que mÃ¡s valoran tus clientes de tu servicio?
+
+8:41 - Alejandro juan Loayza jordan
+  Tengo esa respuesta textual acÃ¡ en una lÃ­nea, espÃ©rame. Genial. Porque tengo una encuesta de satisfacciÃ³n al cliente que hice.  ChÃ©vere. Encuesta de satisfacciÃ³n. ChÃ©vere. Ya, la mayorÃ­a de gente dicen que sÃ­ se adapta, o sea, que la mayorÃ­a de gente realmente percibe que lo que armamos calza o se adapta razonablemente a cÃ³mo es su vida dentro de todo.  No hay un par de outliers que son raros, pero...
+
+9:47 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro. BÃ¡sicamente es lo que mencionaba Alon.
+
+9:50 - Alejandro juan Loayza jordan
+  SÃ­, en general, es que de verdad dirÃ­a que la propuesta de valor busca eso, Â¿no? Si preguntamos quÃ© es lo que mÃ¡s les gustÃ³ de servicio, la gente dice las alternativas de la calle...  Comidas de fuera de la calle, dietas sin generarme gastos especiales, el trato, que fuimos amigos, la capacidad de comer lo que ya comÃ­a anteriormente, eso en general, creo que habla del nivel de adaptabilidad, Â¿no?  Claro.
+
+10:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ale, Â¿y cuÃ¡les son las quejas o fricciones mÃ¡s frecuentes que tienes? Si es que asÃ­ hubieran. AquÃ­ abajo.
+
+10:25 - Alejandro juan Loayza jordan
+  Bueno, hay gente, bien poquitos, que, no, la mayorÃ­a de la dice, me gustarÃ­a que nos respondan mÃ¡s rÃ¡pido. Los razonables entienden que es imposible, pero igual les gustarÃ­a.  Claro. Y asÃ­ ya tengo un plan, suelo sugerir, siempre me olvidÃ© de mandar fotos. Algunos percibÃ­an que nuestro ofrecimiento de que nos envÃ­an fotos para feedback era como un over-engineering.  Y que era un problema para ellos, porque se olvidaban. Que eso tiene mÃ¡s que ver con un... Problema comunicacional de mi parte quizÃ¡s, pero bueno, eso.  La demora en responder, el tiempo de respuesta. Por ahÃ­ algunas quejas sobre las mÃ¡s opciones por grupo. Pero me imagino que son mÃ­nimas, pues, Â¿no?  SÃ­, dirÃ­a que en buena medida es el tiempo de respuesta. Claro.
+
+11:22 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­. Ale, Â¿y quÃ© cambios esperas ver en tus clientes y tambiÃ©n en tus potenciales clientes, si la quieres mencionarlo, incorporando este sistema de agentes de inteligencia artificial?
+
+11:32 - Alonso Aguila
+  Antes, antes yo tengo una consulta ahÃ­, este, que justo, no, que justo va, va con, con la pregunta que te ha hecho Santi.  Â¿Quisieras que todos se vuelvan, este, Carla Medina?
+
+11:50 - Alejandro juan Loayza jordan
+  Â¿Te servirÃ­a mÃ¡s? Creo que sÃ­, no, creo que, creo que naturalmente, cuando... Â¡No, Â¡No! La cantidad de preguntas que me hacen estÃ¡ condicionado a la utilidad que le ve la persona, entonces si ya saben que no vamos a poder responder tan eficientemente, eso condiciona eso.  Creo que si nos escriben mÃ¡s seguido, sÃ­, sÃ­ les ayudarÃ­a simplemente porque aumenta el engagement con el proceso. CreerÃ­a que sÃ­ me gustarÃ­a, asumiendo que lo pueda manejar.
+
+12:23 - Alonso Aguila
+  De que lo vas a poder manejar, sÃ­, porque al final, Â¿quÃ© es lo que va a terminar pasando? Que como las respuestas al final terminan siguiendo una lÃ³gica nutricional, si nosotros logramos plasmarla de manera ordenada en la lÃ³gica de la gente, la gente va a poder estimar lo que el usuario le comente y podrÃ­amos para aquellas personas que, no sÃ©, se olviden, como es mi caso, por ejemplo, este, que al final del dÃ­a tÃº me digas, oye, Â¿quÃ© tal te fue hoy dÃ­a?  Si pasan un foro. Un-up de lo que has comido y digamos como que hoy podrÃ­a ser, Me podrÃ­a ir, digamos, al principio, hoy al final no le tomÃ© foto al, no sÃ©, la rapidita que me tomÃ© la maÃ±ana, pero me la comÃ­, entonces la puedo decir y ya como que la gente lo va a poder entender.  Y si tengo foto que me tomÃ© en maÃ±ana, pero me olvidÃ© de mandÃ¡rtela, tambiÃ©n va a estar ahÃ­ como que, oye, ya se la mandÃ© en la noche, Â¿no?
+
+13:27 - Alejandro juan Loayza jordan
+  Y voy a poder hacer un follow-up de mi vida. Una vez un pata nos dijo que le gustarÃ­a que le enviamos un mensaje a las nueve de noche, este, que sÃ­, sÃ­.  O hay gente a que le estresa porque le genera una sensaciÃ³n de que no estÃ¡n cumpliendo algo, pero en general yo sÃ­ creo que les ayudarÃ­a bastante que en un espacio de menos fricciÃ³n en el dÃ­a, te llegue un mensaje haciÃ©ndote acordar de esto, Â¿no?
+
+13:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, genial. Ali, Â¿hay alguna otra respuesta que creas que nos pueda ayudar a alimentar la pregunta de quÃ© cambio...  Â¿QuÃ© cambios se espera ver en tus clientes o en tus potenciales clientes con la incorporaciÃ³n de este agente de IA?
+
+14:09 - Alejandro juan Loayza jordan
+  Bueno, para los clientes creo que es excelente tener respuestas en vivo. Creo que una contra que no quisiera ver y que me da miedo en ambos casos, pero mÃ¡s en las ventas, es que sientan que les responde un bot.  Creo que eso puede considerablemente disminuir la confianza, sobre todo con la venta, porque finalmente el pata que ya es cliente entiende, ay, a este huevÃ³n, Alejandro, o Nico, o los nutricionistas en cuestiÃ³n, tienen esta herramienta que trabaja para ellos.  Entonces, de cierta forma, como me conocen, igual hay un componente de confianza, pero si tu primer contacto con la marca es, puta, me estÃ¡ respondiendo un bot, no le quiere dar tu plata a un bot necesariamente, es un poco mÃ¡s difÃ­cil.  Total.
+
+15:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Justamente, ahora que lo mencionas, es importante aclarar eso ahora, porque de igual manera lo vamos a detallar cuando ya estemos entrenando a la gente, pero acÃ¡ hay dos pilares importantes.  Primero, Â¿cÃ³mo va a escribir a la gente? De manera, Â¿quÃ© muletillas va a usar? Â¿QuÃ© muletillas no va a usar?  Si es que utiliza negritas, si es que no utiliza negritas, emojis, etc, etc, tal cual, Â¿cÃ³mo va a escribir?  Es mÃ¡s, te lo pongo asÃ­ en un caso especÃ­fico con un cliente. Un cliente querÃ­a que a propÃ³sito de la gente se equivocara en alguna falla ortogrÃ¡fica para que parezca humano.  Y de hecho, y asÃ­ le va bien, porque hoy en dÃ­a atiende, agenda y yo, bueno, el equipo todos los dÃ­as revisa las conversaciones y el 70% terminan diciÃ©ndole gracias seÃ±orita.  O no se dan cuenta que es una guÃ­a. O sea, eso por un lado es importante para mantener esa calidad y esa cercanÃ­a humana.  Y lo segundo es en quÃ© situaciones, en quÃ© criterios, en quÃ© ocasiones la gente va a derivar automÃ¡ticamente la conversaciÃ³n.  O Romy o a cualquier chico del equipo. Esos dos pilares son fundamentales que ya lo vamos a tocar en la reuniÃ³n cuando lo veamos especÃ­ficamente con ellos, pero Ãºnicamente para contemplarlo.  Ahora, con respecto a la matriz nutricional y el contenido profesional, de manera breve Ale, ya que cuando tengamos la REU vamos a profundizar en esas bases de datos, Â¿quÃ© estructuras usas hoy para tus equivalencias nutricionales?
+
+16:25 - Alejandro juan Loayza jordan
+  Hay una base de datos media universal para las equivalencias de carbohidratos, proteÃ­nas, grasas, etcÃ©tera, para toda materia prima alimenticia, si querÃ­a llamarle.  Existe una base de datos de datos, nosotros tenemos una versiÃ³n un poquito extendida con insumos que hemos visto y para cosas como insumos en general, nosotros tambiÃ©n tenemos una pequeÃ±a base de datos extendida.  De algunas materias primas, sabemos cuÃ¡ndo tiene, lo del queque, Â¿no? 60 gramos de queque. Sabemos cuÃ¡nto tanto por ciento, tanto de torte de chocolate, tanto de pie.  Entonces, tenemos una materia, una base de datos un poco primariosa y a partir de eso, comparando la foto con el criterio, determinamos con quÃ© multiplicarlo.  Perfecto. BÃ¡sicamente, sÃ­.
+
+17:26 - Santiago Isaias Zavaleta Ayala (Ulima)
+  En esta base, Ale, entiendo que, bueno, es un estilo base consolidada de alimentos, donde estÃ¡n todo el tema de las porciones, las calorÃ­as, los macros y demÃ¡s, Â¿verdad?
+
+17:36 - Alejandro juan Loayza jordan
+  Genial. Solo para... Hay algunas cosas que solo tienen calorÃ­as. Ok. Que es nuestra unidad mÃ­nima funcional por ahora, porque...  SÃ­, algunas cosas que todavÃ­a no estÃ¡n tan estandarizadas. Pero, ahÃ­ vamos. Pero sÃ­, por ahora, digamos que calorÃ­as. Total, es cuestiÃ³n de ir probando la gente.
+
+18:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y que cuando ya lo tengamos en el MVP, ustedes lo prueben internamente, como te mencionaba, ya dan todo el bullying posible y nos mencionen, Â¿no?  O antes de acÃ¡ se deriva acÃ¡, Â¿no? AcÃ¡ se le pone asÃ­ acÃ¡, Â¿no? BÃ¡sicamente. Ale, Â¿quÃ© parte del proceso nutricional te gustarÃ­a que la gente automatice primero?  Â¿QuÃ© estÃ¡s comprendiendo tÃº como proceso nutricional? Desde que un cliente activo te hace una consulta hoy, imaginemos que es un cliente que hay diferentes situaciones, Â¿no?  Posiblemente ya tenga dos, tres meses contigo como un cliente que posiblemente sea su primera, segunda semana. De cara a las consultas que te hace, de cara a lo que la gente, que en este caso va a replicar lo que hace tu equipo, Â¿quÃ© es eso primero que normalmente preguntan y que se deberÃ­a automatizar?  MÃ¡s allÃ¡ de las preguntas frecuentes, Â¿no? De repente el cÃ¡lculo de las calorÃ­as, acoplarlo dentro de su plan. Â¿CuÃ¡les son esos subprocesos que se hacen en la atenciÃ³n a los clientes como tal?
+
+18:56 - Alejandro juan Loayza jordan
+  CreerÃ­a que las primeras preguntas que alguien suele hacer es... Para validar que entiende cÃ³mo funciona su plan, primero, para validar que entiende, ah, ya, mira, dice dos porciones y cada viÃ±etita es una porciÃ³n, entonces, Â¿quÃ©?  Â¿Multiplico dos por la viÃ±etita? SÃ­, Â¿no? Que ya se lo explicamos en consulta, pero igual, pregunte por secaciÃ³n. Y le decimos, sÃ­, ah, ya, buenazo.  Y de ahÃ­ probablemente te van a hacer un par de preguntas rÃ¡pidas sobre cÃ³mo calzar dos, tres alimentos que quizÃ¡s no hemos contemplado en el plan, porque no, como cafÃ©.  Oye, Â¿cafÃ© puedo tomar? Y te van a pedir la validaciÃ³n de dos, tres chucherÃ­as rÃ¡pidas y ya se van a mandar.  Lo que va a pasar durante el mes despuÃ©s, naturalmente, es empezar a preguntar cada vez mÃ¡s por diferentes insumos que se van presentando en cada casuÃ­stica de vida que tengan.  Oye, apareciÃ³ esto, es que la comida como que aparece en la vida de la gente, no sÃ© cÃ³mo que necesariamente la buscas, pero te aparece en la situaciÃ³n social y suele aparecer como una comida.  Claro. Entonces, ahÃ­ es donde suele... Por ejemplo, las preguntas circunstanciales, si quieres llamarla.
+
+20:02 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, perfecto. Interesante.
+
+20:05 - Alonso Aguila
+  Yo tengo una consulta, Â¿no? Porque justo de cara tambiÃ©n para ir mapeÃ¡ndolo con Santi. Por ejemplo, tÃº quisieras, ya, entonces en el uso del plan, yo tengo mi PDF o el link que me pasaste y no lo entiendo, ok, ya, entro y digo, ya, Â¿cÃ³mo puedo combinar?  Eso quieres automatizarlo, digamos, ya, step 1. Â¿Quisieras, por ejemplo, que si yo maÃ±ana comienzo a mandarte fotos de lo que estoy comiendo y para hacer una consulta, si quisieras que eso lo derive inicialmente a uno de los nutricionistas que tienes o si quisieras que tambiÃ©n lo automaticemos rÃ¡pido?
+
+20:44 - Alejandro juan Loayza jordan
+  No, sÃ­ quisiera, hay ahorita varias, la mayorÃ­a de apps creo ya tienen incorporada la tecnologÃ­a de scan de comida y macros, por supuesto.  Entonces, lo que hacemos nosotros bÃ¡sicamente es escanear. Nosotros mismos en la foto, ver mÃ¡s o menos cuÃ¡nto hay acÃ¡ y hacer el match si cumple o no cumple.  Entonces sÃ­ quisiera que esa parte se pueda validar en vivo. Genial. Hale una consulta.
+
+21:11 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, mÃ¡s que consulta, ahÃ­ nos apoyarÃ­as con el envÃ­o de las aplicaciones o las plataformas que utilizas para hacer esos escÃ¡neres para poder verificar si tiene API abierta, cosa que integramos a la gente a esa aplicaciÃ³n y tambiÃ©n tiene la capacidad de hacerlo exactamente como ustedes lo hacen.  O sea, a ver, espÃ©rame, pasan dos cosas acÃ¡.
+
+21:30 - Alejandro juan Loayza jordan
+  A ver, primera tarea, tengo que enviarte base de datos de preguntas frecuentes, eso es uno. Te iba a decir, nosotros lo estamos haciendo con Chai EPT, el premium que pagamos, pero lo que yo te decÃ­a es, hay varias aplicaciones como FITIA, MyFitnessPal y otras que ya han incorporado esta tecnologÃ­a de reconocimiento de fotos y cÃ¡lculo de calorÃ­as y macros.  AjÃ¡. Porque no usamos, a veces usamos MyFitnessPal, pero mÃ¡s allÃ¡ de eso, no, yo me imagino que algÃºn enlatado debe existir donde existe ya el, no me acuerdo cÃ³mo se llaman estos paquetes de tecnologÃ­a que hay abiertos a veces, pero yo me imagino que eso ya debe existir, porque no sÃ©.
+
+22:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, no, total, de hecho Fitia y MyFitnessPal lo que utilizan, y te lo cuento porque el creador de Fitia es de la de Lima y lo conozco, utiliza ChatGPT, o sea, el modelo de OpenAI de fondo de Fitia, asÃ­ que por ese lado que estÃ¡n utilizando ChatGPT, es genial, porque creo que no sÃ© si lo recalquÃ© en el contrato, lo mencionÃ© antes, pero el proveedor que nosotros vamos a usar para este proyecto es OpenAI, que es el mejor hoy en dÃ­a.  Bueno, asÃ­ que por ese lado no hay ningÃºn problema. AhÃ­ justo algo se me adelantÃ³, iba a hacerte la pregunta de quÃ© elementos o quÃ© partes de este plan nutricional o de la atenciÃ³n a los clientes activos deben ser estrictamente derivados o validados por el equipo.  Luego entraremos mÃ¡s a profundidad, Â¿no?
+
+23:01 - Alejandro juan Loayza jordan
+  Pero a grosso modo, creerÃ­a que cualquier parte relacionada a los sentimientos de la persona deberÃ­an ser derivados, porque pasa mucho que hay un elemento psicolÃ³gico acÃ¡, casi de por medio, Â¿no?  Y creo que serÃ­a bien cagado que esto te lo responda un bot, o bueno, una gente, sobre tristeza, sobre siento que le estoy cagando, o ese consuelo humano, si deberÃ­amos hacerlo nosotros, eso y cualquier cosa relacionada a algo financiero, de como que, oye, quiero reprogramar, quiero reagendar, de repente este cierto paso se puede automatizar, pero en general es como un retroceso de la persona ya cliente a la renovaciÃ³n, y a varios de ellos se les tiene que poder automÃ¡ticamente, a ciertos dÃ­as de acabar su plan, enviÃ¡rseles un mensaje, para invitar a la reprogramaciÃ³n, a la reventa, eso deberÃ­a ser automÃ¡tico tambiÃ©n, Â¿sÃ­?  Ok, perfecto.
+
+24:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ale, con respecto, ya vamos a acabar. Dijo yo que te estamos quedando mucho tiempo. No, tranquilo. No, esta semana ahÃ­ las vamos a molestar mucho.  Lo mejor que puedas, no hay problema.
+
+24:10 - Alejandro juan Loayza jordan
+  Total.
+
+24:11 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Con respecto a los procesos internos y a las herramientas que utilizan, Â¿en quÃ© herramientas estÃ¡s gestionando hoy en dÃ­a toda tu informaciÃ³n operativa?  Entiendo que Excel ahorita es tu mano derecha, asÃ­ que por ese lado genial, pero otra herramienta que estÃ©s utilizando, por mÃ¡s que sientas que posiblemente no es relevante, el Linktree, que de hecho puede que no aporte mucho valor de cara a la auditorÃ­a, pero igual saber que estÃ¡ como parte de tu stack es importante.
+
+24:35 - Alejandro juan Loayza jordan
+  Uso mucho Cloud y Chai IPT. Bastante. Uso Drive. Bastante tambiÃ©n. Estoy empezando a usar Notion. Usamos ManyChat. Usamos... Ya hablamos...  Bueno, Drive involucra Excel, Google Sheets tambiÃ©n. Uso Google Meets, que es crucial, porque ahÃ­ es donde se hacen las consultas privadas y la consulta privada a demora mÃ¡s de una hora.  Claro. Te dirÃ­a que las mismas redes sociales como herramienta para scroll. Y esos, creo que esos. Genial.
+
+25:29 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ale, y todo esto que acabas de mencionar, Â¿dÃ³nde almacenas tu historial de pacientes, tus equivalencias, tu contenido tÃ©cnico u operativo, o instrucciones, manuales, guÃ­as, etcÃ©tera, tus planes y tu registro de seguimiento?  Si quieres te lo vuelvo a repetir punto por punto. Todo estÃ¡ en Drive.
+
+25:46 - Alejandro juan Loayza jordan
+  Todo estÃ¡ en Drive. Todo estÃ¡ en Google Sheets y Google Docs, me imagino.
+
+25:50 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Google Sheets.
+
+25:51 - Alejandro juan Loayza jordan
+  De hecho, no hay nada en Google Docs, salvo... Muy desordenadamente tengo mi lista de funciones, pero al final todos mis procesos los tengo...  Google Docs tiempo. Mi ingeniero industrial me puso esos procesos en docs y en tablas, lo Ãºnico, todo lo demÃ¡s estÃ¡ en wallsheets.
+
+26:12 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AquÃ­ va a ser clave que la gente de IA estÃ© conectado a todo eso, por un tema de seguridad, Ãºnicamente lo que podemos hacer es duplicar todo ese ecosistema que tienes en Drive y hacer que la gente se conecte ahÃ­, de igual nosotros que te recomendamos que nos conectemos al original, Â¿por quÃ©?  Porque si por AOV el equipo edita algo en tiempo real, a la gente se le actualiza en tiempo real, y esa es la ventaja que tiene incluirlo en Drive.  Ale, creo que ya me respondiste un poco, pero igual le hago la pregunta, Â¿tienes flujos documentados o todo vive en conocimiento tÃ¡cito?
+
+26:42 - Alejandro juan Loayza jordan
+  No, no si hay flujos documentados, un poco... Un poco incompleto de repente, porque ese proceso empieza como tres meses atrÃ¡s, y mientras Ã­bamos documentando cosas, de repente algo ya documentado del...  Cambia mucho, porque todo es muy cambiante para mÃ­ ahorita, pero en general estÃ¡ razonablemente documentado todo con flujogramas y todo en una documentaciÃ³n.
+
+27:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, genial, eso va a ser clave tambiÃ©n que lo podamos tener. Â¿QuÃ© te gustarÃ­a, Ale, centralizar o estandarizar para facilitarle el trabajo a todo tu equipo?
+
+27:20 - Alejandro juan Loayza jordan
+  El proceso de recopilaciÃ³n de data durante las consultas y el proceso de realizaciÃ³n de planes, bÃ¡sicamente. Eso es estandarizado porque, sÃ­, porque como hay muchas casuÃ­sticas diferentes, tiene que haber un poco de manual para eso y tambiÃ©n es importante estandarizarlo.  En general es que todo proceso tiene que estar estandarizado realmente. Claro. La respuesta de repente no me preocupa tanto que estÃ© sÃºper estandarizada en tanto sea correcta, pero sÃ­, eso, eso, incluso en algÃºn momento quise grabar las consultas, pero para extirpar eso con I, etc., al final no lo implementÃ©, pero sÃ­, todo eso.
+
+28:21 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, perfecto, sÃ­, con respecto a tu capacidad operativa y escalabilidad, acÃ¡ las preguntas se ponen un poquito mÃ¡s interesantes, si maÃ±ana aparece, voy a empezar con las analogÃ­as de Alon, aparece Thanos, chasquea, y tus clientes se duplican, Â¿quÃ© parte de tu operaciÃ³n colapsarÃ­a primero?  La elaboraciÃ³n de planes.
+
+28:48 - Alejandro juan Loayza jordan
+  La elaboraciÃ³n de planes.
+
+28:50 - Santiago Isaias Zavaleta Ayala (Ulima)
+  100%. Ok, si duplicaras tus leads, ya no habrÃ¡ el cliente, sÃ­, perdÃ³n.
+
+28:56 - Alejandro juan Loayza jordan
+  No, le decÃ­a, Rami, Ã¡brete, Ã¡brete. Ya, dÃ­jalo. No te preocupes.
+
+29:03 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Te mencionaba, si duplicaras hoy en dÃ­a tus leads mensuales, Â¿quÃ© parte serÃ­a imposible de manejar manualmente?
+
+29:13 - Alejandro juan Loayza jordan
+  Si duplico los leads. No te llegan 300, te llegan 600.
+
+29:20 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro.
+
+29:24 - Alejandro juan Loayza jordan
+  DirÃ­a que el proceso de ventas igual se puede atender por una persona, con un poco de fast replies y de repente bajando un poquito el tiempo de los audios, se puede.  Primero la tasa de efectividad de ventas va a bajar porque el tiempo de respuesta se va empezar a ir a la mierda, pero de ahÃ­ agendar.  Claro, es que nuevamente se va a sobresaturar la agenda y no podemos salir de eso por capacidad operativa, pues no tengo cÃ³mo producir planes mÃ¡s rÃ¡pidos.  Total. Ale, Â¿quÃ© operaciones te gustarÃ­a escalar sin tener la necesidad de contratar a mÃ¡s gente? De todas formas, la realizaciÃ³n de planes y el chat son dos importantes.  Y creo que despuÃ©s son los que siguen. El proceso de ventas de agendamiento tambiÃ©n son bien importantes. Ok, perfecto.
+
+30:21 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y de todas las operaciones que hemos conversado, cabe recalcar que en las prÃ³ximas reuniones que tengamos, posiblemente escuches estas preguntas mÃ¡s todavÃ­a.  Â¿Pero quÃ© operaciones prefieres mantener humanas sÃ­ o sÃ­?
+
+30:40 - Alejandro juan Loayza jordan
+  Â¿La IA puede escuchar audios? SÃ­.
+
+30:44 - Santiago Isaias Zavaleta Ayala (Ulima)
+  TÃ©cnicamente los transcribe y los lee. AsÃ­ que si vocalizan bien, sÃ­ los puede escuchar.
+
+30:50 - Alejandro juan Loayza jordan
+  Ok. Pucha, creerÃ­a que... En la parte primera de monitorear los pacientes, como te dije, cualquier parte asociada a sentimientos, creo que tiene que ser humano, dolores, sufrimiento.  En la parte de ventas, te voy a decir que toda precalificaciÃ³n deberÃ­a ser, lo que no sÃ© honestamente, acÃ¡ se los dejo un poco abiertos a su opiniÃ³n, es la parte de enaltecer el dolor, necesidad de la persona, muchas veces viene con un componente emocional de por medio.  Yo no sÃ© realmente quÃ© tanto puedo derivar eso a la IA, honestamente, tengo ahÃ­ mi duda. No solo porque tan bien lo haga, sino porque tanto se note que es una IA.  Exacto. Ambos componentes juegan, creo, en contra, y es raro porque es la primera fase de mi proceso de ventas, que de hecho se puede reformular, si alguien me dice, el proceso de ventas deberÃ­a ser diferente, tambiÃ©n es conversable, pero como estÃ¡...  La primera parte del proceso de ventas es muy humano, eso la cago un poco porque tengo que empezar con el humano y igual se forma el cuello de botella.
+
+32:10 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Total, acÃ¡ hay dos respuestas, la primera es que hoy en dÃ­a la guÃ­a ha avanzado tanto que justo uno de los pilares que existen dentro de los modelos de lenguaje como son Chatipiti y Clot, que es lo que te mencionaba, se llama anÃ¡lisis de sentimientos.  Esto lo explico brevemente, Â¿no? Solo para contextualizarnos, al final la IA o Chatipiti o Clot estÃ¡ hecha en base a datos, a informaciÃ³n, por eso se les llama LLM, son Large Language Models, son inmensos modelos de lenguaje con mucha informaciÃ³n.  Toda esta informaciÃ³n es informaciÃ³n humana, es informaciÃ³n que estÃ¡ en internet, es informaciÃ³n que estuvo en las bibliotecas, que siempre ha existido.  Entre toda esta informaciÃ³n tenemos informaciÃ³n psicolÃ³gica, informaciÃ³n del comportamiento humano, informaciÃ³n de neurociencia, al final la IA cada vez entiende mucho mÃ¡s esos patrones.  Pero lo Ãºnico que no va a poder hacer la IA es conectar con la gente y transmitir. Eso jamÃ¡s lo va a poder hacer.  Esa es una respuesta que te digo que la IA sÃ­ puede entrar a ese juego, pero no hacerlo como nosotros.  Y la segunda es que simplemente cuando ya estemos probando la gente, vamos a ver quÃ© tan bien lo hace, quÃ© es lo que opina tu equipo, quÃ© es que opinas tÃº.  Y en base a eso lo vamos ajustando y vamos buscando la mejor manera que se adapte a cÃ³mo trabajan ustedes.  Ahora, con respecto a prioridades, Ale, Â¿quÃ© impacto te gustarÃ­a ver primero? Mejor seguimiento de clientes, menos carga operativa, tal vez mÃ¡s ventas o mÃ¡s agendas en este caso, mayor tiempo libre para contenido.  Â¿CuÃ¡l serÃ­a esa prioridad estratÃ©gica o si quisieras nos puedes mencionar tu top?
+
+33:39 - Alejandro juan Loayza jordan
+  Creo que en la parte comercial es, bueno, estoy intentando por hecho que ya con una IA el tiempo de respuesta es, no sÃ© cuÃ¡nto demora en la prÃ¡ctica, pero no me segÃºn ya, Â¿no?  O muy casi instantÃ¡neo. Claro. CreerÃ­a que quiero ver una tasa de cierre de ventas igual a la humana. Eso ya me parecerÃ­a un golazo porque, claro, ya no tengo que estar teniendo una persona que va a ser ineficiente y que incluso no puede trabajar todas las horas, etc.  Eso es uno, pero en la parte de monitoreo a los pacientes, mi mayor mÃ©trica es menores errores. O sea, que no falle en responderle a una persona, que no falle en entender la pregunta de la persona, que no falle en el cÃ¡lculo, dentro de la imperfecciÃ³n que va a haber de todas maneras en el componente de la foto, puta, que si te ponen una ensalada y abajo de la ensalada habÃ­a una hamburguesa, puta, ya no es culpa de la idea, Â¿no?  Este, pero eso, minimizar errores con el cliente y igualar rendimiento humano en ventas. Creo que esas dos me importan.
+
+34:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Genial. Ale, Â¿quÃ© consideras Ã©xito dentro de estos primeros 60 dÃ­as?
+
+35:04 - Alejandro juan Loayza jordan
+  CreerÃ­a que el que empiecen a ocurrir esas dos cosas que te digo, Â¿no? SÃ­. Ok.
+
+35:11 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿QuÃ© no debe fallar bajo ninguna circunstancia? Â¿CuÃ¡l es tu no negociable?
+
+35:22 - Alejandro juan Loayza jordan
+  Creo que en el seguimiento a los pacientes no debe pasar. Que se olvide de responderle a un paciente. No puede pasar esa vaina.  Y si por alguna razÃ³n lo abre y no lo responde, no sÃ© cÃ³mo funcionan las lÃ³gicas internas ahÃ­, pero si lo abre y no lo responde o si no lo va a abrir, que de alguna forma tiene que notificarnos.  Porque no puedes dejar desatendido a un cliente, eso nunca debe pasar. Y en ventas, creo que nunca debe soltar los precios de inicio.  Nunca, nunca. Y siempre tiene que tratar por su nombre a la persona. Perfecto. Creo que esos son importantes. Ok.
+
+36:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Genial, Ale. Con respecto a los riesgos, a los miedos y a las expectativas, Â¿quÃ© te preocupa mÃ¡s al delegar una parte del servicio a la inteligencia artificial?
+
+36:21 - Alejandro juan Loayza jordan
+  En ventas, que se note que es una tecnologÃ­a que no es humana. No quiero que se note que no es humano.  SÃ­, esa parte. Me da un poco de miedo cÃ³mo, quÃ© tan bien va a funcionar la seÃ±alizaciÃ³n para que entre el humano.  No sÃ© quÃ© tan bueno sea para leer, quÃ© tanto margen de error va a cometer al identificar, oye, acÃ¡ tiene que entrar un humano y que pase.  Creo que eso, creo que sÃ­, eso y... Eso de identificar dÃ³nde tiene que tener un humano, creo que me da miedo en ambos.  Tanto cuando tengo que entrar a convencer a la persona en ventas y cuando tengo que atender el sentimiento del cliente que estÃ¡ sufriendo, Â¿no?  Esos dos no pueden pasar nunca tampoco. Claro. Y sÃ­, eso, creo que eso. Perfecto.
+
+37:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Perfecto, Ã©l es genial. Y a la Ãºltima pregunta con respecto a riesgos, Ale, Â¿quÃ© nivel de autonomÃ­a esperas que tenga la inteligencia artificial?
+
+37:46 - Alejandro juan Loayza jordan
+  A ver, creo que durante estos primeros meses espero que al menos... Vamos a hablar primero de leads. Creo que primero no deberÃ­a escaparsele en ningÃºn lead.  Hasta ahÃ­ deberÃ­a ser completamente autÃ³nomo. Y deberÃ­a deberÃ­a ser... AutÃ³nomo hasta el punto de intervenciÃ³n humana, sea el que sea que designemos para eso.  Y que paralelamente todo el proceso autÃ³nomo e incluso el no autÃ³nomo que involucra, que involucramiento humano, pero que va a estar, supongo, soporteado por la IA, pueda categorizar a estos leads de forma autÃ³noma.  Eso es importante para mÃ­. SÃ­, para poder hacer campaÃ±as posteriormente, de repente enviar mensajes masivos segÃºn en quÃ© estadio de la venta quedÃ³ la persona, y tener un almacenamiento y base de datos de todos estos leads.  Creo que todo eso tiene que ser muy autÃ³nomo. Y hablando en tÃ©rminos de pacientes, creo que por ahora, con que sea muy autÃ³nomo en responder las preguntas netamente nutricionales, ya es un buen proceso, un buen progreso.  Lo siguiente que quisiera es que autÃ³nomamente pueda responder la disponibilidad de horarios, es una pregunta bien importante para ambos grupos humanos, tanto para leads como para clientes, y no es algo que tengamos tan fÃ¡cil por mÃ¡s que suene sonso.  SÃ­, eso, esos son creo no negociables para mÃ­. Perfecto, ok, genial.
+
+39:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, Ale, hemos terminado las preguntas, quedan unas cuantas, no sÃ© si Alon estÃ© por ahÃ­, Alon, si estÃ¡s por ahÃ­ y puedes poner tu cÃ¡mara, genial, porque estas Ãºltimas preguntas son bien importantes, es mÃ¡s, te dirÃ­a que son las mÃ¡s importantes.  Alon, creo que no puedes ponerla, no, escuchÃ© un poquito de audio. Estoy manejando.
+
+39:41 - Alejandro juan Loayza jordan
+  Tranqui, no pasa nada.
+
+39:42 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, solo para ponerle un poquito mÃ¡s de contexto, Ale, nosotros en Fix UI, que es nuestra agencia y consultora, trabajamos mucho con el ser, ok, consideramos que es importante el hacer y tener, pero...  Trabajamos mucho con el ser porque despuÃ©s de todo el negocio es un reflejo de cÃ³mo nosotros estamos internamente. No me voy a poner muy filosÃ³fico, pero el punto es en que es muy importante cuÃ¡l es la cultura de tu negocio, cuÃ¡l es la visiÃ³n de tu negocio, porque al final, como estÃ©s internamente, es cÃ³mo va a estar tu negocio, cÃ³mo va a estar tu familia y demÃ¡s.  Es por eso que estas preguntas posiblemente sean las mÃ¡s importantes y suenan hasta un poquito clichÃ©, pero siempre las hacemos porque son las que nos ayudan a pulir el servicio que queremos entregarte.  La primera pregunta, Ale, es Â¿cÃ³mo te gustarÃ­a que tus clientes se sientan despuÃ©s de cada interacciÃ³n contigo o con tu sistema?
+
+40:38 - Alejandro juan Loayza jordan
+  La primera pregunta, Ale, es Â¿cÃ³mo gustarÃ­a que tus clientes se sientan de cada interacciÃ³n contigo? Creo que nosotros hicimos una investigaciÃ³n de campo media amplia, un sociÃ³logo me ha ahÃ­, a ver, Â¿por quÃ© la gente no abrazaba el proceso nutricional?  Y lo que encontrÃ³ fue que la gente normalmente cuando siente que, cuando tiene una mala relaciÃ³n con el cumplimiento y siente que no lo estÃ¡ haciendo bien, abandona.  Sobre todo cuando hay gente que ha tenido resultados y no quiere venir porque dice, no, pero lo estoy haciendo mal, ya fue, y lo estaba haciendo bien, ademÃ¡s esa gente bajÃ³ de peso, pero su propia narrativa les estÃ¡ haciendo no querer venir, entonces creo que cada mensaje tiene que ir ligado a que el paciente sienta que lo estÃ¡ haciendo bien, porque al final la gente que viene aquÃ­ busca validaciÃ³n en gran medida, aparte de resultados, busca validaciÃ³n.
+
+41:52 - Santiago Isaias Zavaleta Ayala (Ulima)
+  He sido muy buen insight, la verdad, sirve bastante porque asÃ­ es como, suena de repente un poquito clichÃ© y ya lo vas a...  Todo va tener mucho mÃ¡s sentido cuando veas a la gente en funcionalidad, pero te doy un ejemplo, una de las instrucciones que le dimos, por ejemplo, a un cliente, a la gente de un cliente, fue tu rol y objetivo es guiar siempre al cliente al agendamiento de visita, que se siente escuchado y que se sienta querido.  Y al final, la IA lo trabaja de esa manera. Otro caso en particular, una de las instrucciones que le pusimos a la gente fue, oye, eres el soporte y pilar de la atenciÃ³n al cliente, si es que no haces bien tu trabajo, van a despedir al gerente de marketing.  Y aunque no lo creas, ese tipo de sesgos hacen que la IA apunte mÃ¡s al objetivo de un comportamiento ya predefinido, por eso es muy importante lo que estÃ¡s diciendo.  Ale, Â¿quÃ© parte de tu identidad como nutricionista sientes que nunca puede perderse, incluso cuando la atenciÃ³n la tiene una inteligencia artificial?
+
+42:54 - Alejandro juan Loayza jordan
+  Que la nutriciÃ³n estÃ¡ hecha para servirle a la gente. Y eso importa en tanto lucha contra una idea bien canÃ³nica que hay en la nutriciÃ³n de que se medicaliza mucho la nutriciÃ³n, entonces la gente dice, ok, tengo una ventana de salud, entre un problema de salud, voy a ir con el doctorcito, me va a dar mi cura transversal, la voy a superar y me voy a olvidar de esto.  AsÃ­ trata, asÃ­ es la medicina, pero el problema es que la nutriciÃ³n no puedes hacer eso porque tanto la cura y el problema pasan todo el tiempo, porque tÃº comes toda tu vida, entonces lo que no debe pasar es que la gente piense que viene aquÃ­ a que yo les dÃ© una pastilla hecha a un pdf, sino mÃ¡s bien vengo a entrenarlos en cÃ³mo va a ser su vida cuando ya no estÃ©n aquÃ­.  Los entrenamos para eso y no es mi objetivo, dado que es una medicina, yo no le impongo nada a nadie, que es lo que pasa en medicina, todo lo contrario, justamente buscamos...  Que si yo me tengo que salir del, o sea, pintar fuera de la lÃ­nea un poquito y recomendarte cuÃ¡ntas chelas te vas a tomar el fin de semana, lo voy a hacer porque la nutriciÃ³n no tiene que ser perfecta, tiene que ser Ãºtil para el paciente.  Porque si yo me escudo en mi perfecciÃ³n, ese plan va a terminar pegado en tu refri y nunca lo vas a hacer.  Y si hago eso te estoy estafando, ves. Total. No hacemos eso. Total, total.
+
+44:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Creo que prÃ³ximamente vas a tener un cliente mÃ¡s, Ale, porque estoy buscando llegar a 18% de grasa corporal, de verdad, de verdad.
+
+44:31 - Alejandro juan Loayza jordan
+  Te dirÃ­a que estÃ¡s buscando verte mejor estÃ©ticamente, mÃ¡s allÃ¡ del nÃºmero, porque podrÃ­as tener 20% y verte mejor de lo que te estÃ¡s imaginando ahorita.  Â¿TÃº crees? Tengo ahorita 29% yo.
+
+44:42 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Creo que estoy ahÃ­ medio gordito.
+
+44:44 - Alejandro juan Loayza jordan
+  La mayorÃ­a de gente solo quiere verse bien, porque cuando alguien viene a decirte una expectativa numÃ©rica es como, solo estÃ¡s diciÃ©ndome ese nÃºmero porque lo asocias a cierta estÃ©tica y solo vamos a saber eso cuando avances en el camino.  Bueno, Â¿con cuÃ¡nto te estarÃ­as... Feliz, Â¿no? Claro, claro. Genial, genial.
+
+45:03 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ale, Â¿quÃ© rasgos de tu manera de comunicar consideras esenciales para generar confianza en tus pacientes? Sea cercanÃ­a, tu estilo directo, humor, calma, seguridad, etc.
+
+45:14 - Alejandro juan Loayza jordan
+  Intento que el 90% de mi comunicaciÃ³n sea bien amical, como ahorita. O sea, nunca es como... De hecho, ahorita estoy siendo muy serio, pero en general busco que siempre sea bien amical.  Prende la luz, por favor. Prende la luz de afuera. Las tres de afuera y eso, sÃ­. Siempre busco que sea muy amical en el sentido de...  Las tres de afuera. Afuera, afuera, afuera, afuera. Al costado de la... Abre la puerta. A la izquierda. AhÃ­ estÃ¡ prendido, creo.  Ya. Eh... No, quiero ser verme doctor o autoridad profesional de la salud el menor tiempo posible. Porque eso ya lo vendÃ­ y por eso ya vino la gente.  Eh... Pero mucho... A veces la gente viene aquÃ­ por validaciÃ³n, escucha, porque viene gente que sufre finalmente, pues de una u otra forma, entonces necesitan compasiÃ³n, empatÃ­a, no libros, pero tiene que haber un pequeÃ±o momento cuando te hacen una pregunta bien tÃ©cnica, la respuesta es tÃ©cnica y profunda y con todo el detalle posible, de una forma casi docente, busco ser mÃ¡s un buen docente que un buen profesional de la salud.  Claro.
+
+46:28 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­. Cuando un cliente estÃ¡ ansioso, frustrado, perdiendo adherencia, por asÃ­ decirlo, Â¿quÃ© esperas que el sistema puede transmitir un nombre?  MÃ¡s allÃ¡ de derivarlo, Â¿no? AutomÃ¡ticamente que se contacten con Alejandro con el equipo. Pero Â¿a quÃ© me refiero? Yo, por ejemplo, oye, Ale, me siento mal porque me metÃ­ un rap trufado de Yopo y creo que no debÃ­a hacerlo.  Bueno, acÃ¡ hay dos opciones, que la gente no responda nada y automÃ¡ticamente lo derive o que mande un mensaje empÃ¡tico transmitiendo algo que tÃº dirÃ­as y que no vuelva a contestar hasta que alguien...  El equipo entre. Â¿CÃ³mo esperarÃ­as tÃº que pueda transmitir este mensaje?
+
+47:06 - Alejandro juan Loayza jordan
+  Bueno, independientemente de la decisiÃ³n, algo que querrÃ­a, o sea, si quiero que el bot intervenga o no diga nada, creo que el bot tendrÃ­a que...  Â¿QuÃ© dos opciones acÃ¡, no? Recordar este... A mÃ­ me gusta siempre numerizar el problema. Entonces, decirle como que, oye, mira, tu plan tiene tantas calorÃ­as, si el desliz es...  AcÃ¡ estoy pensando un poco, predicando un poco la lÃ³gica, Â¿no? Pero si el desliz representa un surplus calÃ³rico de un porcentaje mayor al 30% o algo por ahÃ­, lo que implica, puta, no es tan problemÃ¡tico, numerizarlo.  Â¿Implica el consuelo numÃ©rico a ese caso le ayuda? Porque finalmente es como, oye, mira, tÃº tenÃ­as que comer 2000 calÃ³rico...  Y tenÃ­as que comer 1800 para estar en dÃ©ficit, en vez de comerte tu cena de 600, te comiste tu cena de 1200, que es un rap trufado con papas.  Eso significa que te pasaste 600 calorÃ­as de tu meta de 1800, 400 encima de tu mantenimiento. 400 calorÃ­as no es ni pincho, porque para ganar un kilo de grasas tendrÃ­as que pasarte 7500.  Entonces, Â¿tÃº crees que un rap trufado ha hecho que caes lo que has venido haciendo en dos meses? Entonces, Entonces, Â¿tÃº bien?  O normalmente va por ahÃ­, Â¿no? Si ya se pasÃ³ porque se metiÃ³ 10.000 calorÃ­as un dÃ­a, Â¿quÃ© puede pasar?  La respuesta es, Â¿quÃ© crees que pasÃ³ ayer? Y se va a explayar, Sobre, Â¿era un evento especial? Â¿O tuvo un gran momento de ansiedad?  Si el problema fue que es un evento especial, normalmente la respuesta es, Â¿y cÃ³mo la pasaste? Y te va a decir, de puta madre, ya eso es lo que importa.  Porque no busco que... Eh, no vivas tu momento especial, porque van a ver, si el problema es, oye, hay una serie de eventos que me llevaron a cierta crisis y por eso explotÃ³, ya, ok, ese sÃ­ es un problema, hay que ver cÃ³mo hacer que eso no vuelva a pasar, ok, ya di yo esto para identificarlo y encontrar la estrategia, pero finalmente va mÃ¡s a preguntar que a responderle.  Total, total, total.
+
+49:24 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya le, para finalizar, solo nos quedan dos preguntitas. Â¿QuÃ© te gustarÃ­a que la IA te devuelva a ti? Â¿A quÃ© me refiero con esto?  Tiempo, tranquilidad, creatividad, tal vez, foco, capacidad de escalar.
+
+49:40 - Alejandro juan Loayza jordan
+  AquÃ­ especÃ­ficamente yo de la IA espero, al menos que equipare la efectividad humana y que eso sea escalable. Eh, sÃ­, eso.  Sobre todo porque puede trabajar 24-7, entonces estÃ¡, estÃ¡ genial porque le doy mejor servicio a la gente. Total. Eh, sÃ­.  Eso.
+
+50:03 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Cuando imaginas tu operaciÃ³n ideal dentro de unos meses, Â¿cÃ³mo te ves trabajando? Â¿QuÃ© estÃ¡s haciendo y quÃ© ya no estÃ¡s haciendo?
+
+50:15 - Alejandro juan Loayza jordan
+  Es un poco indirecto porque lo primero que va a pasar es que varios de mi equipo ya no van a estar haciendo cosas que hacen actualmente.  Su trabajo va a ser mÃ¡s gestor, supervisor. Exacto. Y en ese sentido, de hecho, lo justo que hablo con Nico sobre la creaciÃ³n de funciones es vamos a seguir encontrando cosas que hacer mejor todo el tiempo.  Total. Y ahorita resolviendo estos dos pilares nos da mÃ¡s tiempo a todos para poder tener espacios de ideaciÃ³n. Creo que busco que la gestiÃ³n de la calidad sea un proceso mÃ¡s activo en mi empresa.  Y no puedo hacerlo. Hacer eso porque todos estamos ahogados con funciones operativas. Total.
+
+51:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, creo que tÃº acabas de describir cuÃ¡l es el principal beneficio que conlleva tener un sistema de inteligencia artificial.  Ale, estas han sido todas las preguntas de Unboarding. En verdad, muchÃ­simas gracias por tu tiempo, por la transparencia, por la claridad.  Estas preguntas van a... Bueno, te comento brevemente cuÃ¡l es el propÃ³sito de... Disculpa, el objetivo de estas preguntas es darte primero una conversaciÃ³n estructural.  que es la que hemos tenido, que te sientas cercano con nosotros, poder diseÃ±ar las siguientes reuniones, construir la arquitectura exacta del proyecto, identificar cuÃ¡les son las prioridades reales, ya conociendo mÃ¡s tu realidad operativa, evitar el retrabajo y garantizarte los resultados en los 60 dÃ­as de implementaciÃ³n, tal cual hemos acordado.  El dÃ­a de maÃ±ana temprano te voy a pasar cuÃ¡les serÃ­an las reuniones que faltarÃ­an, que bÃ¡sicamente, segÃºn mi experiencia, te dirÃ­a que no pasarÃ­an de tener dos o tres mÃ¡s con nosotros.  nosotros? EspecÃ­ficamente tal vez con los chicos que ya nos mencionaste para ciertas cosas. AsÃ­ que nada, te estoy pasando el Notion que es tu centro de control, estoy incluyendo esta reuniÃ³n, la grabaciÃ³n, el resumen por ese lado, no te preocupes.  No sÃ© si en la siguiente reuniÃ³n va a poder conectarse Manu, que es parte del equipo, quien se va a encargar de liderar este proyecto de desarrollo, claramente despuÃ©s de mi idealo.  AsÃ­ que nada, ya nos estamos viendo y brevemente me gustarÃ­a saber quÃ© tal te ha parecido la reuniÃ³n, cÃ³mo te has sentido, quÃ© puntos sientes que hemos tocado, que pensaste que no Ã­bamos a tocar, cuÃ¡les sÃ­, brevemente, quÃ© tal has sentido esta reuniÃ³n.
+
+52:39 - Alejandro juan Loayza jordan
+  Creo que quizÃ¡s como yo hablo bastante, entonces creo que eso ha quitado un poco de tiempo de mapear la microestructura de una forma que pudo haber sido mÃ¡s clara de repente, al menos para mÃ­, porque yo sÃ© que usted...  Se lo tiene claro. Pero es porque me imagino que el tiempo queda corto, Â¿no? SÃ­, total. Eso. Y no, todos los temas, es que cuando, como ya he hecho la vaina de levantamiento del proceso, ya he hecho esto muchas veces, entonces ya no me es nada incÃ³modo.  Genial. Creo que de inquietud solo me quedarÃ­a que algo importante, un efecto secundario de estos procesos de IAC que llevo, es que yo busco adquirir, por osmosis realmente, mayor entendimiento de cÃ³mo se alimenta una IA, no porque pretenda hacer lo que ustedes hacen, sino porque creo que cada vez mÃ¡s mi chamba va a ser proveer de informaciÃ³n a la IA de forma mÃ¡s estratÃ©gica y eficientes.  Entonces sÃ­ es algo que quiero aprender de ustedes mientras avance este proyecto. SÃ­, total, no te preocupes.
+
+53:47 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Vas a aprender bastante con nosotros y tambiÃ©n cÃ³mo sacar el mÃ¡ximo provecho a ChatGPT y Clot. AsÃ­ que nada, dale, ya nos vamos despidiendo.  Cualquier duda que tengas, estamos por el grupo de WhatsApp, si es que quieres que incluyamos a tu equipo o a alguien.  El equipo tambiÃ©n nos avisa si lo haremos sin problema, Â¿sÃ­? Dale, perfecto, estamos hablando.
+
+54:04 - Alejandro juan Loayza jordan
+  Perfecto, Ale, que tengas buenas noches, cuÃ­date. Gracias Santi, gracias Alonso, cuÃ­dense chicos. Hasta luego. CuÃ­dense, chao, chao.

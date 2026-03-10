@@ -1,0 +1,1292 @@
+{
+  "name": "CRM_Cumbres",
+  "nodes": [
+    {
+      "parameters": {
+        "workflowInputs": {
+          "values": [
+            {
+              "name": "nombres"
+            },
+            {
+              "name": "apellido"
+            },
+            {
+              "name": "Tipo Doc"
+            },
+            {
+              "name": "DNI"
+            },
+            {
+              "name": "numero"
+            },
+            {
+              "name": "correo"
+            },
+            {
+              "name": "proyecto"
+            },
+            {
+              "name": "resumen"
+            },
+            {
+              "name": "session_id"
+            },
+            {
+              "name": "conversation_id"
+            },
+            {
+              "name": "precalificaciÃ³n"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.executeWorkflowTrigger",
+      "typeVersion": 1.1,
+      "position": [
+        -1968,
+        -176
+      ],
+      "id": "fc080ade-5f27-4043-8239-dc1601976c33",
+      "name": "When Executed by Another Workflow"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "b560f558-20d6-467c-b014-04b74ee9ef07",
+              "leftValue": "={{ $json.session_id }}",
+              "rightValue": "",
+              "operator": {
+                "type": "string",
+                "operation": "exists",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        -1104,
+        -192
+      ],
+      "id": "f7e17965-7cc7-41b7-9ad9-e1c5e97622a4",
+      "name": "If1"
+    },
+    {
+      "parameters": {
+        "action": "generate"
+      },
+      "id": "fcbfebd0-83c8-4c15-9b38-847edba91475",
+      "name": "Generar ID",
+      "type": "n8n-nodes-base.crypto",
+      "typeVersion": 1,
+      "position": [
+        -1072,
+        64
+      ]
+    },
+    {
+      "parameters": {
+        "tableId": "cumbres_clientes",
+        "fieldsUi": {
+          "fieldValues": [
+            {
+              "fieldId": "created_at",
+              "fieldValue": "={{ DateTime.fromISO($now.toISO(), { zone: \"utc\" }).setZone(\"America/Sao_Paulo\").toFormat(\"yyyy-MM-dd HH:mm:ss\") }}"
+            },
+            {
+              "fieldId": "session_id",
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.session_id }}"
+            },
+            {
+              "fieldId": "id",
+              "fieldValue": "={{ $json.data }}"
+            }
+          ]
+        }
+      },
+      "id": "e7fc3c77-bf8a-4997-8213-4d16d982c4de",
+      "name": "Crear Lead",
+      "type": "n8n-nodes-base.supabase",
+      "typeVersion": 1,
+      "position": [
+        -896,
+        64
+      ],
+      "credentials": {
+        "supabaseApi": {
+          "id": "RXRdnxmJBoq8i2Pc",
+          "name": "Supabase account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "rules": {
+          "values": [
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "dc64bff7-1f81-450f-bf3e-5f94e7f64d70",
+                    "leftValue": "={{ $('When Executed by Another Workflow').first().json.proyecto }}",
+                    "rightValue": "Villanova 5",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "Villanova 5"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "d8e1ed2b-a742-4875-a998-e7ab033c302c",
+                    "leftValue": "={{ $('When Executed by Another Workflow').first().json.proyecto }}",
+                    "rightValue": "Villa Monumental A",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "Villa Monumental A"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "leftValue": "={{ $('When Executed by Another Workflow').first().json.proyecto }}",
+                    "rightValue": "AndalucÃ­a",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals"
+                    },
+                    "id": "6e0b5fb4-5f1e-4ca2-94b5-1a2b4028c687"
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "AndalucÃ­a"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "2119c2eb-4106-4a68-a696-581f4524ea1f",
+                    "leftValue": "={{ $('When Executed by Another Workflow').first().json.proyecto }}",
+                    "rightValue": "Villa del Puerto 1",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "Villa del Puerto 1"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "73ed29f3-fe1e-485a-afa1-944eede7a607",
+                    "leftValue": "={{ $('When Executed by Another Workflow').first().json.proyecto }}",
+                    "rightValue": "Villanova 5, Villa Monumental A, AndalucÃ­a, Villa del Puerto 1",
+                    "operator": {
+                      "type": "string",
+                      "operation": "notEquals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "Otro"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 3.3,
+      "position": [
+        -688,
+        -448
+      ],
+      "id": "ea43e0c0-affb-48fc-8839-a1766d460df7",
+      "name": "Switch"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "45017ead-b0f6-4b47-bb1a-e48a341fc9af",
+              "name": "proyecto_asesor",
+              "value": "Villanova 5 / Villa Monumental A",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -464,
+        -688
+      ],
+      "id": "7810ec67-3e9e-4fed-8178-b3dc2ad64337",
+      "name": "Setear proyecto"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "45017ead-b0f6-4b47-bb1a-e48a341fc9af",
+              "name": "proyecto_asesor",
+              "value": "AndalucÃ­a",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -464,
+        -496
+      ],
+      "id": "07f80777-384f-4cd9-acab-1580413cd59d",
+      "name": "Setear proyecto1"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "45017ead-b0f6-4b47-bb1a-e48a341fc9af",
+              "name": "proyecto_asesor",
+              "value": "Villa del Puerto 1",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -464,
+        -304
+      ],
+      "id": "bbe75770-9bdf-4532-a201-81d0dfedf82e",
+      "name": "Setear proyecto2"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "45017ead-b0f6-4b47-bb1a-e48a341fc9af",
+              "name": "proyecto_asesor",
+              "value": "=Villanova 5 / Villa Monumental A",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -464,
+        -112
+      ],
+      "id": "d37b66a9-9019-4f8b-a982-303bd9e4b8e5",
+      "name": "Setear proyecto3"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "45017ead-b0f6-4b47-bb1a-e48a341fc9af",
+              "name": "proyecto_asesor",
+              "value": "={{ $json.proyecto_asesor }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -112,
+        -400
+      ],
+      "id": "d8da8048-65c6-4b47-a9d9-83968713f69f",
+      "name": "Seteo final"
+    },
+    {
+      "parameters": {
+        "jsCode": "// ===== MAPEO DE PROYECTOS A CIUDADES =====\nconst CIUDAD_POR_PROYECTO = {\n  'Villanova 5': 'Callao',\n  'Villa Monumental A': 'Callao',\n  'AndalucÃ­a': 'Trujillo',\n  'Villa del Puerto 1': 'Chancay'\n};\n\n// ===== OBTENER DATOS DEL LEAD DESDE SUPABASE =====\n// Leer directamente del nodo \"Informacion del Lead\" (GET de Supabase)\nconst leadExistente = $('Informacion del Lead').first().json;\n\n// Obtener el proyecto nuevo del input del workflow\nconst inputNuevo = $('When Executed by Another Workflow').first().json;\nconst proyectoNuevo = inputNuevo.proyecto;\n\n// Obtener el proyecto actual del lead en la BD\nconst proyectoActual = leadExistente.proyect || '';\n\n// ===== CONVERTIR PROYECTOS A CIUDADES =====\nconst ciudadNueva = CIUDAD_POR_PROYECTO[proyectoNuevo] || 'Desconocida';\nconst ciudadActual = CIUDAD_POR_PROYECTO[proyectoActual] || 'Desconocida';\n\n// ===== VERIFICAR SI TIENE ASESOR =====\nconst asesorActual = leadExistente.asesor_asignado || '';\nconst tieneAsesor = asesorActual.trim() !== '' && \n                    asesorActual !== 'sin asignar' &&\n                    asesorActual !== null;\n\n// ===== LÃ“GICA DE DECISIÃ“N =====\nconst mismaZona = ciudadNueva === ciudadActual;\nconst debeReasignar = !tieneAsesor || !mismaZona;\n\n// ===== SALIDA LIMPIA =====\nreturn [{\n  json: {\n    // Datos del lead desde Supabase\n    session_id: leadExistente.session_id,\n    proyect: proyectoActual,\n    nombres: leadExistente.nombres,\n    apellidos: leadExistente.apellidos,\n    \n    // Campos de decisiÃ³n (los que necesitas)\n    proyecto_asesor: proyectoNuevo,\n    tiene_asesor: tieneAsesor,\n    asesor_actual: asesorActual,\n    debe_reasignar: debeReasignar\n  }\n}];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        32,
+        -400
+      ],
+      "id": "e32283e8-fc09-412a-a30e-2bd05a368059",
+      "name": "Verificar ReasignaciÃ³n Asesor"
+    },
+    {
+      "parameters": {
+        "operation": "get",
+        "tableId": "cumbres_clientes",
+        "filters": {
+          "conditions": [
+            {
+              "keyName": "session_id",
+              "keyValue": "={{ $('When Executed by Another Workflow').first().json.session_id }}"
+            }
+          ]
+        }
+      },
+      "id": "9fcc9b41-ad01-4f8d-8646-cac4e3b7d1c7",
+      "name": "Informacion del Lead",
+      "type": "n8n-nodes-base.supabase",
+      "typeVersion": 1,
+      "position": [
+        -1360,
+        -192
+      ],
+      "retryOnFail": true,
+      "maxTries": 2,
+      "alwaysOutputData": true,
+      "credentials": {
+        "supabaseApi": {
+          "id": "RXRdnxmJBoq8i2Pc",
+          "name": "Supabase account"
+        }
+      },
+      "notes": "ðŸ” Verificar si el lead ya existe en la base de datos"
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "tableId": "cumbres_clientes",
+        "filters": {
+          "conditions": [
+            {
+              "keyName": "session_id",
+              "condition": "eq",
+              "keyValue": "={{ $('When Executed by Another Workflow').first().json.session_id }}"
+            }
+          ]
+        },
+        "fieldsUi": {
+          "fieldValues": [
+            {
+              "fieldId": "nombres",
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.nombres }}"
+            },
+            {
+              "fieldId": "apellidos",
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.apellido }}"
+            },
+            {
+              "fieldId": "proyect",
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.proyecto }}"
+            },
+            {
+              "fieldId": "dni_ce",
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.DNI }}"
+            },
+            {
+              "fieldId": "numero",
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.session_id }}"
+            },
+            {
+              "fieldId": "email",
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.correo }}"
+            },
+            {
+              "fieldId": "asesor_asignado",
+              "fieldValue": "={{ $('Info Asesores').first().json.nombre }}"
+            },
+            {
+              "fieldId": "asesor_celular",
+              "fieldValue": "={{ $json.celular }}"
+            },
+            {
+              "fieldId": "asesor_correo",
+              "fieldValue": "={{ $json.correo }}"
+            },
+            {
+              "fieldId": "estado_cliente",
+              "fieldValue": "registrado"
+            },
+            {
+              "fieldId": "tipo_doc",
+              "fieldValue": "DNI/CE"
+            },
+            {
+              "fieldId": "resumen",
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.resumen }}"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.supabase",
+      "typeVersion": 1,
+      "position": [
+        1072,
+        -640
+      ],
+      "id": "6142079a-d089-4941-b7d2-fddc095ca4af",
+      "name": "Actualizar Datos Lead",
+      "credentials": {
+        "supabaseApi": {
+          "id": "RXRdnxmJBoq8i2Pc",
+          "name": "Supabase account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "tableId": "asesores_cumbres",
+        "filters": {
+          "conditions": [
+            {
+              "keyName": "nombre",
+              "condition": "eq",
+              "keyValue": "={{ $json.nombre }}"
+            }
+          ]
+        },
+        "fieldsUi": {
+          "fieldValues": [
+            {
+              "fieldId": "last_assigned_at",
+              "fieldValue": "={{ DateTime.now().toFormat(\"yyyy-LL-dd HH:mm:ss.SSSSSS'+00'\") }}"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.supabase",
+      "typeVersion": 1,
+      "position": [
+        896,
+        -640
+      ],
+      "id": "34cfc976-0a6e-46ad-b966-37ef828d0104",
+      "name": "Actualizar Fecha Asesor",
+      "credentials": {
+        "supabaseApi": {
+          "id": "RXRdnxmJBoq8i2Pc",
+          "name": "Supabase account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// ===== OBTENER DATOS =====\nconst verificacion = $('Verificar ReasignaciÃ³n Asesor').first().json;\nconst leadExistente = $('Informacion del Lead').first().json;\nconst inputNuevo = $('When Executed by Another Workflow').first().json;\n\n// ===== CONSTRUIR OUTPUT =====\nreturn [{\n  json: {\n    // ===== IDENTIFICACIÃ“N DEL LEAD =====\n    session_id: verificacion.session_id,\n    \n    // ===== CRÃTICO: MANTENER EL ASESOR ACTUAL =====\n    // Este campo \"nombre\" es el que usa \"Actualizar Datos Lead\"\n    // para actualizar asesor_asignado\n    nombre: verificacion.asesor_actual,\n    \n    // ===== DATOS DEL ASESOR (mantener existentes) =====\n    celular: leadExistente.asesor_celular,\n    correo: leadExistente.asesor_correo,\n    \n    // ===== DATOS DEL LEAD (actualizar si hay nuevos) =====\n    nombres: inputNuevo.nombres || leadExistente.nombres,\n    apellidos: inputNuevo.apellidos || leadExistente.apellidos,\n    DNI: inputNuevo.DNI || leadExistente.dni_ce,\n    correo_lead: inputNuevo.correo || leadExistente.email,\n    proyecto: inputNuevo.proyecto || leadExistente.proyect,\n    resumen: inputNuevo.resumen || leadExistente.resumen,\n    \n    // PrecalificaciÃ³n (si existe en el input)\n    precalificacion: inputNuevo.precalificacion || '',\n    \n    // ===== FLAGS PARA DEBUGGING =====\n    asesor_mantenido: true,\n    ruta_flujo: 'FALSE - Mantener asesor existente',\n    motivo: 'Lead ya tiene asesor y sigue en la misma zona'\n  }\n}];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        784,
+        -48
+      ],
+      "id": "a4afd79a-b08a-476d-a00d-1bfcc6d3dc0a",
+      "name": "Mantener Asesor Actual"
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "tableId": "cumbres_clientes",
+        "filters": {
+          "conditions": [
+            {
+              "keyName": "session_id",
+              "condition": "eq",
+              "keyValue": "={{ $('When Executed by Another Workflow').first().json.session_id }}"
+            }
+          ]
+        },
+        "fieldsUi": {
+          "fieldValues": [
+            {
+              "fieldId": "nombres",
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.nombres }}"
+            },
+            {
+              "fieldId": "apellidos",
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.apellido }}"
+            },
+            {
+              "fieldId": "proyect",
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.proyecto }}"
+            },
+            {
+              "fieldId": "dni_ce",
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.DNI }}"
+            },
+            {
+              "fieldId": "numero",
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.session_id }}"
+            },
+            {
+              "fieldId": "email",
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.correo }}"
+            },
+            {
+              "fieldId": "asesor_asignado",
+              "fieldValue": "={{ $json.nombre }}"
+            },
+            {
+              "fieldId": "asesor_celular",
+              "fieldValue": "={{ $('Info Asesores').first().json.celular }}"
+            },
+            {
+              "fieldId": "asesor_correo",
+              "fieldValue": "={{ $('Info Asesores').first().json.correo }}"
+            },
+            {
+              "fieldId": "tipo_doc"
+            },
+            {
+              "fieldId": "resumen",
+              "fieldValue": "={{ $('When Executed by Another Workflow').first().json.resumen }}"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.supabase",
+      "typeVersion": 1,
+      "position": [
+        992,
+        -48
+      ],
+      "id": "d2fcdbcf-ab57-4071-a469-4d0a09fbe6d7",
+      "name": "Actualizar Datos Lead1",
+      "credentials": {
+        "supabaseApi": {
+          "id": "RXRdnxmJBoq8i2Pc",
+          "name": "Supabase account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Entrada: items = asesores filtrados desde Supabase\n// Cada item tiene: id, nombre, proyecto_asignado, correo, celular, last_assigned_at\n\nconst asesores = items.map(item => item.json);\n\n// Ordenar por last_assigned_at (NULL = mÃ¡s antiguo)\nasesores.sort((a, b) => {\n  if (!a.last_assigned_at) return -1;\n  if (!b.last_assigned_at) return 1;\n  return new Date(a.last_assigned_at) - new Date(b.last_assigned_at);\n});\n\n// Tomar el primero\nconst seleccionado = asesores[0];\n\n// Devolver el asesor seleccionado\nreturn [{ json: seleccionado }];\n\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        704,
+        -640
+      ],
+      "id": "d59afd3f-da5e-4b72-a998-fb196e13481b",
+      "name": "Rotacion de Fecha"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "aa06a52c-965e-4396-bd81-6c774a045fbc",
+              "name": "registro_exitoso",
+              "value": "=Los datos han sido registrados exitosamente! Agradece por la informacion\nMenciona de manera breve que su asesor asignado es: \n{{ $json.asesor_asignado }}\nEl se estarÃ¡ comunicando contigo, pero cualquier cosa su numero es el *{{ $json.asesor_celular }}*\n ",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "27b7e63a-b4d1-4168-b6c1-0dff5dfb7d38",
+      "name": "Cliente Registrado",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        1248,
+        -640
+      ],
+      "notes": "âœ… Respuesta exitosa para actualizaciÃ³n"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "aa06a52c-965e-4396-bd81-6c774a045fbc",
+              "name": "actulizacion_exitosa",
+              "value": "=",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "e71ea4aa-efc2-41bc-97ac-e9ada553311a",
+      "name": "Informacion Actualizada",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        1200,
+        -48
+      ],
+      "notes": "âœ… Respuesta exitosa para actualizaciÃ³n"
+    },
+    {
+      "parameters": {
+        "content": "# ðŸ“¥ ENTRADA DE DATOS\n\n## Este flujo recibe datos desde MIA cuando registra un lead:\n\n## PROCESO:\n1. Recibe llamada desde workflow de MIA\n2. Busca si el lead ya existe (por session_id)\n3. If1: Â¿Tiene session_id? \n   - SÃ â†’ Actualiza datos existentes\n   - NO â†’ Crea nuevo lead",
+        "height": 608,
+        "width": 1632,
+        "color": 5
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -2400,
+        -400
+      ],
+      "id": "d9ac04b9-7ebf-4d1f-ba9a-b58042d70f6d",
+      "name": "Sticky Note"
+    },
+    {
+      "parameters": {
+        "content": "# ðŸ—ºï¸ MAPEO DE PROYECTOS\n## Convierte nombres de proyectos al formato de asignaciÃ³n:\n",
+        "height": 1120,
+        "width": 496
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -736,
+        -960
+      ],
+      "id": "be15d201-155c-4cb4-a8e3-314ce8d4982a",
+      "name": "Sticky Note1"
+    },
+    {
+      "parameters": {
+        "content": "## Â¿POR QUÃ‰?\n## Los asesores estÃ¡n asignados por ZONA, no por proyecto individual.\n## Villanova 5 y Villa Monumental A comparten asesores (ambos en Callao)",
+        "height": 208,
+        "width": 656,
+        "color": 7
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -736,
+        -1184
+      ],
+      "id": "234f2903-19b2-4489-947e-3dae2758abc1",
+      "name": "Sticky Note2"
+    },
+    {
+      "parameters": {
+        "content": "# ðŸ”„ ASIGNACIÃ“N DE NUEVO ASESOR\n\n# Cuando el lead necesita un asesor nuevo o cambio:\n### ROTACIÃ“N DE FECHA:\n### Selecciona al asesor con el timestamp MÃS ANTIGUO\n### (El que hace mÃ¡s tiempo que no recibe un lead)",
+        "height": 560,
+        "width": 608,
+        "color": 4
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -160,
+        -784
+      ],
+      "id": "724eb2e5-0195-4a4b-827e-3c3c49e18f69",
+      "name": "Sticky Note3"
+    },
+    {
+      "parameters": {
+        "content": "# ðŸ”„ ASIGNACIÃ“N DE NUEVO ASESOR\n\n## Cuando el lead necesita un asesor nuevo o cambio:\n\n## ROTACIÃ“N DE FECHA:\n## Selecciona al asesor con el timestamp MÃS ANTIGUO\n## (El que hace mÃ¡s tiempo que no recibe un lead)",
+        "height": 528,
+        "width": 816,
+        "color": 3
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        624,
+        -960
+      ],
+      "id": "d969ee87-ce99-4f53-8deb-3435572138e1",
+      "name": "Sticky Note4"
+    },
+    {
+      "parameters": {
+        "content": "# ðŸ“ ACTUALIZACIÃ“N SIN REASIGNACIÃ“N\n\n## Cuando el lead YA tiene asesor y no cambia de ciudad:\n\n## PROCESO:\n### 1. Mantener Asesor Actual: Mantiene el asesor existente\n### 2. Actualizar Datos Lead1: Solo actualiza datos nuevos\n   (DNI, correo, precalificaciÃ³n, etc.)\n### 3. InformaciÃ³n Actualizada: Mensaje silencioso",
+        "height": 560,
+        "width": 880,
+        "color": 6
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        560,
+        -416
+      ],
+      "id": "f53bc9ad-f332-43d6-8b45-780d110e8bc8",
+      "name": "Sticky Note5"
+    },
+    {
+      "parameters": {
+        "content": "## DIFERENCIA CON RAMA SUPERIOR:\n- NO actualiza timestamp del asesor\n- NO menciona al asesor (ya lo conoce)\n- Solo actualiza datos complementarios",
+        "height": 208,
+        "width": 816,
+        "color": 7
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        624,
+        176
+      ],
+      "id": "5d2af93d-73f8-4d6f-91de-9739ce902c2d",
+      "name": "Sticky Note6"
+    },
+    {
+      "parameters": {
+        "operation": "get",
+        "tableId": "asesores_cumbres",
+        "filters": {
+          "conditions": [
+            {
+              "keyName": "proyecto_asignado",
+              "keyValue": "={{ $('Seteo final').first().json.proyecto_asesor }}"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.supabase",
+      "typeVersion": 1,
+      "position": [
+        176,
+        -400
+      ],
+      "id": "fcb114b4-881e-4ced-86be-c0e6a9958b1a",
+      "name": "Info Asesores",
+      "alwaysOutputData": true,
+      "credentials": {
+        "supabaseApi": {
+          "id": "RXRdnxmJBoq8i2Pc",
+          "name": "Supabase account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "542de4f6-f0bb-4e18-9c02-0e4238e694bc",
+              "leftValue": "={{ $('Verificar ReasignaciÃ³n Asesor').first().json.debe_reasignar }}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "equals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        320,
+        -400
+      ],
+      "id": "d902937d-719e-4f39-a406-3957c671eb81",
+      "name": "Â¿Nuevo asignamiento?"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "263fcf94-14bb-418b-be34-f6638e636735",
+              "leftValue": "={{ $json['precalificaciÃ³n'] }}",
+              "rightValue": "",
+              "operator": {
+                "type": "string",
+                "operation": "empty",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        -1760,
+        -176
+      ],
+      "id": "b12275d6-a71e-4375-a85c-dca5f2a6727e",
+      "name": "If"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "=https://app-chatwoot.cumbres.space//api/v1/accounts/1/conversations/{{ $json.conversation_id }}/labels",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "api_access_token",
+              "value": "6xFD9JcofwnJJpW6s2DXKsVt"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"labels\": [\n    \"saludo\",\n    \"registrado\",\n    \"precalificado\",\n    \"{{ \n      (() => {\n        const name = $('When Executed by Another Workflow').first().json.proyecto?.toLowerCase().trim();\n        const MAP = {\n          'villa monumental a': 'villa_monumental',\n          'villanova 5': 'villanova_5',\n          'andalucÃ­a': 'andalucia',\n          'andalucia': 'andalucia',\n          'villa del puerto 1': 'villa_del_puerto',\n          'villa del puerto': 'villa_del_puerto'\n        };\n        if (MAP[name]) return MAP[name];\n        return name\n          ?.normalize('NFD')\n          .replace(/[\\u0300-\\u036f]/g, '')\n          .replace(/\\s+/g, '_')\n          .replace(/[^a-z0-9_]/g, '')\n          .replace(/_a$/, '');\n      })() \n    }}\"\n  ]\n}\n",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -1616,
+        80
+      ],
+      "id": "fdefd263-c316-488c-b1de-7b6b86b1c362",
+      "name": "precalificado"
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "tableId": "cumbres_clientes",
+        "filters": {
+          "conditions": [
+            {
+              "keyName": "session_id",
+              "condition": "eq",
+              "keyValue": "={{ $('When Executed by Another Workflow').item.json.session_id }}"
+            }
+          ]
+        },
+        "fieldsUi": {
+          "fieldValues": [
+            {
+              "fieldId": "estado_cliente",
+              "fieldValue": "precalificado"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.supabase",
+      "typeVersion": 1,
+      "position": [
+        -1472,
+        80
+      ],
+      "id": "4ec36e41-7d37-4a5b-bd21-6fedf8d5033f",
+      "name": "Actualizar Precalificado",
+      "credentials": {
+        "supabaseApi": {
+          "id": "RXRdnxmJBoq8i2Pc",
+          "name": "Supabase account"
+        }
+      }
+    }
+  ],
+  "pinData": {
+    "When Executed by Another Workflow": [
+      {
+        "json": {
+          "nombres": "Santiago",
+          "apellido": "Zavaleta",
+          "Tipo Doc": "DNI",
+          "DNI": "74121475",
+          "numero": "+51991747887",
+          "correo": "",
+          "proyecto": "Villanova 5",
+          "resumen": "Interesado en Villanova 5, solicita visita, compra al contado, sin deudas, cuenta con ahorros para cuota inicial.",
+          "session_id": "+51991747887",
+          "conversation_id": "628",
+          "precalificaciÃ³n": "Compra al contado, sin deudas actuales y cuenta con ahorros para la cuota inicial."
+        }
+      }
+    ]
+  },
+  "connections": {
+    "When Executed by Another Workflow": {
+      "main": [
+        [
+          {
+            "node": "If",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If1": {
+      "main": [
+        [
+          {
+            "node": "Switch",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Generar ID",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Generar ID": {
+      "main": [
+        [
+          {
+            "node": "Crear Lead",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Switch": {
+      "main": [
+        [
+          {
+            "node": "Setear proyecto",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Setear proyecto",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Setear proyecto1",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Setear proyecto2",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Setear proyecto3",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Setear proyecto": {
+      "main": [
+        [
+          {
+            "node": "Seteo final",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Setear proyecto1": {
+      "main": [
+        [
+          {
+            "node": "Seteo final",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Setear proyecto2": {
+      "main": [
+        [
+          {
+            "node": "Seteo final",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Setear proyecto3": {
+      "main": [
+        [
+          {
+            "node": "Seteo final",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Seteo final": {
+      "main": [
+        [
+          {
+            "node": "Verificar ReasignaciÃ³n Asesor",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Verificar ReasignaciÃ³n Asesor": {
+      "main": [
+        [
+          {
+            "node": "Info Asesores",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Informacion del Lead": {
+      "main": [
+        [
+          {
+            "node": "If1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Actualizar Datos Lead": {
+      "main": [
+        [
+          {
+            "node": "Cliente Registrado",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Actualizar Fecha Asesor": {
+      "main": [
+        [
+          {
+            "node": "Actualizar Datos Lead",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Mantener Asesor Actual": {
+      "main": [
+        [
+          {
+            "node": "Actualizar Datos Lead1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Actualizar Datos Lead1": {
+      "main": [
+        [
+          {
+            "node": "Informacion Actualizada",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Rotacion de Fecha": {
+      "main": [
+        [
+          {
+            "node": "Actualizar Fecha Asesor",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Cliente Registrado": {
+      "main": [
+        []
+      ]
+    },
+    "Info Asesores": {
+      "main": [
+        [
+          {
+            "node": "Â¿Nuevo asignamiento?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Â¿Nuevo asignamiento?": {
+      "main": [
+        [
+          {
+            "node": "Rotacion de Fecha",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Mantener Asesor Actual",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If": {
+      "main": [
+        [
+          {
+            "node": "Informacion del Lead",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "precalificado",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "precalificado": {
+      "main": [
+        [
+          {
+            "node": "Actualizar Precalificado",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Actualizar Precalificado": {
+      "main": [
+        [
+          {
+            "node": "Informacion del Lead",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "02606dc1-1f6b-4f1d-93db-15e8c9bb52b3",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "a1482c693993e2c65a8d1b24a48eaf225c151d7521bd59633885d334e8df5f40"
+  },
+  "id": "TMG8MG6eqaKttfTY",
+  "tags": []
+}

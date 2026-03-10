@@ -1,0 +1,313 @@
+Impromptu Google Meet Meeting - November 03
+VIEW RECORDING - 56 mins (No highlights): https://fathom.video/share/6uBtmsYR8whEkscm3Eh7n5JSyKsRaQCB
+
+---
+
+0:03 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Hola, hola, Giuseppe. Â¿QuÃ© tal? Â¿CÃ³mo estÃ¡s? Â¿Se me escucha bien? me ve bien? Hola, Santiago, Â¿quÃ© tal?
+
+0:12 - Giuseppe Quiroz
+  Todo muy bien, gracias.
+
+0:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿TÃº quÃ© tal? Â¿CÃ³mo va el inicio de noviembre? Bien, con full, amigo.
+
+0:18 - Giuseppe Quiroz
+  Por eso hemos hecho varias pruebas y la idea de la reuniÃ³n es poder ver cÃ³mo estÃ¡n el estatus de las mismas para poder avanzar.  SÃ­, total, no te preocupes que justamente para eso es estar reo.
+
+0:31 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De hecho, Â¿quÃ© te parece si te comparto pantalla ahorita y empezamos con la reuniÃ³n? Â¿O alguien mÃ¡s va a entrar para esperarlos?
+
+0:41 - Giuseppe Quiroz
+  Avancemos. Dale, estÃ¡ bien, sin problema.
+
+0:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces, Giuseppe, para mostrarte rÃ¡pidamente lo que vamos a ver en esta reuniÃ³n, aquÃ­ tengo una breve agenda. Primero te vamos a mostrar cuÃ¡les son todos los avances y quÃ© es lo que estÃ¡ pendiente, que de hecho se termina lo mÃ¡s importante hoy.
+
+0:59 - Giuseppe Quiroz
+  Pero...
+
+1:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Primero, con respecto al avance, hemos reestructurado todo el flujo conversacional de MIA para que pueda hacerlo de manera modular, para que no divague, para que no improvise, para que no responda por responder.  Y eso era lo mÃ¡s importante, ya que necesitÃ¡bamos ese entrenamiento que nos pasaste. Una consulta, Â¿pudiste revisar el flujo que te mandÃ© o lo revisamos brevemente ahora?  SÃ­, igual revisÃ©moslo.
+
+1:24 - Giuseppe Quiroz
+  Lo Ãºnico que me quedÃ³ duda era abajo el tema de la... le has puesto dos horas y despuÃ©s son las 36 horas.  PerdÃ³n, 23 horas, perdÃ³n. A ver, te refieres a...
+
+1:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ah, ya, ok, ok.
+
+1:42 - Giuseppe Quiroz
+  Ahora te lo voy a explicar, dÃ©jame dar un poquito mÃ¡s el flujo. Pero mejor veÃ¡moslo con Denis y mejor para que lo expliques.  AhÃ­ tenÃ­a una duda porque le diera no esperar a las 23 horas porque ya sabes que a las 24 se corta el mensaje y ya hay un cobro extra por pasar a la...  24 horas, Â¿no? Total, es justo, sÃ­, perdÃ³name si te escucho. Pero bueno, mejor explÃ­calo y de ahÃ­ ya vamos ajustando, vamos viendo.
+
+2:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Vale, sÃ­, totalmente, de eso se trata mÃ¡s bien esta reuniÃ³n. Pero mira, a entonces comenzamos brevemente. Primero con el inicio de la conversaciÃ³n, esto va a pasar cuando un lead nos mande un mensaje directamente, sea el mensaje que mande, MÃ­a siempre va a empezar saludando con el saludo oficial que nos mandaron, presentando los cuatro proyectos.  Ok, aquÃ­ va a preguntar en quÃ© zona o distrito estÃ¡ interesado en buscar el proyecto o la propiedad. Eso fue mÃ¡s de lo que conversamos para que lo detecte por zona.  Y si el cliente menciona el proyecto, lo que va a hacer MÃ­a es revisar si hay un proyecto en la zona.  Si es que no menciona el proyecto, MÃ­a va a volver a preguntar en quÃ© distrito o zona estÃ¡ buscando hasta que el cliente especifique, no sÃ©, en Callao, en Chancay o en Trujillo.  Entonces, Â¿por quÃ© le he puesto una rama de no? Y imagino que aquÃ­ tambiÃ©n tÃº la pudiste ver. Y es que estÃ¡n preguntando tambiÃ©n por Villaverde 3.  Que estÃ¡ en Arequipa, si mal no recuerdo. Entonces, lo que MIA va a hacer es que si no tiene algÃºn proyecto en la zona en la cual le estÃ¡n preguntando, va a mencionar que no tiene proyectos en esa zona y va a ofrecer por determinado vÃ­a puerto que es el nuevo lanzamiento.  AquÃ­ tengo mi primera pregunta, Giuseppe. Â¿Esta alternativa estÃ¡ bien que ofrezca vÃ­a del puerto o que directamente vuelva a mencionar los cuatro proyectos?
+  ACTION ITEM: Implement Arequipa flow: include in initial zone list; if selected, capture data and route to advisor - WATCH: https://fathom.video/share/6uBtmsYR8whEkscm3Eh7n5JSyKsRaQCB?timestamp=206.9999
+
+3:24 - Giuseppe Quiroz
+  No, a ver, nosotros, nosotros tenemos actualmente, eh, por zonas vamos a llamarlo, Â¿ya? Callao, Trujillo y Chancay, actualmente. Ok.  Arequipa, eh, tenemos un proyecto que ya estÃ¡ por, eh, por, por salida, de salida. Entonces, yo creo que la primera pregunta que debe ser, se debe incluir Arequipa.  O sea, si la persona te dice Arequipa, o sea, porque, Â¿quÃ© es lo que pasa si tÃº no le mencionas Arequipa?  Que la persona, por seguir, por llegar, y eso lo... Lo que te va a pasar es que por querer saber mÃ¡s y tratar de que le des la informaciÃ³n como dÃ© lugar, te va a dar cualquier nombre de proyecto para que tÃº te dices y de ahÃ­ te vuelva a jalar Arequipo.  Entonces, si lo mostramos desde un inicio como un filtro, oye, Â¿dÃ³nde estÃ¡s interesado? Ah, estoy interesado en Arequipo. Ok, automÃ¡ticamente ahÃ­ MÃ­a le responda, de momento solamente contamos con un departamento a la venta o ya no contamos con departamentos a la venta, se nos ha, este, por favor, contacta, este, para mÃ¡s informaciÃ³n sobre Arequipa, contÃ¡ctate al correo, o dÃ©janos datos para poderte contactar.  De momento, para brindarte mÃ¡s informaciÃ³n sobre nuevos lanzamientos o sobre el Ãºnico departamento que tenemos, Â¿no? Por este medio no podemos brindarte informaciÃ³n porque, este, es un Ãºnico departamento.  Por eso, te vamos a derivar directamente. Con nuestro asesor comercial. Para ahÃ­ le damos los datos. Simple. Y ahÃ­ corta, Â¿no?  O sea, que MÃ­a corte ahÃ­ porque dice, pero dame, y tambiÃ©n va a pasar, pero dame la informaciÃ³n que quiero hacer, Â¿no?  Y le explique, o sea, que la gente le explique de manera empÃ¡tica, Â¿no? De que como es un solo, lo estamos atendiendo directamente por citas, etcÃ©tera, Â¿no?  O sea, que de manera solamente presencial, es un solo departamento, Â¿no? Mayor informaciÃ³n se da de manera presencial. dÃ©janos tus datos para agendar tu site, te vamos a contar, nuestro asesor se va a contestar contigo para generar una cita presencial, directo, pa, cortas ahÃ­.  Y si te dicen los otros tres proyectos, ya sigue su flujo. Porque lamentablemente yo no hago pautas ni en redes, ni en nada de Arequipa.  Como es un proyecto grande, la gente busca por Google el proyecto. Ah, mire interesante eso. Entonces, no lo voy a poder, no vamos a poder decir, oye, Â¿sabes quÃ©?  Arequipa no quiero atender, no. Total, total. Vale. Gracias, teneira. Gracias. Cuando ya se tenga un nuevo proyecto ahÃ­ y automÃ¡ticamente se quita esa restricciÃ³n y se muestra la informaciÃ³n del proyecto.  Pero deberÃ­as iniciar de frente con las cuatro zonas, Â¿no? Chancay, Callao, Arequipa, Trujillo, de arranque. SÃ­, con total idea.  Y data sucia, Â¿no? En otros proyectos. SÃ­, de hecho lo hemos configurado asÃ­, Giuseppe.
+
+6:24 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mira, nuevamente, Â¿no? mencionamos los cuatro proyectos y es ahÃ­ cuando el cliente menciona la zona o el proyecto que estÃ¡ buscando.  Esto lo estoy poniendo Ãºnicamente para aclarar. MÃ­a va a revisar cuÃ¡les son los proyectos que tienen disponibles, que en este caso estamos manejando cuatro.  Y si sÃ­ tiene el proyecto, que es la parte de aquÃ­, esta parte es la que se va a corregir, que me mencionas que le dÃ© informaciÃ³n precisa de Arequipa.  Y si sigue insistiendo que la corte y delegando la atenciÃ³n al asesor. AcÃ¡ tengo una consulta. Â¿QuÃ© pasa si el cliente estÃ¡ bien, acepta que en Arequipa solo hay un departamento y se interesa por otro de los cuatro proyectos que sÃ­ estÃ¡n disponibles?  AhÃ­ continuamos el flujo de manera correcta, Â¿verdad?
+
+7:03 - Giuseppe Quiroz
+  O sea, si es que, por ejemplo, pero es que es muy difÃ­cil que alguien te diga de Trujillo, te diga, oye, quiero, ahora dame la informaciÃ³n de Callao.  Ok. SerÃ­a muy raro, Â¿no? Entonces, yo creo que deberÃ­as, como son proyectos, en Lima, en Callao sÃ­ te puedo decir porque tenemos dos proyectos, Â¿no?  Ah, ya quiero la informaciÃ³n de vÃ­a monumental, ahÃ­ sÃ­ cambia la cosa, Â¿no? Pero cuando haya ese tema, derivar el asesor que ya tenemos, o sea, porque cuando el cliente te dice automÃ¡ticamente AndalucÃ­a, ya automÃ¡ticamente lo estÃ¡s asignando a un asesor.  Entonces, en este caso, lo que deberÃ­a ser mÃ­a es, ya te hemos asignado a un asesor, este asesor te brindarÃ¡ toda la informaciÃ³n que tÃº necesitas.  O sea, como que ya de una u otra manera lo cortas, Â¿no es cierto? Y ya este asesor, base a lo que va conversando con la persona, ya haber agendado la cita, todo, ya lo deriva.  Si eso... Otro proyecto o le da una informaciÃ³n mÃ¡s certera, Â¿no? Porque si no, lo que va a pasar es que la IA se aloca y comienza a disparar como monos con metralleta, Â¿no?  Entonces, ah, te mando el PDF, te mando esto, mando esto. Entonces, para evitar esa rayada, es mejor decir, ya te hemos asignado con un asesor.  Este asesor te va a brindar toda la informaciÃ³n que tÃº necesitas, Â¿no? Y ya estÃ¡. Total. No, 100% de acuerdo con eso.
+
+8:31 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AdemÃ¡s, para dejar un poquito mÃ¡s en constancia, ya le hemos puesto seguro a las metralletas, siguiendo la analogÃ­a, hemos hecho que MIA, si es que no tiene la respuesta, simplemente, ahorita lo vamos a probar para que lo mires en tiempo real, pero MIA lo que va a hacer es decirle, oye, no tengo la respuesta en estos momentos, pero si me gusta, se puedo derivar con un asesor.  Y eso estÃ¡ clave porque asÃ­ evitamos que MIA no diga nada que no tenga en la base de datos.  Ahorita lo vamos a probar para que lo puedas ver en tiempo real. Pero entonces, esta parte se va a corregir, me queda clarÃ­simo, es un caso.  Eso es puntual el de Arequipa, asÃ­ que no afecta el flujo, es solo entrenar esta parte Ãºnicamente. Entonces, cuando ya detecte el proyecto que sÃ­ tiene MIA en la cartera, que son estos cuatro principales, vamos a continuar el flujo.  AquÃ­ entra la primera captura de los datos de leads, simplemente le va a pedir el nombre, ya no estÃ¡ programado para que sea un requisito que lee todos los datos, si no, no continÃºe.  AcÃ¡ simplemente le va a pedir el nombre, ahorita lo vamos a ver en tiempo real, y va a registrar el nombre.
+  ACTION ITEM: Implement auto-correlatives for missing DNI/email/name; set DNI to text; remove emojis - WATCH: https://fathom.video/share/6uBtmsYR8whEkscm3Eh7n5JSyKsRaQCB?timestamp=565.9999  Si es que le mandan mÃ¡s datos, sea el email, el DNI y el apellido, vamos a registrarlo. Y si no lo mandan, lo vamos a rellenar con correlativos.
+
+9:36 - Giuseppe Quiroz
+  Claro, ahÃ­ Santiago, sÃ­ serÃ­a bueno, mira, mÃ¡s que el correo, el DNI, Â¿no? SÃ­ serÃ­a importante, Â¿cuÃ¡l es tu DNI para poder agregarte?  Si el cliente no le responde, ok, no te preocupes, o sea, que sea en automÃ¡tico. O sea, que si la gente detecta que el cliente no responde media hora, 40 minutos, hay que darle un tiempo automÃ¡tico.  AutomÃ¡ticamente decir, no te preocupes, te acabo de autogenerar un correlativo para poder seguir con la atenciÃ³n y retomas de nuevo.  El correo, en verdad, sÃ­ es necesario, pero es bÃ¡sicamente por un tema de registro del, Â¿cÃ³mo se llama? En el CRM, Â¿no?  Como una variable que no se debe repetir, pero ya con el DNI mÃ¡s que le sobre y le basta al asesor para que pueda filtrar.  Para evaluarlo, pues, Â¿no? Exacto, porque con el correo bÃ¡sicamente es un tema de formalidad ya cuando se para, despuÃ©s, pero eso ya cuando alguien te separe es que ya vino.  Entonces, correlativo podrÃ­a ser automÃ¡ticamente el nombre arroba mÃ­a.com.
+
+10:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ahora te voy a mostrar cÃ³mo lo hemos hecho porque todo lo hemos dejado impecable.
+
+10:50 - Giuseppe Quiroz
+  Mira, y ahora que lo mencionas. eso vamos avanzando, Â¿no? SÃ­, perfecto.
+
+10:54 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AquÃ­, como te mencionaba, mÃ­a va a ser la primera pregunta de la recolecciÃ³n de datos, pero le va a decir, Â¿no?  Por el momento no es obligatorio. Gracias. Pero si me lo brindas puedo acelerar la tensiÃ³n. Si es que no los manda por el momento, rellenamos con correlativos y registramos lo que tenemos hasta ese momento.  Â¿QuÃ© es lo que va a pasar acÃ¡? Es que vamos a enviar la informaciÃ³n de ese proyecto, Â¿no? Lo de siempre, los brochures, las fotos, la informaciÃ³n, etc.  DespuÃ©s de esto, va a preguntar si tiene alguna duda mÃ¡s. Si es que el prospecto tiene todavÃ­a alguna duda, MIA va a revisar en la base interna, que es la informaciÃ³n que tenemos de los proyectos y la matriz de entrenamiento, que ahora son las facts, las preguntas y respuestas, si es que estÃ¡ ahÃ­ la respuesta que estÃ¡ buscando el prospecto.  Si no estÃ¡ ahÃ­, va a decirle, no sabrÃ­a decirte con certeza eso, pero puedo derivarte con un asesor para que te ayude con esa informaciÃ³n.  Luego empieza, y si es que sÃ­ la tiene, va a responder inmediatamente con la informaciÃ³n Ãºnicamente de la base.  Ahorita lo vamos a comprobar, porque MIA se ha vuelto mÃ¡s inteligente de la Ãºltima vez que lo probamos. Entonces, si es que despuÃ©s de que le mande MIA el mensaje de derivarlo con un asesor, es que lo necesita, el libro...  Va a decidir si quiere la derivaciÃ³n o si no quiere la derivaciÃ³n. Si quiere la derivaciÃ³n, automÃ¡ticamente se deriva el asesor y ahÃ­ acaba.  Y de igual manera, aquÃ­, bueno, vamos a corregir este flujo, Â¿no? Pero va a dar informaciÃ³n sobre Arequipa, si es que estÃ¡ preguntando por un proyecto que no tenemos, y va a dar la informaciÃ³n y automÃ¡ticamente va a derivarlo con el asesor.  Hasta ahÃ­ estÃ¡ todo el check. Entonces, si es que no quiere derivaciÃ³n con un asesor porque puede que necesite mÃ¡s informaciÃ³n o simplemente quiere continuar porque le ha quedado claro las respuestas que le ha dado MÃ­a, va a empezar a hacer la precalificaciÃ³n financiera.  DespuÃ©s de hacer la precalificaciÃ³n financiera, va a volver a registrar un resumen de esta precalificaciÃ³n en el reporte de Dennis, en la columna de interÃ©s.  Luego va a pasar a preguntarle el tema del agendamiento. MÃ¡s que preguntarle, ahorita nuevamente te vamos a mostrar cÃ³mo funciona en WhatsApp, hemos hecho que MÃ­a no haga preguntas cerradas de sÃ­ o no.  En vez de preguntar, Â¿quieres agendar una cita? Va a decirle, ahorita lo vamos a comprobar, cuando quisieras la cita, a quÃ© hora te vendrÃ­a bien y eso va a persuadir de alguna  Otra manera del cliente asÃ­ o sÃ­ ir a la visita, pues, Â¿no? Entonces, si es que no desea agendar una visita, ofrecemos resolver dudas nuevamente con la base interna o derivarlo con el asesor.  Si es que sÃ­ necesita una visita, aquÃ­ es donde volvemos a pedirle los datos, en este caso lo que falte y el DNI.  AquÃ­ nosotros lo estamos poniendo nuevamente como opcional. NOMIA le va a decir, por favor, Â¿me podrÃ­as brindar tu DNI, tus apellidos completos para poder agendar tu visita?  Si es que dice que no, nuevamente generamos correlativos y registra y lo hace de manera empÃ¡tica. Si es que sÃ­ nos da la informaciÃ³n, de frente.
+
+13:35 - Giuseppe Quiroz
+  AhÃ­, ahÃ­, Santiago, disculpa que te corte. No, estÃ¡ bien. En el tema de confirmar los datos, nombre y DNI, tambiÃ©n acÃ¡ tienes que tener en cuenta de que quÃ© tipo de informaciÃ³n te da.  De repente te puede dar el nombre, no te la da completo. Entonces aquÃ­ la idea tampoco es que se entrampe la gente diciendo, pero dame tu DNI, pero dame tu DNI, ahÃ­ se entrampe.  Si te dio el nombre y un apellido, ya basta. Con lo que te dio, sigues, Â¿no? Porque si cuando tÃº te entrampas, lo que hace la gente es abandonar, Â¿no?  Chao. Total. Hay un flujo, ah, ok, pa, ya el asesor ya se encargarÃ¡ de sacarle el nombre completo, firma y demÃ¡s, Â¿no?  Pero ya avanzas, ya perfilas al IDIC, Â¿no? Igual en el DNI, Â¿no? Si es que a veces te van a poner, tienes que ponerte en todos los escenarios, van a poner gente que te va a poner 9, 9, 9, 9, 9, 9, 9, como para avanzar.  Total. Entonces, ok, ya con eso avanzas nomÃ¡s. Ya es lo que marca. acuerdo. Y el asesor ya confirma ya los datos, Â¿no?  Eso tienes que tener en cuenta ahÃ­. SÃ­, ok, perfecto, no te preocupes.
+
+14:44 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Como te digo, despuÃ©s de ver el flujo, vamos a probar a MIA desde cero. Es mÃ¡s, si quieres tÃº le puedes escribir o me vas dictando el tipo de mensaje que quisieras que le mande y me digas, Santiago, aquÃ­ estÃ¡ bien, aquÃ­ podemos cambiarlo un poco mÃ¡s, aquÃ­ que ya no pregunte esto, que pase de frente, para poder pulirlo y tener la versiÃ³n mÃ¡s acercada a la realidad.  Entonces, confirmamos los datos. Si es que no estÃ¡n, generamos los correlativos nuevamente y si sÃ­, los registramos. DespuÃ©s de registrar los datos, agendamos la visita y viene el cierre de conversaciÃ³n.  AcÃ¡ hay una parte importante que es el tema de los recordatorios. AquÃ­ esto es variable, Giuseppe. Es depende de lo que a mÃ¡s se les acomode.  Si quieren hacerlo a las 2 horas, luego a las 6, luego a las 8, luego a las 14, lo podemos hacer.  Pero aquÃ­ yo le he puesto 2 y 23 como referencia para saber que no nos vamos a pasar de esa ventana para que empiece a cobrar.  Esta implementaciÃ³n la vamos a tener disponible. Yo calculo que maÃ±ana mÃ¡s tardar el miÃ©rcoles. Igual me gustarÃ­a recalcar que eso es parte de la otra implementaciÃ³n y lo vamos a hacer esta semana para que ustedes puedan probar esta funcionalidad y cÃ³mo MIA estÃ¡ potenciada con estos seguimientos automÃ¡ticos.  Solo para dejarlo claro, porque el alcance de esa soluciÃ³n era Ãºnicamente la reactividad de MIA para responder. Pero igual queremos mostrarles cÃ³mo funciona para que se den cuenta que eso sÃ­.
+
+15:57 - Giuseppe Quiroz
+  AhÃ­ sÃ­, Santiago, mira. AhÃ­, claro, es correcto lo que mencionas, Â¿no? El tema de que se me quedÃ³ que era un tema reactivo, Â¿no?  Pero tambiÃ©n siendo un tema de flujo, Â¿no? Porque en este caso lo que solamente se estÃ¡ haciendo es un tema de seguimiento al IDIC que ya te hablÃ³, Â¿no?  No estamos contratando a una nueva base de datos. Y sÃ­ serÃ­a bueno que tenerlo para de una u otra manera ver cÃ³mo, y asÃ­ demuestra cÃ³mo de alguna u otra manera el sistema estÃ¡ alineado para poder contactar a una base de datos que no le he escrito, Â¿no?
+  ACTION ITEM: Implement follow-ups: 30m, 1h, 5h; 23h close; auto-correlative if no DNI; auto-assign advisor on booking - WATCH: https://fathom.video/share/6uBtmsYR8whEkscm3Eh7n5JSyKsRaQCB?timestamp=990.9999  Que es muy diferente a la que ya te escribiÃ³. Entonces, es correcto tambiÃ©n lo que mencionas. Nosotros con Sempul tenÃ­amos recordatorios a una hora que el cliente no te responde.  Por ejemplo, hay cosas que si es que tÃº ya pasas mucho tiempo, el cliente ya no te responde. Llega tu mensaje, lo abre y se acabÃ³.  Entonces, yo creo que dos horas es demasiado. O sea, yo creo que deberÃ­a ser a los tres. 30 minutos, Â¿no?  El primer golpe, si ya no responde a la hora y si no responde a la hora, ya de repente a las 5 horas y de ahÃ­ ya reciÃ©n pasara a 23, porque ahÃ­ tambiÃ©n la idea es no estar a cada hora, Â¿no?  O ya como que habÃ­a, te pedÃ­ a los 30 minutos, no tuve respuesta, si es un tema de NI, todo automÃ¡ticamente respondo con un correlativo, sigo el flujo, de ahÃ­ paso a una hora, si no hay un tema de una hora, ya paso a 5 horas y de ahÃ­ ya un tema, lo que nosotros tenÃ­amos era un tema de cierre, Â¿no?  A las 23 horas era, muchas gracias, la conversaciÃ³n la doy por finalizada, pero no te preocupes, si deseas cualquier mayor informaciÃ³n, solo escrÃ­beme y volvemos en contacto.  Algo asÃ­, Â¿no? Como que no te preocupes, sigo aquÃ­, puedes contactarnos cuando quieras o puedes revisar en nuestra web si es que quieres informaciÃ³n.  Directa o nuestra sala de venta. Era como un tema como que gracias por inscribirnos, Â¿no? No se pudo conversar mÃ¡s, pero ahÃ­ estÃ¡ mi web, estÃ¡ mi direcciÃ³n, cualquier cosa va a estar aquÃ­, o sea, cosas asÃ­, y ya el cliente verÃ¡ si responde o no, Â¿no?  Entonces era mÃ¡s o menos como yo lo estaba manejando. Y ya uno tambiÃ©n funcionaba, porque algunos te escribÃ­an, algunos no, y ya, pues, Â¿no?  Ese era, Â¿no?
+
+18:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, yo te entiendo perfectamente, Giuseppe. Es mÃ¡s, nosotros sÃ­ lo tenemos dimensionado. No es un tema de las horas, no es un tema de, si salimos de la ventana, es mÃ¡s un tema de implementaciÃ³n, por lo mismo que cuando, bueno, se ofreciÃ³ el tema de la soluciÃ³n, se hizo un downsell, porque el precio estaba en 1.500 inicialmente, para que pudiÃ©ramos probar a MIA cÃ³mo funcionaba reactivamente, ya que la soluciÃ³n completa como tal es con los seguimientos automÃ¡ticos.  Como te menciono, no es un tema de las horas, comprendo exactamente lo que me dices, pero a diferencia... Por ejemplo, mismo SendPulse, el mismo, bueno, proveedores como Mantra, escuchado tambiÃ©n ahÃ­ automatizaciones de cÃ³mo, no son automatizaciones que te van a dejar un mensaje como tal.  AcÃ¡ lo que va a hacer MIA es mandarte un seguimiento, una automatizaciÃ³n claramente, pero va a estar conectado aÃºn con el contexto de la conversaciÃ³n de MIA.  Es decir, que tienes un asesor 24-7. Solo quisiera ahÃ­ recalcarle la diferencia entre una automatizaciÃ³n sencilla y es por lo mismo que la soluciÃ³n completa si se sale del alcance del que le hemos dado.  Pero me gustarÃ­a comprender un poco mÃ¡s, Giuseppe, Â¿quÃ© es lo que estarÃ­a impidiendo que se pueda ampliar esta, no cotizaciÃ³n, sino este proyecto a hacer a MIA mucho mÃ¡s completa como una cotizaciÃ³n aparte?
+
+19:41 - Giuseppe Quiroz
+  Mira, ahorita, te soy sincero, queremos cerrar el tema reactivo. El tema, perdÃ³n, no reactivo, sino el flujo que ahorita estamos viendo de que estÃ¡s tÃº solamente respondiendo, Â¿no?  Entonces, este... Y... Bueno, queremos una vez que ya estemos todo cuajado, que todo estÃ© correcto, que veamos que todo estÃ© en lÃ­nea, que tanto a Denis como a se nos facilite no solamente el tema de veamos el tema del flujo que corra, ver tambiÃ©n cÃ³mo estÃ¡ la data, Â¿no?  Todo, ya ok, los que habÃ­an, habÃ­an ahÃ­, no se habÃ­an entendido bien las cosas, ya estÃ¡s haciendo los cortes a las nueve de la maÃ±ana, perfecto, pero la data mÃ¡s completa, que se le sea mÃ¡s legible a Denis, que cuando pueda, por ejemplo, abre cuatro al azar, los cuatro, este cuadro, cuando ya tengamos exactamente ello, la validaciÃ³n de Denis, la validaciÃ³n mÃ­a por parte bÃ¡sicamente de flujos y demÃ¡s, ya pasar a la siguiente etapa, Entonces, como te decÃ­a, este seguimiento que tÃº mencionas, Â¿no?  Que va a tener un plus, que va a tener el contexto general, va a servir para que, oye, ok, mira, se han hecho todos los trabajos, ha habido una curva de aprendizaje, ha habido esto y esto, y tambiÃ©n ya, si inseramos tiempo, la prÃ³xima implementaciÃ³n va a ser tanto tiempo, ya se ha trabajado asÃ­, vamos.  Entonces, ese es bÃ¡sicamente el detalle, Santiago, que tÃº tienes que tener en cuenta, de que por quÃ© no nos mandamos con la otra parte cuando, este, ya todo completo, Â¿no?  Porque queremos cerrar, dejar bien cuajada la primera parte, estar todo ok, pasamos a la segunda etapa. Entonces, si mÃ¡s estas cosas se dilatan, obviamente, el tema de la segunda parte tambiÃ©n se va a dilatar y, por ende, se va, inclusive, tambiÃ©n complicar con el tema de la fatigualidad del mismo, Â¿no?  O viabilidad. SÃ­, estoy 100% de acuerdo contigo, Giuseppe.
+
+21:56 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No te preocupes que lo tengo contemplado. Vamos a hacer lo que sea necesario. Para dejar pulido bien esta primera etapa y los vamos a apoyar con el tema de los seguimientos automÃ¡ticos.  Igual me gustarÃ­a mencionar que se tenga no consideraciÃ³n sino en cuenta que esto es un alcance distinto. Sin embargo, aÃºn asÃ­ lo vamos a hacer para que puedan comprobar el 100% del potencial y lo vamos a tener activo hasta que ya por lo menos una o dos semanas para que vean cÃ³mo MIA funciona de manera completa.  Pero sÃ­ me gustarÃ­a que estÃ©n contemplando el hecho de que nos estamos saliendo del alcance, pero igual los estamos priorizando porque sabemos que MIA va a ser un caso de Ã©xito.  Y por ser uno de nuestros primeros clientes. Â¿QuÃ© opinas sobre eso? No, estÃ¡ bien. Me parece perfecto.
+
+22:36 - Giuseppe Quiroz
+  De eso se trata, Â¿no? De hecho, es un win-to-win porque lo que tÃº vas a implementar lo puedes vender a otras inmobiliarias y de hecho ya tu curva de aprendizaje va a ser mÃ¡s corta, sin duda, Â¿no?  Entonces, de eso se trata, Â¿no? O sea, es de ambos lados. Como te decÃ­a, para recapitular, el tema del flujo que ya lo estÃ¡s arreglando, tener en cuenta...  TambiÃ©n, como te decÃ­a antes, que me olvide, a veces, y ya te lo habÃ­a mencionado por WhatsApp, en las conversaciones hemos tenido este fin de semana, la semana pasada, es bÃ¡sicamente el tema de que no todos te van a decir al comienzo, y yo necesito en Callao, te van a decir, oye, quiero Pueblo Libre, no tener ese tipo de contingencias, decir, oye, tengo un proyecto en Callao, Â¿te interesa?  No, no me interesa, ok, perfecto, ya se descarta el ritmo, gracias, en algÃºn otro momento nos contrataremos, de tener mayor novedad, perfecto, hay que tener esa variable ahÃ­, Â¿no?  Hay algunos que te, no descartarlo de plano, sino, tengo, oye, tengo un proyecto en Callao cerca a la ubicaciÃ³n que buscas, Â¿no?  Obviamente no le vas a decir lo mismo si es que te estÃ¡ pidiendo en ATE, pues, Â¿no? Obviamente no.  Si te dice, este, San Miguel, obviamente, nosotros vamos a 10 minutos a Miguel, entonces, obviamente, le das la opciÃ³n, te dice, no, no estoy interesado, estoy buscando esto, ok, muchas gracias por escribirnos, por el momento no contamos con una opciÃ³n para ti.  PrÃ³ximamente te estaremos informando de nuevas novedades. Si quieres dejando tus datos o puedes visitar nuestra pÃ¡gina web y se acabÃ³.  Pa, chao. Entonces, bÃ¡sicamente, ese flujo es lo que se deberÃ­a tener. No olvidar eso. En el tema del flujo ya lo hemos visto.  En el tema ya que hacen los cambios que ya hemos conversado. En el tema de la data tambiÃ©n importante, lo de Dennis, revisar que cuadren todas las celdas.  No hay que tener celdas vacÃ­as, al menos tener, en caso de que, por ejemplo, tÃº pones en la columna proyecto.  Si no hay ningÃºn proyecto, por ejemplo, esta persona que te dijo, yo quiero en Punta Hermosa. Y obviamente con Callao no tiene nada que ver y te va a decir que no.  Entonces, poner ahÃ­ en esa celda otro lugar. De repente una celda que no interesado para que al menos ya de esa lista...  Gracias. Gracias. Gracias. Gracias. Ya se pasa, no estÃ¡ completo porque de frente te puso, no estÃ¡ interesado, otro lugar, no sÃ©, hay que ver quÃ© parÃ¡metros podrÃ­an ser en ese sentido para que una vez tambiÃ©n ver eso, Â¿no?  Eso por un lado, el tema de los datos, ya te lo mencionÃ³, en el tema de la plataforma tambiÃ©n que sea mÃ¡s amigable, ahorita estÃ¡ bien compleja, tienes dos, tenÃ­as un tema de canales y es solamente en un solo lugar, veas todas las conversaciones y este, de en base a eso, veo que se puede taggear y sobre eso ir viendo, Â¿no?  Pero sÃ­ hacerlo mÃ¡s amigable, Â¿no? SÃ­, totalmente. Â¿EstÃ¡ bien conmigo acostado? Santiago, una consulta. SÃ­, Denis, cuÃ©ntame. En las credenciales enviaste algo para entrar con VNC y todo eso para ver, Â¿tÃº crees que me puedas un poco enseÃ±ar cÃ³mo es eso?  Porque la verdad, descarguÃ© el VNC, puse las IPs, pero... Â¿Me puedes explicar? Â¿PodrÃ­as repetirlo nuevamente, Denis? No te... Escuchen muy bien.  A ver, Â¿te acuerdas que nos enviaste un Word con las credenciales o un PDF, creo? SÃ­. Las credenciales, ya.  En la primera hoja, la primera parte indica la IP del servidor, Â¿no? Entonces, yo quiero acceder ahÃ­ para empezar a revisar cÃ³mo estÃ¡, no modificar, obviamente.  Â¿Me puedes, sÃ­?
+
+26:22 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿Conoces un poquito de sistemas, Denis? SÃ­, entras a servidores.
+
+26:27 - Giuseppe Quiroz
+  Ok, cuando me dices que quieres entrar al servidor, Â¿quÃ© es lo que quieres ver?
+
+26:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿El stack de aplicaciones?
+
+26:32 - Giuseppe Quiroz
+  No, lo que quiero, como enviases eso, lo que estoy validando son todas las credenciales. Por eso quiero acceder.
+
+26:38 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Yo he pasado la URL de cada aplicaciÃ³n. Â¿Pudiste entrar a cada URL?
+
+26:44 - Giuseppe Quiroz
+  De las URLs, sÃ­, pero hay uno que es IP, que es la primerita. Â¿Y quÃ© es lo que quieres observar?  Es que sÃ­, te comento un poquito cÃ³mo funciona.
+
+26:52 - Santiago Isaias Zavaleta Ayala (Ulima)
+  La IP del servidor, al final, es tu nube, Â¿ok? Si tÃº quieres ver todo lo que hay en esa IP del servidor, tienes que entrar a la URL.  Donde yo les mandÃ©, que se llama Portainer. Â¿Ok? AhÃ­ yo lo puse tambiÃ©n bien claro en el Notion, que aquÃ­ es donde tÃº vas a poder ver todas las aplicaciones que ustedes estÃ¡n manejando dentro de esa IP o dentro del servidor.  Pero la IP como tal es como el DNI del servidor. No es que puedas ingresar directamente a la IP, sino que es la nube donde se alberga todo.  Pero si tÃº quieres ver con profundidad lo que hay en el servidor, tienes que entrar a Portainer. AhÃ­ tambiÃ©n lo dejÃ© en el Notion con el URL y los accesos.  Igual, despuÃ©s nos juntas.
+
+27:32 - Giuseppe Quiroz
+  Es todo esto que te estoy explicando ahora.
+  ACTION ITEM: Schedule 15-min Portainer/Docker walkthrough w/ Denis - WATCH: https://fathom.video/share/6uBtmsYR8whEkscm3Eh7n5JSyKsRaQCB?timestamp=1656.9999
+
+27:34 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Lo voy a dejar en la documentaciÃ³n final del proyecto. Â¿Por quÃ© no lo hemos hecho ahora? Porque estamos esperando a tener la versiÃ³n final de mÃ­a para que no hayan reprocesos en el cambio, en el caso de que se tenga que cambiar algÃºn paso.  Pero te explico brevemente. Igual nos podemos juntar maÃ±ana unos 15 minutos para explicarte. Entras a Portainer. Vas a hacer clic en Primary, que es donde estÃ¡n todas las aplicaciones.  Vas a ir a Stacks. Y aquÃ­ estÃ¡n todas las aplicaciones que maneja el servidor. Si tienes alguna duda... Gracias.  Gracias. Gracias. Gracias. Â¿AlgÃºn sistema operativo o cÃ³mo es?
+
+28:03 - Giuseppe Quiroz
+  Â¿PerdÃ³n? Eso maneja, ese primary, asumo que es un servidor que maneja algÃºn sistema operativo o no? Mira, este servidor maneja un sistema que se llama Docker.
+
+28:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Docker es bÃ¡sicamente el almacÃ©n de estas aplicaciones. Es la mejor manera en que te lo puedo resumir. Este primary serÃ­a como, miremoslo como una lonchera y lo que hay dentro de la lonchera son estas plataformas que nos permiten visualizar y hacer todo lo que estamos haciendo ahora.  Una de ellas es Chatwood, que es el CRM conversacional. Otra de ellas es N8N, que es la base funcional para crear todas las automatizaciones que te lo puedo mostrar rÃ¡pidamente por acÃ¡.  Por ejemplo, la gente mÃ­a, mÃ­a como tal, tÃ©cnicamente es todo este flujo de acÃ¡. Â¿DÃ³nde se encuentra esto? En N8N, que es donde se hacen todas las automatizaciones.  Hay mÃ¡s automatizaciones que son las herramientas que maneja mÃ­a, que estÃ¡n por acÃ¡. Yo aquÃ­ les recomiendo, equipo, que aÃºn no toquen nada hasta que nosotros les expliquemos.  Â¿QuÃ© es cada parte? Y Â¿QuÃ© cambiar cuando ustedes quieran manualmente cambiar a mÃ­a?
+
+29:07 - Giuseppe Quiroz
+  No, ahÃ­ para aclarar, el tema no es cambiar, porque obviamente nadie va a tocar nada de lo que es el servidor, eso es parte tuya, parte de lo que estÃ¡ configurado.  Lo que yo quiero simplemente es explorar, no cambiar.
+
+29:22 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Totalmente, esto es suyo equipo, esto es pertenencia de cumbres como tal, eso fue lo que se quedÃ³ en el alcance, Ãºnicamente lo recalcaba para que en el caso de que no se mueva una cosita, el agente no se vaya a caer en producciÃ³n Ãºnicamente, pero todo este servidor les pertenece a ustedes.  Toda la documentaciÃ³n en credenciales es netamente de cumbres, no es mÃ­o, es de ustedes, solo lo mencionaba para tener el cuidado, porque ya mÃ­a estÃ¡ en producciÃ³n ahora y cualquier movimiento puede hacer que deje de funcionar.
+
+29:48 - Giuseppe Quiroz
+  Ya estÃ¡ bien, no hay problema, maÃ±ana nos podemos reunir de repente unos 15, o no, perdÃ³n, maÃ±ana no se puede, de repente podrÃ­a ser el dÃ­a jueves o viernes, para que me puedas explicar algunas cosas pequeÃ±as.  Ya, para poder darle una revisiÃ³n a todo esto. SÃ­, no te preocupes.
+
+30:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Lo importante es dejar todo claro y nuevamente al final, cuando ya tengamos la versiÃ³n final de mÃ­, a valga la redundancia, todo esto va a quedar en videos y en PDFs para que ustedes lo puedan revisar cuando ustedes quieran sin problema.
+
+30:16 - Giuseppe Quiroz
+  Ya, ya estÃ¡ bien, Santiago, no hay problema. Genial.
+
+30:18 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Dennis, aprovechando que estÃ¡s acÃ¡, te muestro el formato ya corregido de Excel. Me gustarÃ­a que lo puedas chequear a ver si tienes alguna apreciaciÃ³n con respecto a cÃ³mo ha quedado.  Los DNIs, nombres, apellidos y mail, siempre van a estar llenos, Â¿ok? Ya no van a estar vacÃ­os y los hemos puesto con el formato que tÃº nos has mandado.  El DNI los hemos puesto segÃºn lo que me mencionaste, creo que lo conversamos. Claro, eso era para el estado de saludo, que iba a punto a generar, Â¿no?
+
+30:44 - Giuseppe Quiroz
+  Ya si el cliente registra, ya eso simplemente es el chat y punto. SÃ­, sÃ­, sÃ­, total.
+
+30:49 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AjÃ¡, netamente hablando del formato, por ejemplo, el mail es el nÃºmero del celular junto al correo. En este caso, mira, estÃ¡ asÃ­.  La cosa es que ninguna celda ahora va a estar vacÃ­a porque estÃ¡ con el formato... Que nos mencionaste. Mi pregunta es, Denis, Â¿hay algÃºn dato o alguna acotaciÃ³n que te das con respecto con el formato para poder fulminarlo una vez y que estÃ© impecable?
+
+31:11 - Giuseppe Quiroz
+  Mira, ahorita lo que pasa es que hoy dÃ­a estamos tres. La primera semana de noviembre yo hago reportes gerenciales.  Tengo que terminar con eso urgente porque sÃ­ me lo piden los socios y una vez terminado eso ya lo puedo revisar a fondo.  Ya. Vale, eso ahÃ­ no te preocupes. Igual, Â¿cÃ³mo se llama? Lo que te dije la vez pasada era guÃ­ate del primer archivo que te envÃ­e.  AhÃ­ dice detalladamente cuÃ¡les son los autogenerados que tienen que haber, que son dos o tres mÃ¡ximos, no eran mÃ¡s campos.  SÃ­, ya estÃ¡n completos. Igual lo vamos a revisar nuevamente. Entonces no deberÃ­a haber problema al momento que yo lo revise.  Genial.
+
+31:51 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No te preocupes que igual nuevamente vamos a validar, pero ya los mÃ¡s importantes que fueron los que estÃ¡n en el formato y estÃ¡n con la...  Ah, una vez me voy a Santiago, antes que me olviden.
+
+32:00 - Giuseppe Quiroz
+  SÃ­. SÃ­. SÃ­. DNI tiene que ser un campo de tipo texto, no numÃ©rico. Â¿Por quÃ©? Porque acuÃ©rdate que hay algunos nÃºmeros de DNI que empiezan con el cero.  Y cuando estÃ¡ como numÃ©rico, le quita el cero inicial. Ok, es un tema de...
+
+32:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, estÃ¡ bien. AquÃ­ sÃ­ me gustarÃ­a hacer un hincapiÃ© equipo, no hay ningÃºn problema, los vamos a ayudar tambiÃ©n con ese campo, pero hay algunas modificaciones de formato que despuÃ©s de todo nuevamente, como que ya nos estamos desviando el alcance principal que es el entrenamiento y la soluciÃ³n de inteligencia.
+
+32:36 - Giuseppe Quiroz
+  que estaba dentro del formato que te enviÃ©, que el DNI tiene que ser de tipo texto. Por eso, en el primer archivo que te enviÃ©, y es por el cual se estÃ¡ validando todo, se indica el tipo de dato tambiÃ©n que es, para justamente evitar.  AhÃ­ no estoy modificando nada, solo estoy usando el primer archivo que se enviÃ³. No estoy enviando nada.
+
+33:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, estÃ¡ bien, no te preocupes, lo vamos a ayudar con eso. Y tambiÃ©n te agradecerÃ­a bastante, Denis, que porfano, bueno, cuando tengas el tiempo de revisar el formato, que nos hagas todas las acotaciones posibles para una vez dejar fulminado y formalizado que ya el formato estÃ¡ 100% chequeo.  Ya, estÃ¡ bien, no te preocupes. Dale.
+
+33:18 - Giuseppe Quiroz
+  Genial, muchas gracias por ese lado.
+
+33:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, entonces, eso con respecto al formato, eso con respecto al flujo, y lo Ãºltimo que quedarÃ­a equipo serÃ­a ahora probar el agente.  No sÃ© si de repente quieren escribirlo ustedes o que vean cÃ³mo yo mismo le escribo desde mi computadora.
+
+33:31 - Giuseppe Quiroz
+  A ver, sÃ­, lo otro, Santiago, que tambiÃ©n hay en el drive, hay un tema de emojis, Â¿no? La idea es que no deberÃ­a pasar emojis.  SÃ­, te explico quÃ© pasa acÃ¡. Porque los emojis no te, no te, puede que te pongas algo error al momento de subir el CRM.  Te explico quÃ© pasa aquÃ­, Giuseppe.
+
+33:54 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Lo que pasa es que cuando, hay casos en los que los leads no dan los nombres, como bien sabemos.
+
+34:00 - Giuseppe Quiroz
+  Correcto. Correcto.
+
+34:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  La opciÃ³n, segÃºn lo que nos comentÃ³ Dennis, que como nombre y apellido se pone automÃ¡ticamente el nombre que el nÃºmero tiene predeterminado en WhatsApp.  Hay muchas personas que tienen su nombre con emojis y es por eso que se pone asÃ­. Como le habÃ­amos comentado a Dennis, nosotros recomendamos guardarlo con este formato, pero estaba pendiente la validaciÃ³n de si lo Ã­bamos a guardar de esta manera o lo Ã­bamos a guardar como nos mencionaron con el mismo nombre que tiene el nÃºmero de su propio WhatsApp.
+
+34:31 - Giuseppe Quiroz
+  QuerÃ­amos saber quÃ© opciÃ³n era mÃ¡s favorable para ustedes. Yo creerÃ­a que serÃ­a mÃ¡s con un correlativo porque te puede saltar el tema.  Ahora, pero si es que este caso, si es que no te da el nombre, si es que lo da, ya tendrÃ­a que subirse.  Si es que estÃ¡ el nombre, lo sube sin problema tal cual te lo dio. ya ok entonces ya desde el inicio por ejemplo ya ibas a poder saber  De quÃ© proyecto es, Â¿no? Oye, si no, si te respondiÃ³ Callao, automÃ¡ticamente lo marca como vÃ­a nova, como vÃ­a monumental, pero ya sabes de dÃ³nde es, no puede tener un campo vacÃ­o, porque ya te lo dijo de un inicio, Â¿no?  De estar de frente, Â¿a dÃ³nde vas? Arequipa o algo ya, de frente ya lo marca, cosa de que con eso vamos avanzando, Â¿no?  Ok, perfecto, genial equipo.
+
+35:26 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Entonces actualizamos los correlativos de esta manera y nos llevamos el pendiente. A ver, ahora les comparto brevemente, para no quitarles mucho tiempo, cÃ³mo estÃ¡ funcionando el agente y sobre esto me mencionan si es que estÃ¡ todo check o hay alguna modificaciÃ³n en el flujo.  Un momento, por favor. Entonces, equipo, les voy a mostrar la conversaciÃ³n de cero. Voy a eliminar el chat. No se preocupen, es solo para verlo visiblemente mejor, ya que he hecho que mi nÃºmero sea de cero para mÃ­.  Vamos a entrar a Chatwood, por ejemplo, y vamos a mandar un mensaje como si lo hubiera mandado un prospecto, que es como el que tienen personalizado.  Por ejemplo, bueno, este no, a veces mandan un mensaje predeterminado con un arroba que me implica.
+
+36:36 - Giuseppe Quiroz
+  Es que se abierto a Triviera, JosuÃ©, por favor. SÃ­, lo vemos. Â¿QuÃ© te dice? Â¿Desde el inicio? Vacante de trabajo, ya.  No tiene nada que ver de... Uy, se corriÃ³. Bueno, sÃ­. Ya, ahÃ­ de frente con el asesor. Ya. Pero, por ejemplo, el asesor no le va a confirmar las vacantes disponibles.  Ok.
+
+37:06 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AquÃ­, una vez, si estÃ¡ desalineado con el objetivo principal, que es de dar informaciÃ³n de proyectos, que lo derive y que no...
+
+37:12 - Giuseppe Quiroz
+  Si es que es vacantes de trabajo, proveedores, vacantes de trabajo, proveedores, o con algo que no tenga que ver con el tema de, por ejemplo, te llaman hoy, que quiere un tema de postventa, o un tema de postventa, trabajo, proveedores, ahÃ­ directamente se debe enlazar.
+  ACTION ITEM: Implement non-sales routing: send to contacto@cumbres.pe; no phone numbers; close chat - WATCH: https://fathom.video/share/6uBtmsYR8whEkscm3Eh7n5JSyKsRaQCB?timestamp=2245.9999  No sÃ© si lo registras o no, pero sÃ­ deberÃ­a derivarse de frente con el correo general de Cumbres, que es contacto arroba cumbres punto pey, que es el cual yo manejo, yo lo derivo con el Ã¡rea que ya es correspondiente.  O sea, no nos contaminemos con los asesores, simplemente de frente decir, si hay un tema de bÃºsqueda de trabajo, postventa...  Proveedores, soy la mejor, no sÃ©, maquinaria, lo que fuese, Â¿no? De frente, contacto, ya hemos tomado tus datos, gracias, por favor, este medio es de venta, por favor, para todos estos temas, te recomendamos enviar un correo a contacto arroba cumbre punto p, yo lo leo, lo derivo, se acabÃ³, y ahÃ­ se muriÃ³ la conversaciÃ³n, Â¿no?  Ok, perfecto. Si la gente sÃ­ pregunta, no, te van a, sobre todo los proveedores, son insistentes, oye, pero dame un telÃ©fono, dame un telÃ©fono, este medio, este, disculpa, Â¿no?  Por este medio no podemos brindar telÃ©fonos, este, este es solamente un tema de venta, ya en el correo la persona encargada de atenciÃ³n al cliente te va a poder derivar con el encargado, este, que atienda especÃ­ficamente tu casa, pum, se acabÃ³.
+
+38:54 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, perfecto, muchas gracias por el INSEE y UCP, mÃ¡s informaciÃ³n para entrenar a MIA. Genial, mira, vamos a ver el siguiente, el siguiente chat.
+
+39:01 - Giuseppe Quiroz
+  Ah, rÃ¡pidamente, escriben, justo nos escribieron hoy dÃ­a. Ya, referidos, por ejemplo, ese es otro de ahÃ­, Â¿no? Ya, ahÃ­ quiero, porque estÃ¡ interÃ©s, quiero compararlo y a ver quÃ© responde.  Gracias por escribir en el modo exacto del bono. Necesito en quÃ© zona del bono. SÃ­, porque preguntaron por un bono, creo que aquÃ­ estÃ¡.  A ver, Vidal, ya, pero ahÃ­, por ejemplo, le responde el tema de Chancay.
+
+39:32 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, es por lo que te mencionaba, que lo habÃ­amos puesto como alternativa, si preguntaban por algo fuera de los proyectos, que mencionara esa alternativa, pero es lo que ahora se va a quitar.  AjÃ¡, ya.
+
+39:42 - Giuseppe Quiroz
+  AhÃ­ te dice, Vidal, no, a cinco monedas de esos dos, ya. Gracias, perfecto. Genial, gracias. Con su nombre completo.
+  ACTION ITEM: Remove redundant DNI/name re-prompts; ask once at start; auto-correlative if no response - WATCH: https://fathom.video/share/6uBtmsYR8whEkscm3Eh7n5JSyKsRaQCB?timestamp=2408.9999  su completo. Ya, a ver. De ahora, me confirmas que es Mayron, o sea, repregunta, Â¿no? AhÃ­ deberÃ­a como que eliminarse eso, Â¿no?  Ok, reducir confirmaciones. SÃ­, porque ya, o sea, toma el dato nomÃ¡s, Â¿no?
+
+40:29 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, son detallitos al final que van a hacer que MIA se alinee bien a lo que estÃ¡n necesitando.
+
+40:37 - Giuseppe Quiroz
+  Ya ves. Ya ves de nuevo. Ok. Ya, ahÃ­ de frente el asesor, ya, perfecto. Ya ves, otra vez DNI, mientras me hace el DNI, ves otra vez si le interesa a la policÃ­a, Â¿ves?  AhÃ­ repreguntar menos, Â¿no? SÃ­.
+
+40:59 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Yo sÃ©, te parece si solo lo preguntamos al... Â¿Momento antes de darle informaciÃ³n al proyecto y antes de agendar la visita Ãºnicamente?  Â¿CuÃ¡l, el DNI?
+
+41:08 - Giuseppe Quiroz
+  Claro, si es que no nos lo dan al inicio.
+
+41:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  O solo lo preguntamos una vez y si no avanzamos. No, al inicio nada mÃ¡s.
+
+41:13 - Giuseppe Quiroz
+  No pregunten ya despuÃ©s. sea, si me... Arriba debe ser la primera, de arranque. Â¿DÃ³nde estÃ¡s interesado? Ya, ok. En base a eso, me das tu nombre y tu apellido, lo que te responda.  Ok. O sea, tienes que ahÃ­ detectar que detecte el nombre. Si no se lo dan, autogenerado. O de repente te vas a decir, Paola, me llamo Giuseppe.  No estoy en mi apellido, pues, Â¿no? Entonces ya, el que no tengo, su correlativo. O Giuseppe, Giuseppe, se acabÃ³.  Lo duplique, ya. Seguimos avanzando. Â¿Me puedes brindar tu DNI? Ok. 77777. Ok. BacÃ¡n. Â¿No te lo dan? Autogenerado. Y ya no le vuelves a preguntar porque lo que haces es, como ella en el final, dice, no te entiendo.  Entonces me estÃ¡s como que repreguntando, repreguntando, repreguntando, repreguntando, Â¿no? Entonces... Tiene que tener una secuencia un poco mÃ¡s lÃ³gica.  Y de ahÃ­, en base a eso, le vas brindando la informaciÃ³n y sacas la cita, Â¿no? Entonces, tienes que hacer el inicio.  Al final ya no les dije por quÃ© preguntar para reconfirmar. PodrÃ­a ser solamente cuando ya te ponga la cita para reconfirmar.  Me brindas tus datos, nombre, me puedes brindar nombre, DNI, tu correo y el horario, solamente para tenerlo en cuenta, ya de repente con una pregunta asÃ­, al final.  Pero ya cuando ya te dijo la cita. Pero yo lo verÃ­a como opcional, Â¿ah? Porque si es que de repente te van a confirmar, te van a escribir o de repente te van a decir no.  SÃ­. Entonces, de repente, si es que no hay una respuesta en 20 minutos, 10 minutos, ok, o media hora o una hora, hay que ponerle un timer ahÃ­.  No te preocupes, de igual manera entendimos que tu chiste es a las 3. Un asesor, o de frente, Â¿no?  No te preocupes, un asesor se pondrÃ¡ en contacto en breves contigo para reconfirmar tu cita. Se acabÃ³. Chao. Bien, estÃ¡.  No evitas el flujo de estar repreguntando, Â¿no?
+
+43:14 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, eso con respecto a las repreguntas, Giuseppe, nos queda clarÃ­simo, vamos a eliminar eso, pero con respecto al flujo, al paso a paso, Â¿estÃ¡ bien?
+  ACTION ITEM: Update training matrix: add short/long MiVivienda bonus; add referrals; share link w/ Giuseppe - WATCH: https://fathom.video/share/6uBtmsYR8whEkscm3Eh7n5JSyKsRaQCB?timestamp=2597.9999  O sea, sÃ­, Â¿no?
+
+43:22 - Giuseppe Quiroz
+  O sea, por ejemplo, con total en nuestras bases ya te lo registrado de forma que te da el detalle en cuanto que se refiere, Â¿no?  AhÃ­ tendrÃ­as que, por ejemplo, yo te pasÃ© en el Excel, te pasÃ© el tema de los bonos. SÃ­, ahora lo hemos integrado, era lo que te mencionaba, pero solo era para mostrar que si no estÃ¡ en la base, tampoco va a responder de esta manera.  Eso lo vamos integrar hoy mismo. AhÃ­ en el, Â¿puedes abrir el Excel que te pasÃ©? SÃ­, claro. AhÃ­, por ejemplo, en la respuesta extendida, abajo, abajo.  Ya, ahÃ­, Â¿no? Si el proyecto, sÃ­, el proyecto califica los bonos mi vivienda, Â¿no? Este, de repente... PodrÃ­a ser desde tanto, Â¿no?  O llega los bonos llegar a tanto. Dependen de la calificaciÃ³n crediticia. De repente eso lo podrÃ­amos aÃ±adir en la respuesta corta, Â¿no?  SegÃºn el proyecto, porque ahÃ­ te dicen hasta 30.800, Â¿no? Los bonos hasta 30.800, pero depende, Â¿no? Pero quiero saber, ya, vale, mande ese texto de ahÃ­.  SÃ­. Entonces...
+
+44:23 - Santiago Isaias Zavaleta Ayala (Ulima)
+  MÃ­a va a analizar quÃ© respuesta es mejor para lo que estÃ¡ preguntando, si la corta o la grande. Por ese lado...  AjÃ¡, pero ya ahÃ­ la tienes, Â¿no?
+
+44:31 - Giuseppe Quiroz
+  De repente ahÃ­ en la corta indicar, Â¿no? Que los bonos, segÃºn el proyecto, llega hasta, pero depende de una evaluaciÃ³n en la sala de ventas, Â¿no?  Ok, ok, ok, a actualizar esa...
+
+44:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De hecho, yo sÃ© que gracias por mencionarlo, pero esta matriz de entrenamiento estÃ¡ en el drive que ha creado Denis.  Cualquier pregunta adicional que quieran ingresar, estÃ¡ perfecto que lo aÃ±adan acÃ¡ para que MÃ­a se actualice en tiempo real.  Y ya... No hay ningÃºn problema de reproceso ni nada, nada, simplemente hay una pregunta mÃ¡s, la aÃ±aden y Nia ya lo sabe apenas termina de aÃ±adirlo.
+
+45:07 - Giuseppe Quiroz
+  Ok, listo, entonces ahÃ­, igual al finalizar me compartes ese link para tenerlo y yo por ahÃ­ de frente agregarlo, porque es agregar esto.  genial. Pero sobre eso ya le va preguntando, Â¿quieres que te derive? SÃ­, perfecto, bacÃ¡n, gracias por un asesor, confirma el monto por referido.  Es que a veces te va a decir, si quieres una campaÃ±a, ya, esa es otra variable que tambiÃ©n tienes que ver.  Si te dicen, oye, quiero registrar mi referido, Â¿no? En ese sentido, automÃ¡ticamente tienes que, ok, dame tus datos. Ya, ok, gracias, o sea, primero el lugar, datos, dame tu nombre, tu nombre y DNI, en breve te derivarÃ© con un asesor directamente.  O sea, ya no dar informaciÃ³n, sino derivar de frente con el asesor y de repente ahÃ­ tener una, dentro de la variable, que bien vamos a poner este, no sÃ©, de repente como comentario, referido.  Entonces automÃ¡ticamente ya Denny sepa y eso es, el asesor sepa que no es un cliente en sÃ­, sino es, viene a referir por un tema de referido.  Entonces eso tambiÃ©n deberemos modificar al inicio, si es que alguien te, sÃ­ o sÃ­, solo sÃ­, te menciona el tema de referido, Â¿no?  Que es una palabra bien fÃ¡cil, Â¿no? Referidos hay, ok. Â¿Quieres participar en la campaÃ±a de referido? SÃ­. De frente, derivar asesor, Â¿no?  Si aÃºn hay proyecto. SÃ­, no te preocupes, JoaquÃ­n.
+
+46:47 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Todo esto que estamos conversando, Giuseppe, estÃ¡ siendo grabado y todo lo que me estÃ¡s mencionando va a aplicar directamente para entrenar a mÃ­, asÃ­ que todos esos talleres estÃ¡n muy bien, Maggi, muchÃ­simas gracias por eso, no te preocupes que lo dejamos entrenar.
+  ACTION ITEM: Implement email info delivery: template w/ images; CC advisor - WATCH: https://fathom.video/share/6uBtmsYR8whEkscm3Eh7n5JSyKsRaQCB?timestamp=2810.9999  QuerÃ­a preguntarte... He visto ahÃ­ unas cuantas conversaciones que piden informaciÃ³n por correo. Esto, bueno, nuevamente, Â¿no? Esto serÃ­a mÃ¡s que todo un valor agregado que nosotros les queremos dar.  No es tan complicado hacer esta implementaciÃ³n, pero querÃ­amos saber si a los que piden informaciÃ³n por correo, que MIA se las mande por correo desde el correo que Denis creÃ³ para agendar las visitas.
+
+47:20 - Giuseppe Quiroz
+  SÃ­, yo creo que si es que no hay un costo en sÃ­. No, no, Es parte de lo que le estamos ofreciendo a MIA.  Yo creo que sÃ­, no hay ningÃºn problema, Â¿no? Puede ser una plantilla, una imagen, y bÃ¡sicamente ya con copia al asesor, de repente ahÃ­ sÃ­ deberÃ­a estar ahÃ­ para que sobre, si es que hay una respuesta, el asesor sepa y directamente va a contacto, Â¿no?  SÃ­, totalmente de acuerdo.
+
+47:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, aquÃ­ llega a ofrecer el nombre, apellido, DNI. Menciona que, bueno, acÃ¡ menciona, no voy a derivarte con un asesor para que confiere el monto por referido y el proceso, porque nuestras bases internas no llegan a ese detalle.  Antes de derivarte, Â¿quÃ© dÃ­a y hora te viene mejor para el asesor te lleve para coordinar? Esta pregunta estÃ¡...  Â¿EstÃ¡ o simplemente que lo deriven?
+
+48:04 - Giuseppe Quiroz
+  No, estarÃ­a bien, pues claro, porque ya te pregunte, te pregunta y deriva, Â¿no? Ok, genial.
+
+48:10 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, aquÃ­ hace la derivaciÃ³n, ha registrado los datos.
+
+48:14 - Giuseppe Quiroz
+  Pero te dice la hora, por ejemplo. Claro, bueno, te dijo hoy dÃ­a.
+
+48:18 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, en este caso serÃ­a Ãºnicamente derivar, pues, Â¿no? Porque si lo decimos insistiendo puede generar fricciÃ³n, me imagino. Exacto, si es que sientes que es una respuesta cortante, esto es derivar de frente.
+
+48:29 - Giuseppe Quiroz
+  Ok, genial. Bueno, y aquÃ­ mando mÃ¡s mensajes y aquÃ­ es joder responder.
+
+48:33 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mira, aquÃ­ justo hay un envÃ­o ya para no quitarte mÃ¡s tiempo. AcÃ¡ mÃ¡s de formaciÃ³n, quisiera saber si va acÃ¡.  Ah, es la misma que estÃ¡bamos viendo, pues, Â¿no? SÃ­, Y Nayus, sÃ­.
+
+48:43 - Giuseppe Quiroz
+  Â¿Te gustarÃ­a que lo veamos en vivo? Con lo que hemos visto y lo que te digo, yo creo que estamos mÃ¡s avanzados.  La idea es, como te digo, Santiago, acortar los tiempos, las curvas de aprendizaje. Este mes es complicado, lo necesitamos ya urgente.  Este, y ya los demÃ¡s cambios. Gracias Que sean menores, que de repente se van a seguir dando, ya que sean un ajuste tuerca, pero no la tuerca en sÃ­, Â¿no?  Entonces, la idea es ir cerrando esto lo mÃ¡s pronto posible y ya con ello seguir avanzando, Â¿no? SÃ­, no te preocupes que con esta reuniÃ³n ya hemos recaudado la informaciÃ³n suficiente.
+
+49:22 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Si ya ahorita con esto que te hemos mostrado te das cuenta que no hay un problema de flujo, solo hay un problema de detalles y la manera en que se comunica, ya para la siguiente reuniÃ³n definitivamente esto va a estar listo y como mencionas, siempre van a haber mejoras, ajustes de tuercas, pero lo mÃ¡s importante lo vamos a solucionar y yo calculo que esto deberÃ­a estar listo mÃ¡ximo maÃ±ana en la noche, Giuseppe.  Igual te voy a escribir para confirmarte, lo mando por el grupo tambiÃ©n, para que lo puedan probar y estos detalles ya estarÃ­an corregidos, asÃ­ que no te preocupes por eso.
+
+49:49 - Giuseppe Quiroz
+  Listo, entonces ya yo lo voy revisando al interno igual con Dennis, toda la data y vamos avanzando.
+  ACTION ITEM: Implement Drive/Chatwoot alignment: map labels to 'Proyecto'; add Other/No interesado; mirror counts; add dashboard - WATCH: https://fathom.video/share/6uBtmsYR8whEkscm3Eh7n5JSyKsRaQCB?timestamp=2997.9999
+
+49:55 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Perfecto, por favor equipo, cualquier apreciaciÃ³n con respecto al formato, mÃ¡ndennosla para poder corregirla inmediatamente. Y no tener estos reprocesos, porque nuevamente lo importa.  Queremos enfocar la energÃ­a en mejorar a MIA, no estar haciendo temas de formato.
+
+50:08 - Giuseppe Quiroz
+  No, claro, en formato me refiero, por ejemplo, a la plataforma. MIA sin asignar todo. DeberÃ­a ser de frente a todo, Â¿no?  SÃ­. Â¿Por quÃ©, por ejemplo, lo que habÃ­amos visto, que se vea el dashboard? Porque lo que estÃ¡ acÃ¡ es un espejo del drive que tiene Dennis.  Entonces, en Dennis va a haber, oye, tengo 100 clientes, de los 100 clientes, 10 tienen datos, 90 no tienen datos, oye, ver quÃ© pasÃ³, Â¿no?  Entonces, y acÃ¡, sea el espejo tal cual. O lo que se busca es que del drive, o tÃº tienes que poner en un escenario que tÃº no sabes la plataforma.  Entonces, oye, si es alguien que no sabe, lo mÃ¡s fÃ¡cil es saber quÃ© va a buscar, a que coincidan los datos, Â¿ok?  Entonces, acÃ¡ de frente, acÃ¡ hay 100 conversaciones, en mi drive debe haber 100 conversaciones. ConversaciÃ³n. AcÃ¡, con datos tanto, con datos tanto.  Ok, hace match y se acabÃ³. Â¿No? Porque, por ejemplo, poner ver las etiquetas, eso, lo que va a decir de frente de Denise es el drive.  Yo tambiÃ©n voy a ver las conversaciones, pero me voy a sentar tambiÃ©n mÃ¡s en el drive. Entonces, eso, ahÃ­ hay que ajustarlo para que sea mÃ¡s rÃ¡pido y de repente, mÃ¡s allÃ¡ de poner no etiquetas, no da informaciÃ³n, no repone, no se ver, para que en el dashboard que tengas en general, digas, oye, de las mil conversaciones que entraron, 10 cumplieron todo el flujo, otras 20 se quedaron en DNI y asÃ­ ir viendo, Â¿no?  Pero lo que importa es que sÃ­ o sÃ­, la columna que dice el proyecto sea vilano estÃ© llena, Â¿no?  Que si tenga el nombre del proyecto y si es otra Ã¡rea que no tiene nada que ver como post-venta, buque de trabajo, proveedor, este, o no estoy...  Estoy interesado porque te dijo un distrito que no aplica la realidad de los proyectos de cumbres, poner un tema, de repente hacer tres etiquetas, proveedor, post-venta, interesado en otro lado, y hay otro que no estÃ¡ interesado porque de repente te va a tocar que te siga el flujo, o sabes que no me gusta, gracias, no quiero la informaciÃ³n.  Ok, entonces ya aÃ±ades cuatro Ã­tems, o sea, que de frente Denis ya sabe, ah, ya, este no interesado, busca en otro lugar, proveedor, busque de trabajo, referidos.  Entonces ya tienes esos parÃ¡metros que no son muchos y ya los vas ubicando, Â¿no? Entonces ya con eso se aÃ±ade, pero sÃ­ o sÃ­ hay un campo ahÃ­, Â¿no?  Entonces ya no tenemos nÃºmeros vacÃ­os que dices, ah, ya, este cliente de quÃ© es, Â¿no? Es de Arequipa, es de Callao, de quÃ© es, Â¿no?  Entonces no sabes dÃ³nde utilizarlo, Â¿no? SÃ­. O cÃ³mo. Ver cÃ³mo lo podemos poner para que a DNI sea mÃ¡s fÃ¡cil de realizarlo, elimine, depure, que ya sabemos, estos no los vamos a contratar, hay que depurarlos y asÃ­ no nos complicamos tanto la vida.  Ok, perfecto.
+
+53:17 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Giuseppe, Â¿te parece si es que en el proyecto el lead no menciona aÃºn para cuando se envÃ­e el reporte, claramente, porque puede que hoy nos escriba, hola, Â¿quÃ© tal?  ni responda, no responda hasta maÃ±ana, es claramente, esto se va a mejorar con los seguimientos automÃ¡ticos, pero en el caso de este vacÃ­o, en esas ocasiones, Â¿estÃ¡ bien si lo ponemos otro, nulo o no mencionÃ³, algo asÃ­?  Â¿QuÃ© etiqueta les facilitarÃ­a mÃ¡s la...? Mira, si es que no te responde, es un no interesado.
+
+53:47 - Giuseppe Quiroz
+  AsÃ­ de simple. Ok. O sea, si no te responde, si es que el primer, la palabra te dice hoy callado, este, no te dice nada, al menos dÃ³nde quiere, ponle de frente no interesado.  SÃ­. DespuÃ©s de las 24 horas, hoy me olvidÃ©, disculpa, querÃ­a informaciÃ³n de esto, ya automÃ¡ticamente se le cambia el estatus en base a con firma, Â¿no?  Pues si de ahÃ­ ya no te responde nunca mÃ¡s, ponle no interesado de frente. O yo creo que podrÃ­amos agregar esos estados, Â¿no?  Proveedores, bÃºsqueda de trabajo, post-venta o informaciÃ³n de empresa, Â¿no? En general post-venta, perdÃ³n, trabajo, proveedores, post-venta, interesado en otro lugar y no interesado.  Se acabÃ³. Â¿No? Si te dice, oye, informaciÃ³n de otro lado o ponle varios, Â¿no? Otros, Â¿no? Ya. Cualquiera que no sea ni post-venta, trabajo, proveedores, no interesado, este, interesado en otro lugar o ventas, o sea, sea algo que, pucha, ni por acÃ¡ se me pasÃ³ en la cabeza.  Por ejemplo, oye, quiero, quiero saber por Denis, Humberto, quiero comunicarme con Ã©l. Es algo X, Â¿no? Que no tiene, no, no tiene algo especÃ­fico.  SÃ­, totalmente de acuerdo.
+
+55:08 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No te preocupes, Giuseppe, que lo tenemos mapeado. Voy a coordenar con Dennis para ver dÃ³nde podemos poner esa observaciÃ³n, si es que es en interÃ©s o en quÃ© columna se les hace mÃ¡s fÃ¡cil para que lo puedan mapear.  SÃ­, puede ser dentro del proyecto, como si fuese un proyecto mÃ¡s.
+
+55:22 - Giuseppe Quiroz
+  Genial, genial, mÃ¡s fÃ¡cil. Claro, porque si ya la persona te dice callado, ahÃ­ en quÃ© parte tenemos vÃ­a no monumental.  Entonces ya tienes el dato, pero si no tienes ese dato esencial, al menos, de dÃ³nde quieres, ya de frente a los filtros, que va a ser al inicio, no va a ser al final.  Ponlo al inicio y en esa misma columna lo que va a ser Denise es filtrar los que no son los proyectos y ese globo ver por quÃ© estÃ¡n ya escribiendo, no hay de otras cosas, a ver, no?  ya no un tema de filtros y se acabÃ³, chau. No sale mÃ¡s. SÃ­, totalmente acuerdo.
+
+56:01 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No te preocupes, que vamos a trabajar en esos cambios. Muy bien, por el tiempo y por la visibilidad, porque esa informaciÃ³n es clave para volver a hacer el entrenamiento para que ya estÃ© mucho mÃ¡s alineado.  Listo, entonces asÃ­ quedamos.
+
+56:12 - Giuseppe Quiroz
+  Dale, Giuseppe, nos vemos, que tengas buen dÃ­a. Gracias, Santiago, hasta luego. Chao, chao.

@@ -1,0 +1,568 @@
+# Arquitectura TÃ©cnica - Fase 2 Cumbres
+## Documento de ImplementaciÃ³n para Desarrollo
+
+**Proyecto:** Sistema de Agentes IA para Cumbres Inmobiliaria  
+**Fase:** 2 - ExpansiÃ³n y OptimizaciÃ³n  
+**Desarrollador asignado:** Joustin  
+**Fecha:** Febrero 2026  
+**DuraciÃ³n:** 3 semanas  
+
+---
+
+## 1. Contexto y Estado Actual
+
+### 1.1 Stack TecnolÃ³gico
+| Componente | TecnologÃ­a | Rol |
+|------------|------------|-----|
+| Orquestador | n8n | AutomatizaciÃ³n de flujos |
+| Base de datos | Supabase (PostgreSQL) | Fuente de verdad |
+| Inbox | Chatwoot | CRM conversacional + gestiÃ³n de chats |
+| Canal principal | WhatsApp Cloud API | MensajerÃ­a |
+| Motor IA | OpenAI GPT-4.1-mini | Agente conversacional |
+| Memoria | Postgres Chat Memory (Supabase) | Historial de conversaciones |
+
+### 1.2 Flujos Existentes en ProducciÃ³n
+```
+â”œâ”€â”€ Agente_WP_Cumbres (core)      â†’ Agente principal WhatsApp
+â”œâ”€â”€ derivar_humano                 â†’ Handoff a asesores
+â”œâ”€â”€ crear_visita                   â†’ Agendamiento en Google Calendar
+â”œâ”€â”€ buscar_disponibilidad          â†’ Consulta de horarios
+â”œâ”€â”€ info_proyecto                  â†’ InformaciÃ³n de proyectos inmobiliarios
+â”œâ”€â”€ FAQs                           â†’ Preguntas frecuentes
+â”œâ”€â”€ seguimiento_1h                 â†’ Follow-up 1 hora âœ… (ya existe)
+â”œâ”€â”€ seguimiento_3h                 â†’ Follow-up 3 horas âœ… (ya existe)
+â”œâ”€â”€ seguimiento_22h                â†’ Follow-up 22 horas âœ… (ya existe)
+â”œâ”€â”€ CRM_Cumbres                    â†’ SincronizaciÃ³n con CRM
+â””â”€â”€ CRM_INTERN                     â†’ GestiÃ³n interna
+```
+
+### 1.3 Estados del Lead (Funnel Actual)
+```
+saludo â†’ registrado â†’ precalificado â†’ citado â†’ visitÃ³
+                   â†˜ solicito_atenciÃ³n (derivaciÃ³n manual)
+```
+
+### 1.4 Tabla Principal: `cumbres_clientes`
+Campos clave:
+- `id`, `session_id` (identificador Ãºnico = nÃºmero WhatsApp)
+- `Nombre_whatsapp`, `nombres`, `apellidos`, `nombre_completo`
+- `tipo_doc`, `dni_ce`, `email`, `numero`
+- `proyect` (proyecto de interÃ©s)
+- `asesor_asignado`, `asesor_celular`, `asesor_correo`
+- `fecha_visita`, `hora_visita`, `estado_visita`
+- `estado_cliente` (estado del funnel)
+- `chatwoot_conversation_id`
+- `last_message_at`
+- `seguimiento_1`, `seguimiento_2`, `seguimiento_3`
+
+**Nota:** Puedes apoyarte en queries SQL para consultar y filtrar datos de Supabase segÃºn las necesidades de cada flujo.
+
+---
+
+## 2. Alcance de Fase 2
+
+### 2.1 MÃ³dulos y Cronograma
+
+| Semana | MÃ³dulo | Responsable |
+|--------|--------|-------------|
+| **1** | OptimizaciÃ³n de prompt + Seguimientos post-24h + Tool reprogramar cita | Joustin |
+| **2** | Agentes Instagram + Facebook (API Meta + Chatwoot) | Joustin |
+| **3** | MensajerÃ­a proactiva desde formularios | Joustin + Santiago |
+
+### 2.2 Decisiones TÃ©cnicas Confirmadas
+- âœ… **IG/FB:** API oficial de Meta integrada con Chatwoot (NO Manychat)
+- âœ… **IG/FB:** SI pueden agendar visita directamente (no derivar a WP)
+- âœ… **Seguimientos post-24h:** 2 plantillas diferenciadas
+  - Una para **precalificados** â†’ empujar a visita
+  - Una para **registrados con proyecto** â†’ retomar interÃ©s
+- âœ… **Plantillas:** Santiago las crearÃ¡ en Meta (dinÃ¡micas con variable proyecto)
+- âœ… **Bot despuÃ©s de agendar:** NO apagar, mantener activo para dudas y reprogramaciÃ³n
+- âœ… **DuraciÃ³n:** 3 semanas mÃ¡ximo
+
+### 2.3 Fuera de Alcance
+- âŒ IntegraciÃ³n bidireccional con Esperant
+- âŒ Disparo desde nÃºmeros de asesores
+- âŒ ReactivaciÃ³n masiva de bases histÃ³ricas
+
+---
+
+## 3. SEMANA 1: OptimizaciÃ³n de Prompt + Seguimientos Post-24h
+
+### 3.1 Objetivo
+Optimizar el comportamiento de MIA basÃ¡ndose en anÃ¡lisis de conversaciones reales, implementar seguimientos fuera de ventana 24h, y crear herramienta de reprogramaciÃ³n de citas.
+
+---
+
+### 3.2 AnÃ¡lisis de Conversaciones
+
+Antes de optimizar, revisar conversaciones reales en Chatwoot para identificar:
+- Puntos donde MIA no responde bien
+- Preguntas frecuentes sin respuesta adecuada
+- Fricciones en el proceso de agendamiento
+- Momentos donde el lead abandona
+- Oportunidades de mejora en el tono/estilo
+
+**Entregable:** Documento con hallazgos y propuestas de mejora para validar con Santiago.
+
+---
+
+### 3.3 OptimizaciÃ³n de Prompt
+
+#### Cambio CrÃ­tico: NO apagar bot despuÃ©s de agendar
+Actualmente cuando se agenda una visita, se hace `bot = "off"`. 
+
+**Nuevo comportamiento:**
+- DespuÃ©s de agendar, MIA confirma la cita pero **NO apaga el bot**
+- MIA queda disponible para:
+  - Responder dudas adicionales
+  - Permitir reprogramaciÃ³n de cita
+  - Atender si el lead quiere agregar algo
+
+#### Ajustes al Prompt del Agente
+Incluir en el prompt:
+- Instrucciones para manejar reprogramaciones
+- Mantener conversaciÃ³n abierta post-agendamiento
+- Detectar intenciÃ³n de cancelar/reprogramar
+
+---
+
+### 3.4 Nueva Tool: `reprogramar_cita`
+
+#### PropÃ³sito
+Cuando el lead quiere cambiar fecha/hora de su visita, MIA debe poder:
+1. Cancelar el evento existente en Google Calendar
+2. Crear nuevo evento con la nueva fecha/hora
+3. Actualizar la informaciÃ³n en Supabase
+4. Notificar al asesor del cambio
+
+#### Flujo
+```
+Lead dice: "Necesito cambiar mi cita" / "No puedo el jueves"
+    â”‚
+    â–¼
+MIA detecta intenciÃ³n de reprogramar
+    â”‚
+    â–¼
+Llama tool reprogramar_cita con:
+    - session_id
+    - nueva_fecha
+    - nueva_hora
+    - motivo (opcional)
+    â”‚
+    â–¼
+Tool ejecuta:
+    â”‚
+    â”œâ”€â–º Buscar evento actual en Google Calendar (google_event_id)
+    â”‚
+    â”œâ”€â–º Cancelar/eliminar evento anterior
+    â”‚
+    â”œâ”€â–º Crear nuevo evento con nueva fecha/hora
+    â”‚
+    â”œâ”€â–º Actualizar Supabase:
+    â”‚   - fecha_visita = nueva_fecha
+    â”‚   - hora_visita = nueva_hora
+    â”‚   - google_event_id = nuevo_id
+    â”‚
+    â”œâ”€â–º Notificar al asesor (plantilla de reprogramaciÃ³n)
+    â”‚
+    â””â”€â–º Retornar confirmaciÃ³n a MIA
+    â”‚
+    â–¼
+MIA confirma al lead: "Listo, tu visita quedÃ³ para el [fecha] a las [hora]"
+```
+
+#### Campos que puede requerir
+```sql
+-- Verificar si existe, si no, agregar:
+ALTER TABLE cumbres_clientes 
+ADD COLUMN IF NOT EXISTS cita_reprogramada_count INTEGER DEFAULT 0;
+```
+
+---
+
+### 3.5 Seguimientos Post-24h (NUEVO)
+
+#### LÃ³gica de Negocio
+Dos plantillas diferenciadas, ambas con variable dinÃ¡mica de proyecto:
+
+| Estado | Plantilla | Objetivo |
+|--------|-----------|----------|
+| `precalificado` | `cumbres_seguimiento_precalificado` | Empujar directo a agendar visita |
+| `registrado` + proyecto | `cumbres_seguimiento_registrado` | Retomar interÃ©s, ofrecer mÃ¡s info |
+
+**Timing:** 48h despuÃ©s de Ãºltima interacciÃ³n  
+**MÃ¡ximo:** 2 seguimientos post-24h por lead
+
+**Nota:** Santiago crearÃ¡ y enviarÃ¡ las plantillas a Meta para aprobaciÃ³n.
+
+#### Plantilla 1: Precalificados
+```
+Hola {{1}}, soy MIA de Cumbres ðŸ¡
+
+Vi que estuviste interesado/a en {{2}} y ya tengo tus datos listos.
+
+Â¿QuÃ© dÃ­a te gustarÃ­a agendar tu visita? Tenemos horarios disponibles esta semana âœ¨
+
+Responde este mensaje y coordinamos.
+```
+- `{{1}}` = nombre
+- `{{2}}` = proyecto
+
+#### Plantilla 2: Registrados
+```
+Hola {{1}}, soy MIA de Cumbres ðŸ 
+
+Hace unos dÃ­as consultaste sobre {{2}} y me quedÃ© con ganas de ayudarte.
+
+Â¿Te gustarÃ­a que te cuente mÃ¡s sobre el proyecto o prefieres agendar una visita directamente?
+
+Estoy aquÃ­ para ayudarte ðŸ˜Š
+```
+
+#### Flujo: `seguimiento_post_24h`
+```
+Trigger: Schedule (diario, 10:00 AM)
+    â”‚
+    â–¼
+Consultar Supabase:
+    - Leads precalificados sin seguimiento post-24h
+    - Leads registrados con proyecto sin seguimiento post-24h
+    - Que hayan pasado mÃ¡s de 24h desde Ãºltima interacciÃ³n
+    â”‚
+    â–¼
+Para cada lead:
+    â”‚
+    â”œâ”€â–º Determinar quÃ© plantilla usar segÃºn estado
+    â”‚
+    â”œâ”€â–º Enviar plantilla vÃ­a WhatsApp Graph API
+    â”‚
+    â””â”€â–º Actualizar campo de seguimiento en Supabase
+```
+
+**Nota:** Puedes apoyarte en queries SQL para filtrar los leads segÃºn los criterios de tiempo y estado.
+
+#### Segundo Seguimiento (72h)
+Misma lÃ³gica aplicada a leads que ya recibieron primer seguimiento pero no respondieron.
+
+#### Campos Nuevos
+```sql
+ALTER TABLE cumbres_clientes 
+ADD COLUMN IF NOT EXISTS seguimiento_post_24h_1 TIMESTAMP,
+ADD COLUMN IF NOT EXISTS seguimiento_post_24h_2 TIMESTAMP;
+```
+
+---
+
+### 3.6 Checklist Semana 1
+
+| DÃ­a | Tareas |
+|-----|--------|
+| **1** | AnÃ¡lisis de conversaciones en Chatwoot, identificar puntos de mejora |
+| **2** | Propuesta de optimizaciÃ³n de prompt, ajuste: NO apagar bot post-agendamiento |
+| **3** | Crear tool `reprogramar_cita` (cancelar evento + crear nuevo + notificar) |
+| **4** | Crear flujo `seguimiento_post_24h` (precalificados + registrados) |
+| **5** | Testing completo, documentar hallazgos, entregar |
+
+#### Entregables Semana 1
+- [ ] Documento de anÃ¡lisis de conversaciones con hallazgos
+- [ ] Prompt optimizado (validado con Santiago)
+- [ ] Flujo `reprogramar_cita` funcionando
+- [ ] Flujo `seguimiento_post_24h` funcionando
+- [ ] Ajuste de `crear_visita` para NO apagar bot
+
+---
+
+## 4. SEMANA 2: Agentes Instagram + Facebook
+
+### 4.1 Objetivo
+Configurar canales IG y FB con API oficial de Meta, centralizados en Chatwoot, con capacidad de agendar visitas directamente (sin derivar a WhatsApp).
+
+### 4.2 Arquitectura
+
+```
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚                     META BUSINESS SUITE                          â”‚
+â”‚       Instagram Business  â”‚  Facebook Page  â”‚  WhatsApp Business â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                                    â”‚
+                              Graph API
+                                    â”‚
+                                    â–¼
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚                          CHATWOOT                                â”‚
+â”‚   Inbox WhatsApp  â”‚  Inbox Instagram (NUEVO)  â”‚  Inbox Facebook  â”‚
+â”‚                                                                  â”‚
+â”‚   Cada conversaciÃ³n tiene:                                       â”‚
+â”‚   - canal_origen (whatsapp/instagram/facebook)                  â”‚
+â”‚   - Etiquetas unificadas                                        â”‚
+â”‚   - bot: on/off                                                 â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                              â”‚ Webhook unificado
+                              â–¼
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚                          n8n                                     â”‚
+â”‚              Agente_Multicanal_Cumbres                          â”‚
+â”‚                                                                  â”‚
+â”‚   IF canal = 'whatsapp' â†’ lÃ³gica actual completa                â”‚
+â”‚   IF canal = 'instagram' â†’ lÃ³gica adaptada                      â”‚
+â”‚   IF canal = 'facebook' â†’ lÃ³gica adaptada                       â”‚
+â”‚                                                                  â”‚
+â”‚   TODOS LOS CANALES PUEDEN:                                     â”‚
+â”‚   âœ… Agendar visitas directamente                               â”‚
+â”‚   âœ… Notificar al asesor                                        â”‚
+â”‚   âœ… Usar las mismas tools                                      â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+```
+
+### 4.3 ConfiguraciÃ³n Chatwoot
+
+1. **Crear Inbox Instagram**
+   - Settings â†’ Inboxes â†’ Add â†’ Instagram
+   - Conectar con Meta Business Suite
+   
+2. **Crear Inbox Facebook**
+   - Settings â†’ Inboxes â†’ Add â†’ Facebook
+   - Conectar pÃ¡gina de Cumbres
+
+3. **Webhook**
+   - Ya unificado, agregar detecciÃ³n de canal
+
+### 4.4 DetecciÃ³n de Canal
+```javascript
+const inbox = $json.body.inbox;
+const canalMap = {
+  'Channel::Whatsapp': 'whatsapp',
+  'Channel::Instagram': 'instagram',
+  'Channel::FacebookPage': 'facebook'
+};
+const canal = canalMap[inbox?.channel?.type] || 'whatsapp';
+```
+
+### 4.5 Comportamiento por Canal
+
+| Funcionalidad | WhatsApp | Instagram | Facebook |
+|---------------|----------|-----------|----------|
+| Responder consultas | âœ… | âœ… | âœ… |
+| Enviar info proyecto | âœ… PDF | âœ… Link/Imagen | âœ… Link/Imagen |
+| Agendar visita | âœ… | âœ… | âœ… |
+| Reprogramar cita | âœ… | âœ… | âœ… |
+| Notificar asesor | âœ… | âœ… | âœ… |
+| Derivar a humano | âœ… | âœ… | âœ… |
+
+**Importante:** En IG/FB cuando se agenda visita:
+- Se crea el evento en Google Calendar normalmente
+- Se notifica al asesor con plantilla (igual que en WP)
+- El lead recibe confirmaciÃ³n en el mismo canal
+- NO se deriva a WhatsApp
+
+### 4.6 Adaptaciones para IG/FB
+
+#### EnvÃ­o de InformaciÃ³n
+- **WhatsApp:** Puede enviar PDFs directamente
+- **IG/FB:** Enviar link al brochure o imÃ¡genes del proyecto
+
+#### NotificaciÃ³n al Asesor
+Cuando se agenda desde IG/FB, la notificaciÃ³n al asesor debe incluir:
+- Canal de origen (Instagram/Facebook)
+- Datos del lead
+- Fecha y hora de la visita
+- Nota: "Lead contactÃ³ por [canal], puede que no tenga WhatsApp disponible"
+
+### 4.7 Campos Nuevos
+```sql
+ALTER TABLE cumbres_clientes 
+ADD COLUMN IF NOT EXISTS canal_origen VARCHAR(20) DEFAULT 'whatsapp',
+ADD COLUMN IF NOT EXISTS intentos_agendamiento INTEGER DEFAULT 0;
+```
+
+### 4.8 Checklist Semana 2
+
+| DÃ­a | Tareas |
+|-----|--------|
+| **1** | Configurar Inbox IG + FB en Chatwoot, verificar webhooks |
+| **2** | Modificar agente a multicanal, agregar detecciÃ³n de canal |
+| **3** | Adaptar envÃ­o de archivos (links en lugar de PDFs para IG/FB) |
+| **4** | Ajustar notificaciones al asesor para incluir canal de origen |
+| **5** | Testing completo en los 3 canales, documentar |
+
+#### Entregables Semana 2
+- [ ] Inbox Instagram configurado y recibiendo mensajes
+- [ ] Inbox Facebook configurado y recibiendo mensajes
+- [ ] Agente multicanal respondiendo en los 3 canales
+- [ ] Agendamiento funcionando desde IG y FB
+- [ ] Notificaciones al asesor con canal de origen
+
+---
+
+## 5. SEMANA 3: Proactivo desde Formularios
+
+### 5.1 Objetivo
+Cuando un lead llena formulario, MIA le envÃ­a automÃ¡ticamente un mensaje proactivo.
+
+**Desarrollo conjunto con Santiago**
+
+### 5.2 Flujo
+
+```
+Formulario (Meta/Google/Web)
+    â”‚
+    â–¼
+Webhook a n8n
+    â”‚
+    â–¼
+Parsear: nombre, telefono, proyecto (de UTM o campo)
+    â”‚
+    â–¼
+Crear/Actualizar en Supabase
+    â”‚
+    â–¼
+Asignar asesor (round robin)
+    â”‚
+    â–¼
+Enviar plantilla: "cumbres_bienvenida_formulario"
+    - {{1}} = nombre
+    - {{2}} = proyecto
+    â”‚
+    â–¼
+[Si responde] â†’ Flujo normal MIA
+[Si no responde] â†’ Entra a seguimientos <24h â†’ post-24h
+```
+
+### 5.3 Plantilla Proactiva
+**Nota:** Santiago crearÃ¡ esta plantilla en Meta.
+
+```
+Â¡Hola {{1}}! ðŸ‘‹
+
+Soy MIA, asesora virtual de Cumbres Inmobiliaria.
+
+Vi que te interesa {{2}} y me encantarÃ­a ayudarte a conocer mÃ¡s ðŸ¡
+
+Â¿Te cuento sobre las opciones disponibles o prefieres agendar una visita directamente?
+
+Â¡Estoy aquÃ­ para ayudarte! ðŸ˜Š
+```
+
+### 5.4 Estructura Webhook
+```json
+{
+  "nombre": "string",
+  "telefono": "+51...",
+  "proyecto": "string",
+  "origen": "meta_ads | google_ads | web"
+}
+```
+
+### 5.5 Campos Nuevos
+```sql
+ALTER TABLE cumbres_clientes 
+ADD COLUMN IF NOT EXISTS origen_lead VARCHAR(50),
+ADD COLUMN IF NOT EXISTS mensaje_proactivo_enviado BOOLEAN DEFAULT false,
+ADD COLUMN IF NOT EXISTS primer_contacto_at TIMESTAMP;
+```
+
+### 5.6 Checklist Semana 3
+
+| DÃ­a | Tareas |
+|-----|--------|
+| **1** | ReuniÃ³n con Giuseppe (webhook), definir estructura |
+| **2-3** | Desarrollar flujo `proactivo_formularios` |
+| **4** | Integrar con formularios reales |
+| **5** | Testing end-to-end, entrega |
+
+#### Entregables Semana 3
+- [ ] Flujo `proactivo_formularios` funcionando
+- [ ] Webhook integrado con formularios de Cumbres
+- [ ] Pruebas end-to-end completadas
+
+---
+
+## 6. Plantillas Meta
+
+**Santiago se encargarÃ¡ de crear y enviar las plantillas a Meta para aprobaciÃ³n.**
+
+| Nombre | Tipo | Variables | Semana |
+|--------|------|-----------|--------|
+| `cumbres_seguimiento_precalificado` | Utility | {{1}}=nombre, {{2}}=proyecto | 1 |
+| `cumbres_seguimiento_registrado` | Utility | {{1}}=nombre, {{2}}=proyecto | 1 |
+| `cumbres_bienvenida_formulario` | Marketing | {{1}}=nombre, {{2}}=proyecto | 3 |
+
+---
+
+## 7. Cronograma Visual
+
+```
+SEMANA 1                    SEMANA 2                    SEMANA 3
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€    â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€    â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+AnÃ¡lisis conversaciones     Config Chatwoot IG/FB       DiseÃ±o + Webhook
+        â†“                         â†“                           â†“
+OptimizaciÃ³n prompt         Agente Multicanal           Flujo Proactivo
+        â†“                         â†“                           â†“
+Tool reprogramar_cita       Agendamiento IG/FB          IntegraciÃ³n Forms
+        â†“                         â†“                           â†“
+Seguimientos post-24h       Notificaciones              Testing Final
+        â†“                         â†“                           â†“
+    ENTREGA                     ENTREGA                     ENTREGA
+```
+
+---
+
+## 8. Resumen de Tools
+
+### Tools Existentes
+- `info_proyecto` - InformaciÃ³n de proyectos
+- `crear_visita` - Agendar cita (MODIFICAR: no apagar bot)
+- `buscar_disponibilidad` - Horarios disponibles
+- `derivar_humano` - Handoff a asesor
+- `FAQs` - Preguntas frecuentes
+
+### Tools Nuevas (Semana 1)
+- `reprogramar_cita` - Cancelar cita anterior + crear nueva + notificar
+
+---
+
+## 9. Edge Cases CrÃ­ticos
+
+| Caso | SoluciÃ³n |
+|------|----------|
+| Lead quiere reprogramar pero no tiene cita | MIA indica que no hay cita y ofrece agendar |
+| Lead escribe mientras hay seguimiento programado | Verificar `last_message_at` antes de enviar |
+| Lead ya existe y llena nuevo formulario | Actualizar datos, NO duplicar |
+| NÃºmero rechazado por Meta | Marcar como `no_contactable` |
+| Lead agenda por IG pero luego escribe por WP | Detectar que ya tiene cita, ofrecer info adicional |
+
+---
+
+## 10. Credenciales Requeridas
+
+- [ ] WhatsApp Business API - Token + Phone Number ID
+- [ ] Meta Business Suite - Acceso admin (para IG/FB)
+- [ ] Chatwoot API - Access Token
+- [ ] Supabase - Connection string
+- [ ] Google Calendar - OAuth
+
+---
+
+## 11. Entregables Consolidados
+
+### Semana 1
+- [ ] Documento de anÃ¡lisis de conversaciones
+- [ ] Prompt optimizado (no apagar bot post-agendamiento)
+- [ ] Tool `reprogramar_cita` funcionando
+- [ ] Flujo `seguimiento_post_24h` funcionando
+
+### Semana 2
+- [ ] Inbox IG + FB en Chatwoot
+- [ ] Agente multicanal operativo
+- [ ] Agendamiento funcionando desde IG/FB
+- [ ] Notificaciones con canal de origen
+
+### Semana 3
+- [ ] Flujo `proactivo_formularios` funcionando
+- [ ] Webhook integrado
+- [ ] Pruebas end-to-end
+
+---
+
+*Documento v3.0 - VersiÃ³n final con correcciones*  
+*Dudas tÃ©cnicas â†’ Santiago*

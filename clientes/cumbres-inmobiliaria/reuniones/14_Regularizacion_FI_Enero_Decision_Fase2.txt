@@ -1,0 +1,193 @@
+Impromptu Google Meet Meeting - July 17
+VIEW RECORDING - 23 mins (No highlights): https://fathom.video/share/NkzcxtWEnh_qCLrP4EEncKJkXY7iKQZ7
+
+---
+
+0:00 - Lyonel Rodriguez Garcia
+  Thank Thank you.
+
+1:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Muy bien.
+
+1:00 - Lyonel Rodriguez Garcia
+  Â¿TÃº cÃ³mo vas? Â¿Se me escucha bien? SÃ­, sÃ­ te escucho. Â¿TÃº me escuchas?
+
+1:05 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, un poquito lejos, pero se te escucha bien. Voy a subir el volumen.
+
+1:12 - Lyonel Rodriguez Garcia
+  SÃ­, no te preocupes.
+
+1:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y ahora sÃ­, Â¿me escuchas mejor? Ahora sÃ­, mucho mejor.
+
+1:18 - Lyonel Rodriguez Garcia
+  Bueno. Â¿QuÃ© tal? Â¿CÃ³mo estÃ¡s? Bien, bien, avanzando varios temas porque estamos lanzando otros proyectos, asÃ­ que estamos corriendo con varios temas.  Me imagino, el de DÃ­a Monumental.
+
+1:28 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Creo que hay por ahÃ­, Â¿no? Villa Monumental, Chancay.
+
+1:33 - Lyonel Rodriguez Garcia
+  Genial, genial.
+
+1:34 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Muchos proyectos, y me imagino, deben ser sÃºper, sÃºper, sÃºper saturados. Oye, te comparto mi pantalla para mostrarte. A ver.  Mira, igual considero que definitivamente esta reuniÃ³n es preliminar, Â¿no? SÃ­.
+
+1:51 - Lyonel Rodriguez Garcia
+  Solo necesito saber quÃ© es lo que tienes, quÃ© necesitas, y yo para determinar quiÃ©n te tiene que entregar cada cosa, Â¿no?
+
+1:58 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ok, genial. A ver, dame un ratito. Eso. A ver, estÃ¡. Si es que me pudieras ayudar a acelerar ese proceso serÃ­a genial, pero de igual manera, ahÃ­ habÃ­a planteado unas tres reuniones con diferentes responsables para poder atender absolutamente todo, pero por ese lado, genial.
+
+2:42 - Lyonel Rodriguez Garcia
+  Y ya estÃ¡.
+
+2:44 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Genial. Pues aquÃ­ le voy a poner un poco mÃ¡s atractivo. Pero bueno, primero el video con respecto a, para revisar brevemente, para no tardarnos tanto, igual todo eso se lo voy a mandar por correo.  Cuando nos juntemos con todo el equipo vamos a hacer una presentaciÃ³n mucho mÃ¡s amigable apuntando a lo mÃ¡s importante, mÃ¡s que mucho texto, pero ya he dimensionado los objetivos y era bÃ¡sicamente lo que mencionÃ© en el contrato, Â¿no?  Bueno, vamos a gestionar en este caso tres proyectos. El Ãºnico canal que vamos a tener hasta ahora establecido es el de WhatsApp y lo que estamos buscando al final es que se lleve una recepciÃ³n, registro y seguimiento de los leads, su calificaciÃ³n, su nutriciÃ³n con constantes mensajes para mantener el interÃ©s, el agendamiento de visitas que va a ser el rol fundamental de la gente para que ustedes tengan la pelota en el punto penal y se patee Ãºnicamente, y la transferencia al equipo comercial en caso el cliente lo solicite.  Pues no, el agente deja de responder y se le deriva un mensaje a WhatsApp o a su asesor asignado o a todo el equipo comercial.  Eso va a depender, depende, bueno, dependiendo sobre todo del equipo de ventas. Bueno, nada, los puntos de dolor, lo que mÃ¡s que nadie de ustedes sabrÃ¡n, la falta de la automatizaciÃ³n y escenarizaciÃ³n de este proceso comercial.  Con la flexibilidad de la IA, ese riesgo que tenemos de perder leads por no responder al momento, el desgaste de los mismos asesores al tratar de gestionar tantos leads y demÃ¡s puntos de dolor que, bueno, ya lo vamos a especificar mÃ¡s adelante que ustedes tambiÃ©n conocen.  Â¿CuÃ¡l es el objetivo general que tenemos? Automatizar toda esta gestiÃ³n de leads, por lo menos de esos tres primeros proyectos, hacer que el lead mantenga el interÃ©s del momento en el que manda el primer mensaje hasta que se arrende la visita, que ese es el objetivo principal.  Y como objetivos especÃ­ficos, centralizar toda la informaciÃ³n de los leads que se estÃ¡n registrando, en este caso en un Google Sheets que me imagino que va a ser Dennis el que lo va a gestionar segÃºn lo que hemos conversado.  Implementar ese sistema de calificaciÃ³n inteligente que Ãºnicamente se agende a los leads que ya hayan pasado por ese proceso de preguntar el presupuesto, el piso, el nÃºmero de dormitorios, estÃ©n cualificados bÃ¡sicamente, calientes.  Nutrir al lead en tiempo real, automatizar el agendamiento de visitas, hacer la transferencia, monitorear los KPIs, etcÃ©tera, etcÃ©tera. Eso por el lado de los objetivos.  Ahora, por el lado El plan de acciÃ³n, para mostrarte brevemente, como habÃ­amos acordado son tres semanas, que de hecho ya estoy empezando a hacerlo desde ahora, aunque lo vamos a ser considerado a partir de la realizaciÃ³n del pago, que me imagino va a ser maÃ±ana, y si no en todo caso no te preocupes por eso, porque ya se estÃ¡ avanzando con el desarrollo.  En la primera semana va a ser la reuniÃ³n, la reuniÃ³n de descubrimiento que pretendÃ­a tener con los responsables, que eso lo voy a mostrar en el tercer documento, pero es bÃ¡sicamente juntarme con el equipo de ventas, juntarme con el equipo de marketing, si es posible los dos, si es que es posible separado mi problema, preguntarles la informaciÃ³n especÃ­fica para poder construir la soluciÃ³n, que eso lo vamos a ver en el tercer documento.  Luego serÃ­a ya la instalaciÃ³n, todo lo tÃ©cnico, la instalaciÃ³n de la infraestructura, el desarrollo de las herramientas, el agente, etcÃ©tera, etcÃ©tera.  Semana 2 vamos a seguir retocando la soluciÃ³n, optimizÃ¡ndola segÃºn sus apreciaciones, pero ya lo vamos a meter mÃ¡s en la cancha de ustedes, que lo pruebe el equipo de ventas y el equipo de marketing.  Iterar, que diga esto, que no diga esto, estÃ¡ perfecto, estÃ¡ agendando bien, va a ser iteraciÃ³n continua. Finalmente, la semana 3, ya vamos a seguir iterando con ustedes, pero ya de preferencia podrÃ­amos lanzarlo a producciÃ³n para probarlo en la cancha, que es lo mÃ¡s importante.  Cuando se ponga el bot en la cancha, es cuando mÃ¡s vamos a poder perfeccionar la soluciÃ³n. Perfeccionar entre comillas, porque un producto o servicio nunca van llegar a ser perfectos y en el momento que ese punto llega, es porque el producto o servicio ya estÃ¡ decayÃ©ndose.  AsÃ­ que nada, bÃ¡sicamente serÃ­a en 3 semanas, estos son los entregables que se va a hacer, el sistema, la documentaciÃ³n, la capacitaciÃ³n, los backups y el soporte post-plan segÃºn lo que habÃ­amos acordado.  Y esto que sÃ­ me parece importante, Leo, que va alineado, se ve bien, Â¿no? Porque ahÃ­ sale con las lÃ­neas un poquito rojas, pero se ve bien.
+
+6:49 - Lyonel Rodriguez Garcia
+  Ya, genial.
+
+6:50 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AquÃ­ bÃ¡sicamente esto es lo mÃ¡s importante, porque va a ser la informaciÃ³n que vamos a necesitar para poder construir la soluciÃ³n lo mÃ¡s alineada a lo que ustedes necesitan.  Mientras se tenga esta informaciÃ³n lo mÃ¡s especÃ­fico posible, menos iteraciones vamos a tener que hacer, es decir, menos tiempo perdido para seguir iterando.  Que nuevamente al final, mientras mÃ¡s iteremos, vamos a estar mÃ¡s cerca de que la gente funcione a la perfecciÃ³n.  Primero, por el lado del equipo de marketing, se va a necesitar una serie de preguntas, esto ya se lo voy a mandar a Giuseppe.  Por el lado de ventas, aquÃ­ ya va a ser un poco mÃ¡s de preguntas frecuentes, Â¿cuÃ¡l es la lista de precios?  AhÃ­ mandÃ© un formato de lista de precios que es increÃ­ble, que se respete para que la integraciÃ³n sea sÃºper sencilla.  Â¿QuiÃ©nes son los asesores comerciales o los cuales van a participar en esta asignaciÃ³n? Por ejemplo, si es que ya hay una asignaciÃ³n automÃ¡tica que ustedes manejen, una lÃ³gica de repente, disponibilidad o por orden, Â¿a quÃ© nÃºmero de WhatsApp el agente va a enviar la notificaciÃ³n de cuando un litagÃ©n de una visita?  Y demÃ¡s preguntas que ustedes ya van a poder regresar cuando mande este documento. Y finalmente estaba que habÃ­a, conseguirÃ¡ una...  UniÃ³n con marketing, ventas y tambiÃ©n TI para presentarles ya el proyecto final y nada, si quedara alguna duda, a resolverla ahÃ­ mismo y si nosotros llegÃ¡ramos con tal vez alguna duda de lo que falta, ahÃ­ mismo ustedes nos podrÃ­an ayudar.  Y bÃ¡sicamente eso, luego estoy revisando bastante el flujo que me mandaron, estaba ahÃ­ sÃºper interesante y lo he acoplado a un flujo de procesos en base a cÃ³mo va a funcionar el agente.  Â¿CÃ³mo va a funcionar el agente? BÃ¡sicamente, no sÃ© si manejan mÃ¡s canales de prospecciÃ³n, imagino que redes sociales esas principalmente y la pÃ¡gina web.  El punto y lo importante es que al final todo llegue al nÃºmero de WhatsApp, al nÃºmero de WhatsApp que se va a asignar.  Una vez que todos los leads recaigan en ese nÃºmero, empieza el flujo que ya conocemos, Â¿no? El saludo personalizado, la consulta para identificar quÃ© tipo de proyecto es.  Solo si esto acÃ¡ estÃ¡ en pendiente confirmaciÃ³n, ahÃ­ sÃ­ lo podemos ir viendo y quisiera saber en quÃ© momento se van a pedir los datos.  Antes de agendar la visita, antes de darle informaciÃ³n, despuÃ©s de dar cierta informaciÃ³n. Esa parte va a ser importante, pero en este caso lo he considerado solicitarlos despuÃ©s de asignar el tipo de proyecto al cual LITI estÃ© interesado.  Registrar la base, registrarlo en el CRM, que en este caso es lo que se acordÃ³ con Dennis. Gracias. Bueno, consultar las preferencias inmobiliarias, preguntas y respuestas, confirmar la recepciÃ³n de toda la informaciÃ³n, el agente va a estar constantemente diciendo, perfecto, ok, entiendo que estÃ¡s interesado en tal, tal, para que siga una conversaciÃ³n humana, por asÃ­ decirlo, no hay algÃºn tipo de fricciÃ³n por detectar que es una especie de char, porque es como estamos acostumbrados acÃ¡ en PerÃº cuando llamamos a un negocio.  El envÃ­o del material, sean brochures, videos, fotos, etcÃ©tera, y aquÃ­ empieza el tema del agendamiento, proponer fechas de visita en base a la disponibilidad que hay en el Google Calendar.  Vamos a ver si se agende una cita y el flujo irÃ­a normalmente por acÃ¡. Esto de aquÃ­ no estÃ¡ incluido en este primer servicio que estamos ofreciendo.  Eso fue lo que le mostramos como AppSell en las reuniones de descubrimiento, Â¿no? El seguimiento automÃ¡tico por WhatsApp. Por Gmail, oye, estos leads nos han respondido, la reactivaciÃ³n de los leads.  Todo eso ahÃ­ no estÃ¡ incluido, pero igual lo pongo acÃ¡ para dimensionar hacia dÃ³nde apuntarÃ­a un upsell para mejorar esta soluciÃ³n, que es, oye, agenda, visita.  Bueno, en este caso automÃ¡ticamente se deriva al equipo comercial porque ya estÃ¡ caliente, solo que no agendÃ³. Y en el caso agende, se confirma la cita, se registra en el calendario y se transfiere el asesor humano para hacer el respectivo registro de los KPIs, que de hecho ya se hizo acÃ¡ inicialmente con la data mÃ¡s importante.  Bueno, esto ya serÃ­a la gestiÃ³n de parte del equipo de marketing, que fue lo que se acordÃ³ con Dennis.  Y hasta ahora, no sÃ© si tengas alguna duda, esto es solo que le querÃ­a mostrar el dÃ­a de hoy, de repente le voy a comentar algo puntual.
+
+10:46 - Lyonel Rodriguez Garcia
+  Vamos a agregar a Dennis en cada una de las reuniones, Ã©l tiene que participar en todas, ya, para que le permita entender la operatividad y lo que Ã©l va a mostrar tambiÃ©n como producto.  Y segundo, entiendo que, bueno, ese flujo es, se va a abrir, se van a abrir varios puntos en cada uno de los Ã­tems, Â¿no?  En cada uno de los pasos.
+
+11:12 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Dependiendo de las reuniones, Es un flujo muy general. El flujo mÃ¡s tÃ©cnico no lo he traÃ­do para esa reuniÃ³n porque ahÃ­ sÃ­ va a requerir un poco mÃ¡s de tiempo.  AdemÃ¡s, creo que no era necesario hasta que lleguemos a las reuniones en las que vamos a solicitar la informaciÃ³n.  Ese es el flujo de procesos Ãºnicamente. Entonces, yo entiendo lo siguiente.
+
+11:29 - Lyonel Rodriguez Garcia
+  Necesitas una reuniÃ³n de marketing, una reuniÃ³n de ventas y luego una reuniÃ³n de producto terminado, Â¿no?
+
+11:38 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Exacto. Ya, ok.
+
+11:40 - Lyonel Rodriguez Garcia
+  Son tres reuniones. En la reuniÃ³n con marketing se va a ver el tipo de informaciÃ³n. En la reuniÃ³n con ventas se va a ver el...  Bueno, con marketing tambiÃ©n vas a ver el tema de la integraciÃ³n con redes sociales, me imagino, Â¿no?
+
+11:57 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Es que no, todo eso. Con ventas... Videos, no sÃ© si de repente, discÃºlpeme que te interrumpa, Lyon, perdÃ³n, el tema de los fotos, videos, brochures, Â¿con marketing o con ventas?  Igual, si cruza la informaciÃ³n no hay problema, lo consolido y ya estÃ¡, pero solo para tenerlo en cuenta.
+
+12:11 - Lyonel Rodriguez Garcia
+  Es con marketing, correcto, y con ventas vamos a ver la forma de evaluar a travÃ©s de las preguntas frecuentes, Â¿no?  A travÃ©s, con marketing seguro se va a ver, oye, Â¿quÃ© informaciÃ³n tienes para cuando el cliente pregunte? Los artes, los brochures, algÃºn video.  Exacto.
+
+12:29 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Este, correcto.
+
+12:31 - Lyonel Rodriguez Garcia
+  Y la captaciÃ³n de datos, Â¿no? De datos necesitas que pregunte al cliente. Y luego vienen las preguntas de identificaciÃ³n de necesidad y evaluaciÃ³n, que esa ya es con ventas.  Â¿QuÃ© preguntas hace ventas? Para que perfilemos al cliente y luego para saber si es que estÃ¡ dentro del estÃ¡ndar que es cliente de cumples, correcto.  Y luego viene, con ventas tambiÃ©n, el tipo de informaciÃ³n. Â¿CÃ³mo se va a brindar? Ok.
+
+13:02 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿QuÃ© es?
+
+13:03 - Lyonel Rodriguez Garcia
+  Oye, hasta aquÃ­. Â¿Vamos a dar precios promedios? Â¿Vamos a dar tipologÃ­as promedios? Â¿QuÃ© vamos a dar de informaciÃ³n? Para que luego se genere la cita, Â¿no?
+
+13:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro. Â¿Hasta quÃ© punto damos informaciÃ³n y quÃ© informaciÃ³n? Exacto, exacto.
+
+13:20 - Lyonel Rodriguez Garcia
+  Porque lo que no queremos, como te repito, es que cliente se lleve toda la info, la piensa en su casa y ya despuÃ©s se olvide y no venga, Â¿no?  Claro, me imagino. Ya, entonces, Â¿estas reuniones tienes fechas en mente?
+
+13:39 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Yo de hecho creerÃ­a que podrÃ­amos tener las dos la siguiente semana, de una vez para comenzar ya con toda la informaciÃ³n armada.
+  ACTION ITEM: Continue developing AI agent skeleton while awaiting info/meetings
+ - WATCH: https://fathom.video/share/NkzcxtWEnh_qCLrP4EEncKJkXY7iKQZ7?timestamp=824.9999  SentirÃ­a si te confirmo en ese momento el dÃ­a, pero de preferencia antes del jueves, las dos, dependiendo de su disponibilidad.  sea, de igual manera, se estÃ¡ desarrollando lo demÃ¡s, que es el esqueleto, por asÃ­ AsÃ­ que por ese lado no se preocupen.
+  ACTION ITEM: Send email w/ meeting requests (marketing, sales, final) + info requirements. Include tentative dates/times, needed info 3-4 days prior
+ - WATCH: https://fathom.video/share/NkzcxtWEnh_qCLrP4EEncKJkXY7iKQZ7?timestamp=840.9999  Pero de preferencia serÃ­a culminar ya con toda la extracciÃ³n de informaciÃ³n esta semana, que es para lo que se ha asignado justo en la primera semana de implementaciÃ³n.
+
+14:10 - Lyonel Rodriguez Garcia
+  Correcto. Entonces lo que necesitamos de tu parte es cuando ya tengas las fechas mÃ¡s claras, ahorita, o dÃ­a, maÃ±ana, no sÃ©, envÃ­es tu mensaje por correo indicando reuniÃ³n con marketing, fechas tentativas, tal fecha, horario tentativo, tal hora, y necesito esto.  Ok.
+
+14:29 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Que es lo que me estÃ¡s mostrando, Â¿no?
+
+14:31 - Lyonel Rodriguez Garcia
+  Ahorita. Perfecto. Y con ventas, igual, fecha tentativa, tal, tal, tal, y luego Ãºltima reuniÃ³n o reuniÃ³n de prueba, de iteraciÃ³n, tal fecha, horario, que de repente puede ser antes o despuÃ©s, ya eso lo vamos limando, Â¿no?
+
+14:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro. Â¿Sabes por quÃ© te menciono esto, Lio, por el tema de que tengo que evaluar la fecha? Porque yo ahorita, ahora, en ese momento, estoy pensando en enviar esos documentos que te he mostrado, para que ustedes vayan evaluando las preguntas, de tal manera que yo pueda recibir...  Esa informaciÃ³n antes de la reuniÃ³n y volver a hacer una iteraciÃ³n e ir a la reuniÃ³n y decirles, perfecto, acÃ¡, miren, falta esto, falta esto o de repente no falta nada.  Ese es el fin de la reuniÃ³n, no llegar ahÃ­ y reciÃ©n saber quÃ© es lo que necesitan, sino que ya se llegue con unas respuestas preliminares que es lo que me pueden enviar antes, Â¿no?
+
+15:19 - Lyonel Rodriguez Garcia
+  Correcto, entonces tÃº ahorita envÃ­as el mensaje, necesito para la reuniÃ³n de, perdÃ³n, perdÃ³n, necesitamos de marketing esta informaciÃ³n, me la envÃ­a y fecha tentativa, me la envÃ­a una semana antes o dÃ­as antes de la reuniÃ³n, no sÃ©, la reuniÃ³n tentativa y tal, la informaciÃ³n la necesitarÃ­a unos tres, cuatro dÃ­as antes, ya tÃº le pones la cantidad de dÃ­as.
+  ACTION ITEM: Coordinate w/ Giuseppe & sales team to review/respond to Santiago's info requests before meetings
+ - WATCH: https://fathom.video/share/NkzcxtWEnh_qCLrP4EEncKJkXY7iKQZ7?timestamp=937.9999  Igual con ventas, igual con Dennis, no sÃ© si necesitas algo de Dennis. SÃ­, totalmente, asÃ­ tendrÃ­a que estar. EstÃ¡ bien, si tÃº lo pasas de una vez, ya yo volteo maÃ±ana donde yo sepe y con quÃ© tipo de ventas me reÃºno previamente para ir procesando o dando respuesta a las interrogantes que tienes.  Y irte enviando la informaciÃ³n.
+
+16:03 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bravazo. Perfecto, Lio. Justo ahÃ­ estuve conversando con Yusebio por un tema de la verificaciÃ³n de meta. AhÃ­ me dijo que ya lo estÃ¡ gestionando.  AsÃ­ que por ese lado tambiÃ©n estamos teniendo una comunicaciÃ³n constante.
+
+16:15 - Lyonel Rodriguez Garcia
+  SÃ­, no tenÃ­amos esa verificaciÃ³n. Sin embargo, creo que sÃ­ es importante para darle tranquilidad al cliente, Â¿no?
+
+16:22 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Exacto. MÃ¡s que para el cliente, Lio es un tema de la seguridad del mismo cumbre. O te voy a ser sincero.  Si es que no se utiliza la API de meta, no hay otra opciÃ³n, por asÃ­ decirlo, legÃ­tima. La otra opciÃ³n serÃ­a utilizar una API no oficial.  Sin embargo, yo no la recomiendo para clientes. Â¿Por quÃ©? existe riesgo de baneo. Y lo Ãºltimo que necesitamos ahora es que el nÃºmero se lo banee.  O que no funciona. No es un trÃ¡mite. Lo importante es hacer la verificaciÃ³n de meta. Que me imagino tienen toda la informaciÃ³n para verificarlo sin problemas.  Es un paso a paso. AhÃ­ le mandÃ© unos videos a Yusebio en caso. Bueno, el Community Manager no sepa lo cual dudÃ³, pero ahÃ­ ya le he mandado un post para que se pueda guiar, pero por ese lado es sÃºper simple, solo te piden informaciÃ³n para verificar que el negocio existe y cuÃ¡les son las plantillas que normalmente utilizan para comunicarse con los clientes por WhatsApp, nada mÃ¡s.  Y se demora una semana mÃ¡s o menos en verificÃ¡rtelo, pero sÃ­, definitivamente es clave, es clave tener la verificaciÃ³n de meta.  Perfecto, perfecto.
+
+17:27 - Lyonel Rodriguez Garcia
+  Listo, entonces, yo creo que asÃ­ nomÃ¡s tienen que hacer reuniones, salvo las reuniones con el equipo de ventas, que sÃ­, seguro se va a demorar un poco mÃ¡s, Â¿no?
+
+17:37 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Genial, genial ahÃ­, Lio. MÃ¡s bien, bueno, eso lo voy a conversar con Giuseppe directamente, pero si pudieran hacerme alcance de la cuenta de Facebook, la de desarrollador que utilizan, serÃ­a clave para poder ver si es que la verificaciÃ³n se ha hecho de la manera en que se necesita para conectarse con la automÃ¡tica.  AhÃ­ se lo mandÃ©, pero igual lo voy a dejar en el correo como un punto importante para poder estar alineados.
+
+18:00 - Lyonel Rodriguez Garcia
+  EstÃ¡ bien, estÃ¡ bien, yo le, yo le, ahorita estÃ¡ grabando porque Giuseppe tambiÃ©n es nuestro TikToker oficial.
+
+18:07 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Genial, genial.
+
+18:09 - Lyonel Rodriguez Garcia
+  Entonces, entonces termina y yo le digo que por ahÃ­ te responde. Te vas a hacer un mensaje por la informaciÃ³n que vas, que nos vas a pedir para enviarte y comenzamos a trabajar maÃ±ana.
+
+18:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Genial, perfecto, Ligo, entonces ahÃ­ se lo enviÃ³ todo y ya le estamos andando con todo.
+
+18:22 - Lyonel Rodriguez Garcia
+  Por otro lado, como te comentÃ© ahora, tuve que compartir tu nÃºmero, creo que me diste el permiso y si no, ya igual lo hice.  No, tranquilo, hay ningÃºn problema, no hay ningÃºn problema.
+
+18:34 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Gracias, mÃ¡s bien, ahÃ­ me escribiÃ³ Fiorella, si mal no recuerdo. Fiorella, sÃ­.
+
+18:39 - Lyonel Rodriguez Garcia
+  Trata de darle la tranquilidad porque el Proel, ellos tienen dos tipos de productos. Uno que es el techo propio donde el pÃºblico objetivo es un poco informal hasta cierto punto, no tanto tampoco, pero los clientes son como que las seÃ±oras del mercado.  Y ellos tienen miedo que la IA te hable tan formal que no aguante porque a veces mis equipos de call center aguantan media hora hablando con un cliente ya porque le cuentas su vida y tantas cosas.
+
+19:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, al contrario, al contrario, yo creo que son mÃ¡s los humanos que no aguantarÃ­an a los otros humanos que la misma IA.  AsÃ­ que creo que eso se soluciona totalmente con la personalizaciÃ³n que brindamos.
+
+19:23 - Lyonel Rodriguez Garcia
+  Y una Ãºltima pregunta y esta de Chismoso, oye, si tu emprendimiento, este proyecto que presentaste en la U de Lima quedÃ³ tercero, Â¿eso quiere decir que los primeros quiÃ©nes fueron?  O sea, Â¿de quÃ© tratÃ³? No, tranqui.
+
+19:40 - Santiago Isaias Zavaleta Ayala (Ulima)
+  El primer puesto fue una startup que se encargaba de cobrar, o sea, de hacer recordatorios a los papÃ¡s para que paguen el colegio.  BÃ¡sicamente. Interesante, Â¿ah? Muy buena startup. A ver, no siempre el mejor proyecto de Ana, porque tengo que admitir que serÃ­an muchos buenos.  Pero bÃ¡sicamente una automatizaciÃ³n que se encargaba de... Recordar a los papÃ¡s que tienen que pagar cada cierto tiempo, con el nÃºmero de demora y demÃ¡s.  Interesante, muy buena startup. Y en el segundo lugar, que ahÃ­ sÃ­ no entendÃ­ cÃ³mo pasaron, pero bueno, era un equipo que se encargaba de vender activos de segunda mano a restaurantes.  Interesante tambiÃ©n.
+
+20:21 - Lyonel Rodriguez Garcia
+  Yo me lo veo muy bÃ¡sico, o lo que tÃº tienes es mÃ¡s superpotente, pero bueno, Â¿cuÃ¡les habrÃ­an sido los criterios?  No lo sÃ©.
+
+20:28 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, muchas gracias. ver, la arrogancia 100% humildad, yo opino lo mismo, pero bueno, sea, al ser algo nuevo, de repente algo tan complejo, como te decÃ­a, no es el mejor proyecto, de repente gana.  Pero bueno, es lo que hay, agradecido nomÃ¡s por la oportunidad y nada, es un hito nada mÃ¡s en este camino.
+
+20:45 - Lyonel Rodriguez Garcia
+  De todas maneras, esto va a crecer, vas a ver.
+
+20:48 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, sÃ­. Â¿TÃº, Lio, ahorita estÃ¡s en oficina?
+
+20:51 - Lyonel Rodriguez Garcia
+  Ahorita sÃ­, estoy avanzando, chamba, un montÃ³n. Pero bueno, mira, si logras tener algÃºn acercamiento... Y de repente hacer negocio con Enacor, ya tendrÃ­as dos puntos a favor para que se siga extendiendo tu producto en cumbres, en las demÃ¡s cumbres, Â¿no?  Como te digo, hay Cumbres PanamÃ¡, Cumbres Brasil.
+
+21:11 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, no, serÃ­a increÃ­ble. Ellos son socios nuestros. Ok.
+
+21:15 - Lyonel Rodriguez Garcia
+  Ya tuvimos una reuniÃ³n. Ellos son socios. Enacor invierte en los proyectos y la nueva, Â¿no? Como empresa, son socios, pero pasivos.  Solo invierte en capital. Claro. Y nosotros somos socios en ellos, en sus proyectos, que seguro vas a ver, Â¿no?  De la misma forma. claro. Entonces, Santiago, envÃ­as el mensaje y nos ponemos a chambiantes, Â¿no? Dale, LÃ­o.
+
+21:38 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Perfecto. En eso estamos, entonces.
+
+21:40 - Lyonel Rodriguez Garcia
+  SÃ­, yo te voy a dar una noticia no tan grata, pero es que nosotros tenÃ­amos solo hasta el miÃ©rcoles para presentar tu factura.  Entonces, posiblemente que salga para la prÃ³xima semana tu pago, pero va a salir ya, ya no hay ningÃºn tema.  Â¿Y tÃº crees que salga antes del viernes o son los viernes los Ãºnicos dÃ­as en los que lo pagan?  Creo que este viernes... SÃ­, son los viernes, pero voy a hablar con el gerente de finanzas para decirle, porque ellos tambiÃ©n se demoraron con la aprobaciÃ³n de este proyecto, asÃ­ que voy a, por ahÃ­ lo voy a agarrar, deja que lo vea maÃ±ana y le digo que sea.
+
+22:12 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SerÃ­a genial, serÃ­a sÃºper, sÃºper Ã³ptimo eso. SÃ­, no te preocupes, yo lo veo. Ya, cuÃ­date. Gracias, un abrazo, cuÃ­date.  Chao.
+
+22:30 - Lyonel Rodriguez Garcia
+  Chao.

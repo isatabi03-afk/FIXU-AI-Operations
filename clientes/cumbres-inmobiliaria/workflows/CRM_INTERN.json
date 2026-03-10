@@ -1,0 +1,842 @@
+{
+  "name": "seguimiento 22h",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0/30 7-23 * * *"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        -1952,
+        288
+      ],
+      "id": "b029bfd1-ca2b-4464-ad69-c1b0878027c5",
+      "name": "Schedule Trigger"
+    },
+    {
+      "parameters": {
+        "operation": "getAll",
+        "tableId": "contador_conn_message",
+        "returnAll": true
+      },
+      "type": "n8n-nodes-base.supabase",
+      "typeVersion": 1,
+      "position": [
+        -1680,
+        288
+      ],
+      "id": "a6bb0b2f-c4da-43e3-b1d7-8394b739134e",
+      "name": "obtener conteo",
+      "credentials": {
+        "supabaseApi": {
+          "id": "RXRdnxmJBoq8i2Pc",
+          "name": "Supabase account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "8e701a2e-0812-4046-beb8-6e6bda58f944",
+              "leftValue": "={{ $json.counter }}",
+              "rightValue": 250,
+              "operator": {
+                "type": "number",
+                "operation": "gt"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        -1488,
+        288
+      ],
+      "id": "74e3a7ad-5cab-4a4a-b243-74afb8562073",
+      "name": "If"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.splitInBatches",
+      "typeVersion": 3,
+      "position": [
+        -1056,
+        304
+      ],
+      "id": "161195c6-bfcc-4d4b-b039-0a3d411a5671",
+      "name": "Loop Over Items"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "=https://app-chatwoot.cumbres.space/api/v1/accounts/1/conversations/{{ $('Edit Fields').item.json.id_chatwt }}/messages",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "api_access_token",
+              "value": "6xFD9JcofwnJJpW6s2DXKsVt"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "content",
+              "value": "={{ $json.output }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1040,
+        208
+      ],
+      "id": "852744ee-c8d0-4ed0-b6fd-62d7d3ce610c",
+      "name": "Enviar Mensaje",
+      "alwaysOutputData": true,
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "tableId": "cumbres_clientes",
+        "matchType": "allFilters",
+        "filters": {
+          "conditions": [
+            {
+              "keyName": "id",
+              "condition": "eq",
+              "keyValue": "={{ $('Loop Over Items').item.json.id }}"
+            }
+          ]
+        },
+        "fieldsUi": {
+          "fieldValues": [
+            {
+              "fieldId": "seguimiento_3",
+              "fieldValue": "TRUE"
+            },
+            {
+              "fieldId": "ultimo_seguimiento_enviado_at",
+              "fieldValue": "={{ $now.toISO() }}"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.supabase",
+      "typeVersion": 1,
+      "position": [
+        1248,
+        208
+      ],
+      "id": "c9ab1933-5164-47bb-a3d5-0b03cfe7bf00",
+      "name": "actualizar seg_1",
+      "credentials": {
+        "supabaseApi": {
+          "id": "RXRdnxmJBoq8i2Pc",
+          "name": "Supabase account"
+        }
+      }
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [
+        1744,
+        384
+      ],
+      "id": "bb907329-9d3e-4c99-8ff6-69a25cca8053",
+      "name": "Wait",
+      "webhookId": "560f5e8d-3517-43a9-acf3-4ce666c6d7c6"
+    },
+    {
+      "parameters": {
+        "operation": "getAll",
+        "tableId": "contador_conn_message"
+      },
+      "type": "n8n-nodes-base.supabase",
+      "typeVersion": 1,
+      "position": [
+        1456,
+        208
+      ],
+      "id": "1133a998-7fed-458f-98c7-aa2fbaf872b2",
+      "name": "obtener conteo1",
+      "credentials": {
+        "supabaseApi": {
+          "id": "RXRdnxmJBoq8i2Pc",
+          "name": "Supabase account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "tableId": "contador_conn_message",
+        "matchType": "allFilters",
+        "filters": {
+          "conditions": [
+            {
+              "keyName": "id",
+              "condition": "eq",
+              "keyValue": "={{ $json.id }}"
+            }
+          ]
+        },
+        "fieldsUi": {
+          "fieldValues": [
+            {
+              "fieldId": "counter",
+              "fieldValue": "={{ $json.counter+1 }}"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.supabase",
+      "typeVersion": 1,
+      "position": [
+        1632,
+        208
+      ],
+      "id": "6dd8baf8-9e4f-4e91-9e9f-a018c28845d8",
+      "name": "conteo+1",
+      "credentials": {
+        "supabaseApi": {
+          "id": "RXRdnxmJBoq8i2Pc",
+          "name": "Supabase account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "getTimeBetweenDates",
+        "startDate": "={{ $('Loop Over Items').item.json.last_message_at }}",
+        "endDate": "={{ $json['currentDate  '] }}",
+        "units": [
+          "hour"
+        ],
+        "options": {}
+      },
+      "type": "n8n-nodes-base.dateTime",
+      "typeVersion": 2,
+      "position": [
+        -48,
+        320
+      ],
+      "id": "87805d94-d1cf-4671-85b8-efd8e9d74518",
+      "name": "Date & Time"
+    },
+    {
+      "parameters": {
+        "outputFieldName": "=currentDate  ",
+        "options": {
+          "timezone": "America/Lima"
+        }
+      },
+      "type": "n8n-nodes-base.dateTime",
+      "typeVersion": 2,
+      "position": [
+        -272,
+        320
+      ],
+      "id": "1f4c665e-9197-4b81-b824-16f4608b47aa",
+      "name": "FechaActual"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "c91491de-9ab6-4209-a431-65bf18986f05",
+              "leftValue": "={{ $json.timeDifference.hours }}",
+              "rightValue": 22,
+              "operator": {
+                "type": "number",
+                "operation": "gte"
+              }
+            },
+            {
+              "id": "1c6d3f60-fbd1-4378-ae2f-14595829e5fd",
+              "leftValue": "={{ $json.timeDifference.hours }}",
+              "rightValue": 24,
+              "operator": {
+                "type": "number",
+                "operation": "lt"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        192,
+        320
+      ],
+      "id": "d103a230-5551-4d5c-9eb2-c7bdde5e5b82",
+      "name": "If1"
+    },
+    {
+      "parameters": {
+        "content": "## obtener leads/gestionar counter\n1. Verificar cantidad de mensajes enviados\n2. Ver si son menos de 250\n3. obtener leads sin seguimiento de 22h (seguimiento_2=null)",
+        "height": 384,
+        "width": 640
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -1760,
+        144
+      ],
+      "id": "f6cf5a53-6dbc-4617-a973-6c5e08435dfc",
+      "name": "Sticky Note"
+    },
+    {
+      "parameters": {
+        "content": "## Verificar si pasaron mas de 22h\n1. obtener hora actual\n2. Hacer calculo de diferencia y devolver la diferencia en hora{\n3. si son mas de 22h sigue el flujo",
+        "height": 304,
+        "width": 672,
+        "color": 4
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -528,
+        176
+      ],
+      "id": "4e7d0591-5351-43e3-a629-0db3b5ffb685",
+      "name": "Sticky Note1"
+    },
+    {
+      "parameters": {
+        "content": "## Enviar mensaje y actualizar counter\n1. HTTP request para envÃ­o de mensaje en chatwoot\n2. actualizar columna de CRM con seguimiento_1=true\n3. Obtener numero actual de counter\n4. Counter +1 para actualizar el conteo\n",
+        "height": 320,
+        "width": 1072
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        176,
+        32
+      ],
+      "typeVersion": 1,
+      "id": "bda8d84d-1007-4ab3-8570-9b25e231ddf1",
+      "name": "Sticky Note2"
+    },
+    {
+      "parameters": {
+        "content": "## DEtener flujo\nSe detiene el envio de seguimientos cuando se alcanzan 250\n",
+        "height": 272
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -1168,
+        -192
+      ],
+      "typeVersion": 1,
+      "id": "b27349a7-50cf-4d81-ae8f-a9fb8b82b4c3",
+      "name": "Sticky Note3"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "gpt-5-mini",
+          "mode": "list",
+          "cachedResultName": "gpt-5-mini"
+        },
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        608,
+        368
+      ],
+      "id": "6e9bca92-d2c5-4bde-9172-99c330e8bb75",
+      "name": "OpenAI Chat Model",
+      "credentials": {
+        "openAiApi": {
+          "id": "7LdIunDSF1xpzEvQ",
+          "name": "Cumpres API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "sessionIdType": "customKey",
+        "sessionKey": "={{ $('Obtener leads sin seguimiento 3h1').first().json.session_id }}",
+        "tableName": "cumbres_memory",
+        "contextWindowLength": 10
+      },
+      "type": "@n8n/n8n-nodes-langchain.memoryPostgresChat",
+      "typeVersion": 1.3,
+      "position": [
+        752,
+        384
+      ],
+      "id": "c356efca-230a-4eff-b983-dab2527f3d24",
+      "name": "Postgres Chat Memory1",
+      "credentials": {
+        "postgres": {
+          "id": "0Ky28bw46hMZfxX6",
+          "name": "Postgres Supabase"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=# ROL\nEres MIA de Cumbres Inmobiliaria. Genera UN mensaje de seguimiento breve (mÃ¡x 50 palabras).\n\n# CONTEXTO ACTUAL\n- Nombre del lead: {{ $json.nombre }}\n- Proyecto de interÃ©s: {{ $json.proyecto }}\n- Estado actual: {{ $json.estado }}\n- Han pasado mas de 22 horas desde su Ãºltimo mensaje\n\n# HISTORIAL DE CONVERSACIÃ“N\n[El historial se carga automÃ¡ticamente vÃ­a Passport Memory]\n\n# TAREA\nGenera UN SOLO mensaje de seguimiento que:\n\n1.  Sea cÃ¡lido y natural (tono peruano, femenino)\n2.  Haga referencia especÃ­fica al proyecto o tema previo\n3.  Invite sutilmente a continuar (sin presionar)\n4.  Use emojis moderadamente (1-2 mÃ¡ximo)\n5.  NO repitas informaciÃ³n ya enviada\n6.  NO inventes precios, fechas o datos\n7.  NO seas genÃ©rico (\"Â¿Sigues interesado?\", \"Â¿Todo bien?\")\n8.  NO uses mÃ¡s de 50 palabras\n\n# LINEAMIENTOS POR ESTADO:\n\n**Si estado = \"saludo\":**\n\"Hola {nombre}, vi que te escribÃ­ hace unas horas sobre {zona/proyecto} ðŸ˜Š Â¿Te gustarÃ­a que continÃºe mostrÃ¡ndote opciones?\"\n\n**Si estado = \"registrado\":**\n\"Hola {nombre}, te habÃ­a enviado informaciÃ³n sobre {proyecto} ðŸ¢ Â¿QuedÃ³ alguna duda o te gustarÃ­a conocerlo en persona?\"\n\n**Si estado = \"precalificado\":**\n\"Hola {nombre}, completaste tus datos sobre {proyecto} âœ… Â¿Te gustarÃ­a que coordinemos una visita?\"\n\n# FORMATO DE SALIDA\nSolo el texto del mensaje. Sin introducciÃ³n, sin explicaciones, sin comillas.\n\n# EJEMPLOS:\n\n**Ejemplo 1:**\nContexto: {nombres: \"Juan\", proyecto: \"Villanova 5\", estado: \"saludo\"}\nSalida: Hola Juan, vi que te escribÃ­ hace unas horas sobre Villanova 5 ðŸ˜Š Â¿Te gustarÃ­a que continÃºe mostrÃ¡ndote opciones o coordinar una visita?\n\n**Ejemplo 2:**\nContexto: {nombres: \"MarÃ­a\", proyecto: \"AndalucÃ­a\", estado: \"registrado\"}\nSalida: MarÃ­a, te habÃ­a enviado informaciÃ³n sobre AndalucÃ­a en Trujillo ðŸ¢ Â¿Te quedÃ³ alguna duda o te gustarÃ­a agendar tu visita?\n\n**Ejemplo 3:**\nContexto: {nombres: \"Carlos\", proyecto: \"Villa del Puerto 1\", estado: \"precalificado\"}\nSalida: Carlos, tengo tus datos completos sobre Villa del Puerto 1 en Chancay âœ… Â¿QuÃ© dÃ­a te gustarÃ­a visitarlo?\n\n# NOTAS IMPORTANTES\n- Si no tienes los datos completos del lead, no lo menciones, solo haz el seguimiento con lo que tienes de manera humana y amable.\n- VarÃ­a la redacciÃ³n de los ejemplos proporcionados para generar el mensaje.",
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.2,
+      "position": [
+        736,
+        208
+      ],
+      "id": "e09449fa-2263-4869-8830-fc86357b6e04",
+      "name": "Generar mensaje"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [
+        -1104,
+        -64
+      ],
+      "id": "64407642-4ec3-413d-86e4-b21add1a3eec",
+      "name": "No Operation, do nothing"
+    },
+    {
+      "parameters": {
+        "operation": "getAll",
+        "tableId": "contador_conn_message",
+        "returnAll": true
+      },
+      "type": "n8n-nodes-base.supabase",
+      "typeVersion": 1,
+      "position": [
+        -816,
+        320
+      ],
+      "id": "f987d88d-8a67-45bd-a296-1e27a62372bc",
+      "name": "obtener conteo2",
+      "credentials": {
+        "supabaseApi": {
+          "id": "RXRdnxmJBoq8i2Pc",
+          "name": "Supabase account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "8e701a2e-0812-4046-beb8-6e6bda58f944",
+              "leftValue": "={{ $json.counter }}",
+              "rightValue": 250,
+              "operator": {
+                "type": "number",
+                "operation": "gt"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        -624,
+        320
+      ],
+      "id": "b4f72f09-ab95-4c94-b86f-594a46d18beb",
+      "name": "If2"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [
+        -416,
+        224
+      ],
+      "id": "680f1fd5-a0b9-45ba-9327-c4f10f426270",
+      "name": "No Operation, do nothing1"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [
+        -816,
+        160
+      ],
+      "id": "5b3eaeb7-0db0-4b7d-9dc5-101001ea3673",
+      "name": "No Operation, do nothing2"
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT *\nFROM cumbres_clientes\nWHERE estado_cliente IN ('saludo', 'registrado', 'precalificado')\n  AND CAST(NULLIF(chatwoot_conversation_id, '') AS INTEGER) > 0\n  AND seguimiento_1 = TRUE\n  AND seguimiento_2 = TRUE\n  AND seguimiento_3 IS NULL\n  AND last_message_at >= NOW() - INTERVAL '24 hours'\n  AND last_message_at <= NOW();\n",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        -1328,
+        304
+      ],
+      "id": "907133ae-04e6-4156-a54b-e9b86c99f432",
+      "name": "Obtener leads sin seguimiento 3h1",
+      "credentials": {
+        "postgres": {
+          "id": "0Ky28bw46hMZfxX6",
+          "name": "Postgres Supabase"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "40927e80-ddc7-416c-b993-ab878e414227",
+              "name": "nombre",
+              "value": "={{ $('Loop Over Items').item.json.nombres }}",
+              "type": "string"
+            },
+            {
+              "id": "2694b6d4-100f-4082-a15c-afcf553824ba",
+              "name": "proyecto",
+              "value": "={{ $('Loop Over Items').item.json.proyect }}",
+              "type": "string"
+            },
+            {
+              "id": "30ab35d5-7937-405b-897e-fa373760dd46",
+              "name": "estado",
+              "value": "={{ $('Loop Over Items').item.json.estado_cliente }}",
+              "type": "string"
+            },
+            {
+              "id": "b41fe6e9-21fc-41ce-ab34-29e16d558675",
+              "name": "id_chatwt",
+              "value": "={{ $('Loop Over Items').item.json.chatwoot_conversation_id }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        576,
+        208
+      ],
+      "id": "40f3e021-4cb1-4eb7-aa7d-fca599dc6efe",
+      "name": "Edit Fields"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "obtener conteo",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "obtener conteo": {
+      "main": [
+        [
+          {
+            "node": "If",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If": {
+      "main": [
+        [
+          {
+            "node": "No Operation, do nothing",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Obtener leads sin seguimiento 3h1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Loop Over Items": {
+      "main": [
+        [
+          {
+            "node": "No Operation, do nothing2",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "obtener conteo2",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Enviar Mensaje": {
+      "main": [
+        [
+          {
+            "node": "actualizar seg_1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "actualizar seg_1": {
+      "main": [
+        [
+          {
+            "node": "obtener conteo1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Wait": {
+      "main": [
+        [
+          {
+            "node": "Loop Over Items",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "obtener conteo1": {
+      "main": [
+        [
+          {
+            "node": "conteo+1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "conteo+1": {
+      "main": [
+        [
+          {
+            "node": "Wait",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Date & Time": {
+      "main": [
+        [
+          {
+            "node": "If1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "FechaActual": {
+      "main": [
+        [
+          {
+            "node": "Date & Time",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If1": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Wait",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Generar mensaje",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Postgres Chat Memory1": {
+      "ai_memory": [
+        [
+          {
+            "node": "Generar mensaje",
+            "type": "ai_memory",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Generar mensaje": {
+      "main": [
+        [
+          {
+            "node": "Enviar Mensaje",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "obtener conteo2": {
+      "main": [
+        [
+          {
+            "node": "If2",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If2": {
+      "main": [
+        [
+          {
+            "node": "No Operation, do nothing1",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "FechaActual",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Obtener leads sin seguimiento 3h1": {
+      "main": [
+        [
+          {
+            "node": "Loop Over Items",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "node": "Generar mensaje",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "a8619ce5-0ff0-40b3-be81-0ae636221671",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "a1482c693993e2c65a8d1b24a48eaf225c151d7521bd59633885d334e8df5f40"
+  },
+  "id": "1LHfdVOHWIDepIEO",
+  "tags": []
+}

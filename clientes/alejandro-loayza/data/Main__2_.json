@@ -1,0 +1,175 @@
+Impromptu Google Meet Meeting - January 09
+VIEW RECORDING - 30 mins (No highlights): https://fathom.video/share/AwsoWjygNyVeNL-QPekFSYGujiffDxqV
+
+---
+
+0:00 - Alejandro juan Loayza jordan
+  O sea, Santi ha venido al consultorio, que es el segundo piso en mi jato. Este... Puta, y a cinco cuadras en mi jato me han robado, aunque es...  Â¿Pero asÃ­ armado o bueno?
+
+0:11 - Santiago Isaias Zavaleta Ayala (Ulima)
+  No, sÃ­, doble tola, ya.
+
+0:13 - Alejandro juan Loayza jordan
+  El judo no le gana las tolas. Hasta una puede ser, pero allÃ¡ dos ya... No, no hay forma.
+
+0:21 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, la deseo, todo bien. Lo bueno es que... SÃ­, estoy tranquilo.
+
+0:27 - Alejandro juan Loayza jordan
+  Perfecto, dale.
+
+0:28 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, paso a compartir mi pantalla para aprovechar el tiempo de esta REU. BÃ¡sicamente, el objetivo principal de esta REU, es mostrarte cÃ³mo estamos avanzando en el proyecto, en quÃ© etapa estamos, quÃ© hemos hecho, quÃ© nos falta, y dar fechas tentativas.  Primero, y solo para volver a recalcar todo esto que te voy a mostrar, que estÃ¡ actualizado en tu centro de control.  AhÃ­, igual manera, te dejado un video tutorial al inicio para que sepas cÃ³mo usarlo en general es Notion. Creo que reciÃ©n le comentabas que lo conocÃ­as, sÃºper, sÃºper intuitivo, es una...  Vamos a documentar de inicio a fin todo lo que estamos haciendo. Primero cabe recalcar que con respecto a nuestra hoja de ruta, todo lo de la semana 1 ya se terminÃ³, vamos a check por ese lado, todo lo la semana 2 ya se terminÃ³, vamos bien por ese lado, todo lo de la semana 3 ya se terminÃ³, vamos bien por ese lado y tenemos unos cuantos pendientes de la semana 4.  Actualmente nosotros nos encontramos aproximadamente en la semana 5, Â¿ok? Â¿A quÃ© se debe que no hemos completado esos 3 pendientes?  BÃ¡sicamente esa pequeÃ±a figura que tuvimos con alinear el cÃ³digo Ãºnico con el nÃºmero de telÃ©fono, pero no es nada que represente ningÃºn problema con respecto al proyecto ya que el MVP va a estar listo para el miÃ©rcoles, si mal no recuerdo que se tiene la fecha administrativa de la siguiente semana, asÃ­ que por ese lado todo genial.  Para profundizar un poquito en lo que se ha hecho esta semana, hemos configurado ya RomyBot para el proceso, la manera en la que van a tener los clientes activos y hemos cargado tambiÃ©n bien todas las bases que nos habÃ­as compartido.  De hecho, aquÃ­ solo para aclarar un poquito, Ale, cÃ³mo va a ser esto cuando salgamos a producciÃ³n y eso va a ser parte de la segunda parte de esta regula, redundancia, para explicar quÃ© es lo que vamos a hacer.  Es que nosotros hemos moldeado a RomyBot para que solo tengamos que insertar las bases, Â¿ok? Todos los documentos que tÃº nos has compartido estÃ¡n geniales porque con esos documentos nosotros hemos podido moldear al robotsito de tal manera que eso le encaje, Â¿ok?  Â¿Por quÃ© hago Ã©nfasis en esto? Porque al parecer vamos a tener que, bueno, al parecer no, vamos a tener que tener acceso al 100% de tu drive.  No va a estar con que nos compartas la carpeta.
+
+2:35 - Alejandro juan Loayza jordan
+  Â¿A quÃ© hacer esto?
+
+2:36 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Eso es lo que vamos a dar despuÃ©s, pero Ãºnicamente para cerrar lo que queda pendiente esta semana. Eso por un lado y vamos a pasar al importante, al informe de esta semana.  Bueno, a mÃ­ siempre me gusta hablar bastante de lo que he escrito, asÃ­ que si es que escuchen y repito lo que estÃ¡ acÃ¡, es Ãºnicamente para dar claridad.  No metÃ­ el robot. Ah, es tu robot, sÃ­ puede ser. Para que veas, PEC, es el robot que se acuerda de todo.  Â¿Ese es Retai o Fathom? No, es Fathom.
+
+3:10 - Alejandro juan Loayza jordan
+  Estaba usando, estaba probando Granola tambiÃ©n.
+
+3:13 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Es, ese cumplea, es al final no hay mucha diferencia entre las ideas que graban en reuniÃ³n. BÃ¡sicamente es la integraciÃ³n que te permite con las aplicaciones.  SÃ­, sÃ­, sÃ­, sÃ­.
+
+3:24 - Alejandro juan Loayza jordan
+  Genial.
+
+3:24 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Bueno, como un resumen de lo que ha sido esta semana, o mejor dicho, el avance del proyecto Ale, el proyecto estÃ¡ avanzando sÃºper bien, no ningÃºn problema, seguimos alineados al alcance que hemos definido.  Hoy Romy Botia se encuentra construido a nivel funcional. El MVP, como te comentÃ©, se mantiene la fecha de entrega para el miÃ©rcoles y la siguiente semana.  Durante la implementaciÃ³n se han identificado dos ajustes principales, que son claves, necesarios para asegurar estabilidad, escalabilidad y correcta la integraciÃ³n del sistema de ajustes de lo que vamos a hablar.  Primero, la integraciÃ³n tÃ©cnica con Gmail y Calendar, Â¿ok? Hablando especÃ­ficamente, disculpame, aquÃ­ hay un error. Esto no es Gmail, esto es Drive.  Hablando especÃ­ficamente de la cuenta de Drive, Â¿quÃ© es lo que pasa? Nosotros cuando nos conectamos a Drive, podemos conectarnos de dos maneras.  No voy a ser tan tÃ©cnico. La manera fÃ¡cil y la manera mucho mÃ¡s completa. Â¿A quÃ© me refiero con esto?  De la manera fÃ¡cil yo puedo hacer unas cuantas cosas simples. Leer documentos, puedo extraer documentos, puedo, no puedo dedicar documentos, pero puedo copiar documentos, moverlos a otras carpetas, etc.  La segunda manera es en la que Drive nos dice, ok, te voy a dar mucho mÃ¡s control de esto.  Puedes subir archivos, puedes editarlos, puedes leerlos a profundidad, importaciones PDF, Excel, Google Docs. Simplemente tenemos mucha mÃ¡s facilidad. Â¿CuÃ¡l es la diferencia a nivel de acceso?  Es que para hacer esto sÃ­ necesitamos el acceso completo a tu Drive para poder conectarnos vÃ­a API, bÃ¡sicamente. Y por quÃ© es importante esto, y eso es lo que te quiero mostrar, es que esto va a permitir que RomyBot trabaje con informaciÃ³n real y actualizada.  No, esa base, que no vengo de la base, que estoy contigo, a con que es escaso la base, aquÃ­, las la mÃ¡s facilidades.  buscarlo acÃ¡. Es esta la tabla que nos compartiste. No hay nada de malo con el contenido. No hay ningÃºn problema.  El problema, entre comillas, es que estÃ¡ en un formato estilo tabla dinÃ¡mica, ok? No es una tabla dinÃ¡mica como tal, pero estÃ¡ en un formato tabla.  No estÃ¡ en un formato Excel como tal. Â¿QuÃ© es lo que ocurre con este formato? Eso es nuevamente un poco mÃ¡s tÃ©cnico, pero en resumidas cuentas, Romibot dice, oye, no puedo entrar en la tabla, no puedo entrar, no me permite sacar la informaciÃ³n.  Como un campo de fuerza que la estÃ¡ cubriendo. Â¿CÃ³mo se llama este campo de fuerza? El formato. Sin mÃ¡s.  Â¿QuÃ© es lo que hemos hecho ahora? Nosotros simplemente hemos agarrado todo esto, lo hemos copiado y lo hemos puesto en formato Google Sheets.  Sin mÃ¡s. Esto es Ãºnicamente para que le enseÃ±emos a RomyBot cÃ³mo se va a comunicar con la tabla.
+
+6:18 - Alonso Aguila
+  Pero Â¿quÃ© es lo que vamos a hacer? SÃ­, Alon, creo que tienes que enseÃ±ar algo bien. SÃ­, ahÃ­ lo que querÃ­a alinear contigo Alejandro y Santiago es...  Esa tabla Alejandro menciona que es un repositorio de citas. O cada persona que tiene una cita se va generando una fila adicional.  Por eso que pueden haber duplicados. Caso Diego Contreras. SÃ­. Â¿Cierto? Consulta Santiago. Â¿Nosotros necesitamos ese registro de citas o en realidad lo que nosotros necesitamos es un registro de clientes?
+
+6:50 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Nosotros lo que necesitamos es un registro de clientes y es justamente ese es el CRM que le damos para construir a Ale.  De hecho, este CRM, bueno, en fin, va a ser solo una fila Ãºnica. Pero pregunta, Â¿cuÃ¡l es la data que le dice que ese paciente estÃ¡ en vigencia todavÃ­a?
+
+7:09 - Alejandro juan Loayza jordan
+  SerÃ­a asÃ­. sea, porque supuestamente cada, digamos que si lo piensas como en arquitectura de datos, cada cita viene apareada acÃ¡ con, Â¿puedes bajar hasta la celda 1800?
+
+7:27 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, desde ahÃ­ estÃ¡. Por ejemplo, cada una de estas citas viene apareada, por ejemplo, estas del...
+
+7:35 - Alejandro juan Loayza jordan
+  la 1201, si no me equivoco. Esa 1200 estÃ¡ apareada con un tiempo de seguimiento. AhÃ­ dice, por ejemplo, el producto BAS CS, en la celda L1201.  Por ejemplo, esa persona tiene seguimiento. Y tiene X dÃ­as de monitoreo, que es la columna P, que estÃ¡ en...
+
+8:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  En base a en quÃ© fecha se le entregÃ³ su plan, que es el 23 del 12.
+
+8:03 - Alejandro juan Loayza jordan
+  Entonces tiene 17 dÃ­as hasta que vence su baile. Ese indicador existe asÃ­ porque cada asociado a cada cita viene el ofrecimiento de un periodo de seguimiento por WhatsApp.  Y yo te vendo una sesiÃ³n, un plan y X dÃ­as, pero estÃ¡n asociados a dicha cita. Entonces, Â¿cÃ³mo sabrÃ­a el robot si tengo solo filas por clientes?  Â¿CÃ³mo sabe quiÃ©n estÃ¡ en vigencia por el seguimiento?
+
+8:34 - Alonso Aguila
+  A ver, en estricto, dos cosas. Lo primero es, el seguimiento o el tratamiento del ciclo de vida de tu cliente deberÃ­a tratar segÃºn una tabla.
+
+8:45 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y tÃº deberÃ­as tener otra tabla que tenga el directorio completo, Â¿ok?
+
+8:50 - Alonso Aguila
+  Y que luego que en la tabla donde nosotros estemos haciÃ©ndole el seguimiento, o tÃº estÃ¡s haciendo el seguimiento a cada uno de tus clientes con las citas, esa tabla luego deberÃ­a...  A travÃ©s de una automatizaciÃ³n, modificar la tabla de directorio, que es prÃ¡cticamente el CRM que te menciona Santiago. Hoy por hoy entiendo, Sandy, que nosotros ya corrigiendo el formato podemos utilizar la tabla que nos ha pasado Alejandro sin mayor inconveniente, Â¿cierto?  SÃ­. Entonces igual, de cara a lo que habÃ­amos conversado Alejandro, habrÃ­a que revisar bien dentro de los procesos que tiene si es que...
+
+9:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿QuÃ© cortaste, Alonso? ...tual que tienes tÃº ya hacia futuras integraciones y manejo de mÃ¡s, Â¿es el correcto o podrÃ­amos mejorarlo en algo, no?  SÃ­, se te cortÃ³, pero entiendo que me dijiste que tendrÃ­amos que re-revisar procesos a ver cÃ³mo optimizar todo esto, Â¿no?
+
+9:47 - Alejandro juan Loayza jordan
+  SÃ­. De hecho, acÃ¡ Alonso y yo, de la forma menos homosexual posible, me entrego completamente a tus conocimientos tÃ¡ntricos.  Gracias. Gracias. Empresariales, porque yo no sÃ© nada de procesos, yo estoy en nutriciÃ³n, entonces, de hecho, ya habÃ­a hablado en algÃºn momento con un amigo mÃ­o que sÃ­ es un experto en procesos, que es ingenierÃ­a industrial, no tÃº, Santi, otro amigo, que tambiÃ©n es experto, y me dijo, puta, esta base de datos tiene un culo de problemas.  No, no, no lo dudo, por si acaso, no me ofendo tampoco, solo pedirÃ­a ahÃ­ un poco de guÃ­a para de repente poder hacerlo de una forma mÃ¡s compatible con el Ã³ptimo que ustedes quieran hacer, simplemente porque yo no sÃ© cÃ³mo hacerlo.  Al final yo puedo poner las manos y hacer las horas de trabajo, pero sÃ­ necesitarÃ­a un poquito de guÃ­a para poder saber cÃ³mo hacerlo.  Dale, no problema, para eso estamos.
+
+10:44 - Alonso Aguila
+  Dale, bacÃ¡n.
+
+10:44 - Alejandro juan Loayza jordan
+  Dale, total.
+
+10:46 - Santiago Isaias Zavaleta Ayala (Ulima)
+  De igual, Alon, ahÃ­ fÃ¡cil, le llevamos mÃ¡s el interno para dedicarle mÃ¡s tiempo a eso, pero lo que habÃ­a pensado para no cambiar la rueda totalmente ahora es manejar como lo estamos manejando ahora, con esta tabla maestra, pero en formato shift class.  Claramente, de igual manera, hacer un corte con los clientes que Alejandro ya tiene, pasarlos al CRM y ya en el transcurso de que vaya avanzando el proyecto y ya vamos a hacer esa automatizaciÃ³n para que en vivo vaya actualizando de cara a que la actualizaciÃ³n de esta base maestra.  SÃ­, porque Â¿sabes quÃ© pasa?
+
+11:15 - Alejandro juan Loayza jordan
+  Ahorita este documento literalmente es nuestro Task Manager tambiÃ©n, porque si tÃº ves, si bajaras un poquito, Â¿puedes bajarse la fecha de hoy si no mucho molestes?  SÃ­, hecho, vuelvo, vuelvo, Â¿eh? PerdÃ³n, este es el... Ya, por ejemplo, si ves la columna G, si subes un poquito vas a ver fechas de enero.  Ya, 24, bÃºscate el 9 si pudieras asÃ­. Un poquito mÃ¡s arriba, ligeramente mÃ¡s arriba. Ya, es eso estÃ¡ desactualizado, con razÃ³n.  Sube un poquito mÃ¡s. Un poquito mÃ¡s, un poquito. Ya, ahÃ­, ya, por ejemplo. Este es, literalmente es nuestro Task Manager, porque ves que en el...  En el 2 del 1 hay un punto de corte, Â¿no? Empiezan a aparecer en la columna O algunas fechas.  Literalmente es como que, ok, cada cita tambiÃ©n es nuestra orden, entre comillas, de se tiene que hacer un plan y es como se va gestionando, ok, no se ha entregado, ya se entregÃ³, cuÃ¡l estÃ¡ pendiente, una vez que se entrega se actualiza acÃ¡.  Entonces yo entiendo que, bajo lo que me dice Alonso, la base de datos deberÃ­a ser una guada mÃ¡s clean, que no sea un task manager.  Sin embargo, ahorita es asÃ­, entonces no hay problema en cambiarlo, hecho, si lo tenemos que reinventar, yo aprendo, pero tampoco me puedo quedar calato sin esto porque no tengo otra forma.
+
+12:39 - Alonso Aguila
+  No, tranquilo. No, ahorita estamos, ahorita como te dice Santiago, ya resolvimos el problema, solamente seguir el formato y va acÃ¡.  A medida que vayamos mejorando y haciendo mejora continua, veremos cÃ³mo deberÃ­a administrarse la informaciÃ³n de tu negocio. SÃ­, total.  bacÃ¡n, dale, Yo tengo que ir saliendo porque tengo una vaina de la chamba urgente, igual que cualquier cosa me avisen Santi y Alejandro, Â¿ya?  Dale, dale, dale, un abrazo, Chihuahua.
+
+13:09 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ya, perfecto, le hice lo preocupado.
+
+13:12 - Alejandro juan Loayza jordan
+  SÃ­, sÃ­, sÃ­.
+
+13:14 - Santiago Isaias Zavaleta Ayala (Ulima)
+  AhÃ­ solo para complementar a Ale, nuevamente me alineÃ© un poco a, primero, 100% de acuerdo con todo lo que mencionabas Ale y lo mencionas tÃº, y me alineÃ© un poquito con lo que te mencionaba al inicio del proyecto y antes de optar por el servicio.  Y es que al final nosotros mÃ¡s que proveedores somos procesos estratÃ©gicos. No es que te demos un robotcito, nos vamos, suelde con el robot.  al final es un acompaÃ±amiento continuo para que tÃº sigas creciendo y sigas escalando lo que ya tienes. AsÃ­ que por ese lado, tranquilo, no preocupes.  Me cambia. AsÃ­ que por otro lado, estructura base maestra, que es, bueno, lo que ya te contaba, Â¿no? La preparaciÃ³n a este CRM.  De hecho, aquÃ­ estamos 100% preparados. Ya estamos apuntando a unos meses mÃ¡s adelante, cuando ya encontremos la oportunidad de prepararnos a ese CRM, que de hecho lo vamos a ir construyendo en paralelo.  AsÃ­ que por eso no. No preocupes, vamos a ir trabajando con ese formato. AsÃ­ que bueno, aquÃ­ es un poquito, no de relleno, es informaciÃ³n importante, pero para no quitarte mÃ¡s tiempo todo lo que hemos conversado con Alonso, literalmente lo vas a mandar resumido en este punto.  Â¿CuÃ¡l es el estado actual del desarrollo? RomyBot construyÃ³ a nivel funcional, check, la lÃ³gica comercial ya estÃ¡, check, no estÃ¡ perfecta porque recordemos que la perfecciÃ³n, entre comillas, o llegar al comportamiento real de tus clientes va a ser cuando salga a la cancha y hacer las iteraciones en proceso.  Pero ya funciona, ya estÃ¡ vivo, ya acontece y entonces lo vamos a probar un ratito. Flujos principales implementados en N8N.  Yo no suelo ser muy tÃ©cnico en estas pruebas, pero como sÃ© que estÃ¡s generalizado con todo esto de la IGA, con todas las sintomatizaciones y comprendes lo que te voy a hablar, te quiero mostrar simplemente un poco de quÃ© es lo que se ha avanzado y con informaciÃ³n muy precisa, cero tÃ©cnicas.  Pero esta es la arquitectura actual de RomyBot, he puesto una pequeÃ±a imagen, de hecho, creo que no se ve bien, la vamos a ver en N8N mejor, pero este es bÃ¡sicamente...
+
+14:59 - Alejandro juan Loayza jordan
+  Tengo weer, hecho
+
+15:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Todo el flujo de Romero, que ese es el flujo principal, por asÃ­ decirlo.
+
+15:03 - Alejandro juan Loayza jordan
+  MaÃ±ana empiezo a aprender en 8N, de hecho. AsÃ­ es, de verdad. Y Base44, no sÃ© en quÃ© orden, pero tengo que armar mi propia malla, pero sÃ­, me lo he propuesto.  Genial, y es clave, la verdad es que va a ser muy, muy clave.
+
+15:15 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Mira, mÃ¡s allÃ¡ de, solo, perdÃ³n, me dar por la rama, claramente tÃº vas a poder cambiar sus automatizaciones y demÃ¡s, pero mÃ¡s allÃ¡ de que tÃº tengas esos conocimientos duros, esos hard skills para armar los flujos, el hecho de ya de conocer y saber y entender, te va a servir muchÃ­simo para poder delegar, seguir entendiendo quÃ© es lo que se puede hacer.  que, pucha, por ese lado, genial. Cualquier duda que tengas, ahÃ­ nos preguntas y te apoyamos en eso. Bueno, estos son bÃ¡sicamente ya como para ir tambiÃ©n calentÃ¡ndote a todo lo que es el Basic M8N.  AcÃ¡ hoy tenemos dos flujos. El flujo principal, que es donde estÃ¡ construida RomyBot. Nuevamente, toda esta explicaciÃ³n profunda de parte por parte se te va a dejar en documentaciÃ³n.  Por ese lado, no te preocupes. Pero RomyBot. RomyBot estÃ¡ aquÃ­, bÃ¡sicamente. Voy a mostrar cuÃ¡les son las tools que hoy en dÃ­a tiene RomyBot, que de hecho faltan unas o dos mÃ¡s.  Primero, la Fathom, que va a ser bÃ¡sicamente la base a donde va a ir RomyBot para poder leer cÃ³mo ustedes suelen responder a esas preguntas frecuentes que les hacen los clientes activos e inclusive los potenciales clientes.  Y el workflow, o mejor dicho, la tool, la herramienta de RomyBot para poder leer el plan de cada cliente.  Y aquÃ­ voy a alinearlo con lo que te mencionaba, con el acceso completo. Como despuÃ©s de todo el formato en el que estÃ¡n los planes, primero es un documento y luego dentro del documento es un PDF, esto no es un problema como tal, simplemente aquÃ­ entra algo tÃ©cnico, tenemos que entrar dentro del PDF y extraer toda la informaciÃ³n que saca para que RomyBot la lea.  AcÃ¡ sÃ­ me voy a poner un poquito mÃ¡s tÃ©cnico, pero despuÃ©s voy a explicarte un poco mÃ¡s por quÃ© los tokens de la IA pueden ser variables de cara al uso que le des.  Entonces, si RomyBot entra un plan y solo tiene que leer esto antes de dar una informaciÃ³n. Los tokens van a ser X, pero si RomyBot tiene que leer todo este PDF antes de responder, los tokens pueden ser 3X, no es una de que entender, es por eso que no hay un estÃ¡ndar como tal, dependiendo de la funcionalidad que haya.
+
+17:14 - Alejandro juan Loayza jordan
+  Pregunta sobre eso, Â¿existe forma de que la idea sepa, en base a la naturaleza de la pregunta, hasta dÃ³nde tenga que leer para que optimice el consumo de tokens?
+
+17:24 - Santiago Isaias Zavaleta Ayala (Ulima)
+  SÃ­, por supuesto que sÃ­. Y de hecho, eso es justo lo que te voy a mostrar ahora.
+
+17:29 - Alejandro juan Loayza jordan
+  Â¿CuÃ¡l es la herramienta?
+
+17:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Esta que voy a hacer, si no, la herramienta mÃ¡s importante, una de las mÃ¡s interesantes, en la que la construimos con Manu.  Y veamos esto como el martillito de RomyBot, o el serrucho de RomyBot, literalmente. Y esta es la herramienta que te estoy mostrando.  Â¿QuÃ© es lo que hace este workflow que estÃ¡ acÃ¡? Eso bÃ¡sicamente se activa cuando RomyBot tiene que responderle a un cliente activo.  Esto va a hacer que viaje al plan del cliente, si es que me pongo un poco mÃ¡s profundo. Entonces, oye, voy a la base maestra a revisar cÃ³mo se llama este cliente por el nÃºmero de telÃ©fono.  Una vez que llegue el difÃ­cil que el cliente es, agarro su nombre y apellido y me voy a buscar su PDF en el plan.  Encuentro su PDF en el plan y lo que vamos a hacer acÃ¡ es optimizar lo mÃ¡s que se pueda ese plan solo para tener el texto.  Claramente en el PDF hay formatos, hay espacios, hay colores, hay marcos, todo eso al final tÃ©cnicamente cuenta como tokens.  Lo que nosotros lo queremos hacer es reducir solo el texto, agarrar el texto y pasÃ¡rselo a RomyBot. Eso es lo que estamos haciendo en este club.  Entonces, para nosotros poder hacer eso, lo que necesitamos es el acceso completo a tu Google Drive. Â¿Por quÃ©? Â¿Por quÃ© pasa con N8N?  Ya no me voy a desviar de ando con lo tÃ©cnico. N8N solo te da funcionalidades muy limitadas con lo que tÃº puedes hacer en Drive.  Pero si ya nos conectamos vÃ­a a su API directa, podemos hacer lo que sea. Maravillas, literalmente. es por eso que necesitamos el acceso directo.  Volviendo. Al Notion, ya como para explicar un poquito lo que te he dicho de forma mÃ¡s amigable, lo que estamos viendo aquÃ­ es Romy Bot en funcionamiento real.  No es un esquema teÃ³rico, hoy es un flujo que recibe mensajes, los procesos y responde. Este flujo representa el nÃºcleo operativo del agente.  BÃ¡sicamente en porcentaje podrÃ­amos decir que ya tenemos el 60-65% de todo el proyecto. Â¿QuÃ© es lo que hace hoy Romy Bot?  Recibe mensajes de pacientes elites, interpreta texto, audio e imÃ¡genes, aplica un pensamiento base y reglas iniciales, mantiene coherencia usando la memoria y decide cÃ³mo responder o si debe escalar la situaciÃ³n.  Todo eso claramente ya estÃ¡ integrado en el prompting. Â¿QuÃ© significa esto en la operaciÃ³n diaria? Las respuestas ya van a seguir la lÃ³gica con que ustedes trabajan.  No van a depender de la improvisaciÃ³n porque ya va a tener las reglas definidas. El criterio se va a mantener constante, es decir, el sistema ya estÃ¡ preparado para crecer sin rehacer la base.  En tÃ©rminos simples, el agente ya estÃ¡ vivo, entrenando a nivel base y operando. Y esta es la segunda parte que te mostraba.  Este flujo es Herramienta que permite a RomyBot acceder al plan nutricional real de cada cliente antes de responder cualquier consulta.  Lo que te mencionaba, identifica al paciente, ubica su carpeta, su plan en Drive, lee el contenido completo en el PDF, extrae la informaciÃ³n relevante y usa ese contexto para responder de forma personalizada y alineada al plan.  Y creo que aquÃ­ estaba lo que tÃº me mencionabas. Oye, Santi, pero la IA no necesita leerse todo el PDF para responder a algo que estaba en la pÃ¡gina 1 del PDF, por supuesto.  Y es justamente que, obviamente, esto es mÃ¡s tÃ©cnico. En este flujo, lo que hemos hecho es agregarle un poquito de IA para que especÃ­ficamente se devuelva a RomyBot la informaciÃ³n del PDF que necesite.  Esto lo voy a traducir en tokens. RomyBot, si no tuviera esta herramienta con IA, cuando vaya a buscar el PDF del cliente, va a recibir 15.000 tokens.  Le estoy inventando un nÃºmero, 15.000 tokens. Pero ahora con esta aplicaciÃ³n que le hemos puesto, va a solo recibir 5.000 tokens porque...  Este flujo se gastÃ³ 2.000 tokens en revisar quÃ© era lo que tenÃ­amos que mandar. Es decir, que estamos optimizando el uso de la inteligencia artificial de la mejor manera, bÃ¡sicamente.
+
+21:11 - Alejandro juan Loayza jordan
+  Te voy a preguntar, no sÃ© si esta pregunta es, lo que es que al no ser tan conocedor de toda esta materia, me quedo un poco en lo abstracto.  Â¿CÃ³mo es que alimentas, o sea, la alimentaciÃ³n de RumiBot, entiendo que hay toda esta conexiÃ³n con N8N, pero Â¿el formato de entrenamiento como tal ya se ha dado o todavÃ­a esto es pura arquitectura?
+
+21:37 - Santiago Isaias Zavaleta Ayala (Ulima)
+  El formato de entrenamiento como tal. Porque yo, por ejemplo, si armo, muy bÃ¡sico, pero si yo tengo un GPT en Shaipri, hay un proceso de prompting para iterar, un proceso iterativo, Â¿no?
+
+21:52 - Alejandro juan Loayza jordan
+  Total. Ese proceso ya se vio, o sea, ya es lo que se va a dar cuando salga a cancha todavÃ­a.
+
+22:00 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Ese proceso, buena pregunta, ese proceso se va a dar cuando ya estÃ© el MVP y lo probemos juntos. Y tÃº me digas, Santi, esto estÃ¡ bien, esto no estÃ¡ bien, esto estÃ¡ genial, deberÃ­a seguir haciendo esto, bajemos la intensidad, que no le ponga el mÃ³vil.  Cuando tÃº me des todos esos insights, yo me voy a sentar con Manu y vamos a decir, ok, Manu, Romy estÃ¡ haciendo esto, pero tiene que hacer estas cosas de tal manera, entrÃ©nala.  Y es ahÃ­ donde vamos a entrar a mejorar el prompting, a cambiar ciertas cosas. DespuÃ©s de todo el entrenamiento, tiene su parte manual y su parte automÃ¡tica.  Al final no podemos dejarlo todo a la guÃ­a porque es imposible, Â¿no? Pero asÃ­ es como se hace normalmente un entrenamiento.  Recibimos los insights y en base a lo que tenemos, lo llevamos a la siguiente capa, sin mÃ¡s.
+
+22:42 - Alejandro juan Loayza jordan
+  Y esa parte de entrenamiento, Â¿cÃ³mo te explicarÃ© esto? Esas correcciones para buscar la precisiÃ³n, Â¿son a nivel de promptear duro o tiene que ver con modificaciones en la arquitectura o depende?  Buena pregunta tambiÃ©n, de las dos.
+
+22:57 - Santiago Isaias Zavaleta Ayala (Ulima)
+  MÃ¡s, yo dirÃ­a que es un 70%. 0. voy a dar un martillo un serrucho y una brÃºjula pero lo mÃ¡s importante es explicarle cÃ³mo tiene que usarlas cuando tiene que usarlas la brÃºjula le falta una cosita mÃ¡s le falta dos agarres mÃ¡s y ahora como tiene dos agarres rom y vos tiene que saber que tiene dos agarres y en quÃ© momento usar cada garra final es un juego entre los dos pero yo dirÃ­a que 70% pronto y espero que esa analogÃ­a no me haya pasado el fumÃ³n no para nada dejo aparte de esto estÃ¡ en la Ã©lima yo y ese ese planteo se da en la misma interfaz de xavi pt o cuando creas un bot se hace en una interfaz diferente mira ese planteo se da en el mismo n 8n ahora nosotros para todos los agentes  Depende de la funciÃ³n, Â¿no? Yo a veces utilizo Gemini para, por ejemplo, creo que para la habilidad que va a tener RomyBot de leer imÃ¡genes, creo que vamos a utilizar Gemini.  No la ha pedido OpenAI, sino Gemini, porque ahÃ­ Gemini es un poco mÃ¡s sÃ³lido con todas las imÃ¡genes. Â¿No se has probado Nano Banana?  No, pero me he metido un curso de marketing muy bueno de una comunidad cool.
+
+24:20 - Alejandro juan Loayza jordan
+  A mejor es 47 dÃ³lares que gasto una vida. Y usan bastante Nano Banana versus otros generadores. EstÃ¡ clave, estÃ¡ clave.
+
+24:29 - Santiago Isaias Zavaleta Ayala (Ulima)
+  El parecer vamos a utilizar Nano Banana para leer las imÃ¡genes. Igual es cuestiÃ³n de ver el comportamiento con la app de OpenAI, que de hecho es DPPT.  Pero te muestro un poquito cÃ³mo se resume eso. Primero, este es RomyBot y el agente de ella siempre tiene una secciÃ³n para elegirle el modelo de inteligencia artificial, el LLM.  El LLM que estÃ¡ usando RomyBot es el de OpenAI, ChatDPPT, sin mÃ¡s. Santi, Â¿quÃ© modelo estamos usando? Bueno, acÃ¡ estamos poniendo 4.1 para hacer las pruebas, pero siempre es ponerle el actualizado, el mejor modelo.  Y cabe recalcar que cada vez es el mejor modelo. Es mÃ¡s barato, asÃ­ que por ese lado no te preocupes, no es que sea mejor el modelo, claro.
+
+25:05 - Alejandro juan Loayza jordan
+  AsÃ­ que, Â¿y el prompting?
+
+25:06 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Â¿DÃ³nde va el prompting? El prompting va dentro de la gente que estÃ¡ especÃ­ficamente en el System S.
+
+25:12 - Alejandro juan Loayza jordan
+  Claro, va acÃ¡. Claro, eso es todo tu personal document. Exacto, y eso es lo que vamos iterando poco a poco.
+
+25:19 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Y ahÃ­ se complica la vaina, pues, Â¿no?
+
+25:20 - Alejandro juan Loayza jordan
+  Pero yo he hecho promptings y, de hecho, alguien me explicÃ³ que mis apps de cloud fallan a veces porque en vez de hacerlo iterativo, mi prompteo quiere que todo se dÃ© de una y que los LLMs no funcionan asÃ­.  Claro. Para que entiendan por quÃ© soy un huevÃ³n, y dije, ah, chucha. Es un arte el prompting, Â¿ah? De hecho, a mÃ­ me gusta bastante.
+
+25:41 - Santiago Isaias Zavaleta Ayala (Ulima)
+  PerdÃ³name que me haya hecho nada, me gusta hablar bastante de esto, no te quiero que te haga tiempo. Pero yo creo que el prompting al final, no, no creo, estoy seguro, el prompting es la habilidad del futuro.  El prompting combina dos cualidades diferentes. La cualidad, bueno, la capacidad de comunicarte y la capacidad de escribir. Yo creo que al final esas son dos habilidades.  Sabes que mientras tÃº las refuerzas mÃ¡s te vuelves mÃ¡s inteligente, por lo menos la comunicaciÃ³n es crucial. Yo creo que la comunicaciÃ³n es clave si quieres vender, si quieres transmitir.  Al final la comunicaciÃ³n, creo que hay una frase muy interesante que dice, todo lo que nosotros queremos conseguir en la vida lo tiene otra persona.  Un aumento, un puesto, un sueldo, una venta, lo que sea lo tiene otra persona. Y la mejor manera de poder conseguir eso es a travÃ©s de la comunicaciÃ³n.  Â¿Por quÃ© mencionas esto? Porque mientras mejor le comuniques a la inteligencia artificial, a detalle, lo que tÃº estÃ¡s buscando, vas a tener un mejor resultado.  Y la calidad de tu prompting, la calidad en la que tÃº des la instrucciÃ³n, va a determinar la calidad del resultado.  Es por eso que es un arte. Cada palabrita puede contar y al final esto es lo que le da al corazÃ³n a la soluciÃ³n de dÃ­a.  SÃ­, tal cual. Y bueno, Ale, bÃ¡sicamente eso es todo por el flujo. La verdad que solo como insight todo estÃ¡ sÃºper bien con el proyecto.  Alon me dice que no suele decir estas cosas en una llamada porque dice que me sube las expectativas a los clientes, pero igual yo lo menciono porque es lo que es.  Y Romy Bot sÃ­ estÃ¡ bien interesante y va a quedar sÃºper chÃ©vere porque va a ser como si tuvieras un fit en WhatsApp.  Va a ser algo similar. Y lo chÃ©vere es que va a ser un fit personalizado a como tÃº sueles hacerlo.  Y eso ahÃ­ creo que va a ser la ventaja que vas a tener. AsÃ­ que nada, eso ha sido todo por la reuniÃ³n.  No sÃ© si de repente tengas algÃºn comentario o algÃºn insight.
+
+27:28 - Alejandro juan Loayza jordan
+  SÃ­, justo el otro dÃ­a me estaba preguntando si estoy cada vez mÃ¡s que me intereso por la parte comercial.  Ahorita no le voy a nada a Alonso porque sÃ© que estÃ¡ volando y creo que igual no tengo capacidad operativa para ejecutar lo que Ã©l me podrÃ­a enseÃ±ar.  Pero la parte comercial y de CRM me parece fundamental para sacarle el jugo a la plata que yo invierto en Leeds.  SÃ­, porque estoy aprendiendo cada vez mÃ¡s que la gestiÃ³n del... Leads, no es solo hoy que me den mensajes y a ver a quiÃ©n le venden ahÃ­, no, hay toda una gestiÃ³n del embudo, del tiempo de respuesta, de cÃ³mo utilizar ese lead por el que ya pagaste, y cÃ³mo reciclarlo, etc, etc, etc, etc.  Entonces, en base a eso, yo te iba a preguntar, Â¿el CRM puede unificar las bandejas de todo? O sea, yo sÃ© que en teorÃ­a sÃ­, Pero no sÃ© si especÃ­ficamente este puede jalar mi TikTok y mi Instagram, que es algo que, pues, sÃ­ espero un CRM, Â¿no?
+
+28:30 - Santiago Isaias Zavaleta Ayala (Ulima)
+  Claro, mira, si es que me preguntas si los leads que te lleguen por TikTok o por WhatsApp o por Instagram pueden estar dentro de tu CRM, por supuesto que sÃ­.  La diferencia es que este, o no lo hemos contemplado con el alcance del proyecto como para decir que, oye, a partir de lunes todos los distintos viviendos por ahÃ­ van a estar, pero si hablas de la factibilidad y viabilidad, por supuesto que sÃ­.  De hecho, ese es el rol de un CRM, pues, Â¿no? Y creo que esa es la ventaja que nosotros tenemos, es que, primero, que nosotros estamos dando este CRM.  que creo que es muy bueno para lo que es, para el hecho de que es un proyecto de inteligencia artificial, pero si en algÃºn momento tÃº, por ejemplo, creo que me lo comentaste, oye Santi, yo estoy hablando por cÃ³mo, o por Toco Bromquero, o por otro CRM que al final es un CRM como tal, lo que va a darle la potencia a ese CRM es que Romy Bot estÃ© detrÃ¡s de ese CRM, actualizando, registrando, aÃ±adiendo, no solo de WhatsApp, sino de Instagram, sino de TikTok.  Pero que al final un CRM que no estÃ¡ automatizado ni estÃ© potenciado con inteligencia artificial es otro problema mÃ¡s.  Y que tÃº lo menciones es importante porque de hecho, al final nuestro core es inteligencia artificial comercial. Nuestro nicho principal es inmobiliaria, pero al final tenemos una arquitectura para todos nuestros clientes comerciales, Â¿no?  Y parte de lo que nosotros ofrecemos es eso. Las inmobiliarias tienen el mismo problema. Oye, yo ya invierto miles de dÃ³lares todos los meses por leads, pero primero mi equipo se satura, mi CRM se desordena y siento que no estoy sacando el retorno a mis campaÃ±as.  Y al final es en todos los negocios. Tengo invertir en campaÃ±as y multiplicarlo en ventas. Pero el problema que existe es que ya cÃ³mo gestiono esta gran bolsa que me estÃ¡ generando ahora mis campaÃ±as de manera correcta.
+
+30:09 - Alejandro juan Loayza jordan
+  Y esto es a travÃ©s de la inteligencia artificial. SÃ­, ves. Ya. No tengo mÃ¡s preguntas sobre el proyecto. De hecho, fÃ¡cil, te vale la pena cerrar el Fathom y yo...  O sea, si quieres, Â¿no? Si quieres, dÃ©jalo correctamente. Te va a proteger lo que no tiene nada que ver con...
